@@ -1,0 +1,2 @@
+job_characteristic_code	job_characteristic_text	display_level	selectable	sort_sequence
+000	All workers	0	T	1	

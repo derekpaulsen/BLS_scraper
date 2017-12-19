@@ -1,0 +1,12 @@
+sector_code	sector_title	display_level	selectable	sort_sequence
+
+1	All Civilian	1 	T	1    
+2	Private industry	1 	T	2    
+4	Private goods producing	2 	T	3    
+5	Private service producing	2 	T	4    
+6	Private manufacturing	2 	T	5    
+7	Private nonmanufacturing	2 	T	6    
+8	Private health services	2 	T	7    
+9	Private hospitals	2 	T	8    
+0	Private nursing homes	2 	T	9    
+3	State and local government	1 	T	10   

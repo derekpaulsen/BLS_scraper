@@ -1,0 +1,32 @@
+benefit_code	benefit_title	display_level	selectable	sort_sequence        
+
+10000	Total compensation	0 	T	1    
+20000	Wages and salaries	1 	T	2    
+30000	Total benefits	1 	T	3    
+40000	Paid leave	2 	T	4    
+50000	Supplemental pay	2 	T	9    
+60000	Insurance	2 	T	13   
+70000	Retirement and savings	2 	T	18   
+80000	Legally required benefits	2 	T	23   
+90000	Other benefits	2 	T	30   
+A0000	Vacation	3 	T	5    
+B0000	Holiday	3 	T	6    
+C0000	Sick	3 	T	7    
+D0000	Other	3 	T	8    
+E0000	Premium	3 	T	10   
+F0000	Shift differentials	3 	T	11   
+G0000	Nonproduction bonuses	3 	T	12   
+H0000	Life	3 	T	14   
+I0000	Health	3 	T	15   
+J0000	Short-term disability	3 	T	16   
+K0000	Long-term disability	3 	T	17   
+L0000	Pensions	4 	T	20   
+M0000	Savings and thrift	4 	T	22   
+P0000	Social Security	3 	T	24   
+Q0000	Old Age, Survivors, and Disability Income (OASDI)	4 	T	25   
+R0000	Medicare	4 	T	26   
+S0000	Federal unemployment insurance	3 	T	27   
+T0000	State unemployment insurance	3 	T	28   
+U0000	Workers' compensation	3 	T	29   
+V0000	Defined benefit	3 	T	19   
+W0000	Defined contribution	3 	T	21   

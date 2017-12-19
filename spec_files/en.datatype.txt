@@ -1,0 +1,9 @@
+Data Type	Title
+0	(Filler used when multiple datatypes are on the same record)
+1	All Employees
+2	Number of Establishments
+3	Total Wages (in thousands)
+4	Average Weekly Wage
+5	Average Annual Pay
+6	(Archaic -- formerly used for quarterly average monthly employment)
+

@@ -1,0 +1,3 @@
+Code	Frequnecy text
+R	Monthy
+S	Semi-Annual

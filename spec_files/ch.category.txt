@@ -1,0 +1,2140 @@
+case_code	category_code	category_text
+3	00X	All industry	
+3	AAX	Age group (<14 yrs.)	
+3	ABX	Age group (14 - 15 yrs.)	
+3	ACX	Age group (16 - 19 yrs.)	
+3	ADX	Age group (20 - 24 yrs.)	
+3	AEX	Age group (25 - 34 yrs.)	
+3	AFX	Age group (35 - 44 yrs.)	
+3	AGX	Age group (45 - 54 yrs.)	
+3	AHX	Age group (55 - 64 yrs.)	
+3	AIX	Age group (65+ yrs.)	
+3	AJX	Age group (not reported)	
+3	DAX	DAFW (1 day)	
+3	DBX	DAFW (2 days)	
+3	DCX	DAFW (3 - 5 days)	
+3	DDX	DAFW (6 - 10 days)	
+3	DEX	DAFW (11 - 20 days)	
+3	DFX	DAFW (21 - 30 days)	
+3	DGX	DAFW (31+ days)	
+3	EAX	Event (Total object contact)	
+3	EBX	Event (Struck by object)	
+3	ECX	Event (Struck against object)	
+3	EDX	Event (Caught in object)	
+3	EEX	Event (Highway accident)	
+3	EFX	Event (Assaults by animals)	
+3	EGX	Event (Fall to lower level)	
+3	EHX	Event (Fall at same level)	
+3	EIX	Event (Slips or trips)	
+3	EJX	Event (Total overexertion)	
+3	EKX	Event (Overexertion in lifting)	
+3	ELX	Event (Repetitive motion)	
+3	EMX	Event (Harmful exposure)	
+3	ENX	Event (Transportation accident)	
+3	ESX	Event (Fires and explosions)	
+3	ETX	Event (Total assaults)	
+3	EUX	Event (Assaults by person)	
+3	EXX	Event (All other assaults)	
+3	EYX	Event (All other events)	
+3	GFX	Gender (Female)	
+3	GMX	Gender (Male)	
+3	GNX	Gender (Not reported)	
+3	HAX	Hours (before shift began)	
+3	HBX	Hours (less than 1 hour)	
+3	HCX	Hours (1 -2 hours)	
+3	HDX	Hours (2 - 4 hours)	
+3	HEX	Hours (4 - 6 hours)	
+3	HFX	Hours (6 - 8 hours)	
+3	HGX	Hours (8 - 10 hours)	
+3	HHX	Hours (10 - 12 hours)	
+3	HIX	Hours (12 - 16 hours)	
+3	HJX	Hours (more than 16 hours)	
+3	HKX	Hours (not reported)	
+3	LAX	LOS (< 3 mos.)	
+3	LBX	LOS (3- 11 mos.)	
+3	LCX	LOS (1 - 5 yrs.)	
+3	LDX	LOS (5 yrs.)	
+3	LEX	LOS (Not reported)	
+3	MSD	Musculoskeletal disorders	
+3	NAX	Nature (Sprain, Strains)	
+3	NBX	Nature (Fractures)	
+3	NCX	Nature (Cuts, lacerations, punctures)	
+3	NDX	Nature (Cuts, lacerations)	
+3	NEX	Nature (Bruises)	
+3	NFX	Nature (Punctures)	
+3	NGX	Nature (Heat burns)	
+3	NHX	Nature (Chemical burns)	
+3	NIX	Nature (Amputations)	
+3	NJX	Nature (Carpal Tunnel Syndrome)	
+3	NKX	Nature (Tendonitis)	
+3	NLX	Nature (Total multiple trauma)	
+3	NMX	Nature (With fractures)	
+3	NNX	Nature (With sprains)	
+3	NOX	Nature (Total back pain, etc)	
+3	NPX	Nature (Back pain, hurt back only)	
+3	NTX	Nature (All other nature)	
+3	O10	Occupation - Management, Business, and Financial Occupations (11--13)	
+3	O20	Occupation - Professional and Related Occupations (15--29)	
+3	O30	Occupation - Service Occupations (31--39)	
+3	O41	Occupation - Sales and Related Occupations	
+3	O43	Occupation - Office and Administrative Support Occupations	
+3	O45	Occupation - Farming, Fishing, and Forestry Occupations	
+3	O47	Occupation - Construction and Extraction Occupations	
+3	O49	Occupation - Installation, Maintenance, and Repair Occupations	
+3	O51	Occupation - Production Occupations	
+3	O53	Occupation - Transportation and Material Moving Occupations	
+3	PAX	Part (Total head)	
+3	PBX	Part (Eyes)	
+3	PCX	Part (Neck)	
+3	PDX	Part (Total trunk)	
+3	PEX	Part (Back)	
+3	PFX	Part (Shoulder)	
+3	PGX	Part (Total upper)	
+3	PHX	Part (Finger)	
+3	PIX	Part (Hand)	
+3	PJX	Part (Wrist)	
+3	PKX	Part (Total lower)	
+3	PLX	Part (Knee)	
+3	PMX	Part (Foot, toe)	
+3	PNX	Part (Body systems)	
+3	POX	Part (Multiple)	
+3	PPX	Part (All other part)	
+3	PQX	Part (Arm)	
+3	PRX	Part (Ankle)	
+3	RAX	Race (American Indian or Alaska native)	
+3	RBX	Race (Asian)	
+3	RCX	Race (Black or African American)	
+3	RDX	Race (Hispanic or Latino)	
+3	REX	Race (Native Hawaiian or Other Pacific Islander)	
+3	RFX	Race (White)	
+3	RGX	Race (Not reported)	
+3	RHX	Race (Multi-race)	
+3	RIX	Race (Hispanic and other)	
+3	SAX	Source (Chemicals)	
+3	SBX	Source (Containers)	
+3	SCX	Source (Furniture)	
+3	SDX	Source (Machinery)	
+3	SEX	Source (Parts and materials)	
+3	SFX	Source (Worker motion)	
+3	SGX	Source (Floors)	
+3	SHX	Source (Hand tools)	
+3	SIX	Source (Vehicles)	
+3	SJX	Source (Health care patient)	
+3	SKX	Source (All other source)	
+3	SLX	Source (Person, injured or ill worker)	
+3	SMX	Source (Person, other than injured or ill worker)	
+3	TAX	Time (12:01AM - 4:00AM)	
+3	TBX	Time (4:01AM - 8:00AM)	
+3	TCX	Time (8:01AM - 12Noon)	
+3	TDX	Time (12:01PM - 4:00PM)	
+3	TEX	Time (4:01PM - 8:00PM)	
+3	TFX	Time (8:01PM - 12Midnight)	
+3	TGX	Time (not reported)	
+3	WAX	Weekday (Sunday)	
+3	WBX	Weekday (Monday)	
+3	WCX	Weekday (Tuesday)	
+3	WDX	Weekday (Wednesday)	
+3	WEX	Weekday (Thursday)	
+3	WFX	Weekday (Friday)	
+3	WGX	Weekday (Saturday)	
+A	00X	All industry	
+A	ADW	Industry - Administration and support and waste management	
+A	AER	Industry - Arts, entertainment, and recreation	
+A	AFH	Industry - Agriculture, forestry, fishing, and hunting	
+A	AFS	Industry - Accommodation and food services	
+A	CON	Industry - Construction	
+A	DAX	DAFW (1 day)	
+A	DBX	DAFW (2 days)	
+A	DCX	DAFW (3 - 5 days)	
+A	DDX	DAFW (6 - 10 days)	
+A	DEX	DAFW (11 - 20 days)	
+A	DFX	DAFW (21 - 30 days)	
+A	DGX	DAFW (31+ days)	
+A	EAX	Event (Total object contact)	
+A	EBX	Event (Struck by object)	
+A	ECX	Event (Struck against object)	
+A	EDS	Industry - Educational services	
+A	EDX	Event (Caught in object)	
+A	EEX	Event (Highway accident)	
+A	EFX	Event (Assaults by animals)	
+A	EGX	Event (Fall to lower level)	
+A	EHS	Industry - Education and health services	
+A	EHX	Event (Fall at same level)	
+A	EIX	Event (Slips or trips)	
+A	EJX	Event (Total overexertion)	
+A	EKX	Event (Overexertion in lifting)	
+A	ELX	Event (Repetitive motion)	
+A	EMX	Event (Harmful exposure)	
+A	ENX	Event (Transportation accident)	
+A	ESX	Event (Fires and explosions)	
+A	ETX	Event (Total assaults)	
+A	EUX	Event (Assaults by person)	
+A	EXX	Event (All other assaults)	
+A	EYX	Event (All other events)	
+A	FIA	Industry - Financial activities	
+A	FIN	Industry - Finance and insurance	
+A	GFX	Gender (Female)	
+A	GMX	Gender (Male)	
+A	GNX	Gender (Not reported)	
+A	GP1	Industry - Goods producing	
+A	HAS	Industry - Health care and social assistance	
+A	HAX	Hours (before shift began)	
+A	HBX	Hours (less than 1 hour)	
+A	HCX	Hours (1 -2 hours)	
+A	HDX	Hours (2 - 4 hours)	
+A	HEX	Hours (4 - 6 hours)	
+A	HFX	Hours (6 - 8 hours)	
+A	HGX	Hours (8 - 10 hours)	
+A	HHX	Hours (10 - 12 hours)	
+A	HIX	Hours (12 - 16 hours)	
+A	HJX	Hours (more than 16 hours)	
+A	HKX	Hours (not reported)	
+A	INF	Industry - Information	
+A	LAX	LOS (< 3 mos.)	
+A	LBX	LOS (3- 11 mos.)	
+A	LCX	LOS (1 - 5 yrs.)	
+A	LDX	LOS (5 yrs.)	
+A	LEH	Industry - Leisure and hospitality	
+A	LEX	LOS (Not reported)	
+A	MCE	Industry - Management of companies and enterprises	
+A	MFG	Industry - Manufacturing	
+A	MIN	Industry - Mining	
+A	MSD	Musculoskeletal disorders	
+A	NAX	Nature (Sprain, Strains)	
+A	NBX	Nature (Fractures)	
+A	NCX	Nature (Cuts, lacerations, punctures)	
+A	NDX	Nature (Cuts, lacerations)	
+A	NEX	Nature (Bruises)	
+A	NFX	Nature (Punctures)	
+A	NGX	Nature (Heat burns)	
+A	NHX	Nature (Chemical burns)	
+A	NIX	Nature (Amputations)	
+A	NJX	Nature (Carpal Tunnel Syndrome)	
+A	NKX	Nature (Tendonitis)	
+A	NLX	Nature (Total multiple trauma)	
+A	NMX	Nature (With fractures)	
+A	NNX	Nature (With sprains)	
+A	NOX	Nature (Total back pain, etc)	
+A	NPX	Nature (Back pain, hurt back only)	
+A	NRM	Industry - Natural resources	
+A	NTX	Nature (All other nature)	
+A	O10	Occupation - Management, Business, and Financial Occupations (11--13)	
+A	O20	Occupation - Professional and Related Occupations (15--29)	
+A	O30	Occupation - Service Occupations (31--39)	
+A	O41	Occupation - Sales and Related Occupations	
+A	O43	Occupation - Office and Administrative Support Occupations	
+A	O45	Occupation - Farming, Fishing, and Forestry Occupations	
+A	O47	Occupation - Construction and Extraction Occupations	
+A	O49	Occupation - Installation, Maintenance, and Repair Occupations	
+A	O51	Occupation - Production Occupations	
+A	O53	Occupation - Transportation and Material Moving Occupations	
+A	OTS	Industry - Other services	
+A	PAD	Public Administration	
+A	PAX	Part (Total head)	
+A	PBS	Industry - Professional business services	
+A	PBX	Part (Eyes)	
+A	PCX	Part (Neck)	
+A	PDX	Part (Total trunk)	
+A	PEX	Part (Back)	
+A	PFX	Part (Shoulder)	
+A	PGX	Part (Total upper)	
+A	PHX	Part (Finger)	
+A	PIX	Part (Hand)	
+A	PJX	Part (Wrist)	
+A	PKX	Part (Total lower)	
+A	PLX	Part (Knee)	
+A	PMX	Part (Foot, toe)	
+A	PNX	Part (Body systems)	
+A	POX	Part (Multiple)	
+A	PPX	Part (All other part)	
+A	PQX	Part (Arm)	
+A	PRX	Part (Ankle)	
+A	PST	Industry - Professional, scientific, and technical services	
+A	RAX	Race (American Indian or Alaska native)	
+A	RBX	Race (Asian)	
+A	RCX	Race (Black or African American)	
+A	RDX	Race (Hispanic or Latino)	
+A	RET	Industry - Retail trade	
+A	REX	Race (Native Hawaiian or Other Pacific Islander)	
+A	RFX	Race (White)	
+A	RGX	Race (Not reported)	
+A	RHX	Race (Multi-race)	
+A	RIX	Race (Hispanic and other)	
+A	RRL	Industry - Real estate and rental leasing	
+A	SAX	Source (Chemicals)	
+A	SBX	Source (Containers)	
+A	SCX	Source (Furniture)	
+A	SDX	Source (Machinery)	
+A	SEX	Source (Parts and materials)	
+A	SFX	Source (Worker motion)	
+A	SGX	Source (Floors)	
+A	SHX	Source (Hand tools)	
+A	SIX	Source (Vehicles)	
+A	SJX	Source (Health care patient)	
+A	SKX	Source (All other source)	
+A	SLX	Source (Person, injured or ill worker)	
+A	SMX	Source (Person, other than injured or ill worker)	
+A	SP1	Industry - Service producing	
+A	TAX	Time (12:01AM - 4:00AM)	
+A	TBX	Time (4:01AM - 8:00AM)	
+A	TCX	Time (8:01AM - 12Noon)	
+A	TDX	Time (12:01PM - 4:00PM)	
+A	TEX	Time (4:01PM - 8:00PM)	
+A	TFX	Time (8:01PM - 12Midnight)	
+A	TGX	Time (not reported)	
+A	TRW	Industry - Transportation and warehousing	
+A	TTU	Industry - Trade, transportation, and utilities	
+A	UTL	Industry - Utilities	
+A	WAX	Weekday (Sunday)	
+A	WBX	Weekday (Monday)	
+A	WCX	Weekday (Tuesday)	
+A	WDX	Weekday (Wednesday)	
+A	WEX	Weekday (Thursday)	
+A	WFX	Weekday (Friday)	
+A	WGX	Weekday (Saturday)	
+A	WHT	Industry - Wholesale trade	
+E	00X	All industry	
+E	AAX	Age group (<14 yrs.)	
+E	ABX	Age group (14 - 15 yrs.)	
+E	ACX	Age group (16 - 19 yrs.)	
+E	ADW	Industry - Administration and support and waste management	
+E	ADX	Age group (20 - 24 yrs.)	
+E	AER	Industry - Arts, entertainment, and recreation	
+E	AEX	Age group (25 - 34 yrs.)	
+E	AFH	Industry - Agriculture, forestry, fishing, and hunting	
+E	AFS	Industry - Accommodation and food services	
+E	AFX	Age group (35 - 44 yrs.)	
+E	AGX	Age group (45 - 54 yrs.)	
+E	AHX	Age group (55 - 64 yrs.)	
+E	AIX	Age group (65+ yrs.)	
+E	AJX	Age group (not reported)	
+E	CON	Industry - Construction	
+E	DAX	DAFW (1 day)	
+E	DBX	DAFW (2 days)	
+E	DCX	DAFW (3 - 5 days)	
+E	DDX	DAFW (6 - 10 days)	
+E	DEX	DAFW (11 - 20 days)	
+E	DFX	DAFW (21 - 30 days)	
+E	DGX	DAFW (31+ days)	
+E	EDS	Industry - Educational services	
+E	EHS	Industry - Education and health services	
+E	FIA	Industry - Financial activities	
+E	FIN	Industry - Finance and insurance	
+E	GFX	Gender (Female)	
+E	GMX	Gender (Male)	
+E	GNX	Gender (Not reported)	
+E	GP1	Industry - Goods producing	
+E	HAS	Industry - Health care and social assistance	
+E	HAX	Hours (before shift began)	
+E	HBX	Hours (less than 1 hour)	
+E	HCX	Hours (1 -2 hours)	
+E	HDX	Hours (2 - 4 hours)	
+E	HEX	Hours (4 - 6 hours)	
+E	HFX	Hours (6 - 8 hours)	
+E	HGX	Hours (8 - 10 hours)	
+E	HHX	Hours (10 - 12 hours)	
+E	HIX	Hours (12 - 16 hours)	
+E	HJX	Hours (more than 16 hours)	
+E	HKX	Hours (not reported)	
+E	INF	Industry - Information	
+E	LAX	LOS (< 3 mos.)	
+E	LBX	LOS (3- 11 mos.)	
+E	LCX	LOS (1 - 5 yrs.)	
+E	LDX	LOS (5 yrs.)	
+E	LEH	Industry - Leisure and hospitality	
+E	LEX	LOS (Not reported)	
+E	MCE	Industry - Management of companies and enterprises	
+E	MFG	Industry - Manufacturing	
+E	MIN	Industry - Mining	
+E	MSD	Musculoskeletal disorders	
+E	NAX	Nature (Sprain, Strains)	
+E	NBX	Nature (Fractures)	
+E	NCX	Nature (Cuts, lacerations, punctures)	
+E	NDX	Nature (Cuts, lacerations)	
+E	NEX	Nature (Bruises)	
+E	NFX	Nature (Punctures)	
+E	NGX	Nature (Heat burns)	
+E	NHX	Nature (Chemical burns)	
+E	NIX	Nature (Amputations)	
+E	NJX	Nature (Carpal Tunnel Syndrome)	
+E	NKX	Nature (Tendonitis)	
+E	NLX	Nature (Total multiple trauma)	
+E	NMX	Nature (With fractures)	
+E	NNX	Nature (With sprains)	
+E	NOX	Nature (Total back pain, etc)	
+E	NPX	Nature (Back pain, hurt back only)	
+E	NRM	Industry - Natural resources	
+E	NTX	Nature (All other nature)	
+E	O10	Occupation - Management, Business, and Financial Occupations (11--13)	
+E	O20	Occupation - Professional and Related Occupations (15--29)	
+E	O30	Occupation - Service Occupations (31--39)	
+E	O41	Occupation - Sales and Related Occupations	
+E	O43	Occupation - Office and Administrative Support Occupations	
+E	O45	Occupation - Farming, Fishing, and Forestry Occupations	
+E	O47	Occupation - Construction and Extraction Occupations	
+E	O49	Occupation - Installation, Maintenance, and Repair Occupations	
+E	O51	Occupation - Production Occupations	
+E	O53	Occupation - Transportation and Material Moving Occupations	
+E	OTS	Industry - Other services	
+E	PAD	Public Administration	
+E	PAX	Part (Total head)	
+E	PBS	Industry - Professional business services	
+E	PBX	Part (Eyes)	
+E	PCX	Part (Neck)	
+E	PDX	Part (Total trunk)	
+E	PEX	Part (Back)	
+E	PFX	Part (Shoulder)	
+E	PGX	Part (Total upper)	
+E	PHX	Part (Finger)	
+E	PIX	Part (Hand)	
+E	PJX	Part (Wrist)	
+E	PKX	Part (Total lower)	
+E	PLX	Part (Knee)	
+E	PMX	Part (Foot, toe)	
+E	PNX	Part (Body systems)	
+E	POX	Part (Multiple)	
+E	PPX	Part (All other part)	
+E	PQX	Part (Arm)	
+E	PRX	Part (Ankle)	
+E	PST	Industry - Professional, scientific, and technical services	
+E	RAX	Race (American Indian or Alaska native)	
+E	RBX	Race (Asian)	
+E	RCX	Race (Black or African American)	
+E	RDX	Race (Hispanic or Latino)	
+E	RET	Industry - Retail trade	
+E	REX	Race (Native Hawaiian or Other Pacific Islander)	
+E	RFX	Race (White)	
+E	RGX	Race (Not reported)	
+E	RHX	Race (Multi-race)	
+E	RIX	Race (Hispanic and other)	
+E	RRL	Industry - Real estate and rental leasing	
+E	SAX	Source (Chemicals)	
+E	SBX	Source (Containers)	
+E	SCX	Source (Furniture)	
+E	SDX	Source (Machinery)	
+E	SEX	Source (Parts and materials)	
+E	SFX	Source (Worker motion)	
+E	SGX	Source (Floors)	
+E	SHX	Source (Hand tools)	
+E	SIX	Source (Vehicles)	
+E	SJX	Source (Health care patient)	
+E	SKX	Source (All other source)	
+E	SLX	Source (Person, injured or ill worker)	
+E	SMX	Source (Person, other than injured or ill worker)	
+E	SP1	Industry - Service producing	
+E	TAX	Time (12:01AM - 4:00AM)	
+E	TBX	Time (4:01AM - 8:00AM)	
+E	TCX	Time (8:01AM - 12Noon)	
+E	TDX	Time (12:01PM - 4:00PM)	
+E	TEX	Time (4:01PM - 8:00PM)	
+E	TFX	Time (8:01PM - 12Midnight)	
+E	TGX	Time (not reported)	
+E	TRW	Industry - Transportation and warehousing	
+E	TTU	Industry - Trade, transportation, and utilities	
+E	UTL	Industry - Utilities	
+E	WAX	Weekday (Sunday)	
+E	WBX	Weekday (Monday)	
+E	WCX	Weekday (Tuesday)	
+E	WDX	Weekday (Wednesday)	
+E	WEX	Weekday (Thursday)	
+E	WFX	Weekday (Friday)	
+E	WGX	Weekday (Saturday)	
+E	WHT	Industry - Wholesale trade	
+G	00X	All industry	
+G	AAX	Age group (<14 yrs.)	
+G	ABX	Age group (14 - 15 yrs.)	
+G	ACX	Age group (16 - 19 yrs.)	
+G	ADW	Industry - Administration and support and waste management	
+G	ADX	Age group (20 - 24 yrs.)	
+G	AER	Industry - Arts, entertainment, and recreation	
+G	AEX	Age group (25 - 34 yrs.)	
+G	AFH	Industry - Agriculture, forestry, fishing, and hunting	
+G	AFS	Industry - Accommodation and food services	
+G	AFX	Age group (35 - 44 yrs.)	
+G	AGX	Age group (45 - 54 yrs.)	
+G	AHX	Age group (55 - 64 yrs.)	
+G	AIX	Age group (65+ yrs.)	
+G	AJX	Age group (not reported)	
+G	CON	Industry - Construction	
+G	DAX	DAFW (1 day)	
+G	DBX	DAFW (2 days)	
+G	DCX	DAFW (3 - 5 days)	
+G	DDX	DAFW (6 - 10 days)	
+G	DEX	DAFW (11 - 20 days)	
+G	DFX	DAFW (21 - 30 days)	
+G	DGX	DAFW (31+ days)	
+G	EAX	Event (Total object contact)	
+G	EBX	Event (Struck by object)	
+G	ECX	Event (Struck against object)	
+G	EDS	Industry - Educational services	
+G	EDX	Event (Caught in object)	
+G	EEX	Event (Highway accident)	
+G	EFX	Event (Assaults by animals)	
+G	EGX	Event (Fall to lower level)	
+G	EHS	Industry - Education and health services	
+G	EHX	Event (Fall at same level)	
+G	EIX	Event (Slips or trips)	
+G	EJX	Event (Total overexertion)	
+G	EKX	Event (Overexertion in lifting)	
+G	ELX	Event (Repetitive motion)	
+G	EMX	Event (Harmful exposure)	
+G	ENX	Event (Transportation accident)	
+G	ESX	Event (Fires and explosions)	
+G	ETX	Event (Total assaults)	
+G	EUX	Event (Assaults by person)	
+G	EXX	Event (All other assaults)	
+G	EYX	Event (All other events)	
+G	FIA	Industry - Financial activities	
+G	FIN	Industry - Finance and insurance	
+G	GP1	Industry - Goods producing	
+G	HAS	Industry - Health care and social assistance	
+G	HAX	Hours (before shift began)	
+G	HBX	Hours (less than 1 hour)	
+G	HCX	Hours (1 -2 hours)	
+G	HDX	Hours (2 - 4 hours)	
+G	HEX	Hours (4 - 6 hours)	
+G	HFX	Hours (6 - 8 hours)	
+G	HGX	Hours (8 - 10 hours)	
+G	HHX	Hours (10 - 12 hours)	
+G	HIX	Hours (12 - 16 hours)	
+G	HJX	Hours (more than 16 hours)	
+G	HKX	Hours (not reported)	
+G	INF	Industry - Information	
+G	LAX	LOS (< 3 mos.)	
+G	LBX	LOS (3- 11 mos.)	
+G	LCX	LOS (1 - 5 yrs.)	
+G	LDX	LOS (5 yrs.)	
+G	LEH	Industry - Leisure and hospitality	
+G	LEX	LOS (Not reported)	
+G	MCE	Industry - Management of companies and enterprises	
+G	MFG	Industry - Manufacturing	
+G	MIN	Industry - Mining	
+G	MSD	Musculoskeletal disorders	
+G	NAX	Nature (Sprain, Strains)	
+G	NBX	Nature (Fractures)	
+G	NCX	Nature (Cuts, lacerations, punctures)	
+G	NDX	Nature (Cuts, lacerations)	
+G	NEX	Nature (Bruises)	
+G	NFX	Nature (Punctures)	
+G	NGX	Nature (Heat burns)	
+G	NHX	Nature (Chemical burns)	
+G	NIX	Nature (Amputations)	
+G	NJX	Nature (Carpal Tunnel Syndrome)	
+G	NKX	Nature (Tendonitis)	
+G	NLX	Nature (Total multiple trauma)	
+G	NMX	Nature (With fractures)	
+G	NNX	Nature (With sprains)	
+G	NOX	Nature (Total back pain, etc)	
+G	NPX	Nature (Back pain, hurt back only)	
+G	NRM	Industry - Natural resources	
+G	NTX	Nature (All other nature)	
+G	O10	Occupation - Management, Business, and Financial Occupations (11--13)	
+G	O20	Occupation - Professional and Related Occupations (15--29)	
+G	O30	Occupation - Service Occupations (31--39)	
+G	O41	Occupation - Sales and Related Occupations	
+G	O43	Occupation - Office and Administrative Support Occupations	
+G	O45	Occupation - Farming, Fishing, and Forestry Occupations	
+G	O47	Occupation - Construction and Extraction Occupations	
+G	O49	Occupation - Installation, Maintenance, and Repair Occupations	
+G	O51	Occupation - Production Occupations	
+G	O53	Occupation - Transportation and Material Moving Occupations	
+G	OTS	Industry - Other services	
+G	PAD	Public Administration	
+G	PAX	Part (Total head)	
+G	PBS	Industry - Professional business services	
+G	PBX	Part (Eyes)	
+G	PCX	Part (Neck)	
+G	PDX	Part (Total trunk)	
+G	PEX	Part (Back)	
+G	PFX	Part (Shoulder)	
+G	PGX	Part (Total upper)	
+G	PHX	Part (Finger)	
+G	PIX	Part (Hand)	
+G	PJX	Part (Wrist)	
+G	PKX	Part (Total lower)	
+G	PLX	Part (Knee)	
+G	PMX	Part (Foot, toe)	
+G	PNX	Part (Body systems)	
+G	POX	Part (Multiple)	
+G	PPX	Part (All other part)	
+G	PQX	Part (Arm)	
+G	PRX	Part (Ankle)	
+G	PST	Industry - Professional, scientific, and technical services	
+G	RAX	Race (American Indian or Alaska native)	
+G	RBX	Race (Asian)	
+G	RCX	Race (Black or African American)	
+G	RDX	Race (Hispanic or Latino)	
+G	RET	Industry - Retail trade	
+G	REX	Race (Native Hawaiian or Other Pacific Islander)	
+G	RFX	Race (White)	
+G	RGX	Race (Not reported)	
+G	RHX	Race (Multi-race)	
+G	RIX	Race (Hispanic and other)	
+G	RRL	Industry - Real estate and rental leasing	
+G	SAX	Source (Chemicals)	
+G	SBX	Source (Containers)	
+G	SCX	Source (Furniture)	
+G	SDX	Source (Machinery)	
+G	SEX	Source (Parts and materials)	
+G	SFX	Source (Worker motion)	
+G	SGX	Source (Floors)	
+G	SHX	Source (Hand tools)	
+G	SIX	Source (Vehicles)	
+G	SJX	Source (Health care patient)	
+G	SKX	Source (All other source)	
+G	SLX	Source (Person, injured or ill worker)	
+G	SMX	Source (Person, other than injured or ill worker)	
+G	SP1	Industry - Service producing	
+G	TAX	Time (12:01AM - 4:00AM)	
+G	TBX	Time (4:01AM - 8:00AM)	
+G	TCX	Time (8:01AM - 12Noon)	
+G	TDX	Time (12:01PM - 4:00PM)	
+G	TEX	Time (4:01PM - 8:00PM)	
+G	TFX	Time (8:01PM - 12Midnight)	
+G	TGX	Time (not reported)	
+G	TRW	Industry - Transportation and warehousing	
+G	TTU	Industry - Trade, transportation, and utilities	
+G	UTL	Industry - Utilities	
+G	WAX	Weekday (Sunday)	
+G	WBX	Weekday (Monday)	
+G	WCX	Weekday (Tuesday)	
+G	WDX	Weekday (Wednesday)	
+G	WEX	Weekday (Thursday)	
+G	WFX	Weekday (Friday)	
+G	WGX	Weekday (Saturday)	
+G	WHT	Industry - Wholesale trade	
+H	00X	All industry	
+H	AAX	Age group (<14 yrs.)	
+H	ABX	Age group (14 - 15 yrs.)	
+H	ACX	Age group (16 - 19 yrs.)	
+H	ADW	Industry - Administration and support and waste management	
+H	ADX	Age group (20 - 24 yrs.)	
+H	AER	Industry - Arts, entertainment, and recreation	
+H	AEX	Age group (25 - 34 yrs.)	
+H	AFH	Industry - Agriculture, forestry, fishing, and hunting	
+H	AFS	Industry - Accommodation and food services	
+H	AFX	Age group (35 - 44 yrs.)	
+H	AGX	Age group (45 - 54 yrs.)	
+H	AHX	Age group (55 - 64 yrs.)	
+H	AIX	Age group (65+ yrs.)	
+H	AJX	Age group (not reported)	
+H	CON	Industry - Construction	
+H	DAX	DAFW (1 day)	
+H	DBX	DAFW (2 days)	
+H	DCX	DAFW (3 - 5 days)	
+H	DDX	DAFW (6 - 10 days)	
+H	DEX	DAFW (11 - 20 days)	
+H	DFX	DAFW (21 - 30 days)	
+H	DGX	DAFW (31+ days)	
+H	EAX	Event (Total object contact)	
+H	EBX	Event (Struck by object)	
+H	ECX	Event (Struck against object)	
+H	EDS	Industry - Educational services	
+H	EDX	Event (Caught in object)	
+H	EEX	Event (Highway accident)	
+H	EFX	Event (Assaults by animals)	
+H	EGX	Event (Fall to lower level)	
+H	EHS	Industry - Education and health services	
+H	EHX	Event (Fall at same level)	
+H	EIX	Event (Slips or trips)	
+H	EJX	Event (Total overexertion)	
+H	EKX	Event (Overexertion in lifting)	
+H	ELX	Event (Repetitive motion)	
+H	EMX	Event (Harmful exposure)	
+H	ENX	Event (Transportation accident)	
+H	ESX	Event (Fires and explosions)	
+H	ETX	Event (Total assaults)	
+H	EUX	Event (Assaults by person)	
+H	EXX	Event (All other assaults)	
+H	EYX	Event (All other events)	
+H	FIA	Industry - Financial activities	
+H	FIN	Industry - Finance and insurance	
+H	GFX	Gender (Female)	
+H	GMX	Gender (Male)	
+H	GNX	Gender (Not reported)	
+H	GP1	Industry - Goods producing	
+H	HAS	Industry - Health care and social assistance	
+H	INF	Industry - Information	
+H	LAX	LOS (< 3 mos.)	
+H	LBX	LOS (3- 11 mos.)	
+H	LCX	LOS (1 - 5 yrs.)	
+H	LDX	LOS (5 yrs.)	
+H	LEH	Industry - Leisure and hospitality	
+H	LEX	LOS (Not reported)	
+H	MCE	Industry - Management of companies and enterprises	
+H	MFG	Industry - Manufacturing	
+H	MIN	Industry - Mining	
+H	MSD	Musculoskeletal disorders	
+H	NAX	Nature (Sprain, Strains)	
+H	NBX	Nature (Fractures)	
+H	NCX	Nature (Cuts, lacerations, punctures)	
+H	NDX	Nature (Cuts, lacerations)	
+H	NEX	Nature (Bruises)	
+H	NFX	Nature (Punctures)	
+H	NGX	Nature (Heat burns)	
+H	NHX	Nature (Chemical burns)	
+H	NIX	Nature (Amputations)	
+H	NJX	Nature (Carpal Tunnel Syndrome)	
+H	NKX	Nature (Tendonitis)	
+H	NLX	Nature (Total multiple trauma)	
+H	NMX	Nature (With fractures)	
+H	NNX	Nature (With sprains)	
+H	NOX	Nature (Total back pain, etc)	
+H	NPX	Nature (Back pain, hurt back only)	
+H	NRM	Industry - Natural resources	
+H	NTX	Nature (All other nature)	
+H	O10	Occupation - Management, Business, and Financial Occupations (11--13)	
+H	O20	Occupation - Professional and Related Occupations (15--29)	
+H	O30	Occupation - Service Occupations (31--39)	
+H	O41	Occupation - Sales and Related Occupations	
+H	O43	Occupation - Office and Administrative Support Occupations	
+H	O45	Occupation - Farming, Fishing, and Forestry Occupations	
+H	O47	Occupation - Construction and Extraction Occupations	
+H	O49	Occupation - Installation, Maintenance, and Repair Occupations	
+H	O51	Occupation - Production Occupations	
+H	O53	Occupation - Transportation and Material Moving Occupations	
+H	OTS	Industry - Other services	
+H	PAD	Public Administration	
+H	PAX	Part (Total head)	
+H	PBS	Industry - Professional business services	
+H	PBX	Part (Eyes)	
+H	PCX	Part (Neck)	
+H	PDX	Part (Total trunk)	
+H	PEX	Part (Back)	
+H	PFX	Part (Shoulder)	
+H	PGX	Part (Total upper)	
+H	PHX	Part (Finger)	
+H	PIX	Part (Hand)	
+H	PJX	Part (Wrist)	
+H	PKX	Part (Total lower)	
+H	PLX	Part (Knee)	
+H	PMX	Part (Foot, toe)	
+H	PNX	Part (Body systems)	
+H	POX	Part (Multiple)	
+H	PPX	Part (All other part)	
+H	PQX	Part (Arm)	
+H	PRX	Part (Ankle)	
+H	PST	Industry - Professional, scientific, and technical services	
+H	RAX	Race (American Indian or Alaska native)	
+H	RBX	Race (Asian)	
+H	RCX	Race (Black or African American)	
+H	RDX	Race (Hispanic or Latino)	
+H	RET	Industry - Retail trade	
+H	REX	Race (Native Hawaiian or Other Pacific Islander)	
+H	RFX	Race (White)	
+H	RGX	Race (Not reported)	
+H	RHX	Race (Multi-race)	
+H	RIX	Race (Hispanic and other)	
+H	RRL	Industry - Real estate and rental leasing	
+H	SAX	Source (Chemicals)	
+H	SBX	Source (Containers)	
+H	SCX	Source (Furniture)	
+H	SDX	Source (Machinery)	
+H	SEX	Source (Parts and materials)	
+H	SFX	Source (Worker motion)	
+H	SGX	Source (Floors)	
+H	SHX	Source (Hand tools)	
+H	SIX	Source (Vehicles)	
+H	SJX	Source (Health care patient)	
+H	SKX	Source (All other source)	
+H	SLX	Source (Person, injured or ill worker)	
+H	SMX	Source (Person, other than injured or ill worker)	
+H	SP1	Industry - Service producing	
+H	TAX	Time (12:01AM - 4:00AM)	
+H	TBX	Time (4:01AM - 8:00AM)	
+H	TCX	Time (8:01AM - 12Noon)	
+H	TDX	Time (12:01PM - 4:00PM)	
+H	TEX	Time (4:01PM - 8:00PM)	
+H	TFX	Time (8:01PM - 12Midnight)	
+H	TGX	Time (not reported)	
+H	TRW	Industry - Transportation and warehousing	
+H	TTU	Industry - Trade, transportation, and utilities	
+H	UTL	Industry - Utilities	
+H	WAX	Weekday (Sunday)	
+H	WBX	Weekday (Monday)	
+H	WCX	Weekday (Tuesday)	
+H	WDX	Weekday (Wednesday)	
+H	WEX	Weekday (Thursday)	
+H	WFX	Weekday (Friday)	
+H	WGX	Weekday (Saturday)	
+H	WHT	Industry - Wholesale trade	
+L	00X	All industry	
+L	AAX	Age group (<14 yrs.)	
+L	ABX	Age group (14 - 15 yrs.)	
+L	ACX	Age group (16 - 19 yrs.)	
+L	ADW	Industry - Administration and support and waste management	
+L	ADX	Age group (20 - 24 yrs.)	
+L	AER	Industry - Arts, entertainment, and recreation	
+L	AEX	Age group (25 - 34 yrs.)	
+L	AFH	Industry - Agriculture, forestry, fishing, and hunting	
+L	AFS	Industry - Accommodation and food services	
+L	AFX	Age group (35 - 44 yrs.)	
+L	AGX	Age group (45 - 54 yrs.)	
+L	AHX	Age group (55 - 64 yrs.)	
+L	AIX	Age group (65+ yrs.)	
+L	AJX	Age group (not reported)	
+L	CON	Industry - Construction	
+L	DAX	DAFW (1 day)	
+L	DBX	DAFW (2 days)	
+L	DCX	DAFW (3 - 5 days)	
+L	DDX	DAFW (6 - 10 days)	
+L	DEX	DAFW (11 - 20 days)	
+L	DFX	DAFW (21 - 30 days)	
+L	DGX	DAFW (31+ days)	
+L	EAX	Event (Total object contact)	
+L	EBX	Event (Struck by object)	
+L	ECX	Event (Struck against object)	
+L	EDS	Industry - Educational services	
+L	EDX	Event (Caught in object)	
+L	EEX	Event (Highway accident)	
+L	EFX	Event (Assaults by animals)	
+L	EGX	Event (Fall to lower level)	
+L	EHS	Industry - Education and health services	
+L	EHX	Event (Fall at same level)	
+L	EIX	Event (Slips or trips)	
+L	EJX	Event (Total overexertion)	
+L	EKX	Event (Overexertion in lifting)	
+L	ELX	Event (Repetitive motion)	
+L	EMX	Event (Harmful exposure)	
+L	ENX	Event (Transportation accident)	
+L	ESX	Event (Fires and explosions)	
+L	ETX	Event (Total assaults)	
+L	EUX	Event (Assaults by person)	
+L	EXX	Event (All other assaults)	
+L	EYX	Event (All other events)	
+L	FIA	Industry - Financial activities	
+L	FIN	Industry - Finance and insurance	
+L	GFX	Gender (Female)	
+L	GMX	Gender (Male)	
+L	GNX	Gender (Not reported)	
+L	GP1	Industry - Goods producing	
+L	HAS	Industry - Health care and social assistance	
+L	HAX	Hours (before shift began)	
+L	HBX	Hours (less than 1 hour)	
+L	HCX	Hours (1 -2 hours)	
+L	HDX	Hours (2 - 4 hours)	
+L	HEX	Hours (4 - 6 hours)	
+L	HFX	Hours (6 - 8 hours)	
+L	HGX	Hours (8 - 10 hours)	
+L	HHX	Hours (10 - 12 hours)	
+L	HIX	Hours (12 - 16 hours)	
+L	HJX	Hours (more than 16 hours)	
+L	HKX	Hours (not reported)	
+L	INF	Industry - Information	
+L	LEH	Industry - Leisure and hospitality	
+L	MCE	Industry - Management of companies and enterprises	
+L	MFG	Industry - Manufacturing	
+L	MIN	Industry - Mining	
+L	MSD	Musculoskeletal disorders	
+L	NAX	Nature (Sprain, Strains)	
+L	NBX	Nature (Fractures)	
+L	NCX	Nature (Cuts, lacerations, punctures)	
+L	NDX	Nature (Cuts, lacerations)	
+L	NEX	Nature (Bruises)	
+L	NFX	Nature (Punctures)	
+L	NGX	Nature (Heat burns)	
+L	NHX	Nature (Chemical burns)	
+L	NIX	Nature (Amputations)	
+L	NJX	Nature (Carpal Tunnel Syndrome)	
+L	NKX	Nature (Tendonitis)	
+L	NLX	Nature (Total multiple trauma)	
+L	NMX	Nature (With fractures)	
+L	NNX	Nature (With sprains)	
+L	NOX	Nature (Total back pain, etc)	
+L	NPX	Nature (Back pain, hurt back only)	
+L	NRM	Industry - Natural resources	
+L	NTX	Nature (All other nature)	
+L	O10	Occupation - Management, Business, and Financial Occupations (11--13)	
+L	O20	Occupation - Professional and Related Occupations (15--29)	
+L	O30	Occupation - Service Occupations (31--39)	
+L	O41	Occupation - Sales and Related Occupations	
+L	O43	Occupation - Office and Administrative Support Occupations	
+L	O45	Occupation - Farming, Fishing, and Forestry Occupations	
+L	O47	Occupation - Construction and Extraction Occupations	
+L	O49	Occupation - Installation, Maintenance, and Repair Occupations	
+L	O51	Occupation - Production Occupations	
+L	O53	Occupation - Transportation and Material Moving Occupations	
+L	OTS	Industry - Other services	
+L	PAD	Public Administration	
+L	PAX	Part (Total head)	
+L	PBS	Industry - Professional business services	
+L	PBX	Part (Eyes)	
+L	PCX	Part (Neck)	
+L	PDX	Part (Total trunk)	
+L	PEX	Part (Back)	
+L	PFX	Part (Shoulder)	
+L	PGX	Part (Total upper)	
+L	PHX	Part (Finger)	
+L	PIX	Part (Hand)	
+L	PJX	Part (Wrist)	
+L	PKX	Part (Total lower)	
+L	PLX	Part (Knee)	
+L	PMX	Part (Foot, toe)	
+L	PNX	Part (Body systems)	
+L	POX	Part (Multiple)	
+L	PPX	Part (All other part)	
+L	PQX	Part (Arm)	
+L	PRX	Part (Ankle)	
+L	PST	Industry - Professional, scientific, and technical services	
+L	RAX	Race (American Indian or Alaska native)	
+L	RBX	Race (Asian)	
+L	RCX	Race (Black or African American)	
+L	RDX	Race (Hispanic or Latino)	
+L	RET	Industry - Retail trade	
+L	REX	Race (Native Hawaiian or Other Pacific Islander)	
+L	RFX	Race (White)	
+L	RGX	Race (Not reported)	
+L	RHX	Race (Multi-race)	
+L	RIX	Race (Hispanic and other)	
+L	RRL	Industry - Real estate and rental leasing	
+L	SAX	Source (Chemicals)	
+L	SBX	Source (Containers)	
+L	SCX	Source (Furniture)	
+L	SDX	Source (Machinery)	
+L	SEX	Source (Parts and materials)	
+L	SFX	Source (Worker motion)	
+L	SGX	Source (Floors)	
+L	SHX	Source (Hand tools)	
+L	SIX	Source (Vehicles)	
+L	SJX	Source (Health care patient)	
+L	SKX	Source (All other source)	
+L	SLX	Source (Person, injured or ill worker)	
+L	SMX	Source (Person, other than injured or ill worker)	
+L	SP1	Industry - Service producing	
+L	TAX	Time (12:01AM - 4:00AM)	
+L	TBX	Time (4:01AM - 8:00AM)	
+L	TCX	Time (8:01AM - 12Noon)	
+L	TDX	Time (12:01PM - 4:00PM)	
+L	TEX	Time (4:01PM - 8:00PM)	
+L	TFX	Time (8:01PM - 12Midnight)	
+L	TGX	Time (not reported)	
+L	TRW	Industry - Transportation and warehousing	
+L	TTU	Industry - Trade, transportation, and utilities	
+L	UTL	Industry - Utilities	
+L	WAX	Weekday (Sunday)	
+L	WBX	Weekday (Monday)	
+L	WCX	Weekday (Tuesday)	
+L	WDX	Weekday (Wednesday)	
+L	WEX	Weekday (Thursday)	
+L	WFX	Weekday (Friday)	
+L	WGX	Weekday (Saturday)	
+L	WHT	Industry - Wholesale trade	
+M	00X	All industry	
+M	AAX	Age group (<14 yrs.)	
+M	ABX	Age group (14 - 15 yrs.)	
+M	ACX	Age group (16 - 19 yrs.)	
+M	ADW	Industry - Administration and support and waste management	
+M	ADX	Age group (20 - 24 yrs.)	
+M	AER	Industry - Arts, entertainment, and recreation	
+M	AEX	Age group (25 - 34 yrs.)	
+M	AFH	Industry - Agriculture, forestry, fishing, and hunting	
+M	AFS	Industry - Accommodation and food services	
+M	AFX	Age group (35 - 44 yrs.)	
+M	AGX	Age group (45 - 54 yrs.)	
+M	AHX	Age group (55 - 64 yrs.)	
+M	AIX	Age group (65+ yrs.)	
+M	AJX	Age group (not reported)	
+M	CON	Industry - Construction	
+M	DAX	DAFW (1 day)	
+M	DBX	DAFW (2 days)	
+M	DCX	DAFW (3 - 5 days)	
+M	DDX	DAFW (6 - 10 days)	
+M	DEX	DAFW (11 - 20 days)	
+M	DFX	DAFW (21 - 30 days)	
+M	DGX	DAFW (31+ days)	
+M	EDS	Industry - Educational services	
+M	EHS	Industry - Education and health services	
+M	EJX	Event (Total overexertion)	
+M	EKX	Event (Overexertion in lifting)	
+M	ELX	Event (Repetitive motion)	
+M	EYX	Event (All other events)	
+M	FIA	Industry - Financial activities	
+M	FIN	Industry - Finance and insurance	
+M	GFX	Gender (Female)	
+M	GMX	Gender (Male)	
+M	GNX	Gender (Not reported)	
+M	GP1	Industry - Goods producing	
+M	HAS	Industry - Health care and social assistance	
+M	HAX	Hours (before shift began)	
+M	HBX	Hours (less than 1 hour)	
+M	HCX	Hours (1 -2 hours)	
+M	HDX	Hours (2 - 4 hours)	
+M	HEX	Hours (4 - 6 hours)	
+M	HFX	Hours (6 - 8 hours)	
+M	HGX	Hours (8 - 10 hours)	
+M	HHX	Hours (10 - 12 hours)	
+M	HIX	Hours (12 - 16 hours)	
+M	HJX	Hours (more than 16 hours)	
+M	HKX	Hours (not reported)	
+M	INF	Industry - Information	
+M	LAX	LOS (< 3 mos.)	
+M	LBX	LOS (3- 11 mos.)	
+M	LCX	LOS (1 - 5 yrs.)	
+M	LDX	LOS (5 yrs.)	
+M	LEH	Industry - Leisure and hospitality	
+M	LEX	LOS (Not reported)	
+M	MCE	Industry - Management of companies and enterprises	
+M	MFG	Industry - Manufacturing	
+M	MIN	Industry - Mining	
+M	NAX	Nature (Sprain, Strains)	
+M	NJX	Nature (Carpal Tunnel Syndrome)	
+M	NKX	Nature (Tendonitis)	
+M	NOX	Nature (Total back pain, etc)	
+M	NPX	Nature (Back pain, hurt back only)	
+M	NRM	Industry - Natural resources	
+M	NTX	Nature (All other nature)	
+M	O10	Occupation - Management, Business, and Financial Occupations (11--13)	
+M	O20	Occupation - Professional and Related Occupations (15--29)	
+M	O30	Occupation - Service Occupations (31--39)	
+M	O41	Occupation - Sales and Related Occupations	
+M	O43	Occupation - Office and Administrative Support Occupations	
+M	O45	Occupation - Farming, Fishing, and Forestry Occupations	
+M	O47	Occupation - Construction and Extraction Occupations	
+M	O49	Occupation - Installation, Maintenance, and Repair Occupations	
+M	O51	Occupation - Production Occupations	
+M	O53	Occupation - Transportation and Material Moving Occupations	
+M	OTS	Industry - Other services	
+M	PAD	Public Administration	
+M	PAX	Part (Total head)	
+M	PBS	Industry - Professional business services	
+M	PBX	Part (Eyes)	
+M	PCX	Part (Neck)	
+M	PDX	Part (Total trunk)	
+M	PEX	Part (Back)	
+M	PFX	Part (Shoulder)	
+M	PGX	Part (Total upper)	
+M	PHX	Part (Finger)	
+M	PIX	Part (Hand)	
+M	PJX	Part (Wrist)	
+M	PKX	Part (Total lower)	
+M	PLX	Part (Knee)	
+M	PMX	Part (Foot, toe)	
+M	PNX	Part (Body systems)	
+M	POX	Part (Multiple)	
+M	PPX	Part (All other part)	
+M	PQX	Part (Arm)	
+M	PRX	Part (Ankle)	
+M	PST	Industry - Professional, scientific, and technical services	
+M	RAX	Race (American Indian or Alaska native)	
+M	RBX	Race (Asian)	
+M	RCX	Race (Black or African American)	
+M	RDX	Race (Hispanic or Latino)	
+M	RET	Industry - Retail trade	
+M	REX	Race (Native Hawaiian or Other Pacific Islander)	
+M	RFX	Race (White)	
+M	RGX	Race (Not reported)	
+M	RHX	Race (Multi-race)	
+M	RIX	Race (Hispanic and other)	
+M	RRL	Industry - Real estate and rental leasing	
+M	SAX	Source (Chemicals)	
+M	SBX	Source (Containers)	
+M	SCX	Source (Furniture)	
+M	SDX	Source (Machinery)	
+M	SEX	Source (Parts and materials)	
+M	SFX	Source (Worker motion)	
+M	SGX	Source (Floors)	
+M	SHX	Source (Hand tools)	
+M	SIX	Source (Vehicles)	
+M	SJX	Source (Health care patient)	
+M	SKX	Source (All other source)	
+M	SLX	Source (Person, injured or ill worker)	
+M	SMX	Source (Person, other than injured or ill worker)	
+M	SP1	Industry - Service producing	
+M	TAX	Time (12:01AM - 4:00AM)	
+M	TBX	Time (4:01AM - 8:00AM)	
+M	TCX	Time (8:01AM - 12Noon)	
+M	TDX	Time (12:01PM - 4:00PM)	
+M	TEX	Time (4:01PM - 8:00PM)	
+M	TFX	Time (8:01PM - 12Midnight)	
+M	TGX	Time (not reported)	
+M	TRW	Industry - Transportation and warehousing	
+M	TTU	Industry - Trade, transportation, and utilities	
+M	UTL	Industry - Utilities	
+M	WAX	Weekday (Sunday)	
+M	WBX	Weekday (Monday)	
+M	WCX	Weekday (Tuesday)	
+M	WDX	Weekday (Wednesday)	
+M	WEX	Weekday (Thursday)	
+M	WFX	Weekday (Friday)	
+M	WGX	Weekday (Saturday)	
+M	WHT	Industry - Wholesale trade	
+N	00X	All industry	
+N	AAX	Age group (<14 yrs.)	
+N	ABX	Age group (14 - 15 yrs.)	
+N	ACX	Age group (16 - 19 yrs.)	
+N	ADW	Industry - Administration and support and waste management	
+N	ADX	Age group (20 - 24 yrs.)	
+N	AER	Industry - Arts, entertainment, and recreation	
+N	AEX	Age group (25 - 34 yrs.)	
+N	AFH	Industry - Agriculture, forestry, fishing, and hunting	
+N	AFS	Industry - Accommodation and food services	
+N	AFX	Age group (35 - 44 yrs.)	
+N	AGX	Age group (45 - 54 yrs.)	
+N	AHX	Age group (55 - 64 yrs.)	
+N	AIX	Age group (65+ yrs.)	
+N	AJX	Age group (not reported)	
+N	CON	Industry - Construction	
+N	DAX	DAFW (1 day)	
+N	DBX	DAFW (2 days)	
+N	DCX	DAFW (3 - 5 days)	
+N	DDX	DAFW (6 - 10 days)	
+N	DEX	DAFW (11 - 20 days)	
+N	DFX	DAFW (21 - 30 days)	
+N	DGX	DAFW (31+ days)	
+N	EAX	Event (Total object contact)	
+N	EBX	Event (Struck by object)	
+N	ECX	Event (Struck against object)	
+N	EDS	Industry - Educational services	
+N	EDX	Event (Caught in object)	
+N	EEX	Event (Highway accident)	
+N	EFX	Event (Assaults by animals)	
+N	EGX	Event (Fall to lower level)	
+N	EHS	Industry - Education and health services	
+N	EHX	Event (Fall at same level)	
+N	EIX	Event (Slips or trips)	
+N	EJX	Event (Total overexertion)	
+N	EKX	Event (Overexertion in lifting)	
+N	ELX	Event (Repetitive motion)	
+N	EMX	Event (Harmful exposure)	
+N	ENX	Event (Transportation accident)	
+N	ESX	Event (Fires and explosions)	
+N	ETX	Event (Total assaults)	
+N	EUX	Event (Assaults by person)	
+N	EXX	Event (All other assaults)	
+N	EYX	Event (All other events)	
+N	FIA	Industry - Financial activities	
+N	FIN	Industry - Finance and insurance	
+N	GFX	Gender (Female)	
+N	GMX	Gender (Male)	
+N	GNX	Gender (Not reported)	
+N	GP1	Industry - Goods producing	
+N	HAS	Industry - Health care and social assistance	
+N	HAX	Hours (before shift began)	
+N	HBX	Hours (less than 1 hour)	
+N	HCX	Hours (1 -2 hours)	
+N	HDX	Hours (2 - 4 hours)	
+N	HEX	Hours (4 - 6 hours)	
+N	HFX	Hours (6 - 8 hours)	
+N	HGX	Hours (8 - 10 hours)	
+N	HHX	Hours (10 - 12 hours)	
+N	HIX	Hours (12 - 16 hours)	
+N	HJX	Hours (more than 16 hours)	
+N	HKX	Hours (not reported)	
+N	INF	Industry - Information	
+N	LAX	LOS (< 3 mos.)	
+N	LBX	LOS (3- 11 mos.)	
+N	LCX	LOS (1 - 5 yrs.)	
+N	LDX	LOS (5 yrs.)	
+N	LEH	Industry - Leisure and hospitality	
+N	LEX	LOS (Not reported)	
+N	MCE	Industry - Management of companies and enterprises	
+N	MFG	Industry - Manufacturing	
+N	MIN	Industry - Mining	
+N	MSD	Musculoskeletal disorders	
+N	NRM	Industry - Natural resources	
+N	O10	Occupation - Management, Business, and Financial Occupations (11--13)	
+N	O20	Occupation - Professional and Related Occupations (15--29)	
+N	O30	Occupation - Service Occupations (31--39)	
+N	O41	Occupation - Sales and Related Occupations	
+N	O43	Occupation - Office and Administrative Support Occupations	
+N	O45	Occupation - Farming, Fishing, and Forestry Occupations	
+N	O47	Occupation - Construction and Extraction Occupations	
+N	O49	Occupation - Installation, Maintenance, and Repair Occupations	
+N	O51	Occupation - Production Occupations	
+N	O53	Occupation - Transportation and Material Moving Occupations	
+N	OTS	Industry - Other services	
+N	PAD	Public Administration	
+N	PAX	Part (Total head)	
+N	PBS	Industry - Professional business services	
+N	PBX	Part (Eyes)	
+N	PCX	Part (Neck)	
+N	PDX	Part (Total trunk)	
+N	PEX	Part (Back)	
+N	PFX	Part (Shoulder)	
+N	PGX	Part (Total upper)	
+N	PHX	Part (Finger)	
+N	PIX	Part (Hand)	
+N	PJX	Part (Wrist)	
+N	PKX	Part (Total lower)	
+N	PLX	Part (Knee)	
+N	PMX	Part (Foot, toe)	
+N	PNX	Part (Body systems)	
+N	POX	Part (Multiple)	
+N	PPX	Part (All other part)	
+N	PQX	Part (Arm)	
+N	PRX	Part (Ankle)	
+N	PST	Industry - Professional, scientific, and technical services	
+N	RAX	Race (American Indian or Alaska native)	
+N	RBX	Race (Asian)	
+N	RCX	Race (Black or African American)	
+N	RDX	Race (Hispanic or Latino)	
+N	RET	Industry - Retail trade	
+N	REX	Race (Native Hawaiian or Other Pacific Islander)	
+N	RFX	Race (White)	
+N	RGX	Race (Not reported)	
+N	RHX	Race (Multi-race)	
+N	RIX	Race (Hispanic and other)	
+N	RRL	Industry - Real estate and rental leasing	
+N	SAX	Source (Chemicals)	
+N	SBX	Source (Containers)	
+N	SCX	Source (Furniture)	
+N	SDX	Source (Machinery)	
+N	SEX	Source (Parts and materials)	
+N	SFX	Source (Worker motion)	
+N	SGX	Source (Floors)	
+N	SHX	Source (Hand tools)	
+N	SIX	Source (Vehicles)	
+N	SJX	Source (Health care patient)	
+N	SKX	Source (All other source)	
+N	SLX	Source (Person, injured or ill worker)	
+N	SMX	Source (Person, other than injured or ill worker)	
+N	SP1	Industry - Service producing	
+N	TAX	Time (12:01AM - 4:00AM)	
+N	TBX	Time (4:01AM - 8:00AM)	
+N	TCX	Time (8:01AM - 12Noon)	
+N	TDX	Time (12:01PM - 4:00PM)	
+N	TEX	Time (4:01PM - 8:00PM)	
+N	TFX	Time (8:01PM - 12Midnight)	
+N	TGX	Time (not reported)	
+N	TRW	Industry - Transportation and warehousing	
+N	TTU	Industry - Trade, transportation, and utilities	
+N	UTL	Industry - Utilities	
+N	WAX	Weekday (Sunday)	
+N	WBX	Weekday (Monday)	
+N	WCX	Weekday (Tuesday)	
+N	WDX	Weekday (Wednesday)	
+N	WEX	Weekday (Thursday)	
+N	WFX	Weekday (Friday)	
+N	WGX	Weekday (Saturday)	
+N	WHT	Industry - Wholesale trade	
+O	00X	All industry	
+O	AAX	Age group (<14 yrs.)	
+O	ABX	Age group (14 - 15 yrs.)	
+O	ACX	Age group (16 - 19 yrs.)	
+O	ADW	Industry - Administration and support and waste management	
+O	ADX	Age group (20 - 24 yrs.)	
+O	AER	Industry - Arts, entertainment, and recreation	
+O	AEX	Age group (25 - 34 yrs.)	
+O	AFH	Industry - Agriculture, forestry, fishing, and hunting	
+O	AFS	Industry - Accommodation and food services	
+O	AFX	Age group (35 - 44 yrs.)	
+O	AGX	Age group (45 - 54 yrs.)	
+O	AHX	Age group (55 - 64 yrs.)	
+O	AIX	Age group (65+ yrs.)	
+O	AJX	Age group (not reported)	
+O	CON	Industry - Construction	
+O	DAX	DAFW (1 day)	
+O	DBX	DAFW (2 days)	
+O	DCX	DAFW (3 - 5 days)	
+O	DDX	DAFW (6 - 10 days)	
+O	DEX	DAFW (11 - 20 days)	
+O	DFX	DAFW (21 - 30 days)	
+O	DGX	DAFW (31+ days)	
+O	EAX	Event (Total object contact)	
+O	EBX	Event (Struck by object)	
+O	ECX	Event (Struck against object)	
+O	EDS	Industry - Educational services	
+O	EDX	Event (Caught in object)	
+O	EEX	Event (Highway accident)	
+O	EFX	Event (Assaults by animals)	
+O	EGX	Event (Fall to lower level)	
+O	EHS	Industry - Education and health services	
+O	EHX	Event (Fall at same level)	
+O	EIX	Event (Slips or trips)	
+O	EJX	Event (Total overexertion)	
+O	EKX	Event (Overexertion in lifting)	
+O	ELX	Event (Repetitive motion)	
+O	EMX	Event (Harmful exposure)	
+O	ENX	Event (Transportation accident)	
+O	ESX	Event (Fires and explosions)	
+O	ETX	Event (Total assaults)	
+O	EUX	Event (Assaults by person)	
+O	EXX	Event (All other assaults)	
+O	EYX	Event (All other events)	
+O	FIA	Industry - Financial activities	
+O	FIN	Industry - Finance and insurance	
+O	GFX	Gender (Female)	
+O	GMX	Gender (Male)	
+O	GNX	Gender (Not reported)	
+O	GP1	Industry - Goods producing	
+O	HAS	Industry - Health care and social assistance	
+O	HAX	Hours (before shift began)	
+O	HBX	Hours (less than 1 hour)	
+O	HCX	Hours (1 -2 hours)	
+O	HDX	Hours (2 - 4 hours)	
+O	HEX	Hours (4 - 6 hours)	
+O	HFX	Hours (6 - 8 hours)	
+O	HGX	Hours (8 - 10 hours)	
+O	HHX	Hours (10 - 12 hours)	
+O	HIX	Hours (12 - 16 hours)	
+O	HJX	Hours (more than 16 hours)	
+O	HKX	Hours (not reported)	
+O	INF	Industry - Information	
+O	LAX	LOS (< 3 mos.)	
+O	LBX	LOS (3- 11 mos.)	
+O	LCX	LOS (1 - 5 yrs.)	
+O	LDX	LOS (5 yrs.)	
+O	LEH	Industry - Leisure and hospitality	
+O	LEX	LOS (Not reported)	
+O	MCE	Industry - Management of companies and enterprises	
+O	MFG	Industry - Manufacturing	
+O	MIN	Industry - Mining	
+O	MSD	Musculoskeletal disorders	
+O	NAX	Nature (Sprain, Strains)	
+O	NBX	Nature (Fractures)	
+O	NCX	Nature (Cuts, lacerations, punctures)	
+O	NDX	Nature (Cuts, lacerations)	
+O	NEX	Nature (Bruises)	
+O	NFX	Nature (Punctures)	
+O	NGX	Nature (Heat burns)	
+O	NHX	Nature (Chemical burns)	
+O	NIX	Nature (Amputations)	
+O	NJX	Nature (Carpal Tunnel Syndrome)	
+O	NKX	Nature (Tendonitis)	
+O	NLX	Nature (Total multiple trauma)	
+O	NMX	Nature (With fractures)	
+O	NNX	Nature (With sprains)	
+O	NOX	Nature (Total back pain, etc)	
+O	NPX	Nature (Back pain, hurt back only)	
+O	NRM	Industry - Natural resources	
+O	NTX	Nature (All other nature)	
+O	OTS	Industry - Other services	
+O	PAD	Public Administration	
+O	PAX	Part (Total head)	
+O	PBS	Industry - Professional business services	
+O	PBX	Part (Eyes)	
+O	PCX	Part (Neck)	
+O	PDX	Part (Total trunk)	
+O	PEX	Part (Back)	
+O	PFX	Part (Shoulder)	
+O	PGX	Part (Total upper)	
+O	PHX	Part (Finger)	
+O	PIX	Part (Hand)	
+O	PJX	Part (Wrist)	
+O	PKX	Part (Total lower)	
+O	PLX	Part (Knee)	
+O	PMX	Part (Foot, toe)	
+O	PNX	Part (Body systems)	
+O	POX	Part (Multiple)	
+O	PPX	Part (All other part)	
+O	PQX	Part (Arm)	
+O	PRX	Part (Ankle)	
+O	PST	Industry - Professional, scientific, and technical services	
+O	RAX	Race (American Indian or Alaska native)	
+O	RBX	Race (Asian)	
+O	RCX	Race (Black or African American)	
+O	RDX	Race (Hispanic or Latino)	
+O	RET	Industry - Retail trade	
+O	REX	Race (Native Hawaiian or Other Pacific Islander)	
+O	RFX	Race (White)	
+O	RGX	Race (Not reported)	
+O	RHX	Race (Multi-race)	
+O	RIX	Race (Hispanic and other)	
+O	RRL	Industry - Real estate and rental leasing	
+O	SAX	Source (Chemicals)	
+O	SBX	Source (Containers)	
+O	SCX	Source (Furniture)	
+O	SDX	Source (Machinery)	
+O	SEX	Source (Parts and materials)	
+O	SFX	Source (Worker motion)	
+O	SGX	Source (Floors)	
+O	SHX	Source (Hand tools)	
+O	SIX	Source (Vehicles)	
+O	SJX	Source (Health care patient)	
+O	SKX	Source (All other source)	
+O	SLX	Source (Person, injured or ill worker)	
+O	SMX	Source (Person, other than injured or ill worker)	
+O	SP1	Industry - Service producing	
+O	TAX	Time (12:01AM - 4:00AM)	
+O	TBX	Time (4:01AM - 8:00AM)	
+O	TCX	Time (8:01AM - 12Noon)	
+O	TDX	Time (12:01PM - 4:00PM)	
+O	TEX	Time (4:01PM - 8:00PM)	
+O	TFX	Time (8:01PM - 12Midnight)	
+O	TGX	Time (not reported)	
+O	TRW	Industry - Transportation and warehousing	
+O	TTU	Industry - Trade, transportation, and utilities	
+O	UTL	Industry - Utilities	
+O	WAX	Weekday (Sunday)	
+O	WBX	Weekday (Monday)	
+O	WCX	Weekday (Tuesday)	
+O	WDX	Weekday (Wednesday)	
+O	WEX	Weekday (Thursday)	
+O	WFX	Weekday (Friday)	
+O	WGX	Weekday (Saturday)	
+O	WHT	Industry - Wholesale trade	
+P	00X	All industry	
+P	AAX	Age group (<14 yrs.)	
+P	ABX	Age group (14 - 15 yrs.)	
+P	ACX	Age group (16 - 19 yrs.)	
+P	ADW	Industry - Administration and support and waste management	
+P	ADX	Age group (20 - 24 yrs.)	
+P	AER	Industry - Arts, entertainment, and recreation	
+P	AEX	Age group (25 - 34 yrs.)	
+P	AFH	Industry - Agriculture, forestry, fishing, and hunting	
+P	AFS	Industry - Accommodation and food services	
+P	AFX	Age group (35 - 44 yrs.)	
+P	AGX	Age group (45 - 54 yrs.)	
+P	AHX	Age group (55 - 64 yrs.)	
+P	AIX	Age group (65+ yrs.)	
+P	AJX	Age group (not reported)	
+P	CON	Industry - Construction	
+P	DAX	DAFW (1 day)	
+P	DBX	DAFW (2 days)	
+P	DCX	DAFW (3 - 5 days)	
+P	DDX	DAFW (6 - 10 days)	
+P	DEX	DAFW (11 - 20 days)	
+P	DFX	DAFW (21 - 30 days)	
+P	DGX	DAFW (31+ days)	
+P	EAX	Event (Total object contact)	
+P	EBX	Event (Struck by object)	
+P	ECX	Event (Struck against object)	
+P	EDS	Industry - Educational services	
+P	EDX	Event (Caught in object)	
+P	EEX	Event (Highway accident)	
+P	EFX	Event (Assaults by animals)	
+P	EGX	Event (Fall to lower level)	
+P	EHS	Industry - Education and health services	
+P	EHX	Event (Fall at same level)	
+P	EIX	Event (Slips or trips)	
+P	EJX	Event (Total overexertion)	
+P	EKX	Event (Overexertion in lifting)	
+P	ELX	Event (Repetitive motion)	
+P	EMX	Event (Harmful exposure)	
+P	ENX	Event (Transportation accident)	
+P	ESX	Event (Fires and explosions)	
+P	ETX	Event (Total assaults)	
+P	EUX	Event (Assaults by person)	
+P	EXX	Event (All other assaults)	
+P	EYX	Event (All other events)	
+P	FIA	Industry - Financial activities	
+P	FIN	Industry - Finance and insurance	
+P	GFX	Gender (Female)	
+P	GMX	Gender (Male)	
+P	GNX	Gender (Not reported)	
+P	GP1	Industry - Goods producing	
+P	HAS	Industry - Health care and social assistance	
+P	HAX	Hours (before shift began)	
+P	HBX	Hours (less than 1 hour)	
+P	HCX	Hours (1 -2 hours)	
+P	HDX	Hours (2 - 4 hours)	
+P	HEX	Hours (4 - 6 hours)	
+P	HFX	Hours (6 - 8 hours)	
+P	HGX	Hours (8 - 10 hours)	
+P	HHX	Hours (10 - 12 hours)	
+P	HIX	Hours (12 - 16 hours)	
+P	HJX	Hours (more than 16 hours)	
+P	HKX	Hours (not reported)	
+P	INF	Industry - Information	
+P	LAX	LOS (< 3 mos.)	
+P	LBX	LOS (3- 11 mos.)	
+P	LCX	LOS (1 - 5 yrs.)	
+P	LDX	LOS (5 yrs.)	
+P	LEH	Industry - Leisure and hospitality	
+P	LEX	LOS (Not reported)	
+P	MCE	Industry - Management of companies and enterprises	
+P	MFG	Industry - Manufacturing	
+P	MIN	Industry - Mining	
+P	MSD	Musculoskeletal disorders	
+P	NAX	Nature (Sprain, Strains)	
+P	NBX	Nature (Fractures)	
+P	NCX	Nature (Cuts, lacerations, punctures)	
+P	NDX	Nature (Cuts, lacerations)	
+P	NEX	Nature (Bruises)	
+P	NFX	Nature (Punctures)	
+P	NGX	Nature (Heat burns)	
+P	NHX	Nature (Chemical burns)	
+P	NIX	Nature (Amputations)	
+P	NJX	Nature (Carpal Tunnel Syndrome)	
+P	NKX	Nature (Tendonitis)	
+P	NLX	Nature (Total multiple trauma)	
+P	NMX	Nature (With fractures)	
+P	NNX	Nature (With sprains)	
+P	NOX	Nature (Total back pain, etc)	
+P	NPX	Nature (Back pain, hurt back only)	
+P	NRM	Industry - Natural resources	
+P	NTX	Nature (All other nature)	
+P	O10	Occupation - Management, Business, and Financial Occupations (11--13)	
+P	O20	Occupation - Professional and Related Occupations (15--29)	
+P	O30	Occupation - Service Occupations (31--39)	
+P	O41	Occupation - Sales and Related Occupations	
+P	O43	Occupation - Office and Administrative Support Occupations	
+P	O45	Occupation - Farming, Fishing, and Forestry Occupations	
+P	O47	Occupation - Construction and Extraction Occupations	
+P	O49	Occupation - Installation, Maintenance, and Repair Occupations	
+P	O51	Occupation - Production Occupations	
+P	O53	Occupation - Transportation and Material Moving Occupations	
+P	OTS	Industry - Other services	
+P	PAD	Public Administration	
+P	PBS	Industry - Professional business services	
+P	PST	Industry - Professional, scientific, and technical services	
+P	RAX	Race (American Indian or Alaska native)	
+P	RBX	Race (Asian)	
+P	RCX	Race (Black or African American)	
+P	RDX	Race (Hispanic or Latino)	
+P	RET	Industry - Retail trade	
+P	REX	Race (Native Hawaiian or Other Pacific Islander)	
+P	RFX	Race (White)	
+P	RGX	Race (Not reported)	
+P	RHX	Race (Multi-race)	
+P	RIX	Race (Hispanic and other)	
+P	RRL	Industry - Real estate and rental leasing	
+P	SAX	Source (Chemicals)	
+P	SBX	Source (Containers)	
+P	SCX	Source (Furniture)	
+P	SDX	Source (Machinery)	
+P	SEX	Source (Parts and materials)	
+P	SFX	Source (Worker motion)	
+P	SGX	Source (Floors)	
+P	SHX	Source (Hand tools)	
+P	SIX	Source (Vehicles)	
+P	SJX	Source (Health care patient)	
+P	SKX	Source (All other source)	
+P	SLX	Source (Person, injured or ill worker)	
+P	SMX	Source (Person, other than injured or ill worker)	
+P	SP1	Industry - Service producing	
+P	TAX	Time (12:01AM - 4:00AM)	
+P	TBX	Time (4:01AM - 8:00AM)	
+P	TCX	Time (8:01AM - 12Noon)	
+P	TDX	Time (12:01PM - 4:00PM)	
+P	TEX	Time (4:01PM - 8:00PM)	
+P	TFX	Time (8:01PM - 12Midnight)	
+P	TGX	Time (not reported)	
+P	TRW	Industry - Transportation and warehousing	
+P	TTU	Industry - Trade, transportation, and utilities	
+P	UTL	Industry - Utilities	
+P	WAX	Weekday (Sunday)	
+P	WBX	Weekday (Monday)	
+P	WCX	Weekday (Tuesday)	
+P	WDX	Weekday (Wednesday)	
+P	WEX	Weekday (Thursday)	
+P	WFX	Weekday (Friday)	
+P	WGX	Weekday (Saturday)	
+P	WHT	Industry - Wholesale trade	
+R	00X	All industry	
+R	AAX	Age group (<14 yrs.)	
+R	ABX	Age group (14 - 15 yrs.)	
+R	ACX	Age group (16 - 19 yrs.)	
+R	ADW	Industry - Administration and support and waste management	
+R	ADX	Age group (20 - 24 yrs.)	
+R	AER	Industry - Arts, entertainment, and recreation	
+R	AEX	Age group (25 - 34 yrs.)	
+R	AFH	Industry - Agriculture, forestry, fishing, and hunting	
+R	AFS	Industry - Accommodation and food services	
+R	AFX	Age group (35 - 44 yrs.)	
+R	AGX	Age group (45 - 54 yrs.)	
+R	AHX	Age group (55 - 64 yrs.)	
+R	AIX	Age group (65+ yrs.)	
+R	AJX	Age group (not reported)	
+R	CON	Industry - Construction	
+R	DAX	DAFW (1 day)	
+R	DBX	DAFW (2 days)	
+R	DCX	DAFW (3 - 5 days)	
+R	DDX	DAFW (6 - 10 days)	
+R	DEX	DAFW (11 - 20 days)	
+R	DFX	DAFW (21 - 30 days)	
+R	DGX	DAFW (31+ days)	
+R	EAX	Event (Total object contact)	
+R	EBX	Event (Struck by object)	
+R	ECX	Event (Struck against object)	
+R	EDS	Industry - Educational services	
+R	EDX	Event (Caught in object)	
+R	EEX	Event (Highway accident)	
+R	EFX	Event (Assaults by animals)	
+R	EGX	Event (Fall to lower level)	
+R	EHS	Industry - Education and health services	
+R	EHX	Event (Fall at same level)	
+R	EIX	Event (Slips or trips)	
+R	EJX	Event (Total overexertion)	
+R	EKX	Event (Overexertion in lifting)	
+R	ELX	Event (Repetitive motion)	
+R	EMX	Event (Harmful exposure)	
+R	ENX	Event (Transportation accident)	
+R	ESX	Event (Fires and explosions)	
+R	ETX	Event (Total assaults)	
+R	EUX	Event (Assaults by person)	
+R	EXX	Event (All other assaults)	
+R	EYX	Event (All other events)	
+R	FIA	Industry - Financial activities	
+R	FIN	Industry - Finance and insurance	
+R	GFX	Gender (Female)	
+R	GMX	Gender (Male)	
+R	GNX	Gender (Not reported)	
+R	GP1	Industry - Goods producing	
+R	HAS	Industry - Health care and social assistance	
+R	HAX	Hours (before shift began)	
+R	HBX	Hours (less than 1 hour)	
+R	HCX	Hours (1 -2 hours)	
+R	HDX	Hours (2 - 4 hours)	
+R	HEX	Hours (4 - 6 hours)	
+R	HFX	Hours (6 - 8 hours)	
+R	HGX	Hours (8 - 10 hours)	
+R	HHX	Hours (10 - 12 hours)	
+R	HIX	Hours (12 - 16 hours)	
+R	HJX	Hours (more than 16 hours)	
+R	HKX	Hours (not reported)	
+R	INF	Industry - Information	
+R	LAX	LOS (< 3 mos.)	
+R	LBX	LOS (3- 11 mos.)	
+R	LCX	LOS (1 - 5 yrs.)	
+R	LDX	LOS (5 yrs.)	
+R	LEH	Industry - Leisure and hospitality	
+R	LEX	LOS (Not reported)	
+R	MCE	Industry - Management of companies and enterprises	
+R	MFG	Industry - Manufacturing	
+R	MIN	Industry - Mining	
+R	MSD	Musculoskeletal disorders	
+R	NAX	Nature (Sprain, Strains)	
+R	NBX	Nature (Fractures)	
+R	NCX	Nature (Cuts, lacerations, punctures)	
+R	NDX	Nature (Cuts, lacerations)	
+R	NEX	Nature (Bruises)	
+R	NFX	Nature (Punctures)	
+R	NGX	Nature (Heat burns)	
+R	NHX	Nature (Chemical burns)	
+R	NIX	Nature (Amputations)	
+R	NJX	Nature (Carpal Tunnel Syndrome)	
+R	NKX	Nature (Tendonitis)	
+R	NLX	Nature (Total multiple trauma)	
+R	NMX	Nature (With fractures)	
+R	NNX	Nature (With sprains)	
+R	NOX	Nature (Total back pain, etc)	
+R	NPX	Nature (Back pain, hurt back only)	
+R	NRM	Industry - Natural resources	
+R	NTX	Nature (All other nature)	
+R	O10	Occupation - Management, Business, and Financial Occupations (11--13)	
+R	O20	Occupation - Professional and Related Occupations (15--29)	
+R	O30	Occupation - Service Occupations (31--39)	
+R	O41	Occupation - Sales and Related Occupations	
+R	O43	Occupation - Office and Administrative Support Occupations	
+R	O45	Occupation - Farming, Fishing, and Forestry Occupations	
+R	O47	Occupation - Construction and Extraction Occupations	
+R	O49	Occupation - Installation, Maintenance, and Repair Occupations	
+R	O51	Occupation - Production Occupations	
+R	O53	Occupation - Transportation and Material Moving Occupations	
+R	OTS	Industry - Other services	
+R	PAD	Public Administration	
+R	PAX	Part (Total head)	
+R	PBS	Industry - Professional business services	
+R	PBX	Part (Eyes)	
+R	PCX	Part (Neck)	
+R	PDX	Part (Total trunk)	
+R	PEX	Part (Back)	
+R	PFX	Part (Shoulder)	
+R	PGX	Part (Total upper)	
+R	PHX	Part (Finger)	
+R	PIX	Part (Hand)	
+R	PJX	Part (Wrist)	
+R	PKX	Part (Total lower)	
+R	PLX	Part (Knee)	
+R	PMX	Part (Foot, toe)	
+R	PNX	Part (Body systems)	
+R	POX	Part (Multiple)	
+R	PPX	Part (All other part)	
+R	PQX	Part (Arm)	
+R	PRX	Part (Ankle)	
+R	PST	Industry - Professional, scientific, and technical services	
+R	RET	Industry - Retail trade	
+R	RRL	Industry - Real estate and rental leasing	
+R	SAX	Source (Chemicals)	
+R	SBX	Source (Containers)	
+R	SCX	Source (Furniture)	
+R	SDX	Source (Machinery)	
+R	SEX	Source (Parts and materials)	
+R	SFX	Source (Worker motion)	
+R	SGX	Source (Floors)	
+R	SHX	Source (Hand tools)	
+R	SIX	Source (Vehicles)	
+R	SJX	Source (Health care patient)	
+R	SKX	Source (All other source)	
+R	SLX	Source (Person, injured or ill worker)	
+R	SMX	Source (Person, other than injured or ill worker)	
+R	SP1	Industry - Service producing	
+R	TAX	Time (12:01AM - 4:00AM)	
+R	TBX	Time (4:01AM - 8:00AM)	
+R	TCX	Time (8:01AM - 12Noon)	
+R	TDX	Time (12:01PM - 4:00PM)	
+R	TEX	Time (4:01PM - 8:00PM)	
+R	TFX	Time (8:01PM - 12Midnight)	
+R	TGX	Time (not reported)	
+R	TRW	Industry - Transportation and warehousing	
+R	TTU	Industry - Trade, transportation, and utilities	
+R	UTL	Industry - Utilities	
+R	WAX	Weekday (Sunday)	
+R	WBX	Weekday (Monday)	
+R	WCX	Weekday (Tuesday)	
+R	WDX	Weekday (Wednesday)	
+R	WEX	Weekday (Thursday)	
+R	WFX	Weekday (Friday)	
+R	WGX	Weekday (Saturday)	
+R	WHT	Industry - Wholesale trade	
+S	00X	All industry	
+S	ABX	Age group (14 - 15 yrs.)	
+S	ACX	Age group (16 - 19 yrs.)	
+S	ADW	Industry - Administration and support and waste management	
+S	ADX	Age group (20 - 24 yrs.)	
+S	AER	Industry - Arts, entertainment, and recreation	
+S	AEX	Age group (25 - 34 yrs.)	
+S	AFH	Industry - Agriculture, forestry, fishing, and hunting	
+S	AFS	Industry - Accommodation and food services	
+S	AFX	Age group (35 - 44 yrs.)	
+S	AGX	Age group (45 - 54 yrs.)	
+S	AHX	Age group (55 - 64 yrs.)	
+S	AIX	Age group (65+ yrs.)	
+S	AJX	Age group (not reported)	
+S	CON	Industry - Construction	
+S	DAX	DAFW (1 day)	
+S	DBX	DAFW (2 days)	
+S	DCX	DAFW (3 - 5 days)	
+S	DDX	DAFW (6 - 10 days)	
+S	DEX	DAFW (11 - 20 days)	
+S	DFX	DAFW (21 - 30 days)	
+S	DGX	DAFW (31+ days)	
+S	EAX	Event (Total object contact)	
+S	EBX	Event (Struck by object)	
+S	ECX	Event (Struck against object)	
+S	EDS	Industry - Educational services	
+S	EDX	Event (Caught in object)	
+S	EEX	Event (Highway accident)	
+S	EFX	Event (Assaults by animals)	
+S	EGX	Event (Fall to lower level)	
+S	EHS	Industry - Education and health services	
+S	EHX	Event (Fall at same level)	
+S	EIX	Event (Slips or trips)	
+S	EJX	Event (Total overexertion)	
+S	EKX	Event (Overexertion in lifting)	
+S	ELX	Event (Repetitive motion)	
+S	EMX	Event (Harmful exposure)	
+S	ENX	Event (Transportation accident)	
+S	ESX	Event (Fires and explosions)	
+S	ETX	Event (Total assaults)	
+S	EUX	Event (Assaults by person)	
+S	EXX	Event (All other assaults)	
+S	EYX	Event (All other events)	
+S	FIA	Industry - Financial activities	
+S	FIN	Industry - Finance and insurance	
+S	GFX	Gender (Female)	
+S	GMX	Gender (Male)	
+S	GNX	Gender (Not reported)	
+S	GP1	Industry - Goods producing	
+S	HAS	Industry - Health care and social assistance	
+S	HAX	Hours (before shift began)	
+S	HBX	Hours (less than 1 hour)	
+S	HCX	Hours (1 -2 hours)	
+S	HDX	Hours (2 - 4 hours)	
+S	HEX	Hours (4 - 6 hours)	
+S	HFX	Hours (6 - 8 hours)	
+S	HGX	Hours (8 - 10 hours)	
+S	HHX	Hours (10 - 12 hours)	
+S	HIX	Hours (12 - 16 hours)	
+S	HJX	Hours (more than 16 hours)	
+S	HKX	Hours (not reported)	
+S	INF	Industry - Information	
+S	LAX	LOS (< 3 mos.)	
+S	LBX	LOS (3- 11 mos.)	
+S	LCX	LOS (1 - 5 yrs.)	
+S	LDX	LOS (5 yrs.)	
+S	LEH	Industry - Leisure and hospitality	
+S	LEX	LOS (Not reported)	
+S	MCE	Industry - Management of companies and enterprises	
+S	MFG	Industry - Manufacturing	
+S	MIN	Industry - Mining	
+S	MSD	Musculoskeletal disorders	
+S	NAX	Nature (Sprain, Strains)	
+S	NBX	Nature (Fractures)	
+S	NCX	Nature (Cuts, lacerations, punctures)	
+S	NDX	Nature (Cuts, lacerations)	
+S	NEX	Nature (Bruises)	
+S	NFX	Nature (Punctures)	
+S	NGX	Nature (Heat burns)	
+S	NHX	Nature (Chemical burns)	
+S	NIX	Nature (Amputations)	
+S	NJX	Nature (Carpal Tunnel Syndrome)	
+S	NKX	Nature (Tendonitis)	
+S	NLX	Nature (Total multiple trauma)	
+S	NMX	Nature (With fractures)	
+S	NNX	Nature (With sprains)	
+S	NOX	Nature (Total back pain, etc)	
+S	NPX	Nature (Back pain, hurt back only)	
+S	NRM	Industry - Natural resources	
+S	NTX	Nature (All other nature)	
+S	O10	Occupation - Management, Business, and Financial Occupations (11--13)	
+S	O20	Occupation - Professional and Related Occupations (15--29)	
+S	O30	Occupation - Service Occupations (31--39)	
+S	O41	Occupation - Sales and Related Occupations	
+S	O43	Occupation - Office and Administrative Support Occupations	
+S	O45	Occupation - Farming, Fishing, and Forestry Occupations	
+S	O47	Occupation - Construction and Extraction Occupations	
+S	O49	Occupation - Installation, Maintenance, and Repair Occupations	
+S	O51	Occupation - Production Occupations	
+S	O53	Occupation - Transportation and Material Moving Occupations	
+S	OTS	Industry - Other services	
+S	PAD	Public Administration	
+S	PAX	Part (Total head)	
+S	PBS	Industry - Professional business services	
+S	PBX	Part (Eyes)	
+S	PCX	Part (Neck)	
+S	PDX	Part (Total trunk)	
+S	PEX	Part (Back)	
+S	PFX	Part (Shoulder)	
+S	PGX	Part (Total upper)	
+S	PHX	Part (Finger)	
+S	PIX	Part (Hand)	
+S	PJX	Part (Wrist)	
+S	PKX	Part (Total lower)	
+S	PLX	Part (Knee)	
+S	PMX	Part (Foot, toe)	
+S	PNX	Part (Body systems)	
+S	POX	Part (Multiple)	
+S	PPX	Part (All other part)	
+S	PQX	Part (Arm)	
+S	PRX	Part (Ankle)	
+S	PST	Industry - Professional, scientific, and technical services	
+S	RAX	Race (American Indian or Alaska native)	
+S	RBX	Race (Asian)	
+S	RCX	Race (Black or African American)	
+S	RDX	Race (Hispanic or Latino)	
+S	RET	Industry - Retail trade	
+S	REX	Race (Native Hawaiian or Other Pacific Islander)	
+S	RFX	Race (White)	
+S	RGX	Race (Not reported)	
+S	RHX	Race (Multi-race)	
+S	RIX	Race (Hispanic and other)	
+S	RRL	Industry - Real estate and rental leasing	
+S	SP1	Industry - Service producing	
+S	TAX	Time (12:01AM - 4:00AM)	
+S	TBX	Time (4:01AM - 8:00AM)	
+S	TCX	Time (8:01AM - 12Noon)	
+S	TDX	Time (12:01PM - 4:00PM)	
+S	TEX	Time (4:01PM - 8:00PM)	
+S	TFX	Time (8:01PM - 12Midnight)	
+S	TGX	Time (not reported)	
+S	TRW	Industry - Transportation and warehousing	
+S	TTU	Industry - Trade, transportation, and utilities	
+S	UTL	Industry - Utilities	
+S	WAX	Weekday (Sunday)	
+S	WBX	Weekday (Monday)	
+S	WCX	Weekday (Tuesday)	
+S	WDX	Weekday (Wednesday)	
+S	WEX	Weekday (Thursday)	
+S	WFX	Weekday (Friday)	
+S	WGX	Weekday (Saturday)	
+S	WHT	Industry - Wholesale trade	
+T	00X	All industry	
+T	AAX	Age group (<14 yrs.)	
+T	ABX	Age group (14 - 15 yrs.)	
+T	ACX	Age group (16 - 19 yrs.)	
+T	ADW	Industry - Administration and support and waste management	
+T	ADX	Age group (20 - 24 yrs.)	
+T	AER	Industry - Arts, entertainment, and recreation	
+T	AEX	Age group (25 - 34 yrs.)	
+T	AFH	Industry - Agriculture, forestry, fishing, and hunting	
+T	AFS	Industry - Accommodation and food services	
+T	AFX	Age group (35 - 44 yrs.)	
+T	AGX	Age group (45 - 54 yrs.)	
+T	AHX	Age group (55 - 64 yrs.)	
+T	AIX	Age group (65+ yrs.)	
+T	AJX	Age group (not reported)	
+T	CON	Industry - Construction	
+T	DAX	DAFW (1 day)	
+T	DBX	DAFW (2 days)	
+T	DCX	DAFW (3 - 5 days)	
+T	DDX	DAFW (6 - 10 days)	
+T	DEX	DAFW (11 - 20 days)	
+T	DFX	DAFW (21 - 30 days)	
+T	DGX	DAFW (31+ days)	
+T	EAX	Event (Total object contact)	
+T	EBX	Event (Struck by object)	
+T	ECX	Event (Struck against object)	
+T	EDS	Industry - Educational services	
+T	EDX	Event (Caught in object)	
+T	EEX	Event (Highway accident)	
+T	EFX	Event (Assaults by animals)	
+T	EGX	Event (Fall to lower level)	
+T	EHS	Industry - Education and health services	
+T	EHX	Event (Fall at same level)	
+T	EIX	Event (Slips or trips)	
+T	EJX	Event (Total overexertion)	
+T	EKX	Event (Overexertion in lifting)	
+T	ELX	Event (Repetitive motion)	
+T	EMX	Event (Harmful exposure)	
+T	ENX	Event (Transportation accident)	
+T	ESX	Event (Fires and explosions)	
+T	ETX	Event (Total assaults)	
+T	EUX	Event (Assaults by person)	
+T	EXX	Event (All other assaults)	
+T	EYX	Event (All other events)	
+T	FIA	Industry - Financial activities	
+T	FIN	Industry - Finance and insurance	
+T	GFX	Gender (Female)	
+T	GMX	Gender (Male)	
+T	GNX	Gender (Not reported)	
+T	GP1	Industry - Goods producing	
+T	HAS	Industry - Health care and social assistance	
+T	HAX	Hours (before shift began)	
+T	HBX	Hours (less than 1 hour)	
+T	HCX	Hours (1 -2 hours)	
+T	HDX	Hours (2 - 4 hours)	
+T	HEX	Hours (4 - 6 hours)	
+T	HFX	Hours (6 - 8 hours)	
+T	HGX	Hours (8 - 10 hours)	
+T	HHX	Hours (10 - 12 hours)	
+T	HIX	Hours (12 - 16 hours)	
+T	HJX	Hours (more than 16 hours)	
+T	HKX	Hours (not reported)	
+T	INF	Industry - Information	
+T	LAX	LOS (< 3 mos.)	
+T	LBX	LOS (3- 11 mos.)	
+T	LCX	LOS (1 - 5 yrs.)	
+T	LDX	LOS (5 yrs.)	
+T	LEH	Industry - Leisure and hospitality	
+T	LEX	LOS (Not reported)	
+T	MCE	Industry - Management of companies and enterprises	
+T	MFG	Industry - Manufacturing	
+T	MIN	Industry - Mining	
+T	MSD	Musculoskeletal disorders	
+T	NAX	Nature (Sprain, Strains)	
+T	NBX	Nature (Fractures)	
+T	NCX	Nature (Cuts, lacerations, punctures)	
+T	NDX	Nature (Cuts, lacerations)	
+T	NEX	Nature (Bruises)	
+T	NFX	Nature (Punctures)	
+T	NGX	Nature (Heat burns)	
+T	NHX	Nature (Chemical burns)	
+T	NIX	Nature (Amputations)	
+T	NJX	Nature (Carpal Tunnel Syndrome)	
+T	NKX	Nature (Tendonitis)	
+T	NLX	Nature (Total multiple trauma)	
+T	NMX	Nature (With fractures)	
+T	NNX	Nature (With sprains)	
+T	NOX	Nature (Total back pain, etc)	
+T	NPX	Nature (Back pain, hurt back only)	
+T	NRM	Industry - Natural resources	
+T	NTX	Nature (All other nature)	
+T	O10	Occupation - Management, Business, and Financial Occupations (11--13)	
+T	O20	Occupation - Professional and Related Occupations (15--29)	
+T	O30	Occupation - Service Occupations (31--39)	
+T	O41	Occupation - Sales and Related Occupations	
+T	O43	Occupation - Office and Administrative Support Occupations	
+T	O45	Occupation - Farming, Fishing, and Forestry Occupations	
+T	O47	Occupation - Construction and Extraction Occupations	
+T	O49	Occupation - Installation, Maintenance, and Repair Occupations	
+T	O51	Occupation - Production Occupations	
+T	O53	Occupation - Transportation and Material Moving Occupations	
+T	OTS	Industry - Other services	
+T	PAD	Public Administration	
+T	PAX	Part (Total head)	
+T	PBS	Industry - Professional business services	
+T	PBX	Part (Eyes)	
+T	PCX	Part (Neck)	
+T	PDX	Part (Total trunk)	
+T	PEX	Part (Back)	
+T	PFX	Part (Shoulder)	
+T	PGX	Part (Total upper)	
+T	PHX	Part (Finger)	
+T	PIX	Part (Hand)	
+T	PJX	Part (Wrist)	
+T	PKX	Part (Total lower)	
+T	PLX	Part (Knee)	
+T	PMX	Part (Foot, toe)	
+T	PNX	Part (Body systems)	
+T	POX	Part (Multiple)	
+T	PPX	Part (All other part)	
+T	PQX	Part (Arm)	
+T	PRX	Part (Ankle)	
+T	PST	Industry - Professional, scientific, and technical services	
+T	RAX	Race (American Indian or Alaska native)	
+T	RBX	Race (Asian)	
+T	RCX	Race (Black or African American)	
+T	RDX	Race (Hispanic or Latino)	
+T	RET	Industry - Retail trade	
+T	REX	Race (Native Hawaiian or Other Pacific Islander)	
+T	RFX	Race (White)	
+T	RGX	Race (Not reported)	
+T	RHX	Race (Multi-race)	
+T	RIX	Race (Hispanic and other)	
+T	RRL	Industry - Real estate and rental leasing	
+T	SAX	Source (Chemicals)	
+T	SBX	Source (Containers)	
+T	SCX	Source (Furniture)	
+T	SDX	Source (Machinery)	
+T	SEX	Source (Parts and materials)	
+T	SFX	Source (Worker motion)	
+T	SGX	Source (Floors)	
+T	SHX	Source (Hand tools)	
+T	SIX	Source (Vehicles)	
+T	SJX	Source (Health care patient)	
+T	SKX	Source (All other source)	
+T	SLX	Source (Person, injured or ill worker)	
+T	SMX	Source (Person, other than injured or ill worker)	
+T	SP1	Industry - Service producing	
+T	TRW	Industry - Transportation and warehousing	
+T	TTU	Industry - Trade, transportation, and utilities	
+T	UTL	Industry - Utilities	
+T	WAX	Weekday (Sunday)	
+T	WBX	Weekday (Monday)	
+T	WCX	Weekday (Tuesday)	
+T	WDX	Weekday (Wednesday)	
+T	WEX	Weekday (Thursday)	
+T	WFX	Weekday (Friday)	
+T	WGX	Weekday (Saturday)	
+T	WHT	Industry - Wholesale trade	
+W	00X	All industry	
+W	AAX	Age group (<14 yrs.)	
+W	ABX	Age group (14 - 15 yrs.)	
+W	ACX	Age group (16 - 19 yrs.)	
+W	ADW	Industry - Administration and support and waste management	
+W	ADX	Age group (20 - 24 yrs.)	
+W	AER	Industry - Arts, entertainment, and recreation	
+W	AEX	Age group (25 - 34 yrs.)	
+W	AFH	Industry - Agriculture, forestry, fishing, and hunting	
+W	AFS	Industry - Accommodation and food services	
+W	AFX	Age group (35 - 44 yrs.)	
+W	AGX	Age group (45 - 54 yrs.)	
+W	AHX	Age group (55 - 64 yrs.)	
+W	AIX	Age group (65+ yrs.)	
+W	AJX	Age group (not reported)	
+W	CON	Industry - Construction	
+W	DAX	DAFW (1 day)	
+W	DBX	DAFW (2 days)	
+W	DCX	DAFW (3 - 5 days)	
+W	DDX	DAFW (6 - 10 days)	
+W	DEX	DAFW (11 - 20 days)	
+W	DFX	DAFW (21 - 30 days)	
+W	DGX	DAFW (31+ days)	
+W	EAX	Event (Total object contact)	
+W	EBX	Event (Struck by object)	
+W	ECX	Event (Struck against object)	
+W	EDS	Industry - Educational services	
+W	EDX	Event (Caught in object)	
+W	EEX	Event (Highway accident)	
+W	EFX	Event (Assaults by animals)	
+W	EGX	Event (Fall to lower level)	
+W	EHS	Industry - Education and health services	
+W	EHX	Event (Fall at same level)	
+W	EIX	Event (Slips or trips)	
+W	EJX	Event (Total overexertion)	
+W	EKX	Event (Overexertion in lifting)	
+W	ELX	Event (Repetitive motion)	
+W	EMX	Event (Harmful exposure)	
+W	ENX	Event (Transportation accident)	
+W	ESX	Event (Fires and explosions)	
+W	ETX	Event (Total assaults)	
+W	EUX	Event (Assaults by person)	
+W	EXX	Event (All other assaults)	
+W	EYX	Event (All other events)	
+W	FIA	Industry - Financial activities	
+W	FIN	Industry - Finance and insurance	
+W	GFX	Gender (Female)	
+W	GMX	Gender (Male)	
+W	GNX	Gender (Not reported)	
+W	GP1	Industry - Goods producing	
+W	HAS	Industry - Health care and social assistance	
+W	HAX	Hours (before shift began)	
+W	HBX	Hours (less than 1 hour)	
+W	HCX	Hours (1 -2 hours)	
+W	HDX	Hours (2 - 4 hours)	
+W	HEX	Hours (4 - 6 hours)	
+W	HFX	Hours (6 - 8 hours)	
+W	HGX	Hours (8 - 10 hours)	
+W	HHX	Hours (10 - 12 hours)	
+W	HIX	Hours (12 - 16 hours)	
+W	HJX	Hours (more than 16 hours)	
+W	HKX	Hours (not reported)	
+W	INF	Industry - Information	
+W	LAX	LOS (< 3 mos.)	
+W	LBX	LOS (3- 11 mos.)	
+W	LCX	LOS (1 - 5 yrs.)	
+W	LDX	LOS (5 yrs.)	
+W	LEH	Industry - Leisure and hospitality	
+W	LEX	LOS (Not reported)	
+W	MCE	Industry - Management of companies and enterprises	
+W	MFG	Industry - Manufacturing	
+W	MIN	Industry - Mining	
+W	MSD	Musculoskeletal disorders	
+W	NAX	Nature (Sprain, Strains)	
+W	NBX	Nature (Fractures)	
+W	NCX	Nature (Cuts, lacerations, punctures)	
+W	NDX	Nature (Cuts, lacerations)	
+W	NEX	Nature (Bruises)	
+W	NFX	Nature (Punctures)	
+W	NGX	Nature (Heat burns)	
+W	NHX	Nature (Chemical burns)	
+W	NIX	Nature (Amputations)	
+W	NJX	Nature (Carpal Tunnel Syndrome)	
+W	NKX	Nature (Tendonitis)	
+W	NLX	Nature (Total multiple trauma)	
+W	NMX	Nature (With fractures)	
+W	NNX	Nature (With sprains)	
+W	NOX	Nature (Total back pain, etc)	
+W	NPX	Nature (Back pain, hurt back only)	
+W	NRM	Industry - Natural resources	
+W	NTX	Nature (All other nature)	
+W	O10	Occupation - Management, Business, and Financial Occupations (11--13)	
+W	O20	Occupation - Professional and Related Occupations (15--29)	
+W	O30	Occupation - Service Occupations (31--39)	
+W	O41	Occupation - Sales and Related Occupations	
+W	O43	Occupation - Office and Administrative Support Occupations	
+W	O45	Occupation - Farming, Fishing, and Forestry Occupations	
+W	O47	Occupation - Construction and Extraction Occupations	
+W	O49	Occupation - Installation, Maintenance, and Repair Occupations	
+W	O51	Occupation - Production Occupations	
+W	O53	Occupation - Transportation and Material Moving Occupations	
+W	OTS	Industry - Other services	
+W	PAD	Public Administration	
+W	PAX	Part (Total head)	
+W	PBS	Industry - Professional business services	
+W	PBX	Part (Eyes)	
+W	PCX	Part (Neck)	
+W	PDX	Part (Total trunk)	
+W	PEX	Part (Back)	
+W	PFX	Part (Shoulder)	
+W	PGX	Part (Total upper)	
+W	PHX	Part (Finger)	
+W	PIX	Part (Hand)	
+W	PJX	Part (Wrist)	
+W	PKX	Part (Total lower)	
+W	PLX	Part (Knee)	
+W	PMX	Part (Foot, toe)	
+W	PNX	Part (Body systems)	
+W	POX	Part (Multiple)	
+W	PPX	Part (All other part)	
+W	PQX	Part (Arm)	
+W	PRX	Part (Ankle)	
+W	PST	Industry - Professional, scientific, and technical services	
+W	RAX	Race (American Indian or Alaska native)	
+W	RBX	Race (Asian)	
+W	RCX	Race (Black or African American)	
+W	RDX	Race (Hispanic or Latino)	
+W	RET	Industry - Retail trade	
+W	REX	Race (Native Hawaiian or Other Pacific Islander)	
+W	RFX	Race (White)	
+W	RGX	Race (Not reported)	
+W	RHX	Race (Multi-race)	
+W	RIX	Race (Hispanic and other)	
+W	RRL	Industry - Real estate and rental leasing	
+W	SAX	Source (Chemicals)	
+W	SBX	Source (Containers)	
+W	SCX	Source (Furniture)	
+W	SDX	Source (Machinery)	
+W	SEX	Source (Parts and materials)	
+W	SFX	Source (Worker motion)	
+W	SGX	Source (Floors)	
+W	SHX	Source (Hand tools)	
+W	SIX	Source (Vehicles)	
+W	SJX	Source (Health care patient)	
+W	SKX	Source (All other source)	
+W	SLX	Source (Person, injured or ill worker)	
+W	SMX	Source (Person, other than injured or ill worker)	
+W	SP1	Industry - Service producing	
+W	TAX	Time (12:01AM - 4:00AM)	
+W	TBX	Time (4:01AM - 8:00AM)	
+W	TCX	Time (8:01AM - 12Noon)	
+W	TDX	Time (12:01PM - 4:00PM)	
+W	TEX	Time (4:01PM - 8:00PM)	
+W	TFX	Time (8:01PM - 12Midnight)	
+W	TGX	Time (not reported)	
+W	TRW	Industry - Transportation and warehousing	
+W	TTU	Industry - Trade, transportation, and utilities	
+W	UTL	Industry - Utilities	
+W	WHT	Industry - Wholesale trade	

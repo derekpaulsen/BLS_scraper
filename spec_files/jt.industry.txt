@@ -1,0 +1,29 @@
+industry_code	industry_text	display_level	selectable	sort_sequence
+000000	Total nonfarm	0	T	1	
+100000	Total private	1	T	2	
+110099	Mining and logging	2	T	3	
+230000	Construction	2	T	4	
+300000	Manufacturing	2	T	5	
+320000	Durable goods manufacturing	3	T	6	
+340000	Nondurable goods manufacturing	3	T	7	
+400000	Trade, transportation, and utilities	2	T	8	
+420000	Wholesale trade	3	T	9	
+440000	Retail trade	3	T	10	
+480099	Transportation, warehousing, and utilities	3	T	11	
+510000	Information	2	T	12	
+510099	Financial activities	2	T	13	
+520000	Finance and insurance	3	T	14	
+530000	Real estate and rental and leasing	3	T	15	
+540099	Professional and business services	2	T	16	
+600000	Education and health services	2	T	17	
+610000	Educational services	3	T	18	
+620000	Health care and social assistance	3	T	19	
+700000	Leisure and hospitality	2	T	20	
+710000	Arts, entertainment, and recreation	3	T	21	
+720000	Accommodation and food services	3	T	22	
+810000	Other services	2	T	23	
+900000	Government	1	T	24	
+910000	Federal	2	T	25	
+920000	State and local	2	T	26	
+923000	State and local government education	3	T	27	
+929000	State and local government, excluding education	3	T	28	

@@ -1,0 +1,11 @@
+case_code	case_text
+N	Industry division or selected characteristic by detailed nature of condition
+P	Industry division or selected characteristic by detailed part of body affected
+S	Industry division or selected characteristic by detailed source of injury/illness
+E	Industry division or selected characteristic by detailed event or exposure
+O	Industry division or selected characteristic by detailed occupation
+3	Selected injury/illness characteristic by detailed industry
+A	Industry division or length of absence by age group
+G	Industry division or length of absence by gender
+R	Industry division or length of absence by race
+L	Industry division or length of absence by length of service

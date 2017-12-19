@@ -1,0 +1,30 @@
+group_code	group_name
+01	Farm products	
+02	Processed foods and feeds	
+03	Textile products and apparel	
+04	Hides, skins, leather, and related products	
+05	Fuels and related products and power	
+06	Chemicals and allied products	
+07	Rubber and plastic products	
+08	Lumber and wood products	
+09	Pulp, paper, and allied products	
+10	Metals and metal products	
+11	Machinery and equipment	
+12	Furniture and household durables	
+13	Nonmetallic mineral products	
+14	Transportation equipment	
+15	Miscellaneous products	
+30	Transportation services	
+33	Publishing sales, excluding software	
+34	Software publishing	
+36	Advertising space and time sales	
+37	Telecommunication, cable, and internet user services	
+44	Rental and leasing of goods (partial)	
+51	Health care services	
+56	Entertainment services (partial)	
+58	Retail trade services	
+61	Contract work on textile products, apparel, and leather	
+ID6	Intermediate demand by commodity type	
+RP	Regional Refined Petroleum	
+SI	Special indexes	
+SOP	Stage of processing	

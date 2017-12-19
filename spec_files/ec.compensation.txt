@@ -1,0 +1,4 @@
+comp_code	comp_text
+1	Total compensation
+2	Wages and salaries
+3	Benefits

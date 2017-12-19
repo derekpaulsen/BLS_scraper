@@ -1,0 +1,67 @@
+code	text
+D10	Northeast  
+D11	New England
+D12	Middle Atlantic  
+D20	South	  
+D23	South Atlantic	  
+D24	East South Central	  
+D25	West South Central   
+D30	Midwest	  
+D36	East North Central	  
+D37	West North Central	   
+D40	West 
+D48	Mountain	   
+D49	Pacific	 
+S00	United States    
+S01	Alabama	   
+S02	Alaska	   
+S04	Arizona	   
+S05	Arkansas
+S06	California
+S08	Colorado
+S09	Connecticut
+S10	Delaware
+S11	District of Columbia
+S12	Florida
+S13	Georgia
+S15	Hawaii
+S16	Idaho
+S17	Illinois
+S18	Indiana
+S19	Iowa
+S20	Kansas
+S21	Kentucky
+S22	Louisiana
+S23	Maine	
+S24	Maryland
+S25	Massachusetts
+S26	Michigan	
+S27	Minnesota
+S28	Mississippi
+S29	Missouri
+S30	Montana
+S31	Nebraska
+S32	Nevada
+S33	New Hampshire
+S34	New Jersey
+S35	New Mexico
+S36	New York
+S37	North Carolina
+S38	North Dakota
+S39	Ohio	
+S40	Oklahoma
+S41	Oregon
+S42	Pennsylvania
+S44	Rhode Island
+S45	South Carolina
+S46	South Dakota
+S47	Tennessee
+S48	Texas	
+S49	Utah
+S50	Vermont
+S51	Virginia
+S53	Washington
+S54	West Virginia
+S55	Wisconsin
+S56	Wyoming
+S72	Puerto Rico

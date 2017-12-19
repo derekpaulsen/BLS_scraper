@@ -1,0 +1,192 @@
+state_code	starea_code	starea_name
+00	9957		All United States	0 	T	1    
+01	0000		Alabama	0 	F	2    
+01	0096	+001.91	 Birmingham, AL	1 	T	3    
+01	0340	+002.99	 Huntsville, AL	1 	T	4    
+01	0508	+000.94	 Mobile, AL	1 	T	5    
+01	0942		 Dothan, AL	1 	T	6    
+02	0000		Alaska	0 	F	7    
+02	0038	+004.46	 Anchorage, AK	1 	T	8    
+02	0363	+004.40	 Juneau, AK	1 	T	9    
+04	0000		Arizona	0 	F	10   
+04	0612	+002.80	 Phoenix-Mesa, AZ	1 	T	11   
+05	0000		Arkansas	0 	F	12   
+05	0484	+002.63	 Memphis, TN-AR-MS	1 	T	13   
+06	0000		California	0 	F	14   
+06	0445	+004.74	 Los Angeles-Riverside-Orange County, CA	1 	T	15   
+06	0681	+004.93	 Sacramento-Yolo, CA	1 	T	16   
+06	0692	+006.01	 Salinas, CA	1 	T	17   
+06	0720	+004.47	 San Diego, CA	1 	T	18   
+06	0725	+007.08	 San Francisco-Oakland-San Jose, CA	1 	T	19   
+06	0859	+003.17	 Visalia-Tulare-Porterville, CA	1 	T	20   
+08	0000		Colorado	0 	F	21   
+08	0205	+003.15	 Denver-Boulder-Greeley, CO	1 	T	22   
+08	0263	+001.65	 Fort Collins-Loveland, CO	1 	T	23   
+09	0000		Connecticut	0 	F	24   
+09	0105	+004.94	 Boston-Worcester-Lawrence, MA-NH-ME-CT	1 	T	25   
+09	0324	+005.02	 Hartford, CT	1 	T	26   
+09	0553	+006.14	 New York-Northern New Jersey-Long Island, NY-NJ-CT-PA	1 	T	27   
+10	0000		Delaware	0 	F	28   
+10	0609	+004.16	 Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD	1 	T	29   
+11	0000		District of Columbia	0 	F	30   
+11	0865	+003.31	 Washington-Baltimore, DC-MD-VA-WV	1 	T	31   
+12	0000		Florida	0 	F	32   
+12	0491	+002.23	 Miami-Fort Lauderdale, FL	1 	T	33   
+12	0571	+001.24	 Ocala, FL	1 	T	34   
+12	0588	+001.24	 Orlando, FL	1 	T	35   
+12	0808	-001.89	 Tallahassee, FL	1 	T	36   
+12	0812	+001.61	 Tampa-St. Petersburg-Clearwater, FL	1 	T	37   
+12	0935	+000.00	 Melbourne-Titusville-Palm Bay, FL	1 	T	38   
+13	0000		Georgia	0 	F	39   
+13	0052	+003.24	 Atlanta, GA	1 	T	40   
+13	0060	+002.40	 Augusta-Aiken, GA-SC	1 	T	41   
+13	0736		 Savannah, GA	1 	T	42   
+13	0815	-000.54	 Tattnall County, GA	1 	T	43   
+15	0000		Hawaii	0 	F	44   
+15	0328	+003.35	 Honolulu, HI	1 	T	45   
+16	0000		Idaho	0 	F	46   
+17	0000		Illinois	0 	F	47   
+17	0100	+003.18	 Bloomington-Normal, IL	1 	T	48   
+17	0155	+004.81	 Chicago-Gary-Kenosha, IL-IN-WI	1 	T	49   
+17	0676	+003.52	 Rockford, IL	1 	T	50   
+17	0700	+002.62	 St. Louis, MO-IL	1 	T	51   
+18	0000		Indiana	0 	F	52   
+18	0099	+001.06	 Bloomington, IN	1 	T	53   
+18	0155	+004.81	 Chicago-Gary-Kenosha, IL-IN-WI	1 	T	54   
+18	0161	+002.72	 Cincinnati-Hamilton, OH-KY-IN	1 	T	55   
+18	0233	+002.58	 Elkhart-Goshen, IN	1 	T	56   
+18	0344	+003.19	 Indianapolis, IN	1 	T	57   
+18	0448	+003.35	 Louisville, KY-IN	1 	T	58   
+19	0000		Iowa	0 	F	59   
+19	0167	+001.05	 Clinton County, IA	1 	T	60   
+19	0350	+001.28	 Iowa City, IA	1 	T	61   
+20	0000		Kansas	0 	F	62   
+20	0372	+001.37	 Kansas City, MO-KS	1 	T	63   
+21	0000		Kentucky	0 	F	64   
+21	0161	+002.72	 Cincinnati-Hamilton, OH-KY-IN	1 	T	65   
+21	0322	+002.71	 Harrison County, KY	1 	T	66   
+21	0448	+003.35	 Louisville, KY-IN	1 	T	67   
+22	0000		Louisiana	0 	F	68   
+22	0548	+001.81	 New Orleans, LA	1 	T	69   
+23	0000		Maine	0 	F	70   
+23	0105	+004.94	 Boston-Worcester-Lawrence, MA-NH-ME-CT	1 	T	71   
+24	0000		Maryland	0 	F	72   
+24	0609	+004.16	 Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD	1 	T	73   
+24	0865	+003.31	 Washington-Baltimore, DC-MD-VA-WV	1 	T	74   
+25	0000		Massachusetts	0 	F	75   
+25	0105	+004.94	 Boston-Worcester-Lawrence, MA-NH-ME-CT	1 	T	76   
+25	0636	+003.93	 Providence-Fall River-Warwick, RI-MA	1 	T	77   
+25	0784	+003.78	 Springfield, MA	1 	T	78   
+26	0000		Michigan	0 	F	79   
+26	0203	+004.78	 Delta County, MI	1 	T	80   
+26	0213	+005.35	 Detroit-Ann Arbor-Flint, MI	1 	T	81   
+26	0296	+003.56	 Grand Rapids-Muskegon-Holland, MI	1 	T	82   
+26	0368		 Kalamazoo-Battle Creek, MI	1 	T	83   
+27	0000		Minnesota	0 	F	84   
+27	0504	+004.04	 Minneapolis-St. Paul, MN-WI	1 	T	85   
+28	0000		Mississippi	0 	F	86   
+28	0484	+002.63	 Memphis, TN-AR-MS	1 	T	87   
+28	0899	-001.19	 Winston County, MS	1 	T	88   
+29	0000		Missouri	0 	F	89   
+29	0372	+001.37	 Kansas City, MO-KS	1 	T	90   
+29	0700	+002.62	 St. Louis, MO-IL	1 	T	91   
+29	0776	+000.61	 Springfield, MO	1 	T	92   
+30	0000		Montana	0 	F	93   
+30	0255	+000.17	 Fergus County, MT	1 	T	94   
+30	0300	+000.05	 Great Falls, MT	1 	T	95   
+31	0000		Nebraska	0 	F	96   
+31	0432	+001.15	 Lincoln, NE	1 	T	97   
+32	0000		Nevada	0 	F	98   
+32	0660	+002.41	 Reno, NV	1 	T	99   
+33	0000		New Hampshire	0 	F	100  
+33	0105	+004.94	 Boston-Worcester-Lawrence, MA-NH-ME-CT	1 	T	101  
+34	0000		New Jersey	0 	F	102  
+34	0553	+006.14	 New York-Northern New Jersey-Long Island, NY-NJ-CT-PA	1 	T	103  
+34	0609	+004.16	 Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD	1 	T	104  
+35	0000		New Mexico	0 	F	105  
+36	0000		New York	0 	F	106  
+36	0124	+003.31	 Buffalo-Niagara Falls, NY	1 	T	107  
+36	0553	+006.14	 New York-Northern New Jersey-Long Island, NY-NJ-CT-PA	1 	T	108  
+36	0672	+002.86	 Rochester, NY	1 	T	109  
+37	0000		North Carolina	0 	F	110  
+37	0148	+001.53	 Charlotte-Gastonia-Rock Hill, NC-SC	1 	T	111  
+37	0308	+001.96	 Greensboro+Winston-Salem+High Point,NC	1 	T	112  
+37	0326	+002.39	 Hickory-Morganton-Lenoir, NC	1 	T	113  
+37	0564	+001.10	 Norfolk-Virginia Beach-Newport News, VA-NC	1 	T	114  
+37	0627	+002.79	 Polk County, NC	1 	T	115  
+37	0652		 Raleigh-Durham-Chapel Hill, NC	1 	T	116  
+38	0000		North Dakota	0 	F	117  
+38	0310	-000.87	 Griggs County, ND	1 	T	118  
+39	0000		Ohio	0 	F	119  
+39	0161	+002.72	 Cincinnati-Hamilton, OH-KY-IN	1 	T	120  
+39	0165	+003.41	 Cleveland-Akron, OH	1 	T	121  
+39	0180	+002.30	 Columbus, OH	1 	T	122  
+39	0196	+003.47	 Dayton-Springfield, OH	1 	T	123  
+39	0873		 Wayne County, OH	1 	T	124  
+39	0912	+004.74	 Youngstown-Warren, OH	1 	T	125  
+40	0000		Oklahoma	0 	F	126  
+40	0580	+000.14	 Oklahoma City, OK	1 	T	127  
+41	0000		Oregon	0 	F	128  
+41	0182	+001.24	 Crook County, OR	1 	T	129  
+41	0631	+002.91	 Portland-Salem, OR-WA	1 	T	130  
+41	0867	+002.08	 Wasco County, OR	1 	T	131  
+42	0000		Pennsylvania	0 	F	132  
+42	0364	+001.74	 Johnstown, PA	1 	T	133  
+42	0553	+006.14	 New York-Northern New Jersey-Long Island, NY-NJ-CT-PA	1 	T	134  
+42	0565		 Northumberland County, PA	1 	T	135  
+42	0609	+004.16	 Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD	1 	T	136  
+42	0620	+002.57	 Pittsburgh, PA	1 	T	137  
+42	0656	+004.14	 Reading, PA	1 	T	138  
+42	0908	+002.98	 York, PA	1 	T	139  
+44	0000		Rhode island	0 	F	140  
+44	0636	+003.93	 Providence-Fall River-Warwick, RI-MA	1 	T	141  
+45	0000		South Carolina	0 	F	142  
+45	0060	+002.40	 Augusta-Aiken, GA-SC	1 	T	143  
+45	0140	+001.01	 Charleston-North Charleston, SC	1 	T	144  
+45	0148	+001.53	 Charlotte-Gastonia-Rock Hill, NC-SC	1 	T	145  
+45	0312	+001.34	 Greenville-Spartanburg-Anderson, SC	1 	T	146  
+45	0313	+001.60	 Greenwood County, SC	1 	T	147  
+46	0000		South Dakota	0 	F	148  
+47	0000		Tennessee	0 	F	149  
+47	0115	+001.69	 Bradley County, TN	1 	T	150  
+47	0380	+001.08	 Knoxville, TN	1 	T	151  
+47	0484	+002.63	 Memphis, TN-AR-MS	1 	T	152  
+48	0000		Texas	0 	F	153  
+48	0032	+000.87	 Amarillo, TX	1 	T	154  
+48	0039	+001.80	 Andrews County, TX	1 	T	155  
+48	0064	+001.35	 Austin-San Marcos, TX	1 	T	156  
+48	0120	-000.23	 Brownsville-Harlingen-San Benito, TX	1 	T	157  
+48	0184	+000.24	 Corpus Christi, TX	1 	T	158  
+48	0189	+002.75	 Dallas-Fort Worth, TX	1 	T	159  
+48	0290	+001.48	 Gillespie County, TX	1 	T	160  
+48	0333	+003.26	 Houston-Galveston-Brazoria, TX	1 	T	161  
+48	0596	+001.22	 Panola County, TX	1 	T	162  
+48	0712	+001.48	 San Antonio, TX	1 	T	163  
+49	0000		Utah	0 	F	164  
+50	0000		Vermont	0 	F	165  
+51	0000		Virginia	0 	F	166  
+51	0564	+001.10	 Norfolk-Virginia Beach-Newport News, VA-NC	1 	T	167  
+51	0664	+001.82	 Richmond-Petersburg, VA	1 	T	168  
+51	0865	+003.31	 Washington-Baltimore, DC-MD-VA-WV	1 	T	169  
+53	0000		Washington	0 	F	170  
+53	0631	+002.91	 Portland-Salem, OR-WA	1 	T	171  
+53	0662	+002.90	 Richland-Kennewick-Pasco, WA	1 	T	172  
+53	0745	+003.26	 Seattle-Tacoma-Bremerton, WA	1 	T	173  
+54	0000		West Virginia	0 	F	174  
+54	0865	+003.31	 Washington-Baltimore, DC-MD-VA-WV	1 	T	175  
+55	0000		Wisconsin	0 	F	176  
+55	0155	+004.81	 Chicago-Gary-Kenosha, IL-IN-WI	1 	T	177  
+55	0309	+000.82	 Green Lake County, WI	1 	T	178  
+55	0499	+003.19	 Milwaukee-Racine, WI	1 	T	179  
+55	0504	+004.04	 Minneapolis-St. Paul, MN-WI	1 	T	180  
+56	0000		Wyoming	0 	F	181  
+70	0000		Census Divisions	0 	F	182  
+71	9914		New England Census Division	1 	T	183  
+72	9960		Middle Atlantic Census Division	1 	T	184  
+73	9963		East South Central Census Division	1 	T	185  
+74	9966		South Atlantic Census Division	1 	T	186  
+75	9969		East North Central Census Division	1 	T	187  
+76	9972		West North Central Census Division	1 	T	188  
+77	9975		West South Central Census Division	1 	T	189  
+78	9978		Mountain Census Division	1 	T	190  
+79	9981		Pacific Census Division	1 	T	191  

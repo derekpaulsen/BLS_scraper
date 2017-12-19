@@ -1,0 +1,4 @@
+datatype_code	datatype_text
+3	Rate of nonfatal injuries and illness per 10,000 full-time workers
+6	Injury and Illness Cases
+7	Median days lost

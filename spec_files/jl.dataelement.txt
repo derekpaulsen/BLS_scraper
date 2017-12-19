@@ -1,0 +1,8 @@
+dataelement_code	dataelement_text	display_level	selectable	sort_sequence
+
+HI	Hires	0 	T	2    
+JO	Job openings	0 	T	1    
+LD	Layoffs and discharges	1 	T	5    
+OS	Other separations	1 	T	6    
+QU	Quits	1 	T	4    
+TS	Total separations	0 	T	3    

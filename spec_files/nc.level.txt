@@ -1,0 +1,18 @@
+level_code	level_name
+00	Overall occupation average (no work level)	0 	T	1    
+01	Level 01	1 	T	2    
+02	Level 02	1 	T	3    
+03	Level 03	1 	T	4    
+04	Level 04	1 	T	5    
+05	Level 05	1 	T	6    
+06	Level 06	1 	T	7    
+07	Level 07	1 	T	8    
+08	Level 08	1 	T	9    
+09	Level 09	1 	T	10   
+10	Level 10	1 	T	11   
+11	Level 11	1 	T	12   
+12	Level 12	1 	T	13   
+13	Level 13	1 	T	14   
+14	Level 14	1 	T	15   
+15	Level 15	1 	T	16   
+99	Not able to be leveled	1 	T	17   

@@ -1,0 +1,15 @@
+supersector_code	supersector_name	display_level	selectable	sort_sequence
+000	All	0	T	1	
+CON	Construction	0	T	4	
+EHS	Education and health services	0	T	11	
+FIA	Financial activities	0	T	9	
+GP1	Goods producing	0	T	2	
+INF	Information	0	T	8	
+LEH	Leisure and hospitality	0	T	12	
+MFG	Manufacturing	0	T	5	
+NRM	Natural resources and mining	0	T	3	
+OTS	Other services	0	T	13	
+PAD	Public administration	0	T	14	
+PBS	Professional and business services	0	T	10	
+SP1	Service providing	0	T	6	
+TTU	Trade, transportation, and utilities	0	T	7	

@@ -1,0 +1,10 @@
+case_type_code	case_type_text
+1	Total recordable cases
+2	Lost workday cases
+3	Cases involving days away from work
+4	Cases involving days of restricted work activity only
+5	Lost workdays
+6	Days away from work
+7	Days of restricted work activity
+8	Nonfatal cases without lost workdays
+9	Average lost workdays per lost workday case (not rate)

@@ -1,0 +1,824 @@
+division_code	industry_code	industry_name
+00	0000	Private sector
+09	0000	Agriculture, forestry, and fishing
+09	0001	Agricultural production
+09	0100	Agricultural production-crops
+09	0200	Agricultural production-livestock
+09	0700	Agricultural services
+09	0720	Crop services
+09 	0780	Landscape and horticultural services
+09	0800	Forestry
+09	0850	Forestry services
+09	0900	Fishing, hunting, and trapping
+10	0000	Mining
+10	1000	Metal mining
+10	1010	Iron ores
+10	1020	Copper ores
+10	1030	Lead and zinc ores
+10	1040	Gold and silver ores
+10	1050	Bauxite and other aluminum ores
+10	1060	Ferroalloy ores, except vanadium
+10	1090	Miscellaneous metal ores
+10	1100	Anthracite mining
+10	1200	Bituminous coal and lignite mining
+10	1300	Oil and gas extraction
+10	1310	Crude petroleum and natural gas
+10	1320	Natural gas liquids
+10	1380	Oil and gas field services
+10	1400	Nonmetallic minerals, except fuels
+10	1410	Dimension stone
+10	1420	Crushed and broken stone
+10	1440	Sand and gravel
+10	1450	Clay, ceramic, and refractory minerals
+10	1470	Chemical and fertilizer minerals
+10	1490	Miscellaneous nonmetallic minerals 
+20	0000	Construction
+20	1500	General building contractors
+20	1520	Residential building construction
+20	1530	Operative builders
+20	1540	Nonresidential building construction
+20	1600	Heavy construction contractors
+20	1610	Highway and street construction
+20	1620	Heavy construction, except highway
+20	1700	Special trade contractors
+20	1710	Plumbing, heating, air conditioning
+20	1720	Painting, paper hanging, decorating
+20	1730	Electrical work
+20	1740	Masonry, stonework, and plastering
+20	1750	Carpentering and flooring
+20	1760	Roofing and sheet metal work
+20	1770	Concrete work
+20	1780	Water well drilling
+20	1790	Miscellaneous special trade contractors
+30	0000	Manufacturing
+30	1100	Durable goods
+30	1200	Nondurable goods 
+30	2000	Food and kindred products
+30	2010	Meat products
+30	2011	Meat packing plants
+30	2013	Sausages and other prepared meats
+30	2016	Poultry dressing plants
+30	2017	Poultry and egg processing
+30	2020	Dairy products
+30	2021	Creamery butter
+30	2022	Cheese, natural and processed
+30	2023	Condensed and evaporated milk
+30	2024	Ice cream and frozen desserts
+30	2026	Fluid milk
+30	2030	Preserved fruits and vegetables
+30	2032	Canned specialties
+30	2033	Canned fruits and vegetables
+30	2034	Dehydrated fruits, vegetables, soups
+30	2035	Pickles, sauces, and salad dressings
+30	2037	Frozen fruits and vegetables
+30	2038	Frozen specialties
+30	2040	Grain mill products
+30	2041	Flour and other grain mill products
+30	2043	Cereal breakfast foods
+30	2044	Rice milling
+30	2045	Blended and prepared flour
+30	2046	Wet corn milling
+30	2047	Dog, cat, and other pet food
+30	2048	Prepared feeds, n.e.c.
+30	2050	Bakery products
+30	2051	Bread, cake, and related products
+30	2052	Cookies and crackers
+30	2060	Sugar and confectionery products
+30	2061	Raw cane sugar
+30	2062	Cane sugar refining
+30	2063	Beet sugar
+30	2065	Confectionery products
+30	2066	Chocolate and cocoa products
+30	2067	Chewing gum
+30	2070	Fats and oils
+30	2074	Cottonseed oil mills
+30	2075	Soybean oil mills
+30	2076	Vegetable oil mills, n.e.c.
+30	2077	Animal and marine fats and oils
+30	2079	Shortening and cooking oils
+30	2080	Beverages
+30	2082	Malt beverages
+30	2083	Malt
+30	2084	Wines, brandy, and brandy spirits
+30	2085	Distilled liquor, except brandy
+30	2086	Bottled and canned soft drinks
+30	2087	Flavoring extracts and sirups, n.e.c.
+30	2090	Miscellaneous foods and kindred products
+30	2091	Canned and cured seafoods
+30	2092	Fresh or frozen packaged fish
+30	2095	Roasted coffee
+30	2097	Manufactured ice
+30	2098	Macaroni and spaghetti
+30	2099	Food preparations, n.e.c.
+30	2100	Tobacco manufactures
+30	2110	Cigarettes
+30	2120	Cigars
+30	2130	Chewing and smoking tobacco
+30	2140	Tobacco stemming and redrying
+30	2200	Textile mill products
+30	2210	Weaving mills, cotton
+30	2220	Weaving mills, synthetics
+30	2230	Weaving and finishing mills, wool
+30	2240	Narrow fabric mills
+30	2250	Knitting mills
+30	2251	Women's hosiery, except socks
+30	2252	Hosiery, n.e.c.
+30	2253	Knit outerwear mills
+30	2254	Knit underwear mills
+30	2257	Circular knit fabric mills
+30	2258	Warp knit fabric mills
+30	2259	Knitting mills, n.e.c.
+30	2260	Textile finishing, except wool
+30	2261	Finishing plants, cotton
+30	2262	Finishing plants, synthetics
+30	2269	Finishing plants, n.e.c.
+30	2270	Floor covering mills
+30	2271	Woven carpets and rugs
+30	2272	Tufted carpets and rugs
+30	2279	Carpets and rugs, n.e.c.
+30	2280	Yarn and thread mills
+30	2281	Yarn mills, except wool
+30	2282	Throwing and winding mills
+30	2283	Wool yarn mills
+30	2284	Thread mills
+30	2290	Miscellaneous textile goods
+30	2291	Felt goods, except woven felts and hats
+30	2292	Lace goods
+30	2293	Paddings and upholstery filling
+30	2294	Processed textile waste
+30	2295	Coated fabrics, not rubberized
+30	2296	Tire cord and fabric
+30	2297	Nonwoven fabrics
+30	2298	Cordage and twine
+30	2299	Textile goods, n.e.c.
+30	2300	Apparel and other textile products
+30	2310	Men's and boys' suits and coats
+30	2320	Men's and boys' furnishings
+30	2321	Men's and boys' shirts and nightwear
+30	2322	Men's and boys' underwear
+30	2323	Men's and boy's neckwear
+30	2327	Men's and boys' separate trousers
+30	2328	Men's and boys' work clothing
+30	2329	Men's and boys' clothing, n.e.c.
+30	2330	Women's and misses' outerwear
+30	2331	Women's and misses' blouse and waists
+30	2335	Women's and misses' dresses
+30	2337	Women's and misses' suits and coats
+30	2339	Women's and misses' outerwear, n.e.c.
+30	2340	Women's and children's undergarments
+30	2341	Women's and children's underwear
+30	2342	Brassieres and allied garments
+30	2350	Hats, caps, and millinery
+30	2351	Millinery
+30	2352	Hats and caps, except millinery
+30	2360	Children's outerwear
+30	2361	Children's dresses and blouses
+30	2363	Children's coats and suits
+30	2369	Children's outerwear, n.e.c.
+30	2380	Miscellaneous apparel and accessories
+30	2381	Fabric dress and work gloves
+30	2384	Robes and dressing gowns
+30	2385	Waterproof outer garments
+30	2386	Leather and sheep lined clothing
+30	2387	Apparel belts
+30	2389	Apparel and accessories, n.e.c.
+30	2390	Miscellaneous fabricated textile products
+30	2391	Curtains and draperies
+30	2392	House furnishings, n.e.c.
+30	2393	Textile bags
+30	2394	Canvas and related products
+30	2395	Pleating and stitching
+30	2396	Automotive and apparel trimmings
+30	2397	Schfli machine embroderies
+30	2399	Fabricated textile products, n.e.c.
+30	2400	Lumber and wood products
+30	2410	Logging camps and logging contractors
+30	2420	Sawmills and planing mills
+30	2421	Sawmills and planing mills, general
+30	2426	Hardwood dimension and flooring
+30	2429	Special product sawmills, n.e.c.
+30	2430	Millwork, plywood and structural members
+30	2431	Millwork
+30	2434	Wood kitchen cabinets
+30	2435	Hardwood veneer and plywood
+30	2436	Softwood veneer and plywood
+30	2439	Structural wood memebers, n.e.c.
+30	2440	Wood containers
+30	2441	Nailed wood boxes and shook
+30	2448	Wood pallets and skids
+30	2449	Wood containers, n.e.c.
+30	2450	Wood buildings and mobile homes
+30	2451	Mobile homes
+30	2452	Prefabricated wood buildings
+30	2490	Miscellaneous wood products
+30	2491	Wood preserving
+30	2492	Particleboard
+30	2499	Wood products, n.e.c.
+30	2500	Furniture and fixtures
+30	2510	Household furniture
+30	2511	Wood household furniture
+30	2512	Upholstered household furniture
+30	2514	Metal household furniture
+30	2515	Mattresses and bedsprings
+30	2517	Wood TV and radio cabinets
+30	2519	Household furniture, n.e.c.
+30	2520	Office furniture
+30	2521	Wood office furniture
+30	2522	Metal office furniture
+30	2530	Public building and related furniture
+30	2540	Partitions and fixtures
+30	2541	Wood partitions and fixtures
+30	2542	Metal partitions and fixtures
+30	2590	Miscellaneous furniture and fixtures
+30	2591	Drapery hardware and blinds and shades
+30	2599	Furniture and fixtures, n.e.c.
+30	2600	Paper and allied products
+30	2610	Pulp mills
+30	2620	Paper mills, except building paper
+30	2630	Paperboard mills
+30	2640	Miscellaneous converted paper products
+30	2641	Paper coating and glazing
+30	2642	Envelopes
+30	2643	Bags, except textile bags
+30	2645	Die-cut paper and board
+30	2646	Pressed and molded pulp goods
+30	2647	Sanitary paper products
+30	2648	Stationery products
+30	2649	Converted paper products, n.e.c.
+30	2650	Paperboard containers and boxes
+30	2651	Folding paperboard boxes
+30	2652	Set-up paperboard boxes
+30	2653	Corrugated and solid fiber boxes
+30	2654	Sanitary food containers
+30	2655	Fiber cans, drums, and similar products
+30	2660	Building paper and board mills
+30	2700	Printing and publishing
+30	2710	Newspapers
+30	2720	Periodicals
+30	2730	Books
+30	2731	Book publishing
+30	2732	Book printing
+30	2740	Miscellaneous publishing
+30	2750	Commercial printing
+30	2751	Commercial printing, letterpress
+30	2752	Commercial printing, lithographic
+30	2753	Engraving and plate printing
+30	2754	Commercial printing, gravure
+30	2760	Manold business forms
+30	2770	Greeting card publishing
+30	2780	Blankbooks and bookbinding
+30	2782	Blankbooks and looseleaf binders
+30	2789	Bookbinding and related work
+30	2790	Printing trade services
+30	2791	Typesetting
+30	2793	Photoengraving
+30	2794	Electrotyping and stereotyping
+30	2795	Lithographic platemaking services
+30	2800	Chemicals and allied products
+30	2810	Industrial inorganic chemicals
+30	2812	Alkalies and chlorine
+30	2813	Industrial gases
+30	2816	Inorganic pigments
+30	2819	Industrial inorganic chemicals, n.e.c.
+30	2820	Plastics materials and synthetics
+30	2821	Plastics materials and resins
+30	2822	Synthetic rubber
+30	2823	Cellulosic man-made fibers
+30	2824	Organic fibers, noncellulosic
+30	2830	Drugs
+30	2831	Biological products
+30	2833	Medicinals and botanicals
+30	2834	Pharmaceutical preparations
+30	2840	Soap, cleaners, and toilet goods
+30	2841	Soap and other detergents
+30	2842	Polishes and sanitation goods
+30	2843	Surface active agents
+30	2844	Toilet preparations
+30	2850	Paints and allied products
+30	2860	Industrial organic chemicals
+30	2861	Gum and wood chemicals
+30	2865	Cyclic crudes and intermediates
+30	2869	Industrial organic chemicals, n.e.c.
+30	2870	Agricultural chemicals
+30	2873	Nitrogenous fertilizers
+30	2874	Phosphatic fertilizers
+30	2875	Fertilizers, mixing only
+30	2879	Agricultural chemicals, n.e.c.
+30	2890	Miscellaneous chemical products
+30	2891	Adhesives and sealants
+30	2892	Explosives
+30	2893	Printing ink
+30	2895	Carbon black
+30	2899	Chemical preparations, n.e.c.
+30	2900	Petroleum and coal products
+30	2910	Petroleum refining
+30	2950	Paving and roofing materials
+30	2951	Paving mixtures and blocks
+30	2952	Asphalt felts and coatings
+30	2990	Miscellaneous petroleum and coal products
+30	2992	Lubricating oils and greases
+30	2999	Petroleum and coal products,n.e.c.
+30	3000	Rubber and miscellaneous plastics products
+30	3010	Tires and inner tubes
+30	3020	Rubber and plastics footwear
+30	3030	Reclaimed rubber
+30	3040	Rubber and plastics hose and belting
+30	3060	Fabricated rubber products, n.e.c.
+30	3070	Miscellaneous plastics products
+30	3100	Leather and leather products
+30	3110	Leather tanning and finishing
+30	3130	Boot and shoe cut stock and findings
+30	3140	Footwear, except rubber
+30	3142	House slippers
+30	3143	Men's footwear, except athletic
+30	3144	Women's footwear, except athletic
+30	3149	Footwear, except rubber, n.e.c.
+30	3150	Leather gloves and mittens
+30	3160	Luggage
+30	3170	Handbags and personal leather goods
+30	3171	Women's handbags and purses
+30	3172	Personal leather goods, n.e.c.
+30	3190	Leather goods, n.e.c.
+30	3200	Stone, clay, and glass products
+30	3210	Flat glass
+30	3220	Glass and glassware, pressed or blown
+30	3221	Glass containers
+30	3229	Pressed and blown glass, n.e.c.
+30	3230	Products of purchased glass
+30	3240	Cement, hydraulic
+30	3250	Structural clay products
+30	3251	Brick and structural clay tile
+30	3253	Ceramic wall and floor tile
+30	3255	Clay refractories
+30	3259	Structural clay products, n.e.c.
+30	3260	Pottery and related products
+30	3261	Vitreous plumbing fixtures
+30	3262	Vitreous china food utensils
+30	3263	Fine earthenware food utensils
+30	3264	Porcelain electrical supplies
+30	3269	Pottery products, n.e.c.
+30	3270	Concrete, gypsum, and plaster products
+30	3271	Concrete block and brick
+30	3272	Concrete products, n.e.c. IF
+30	3273	Ready-mixed concrete
+30	3274	Lime
+30	3275	Gypsum products
+30	3280	Cut stone and stone products
+30	3290	Miscellaneous nonmetallic mineral products
+30	3291	Abrasive products
+30	3292	Asbestos products
+30	3293	Gaskets, packing and sealing devices
+30	3295	Minerals, ground or treated
+30	3296	Mineral wool
+30	3297	Nonclay refractories
+30	3299	Nonmetallic mineral products, n.e.c.
+30	3300	Primary metal industries
+30	3310	Blast furnace and basic steel products
+30	3312	Blast furnaces and steel mills
+30	3313	Electrometallurgical products
+30	3315	Steel wire and related products
+30	3316	Cold finishing of steel shapes
+30	3317	Steel pipe and tubes
+30	3320	Iron and steel foundries
+30	3321	Gray iron foundries
+30	3322	Malleable iron foundries
+30	3324	Steel investment foundries
+30	3325	Steel foundries, n.e.c.
+30	3330	Primary nonferrous metals
+30	3331	Primary copper
+30	3332	Primary lead
+30	3333	Primary zinc
+30	3334	Primary aluminum
+30	3339	Primary nonferrous metals, n.e.c.
+30	3340	Secondary nonferrous metals
+30	3350	Nonferrous rolling and drawing
+30	3351	Copper rolling and drawing
+30	3353	Aluminum sheet, plate, and foil
+30	3354	Aluminum extruded products
+30	3355	Aluminum rolling and drawing, n.e.c.
+30	3356	Nonferrous rolling and drawing, n.e.c.
+30	3357	Nonferrous wire drawing and insulating
+30	3360	Nonferrous foundries
+30	3361	Aluminum foundries
+30	3362	Brass, bronze, and copper foundries
+30	3369	Nonferrous foundries, n.e.c.
+30	3390	Miscellaneous primary metal products
+30	3398	Metal heat treating
+30	3399	Primary metal products, n.e.c.
+30	3400	Fabricated metal products
+30	3410	Metal cans and shipping containers
+30	3411	Metal cans
+30	3412	Metal barrels, drums, and pails
+30	3420	Cutlery, hand tools, and hardware
+30	3421	Cutlery
+30	3423	Hand and edge tools, n.e.c.
+30	3425	Hand saws and saw blades
+30	3429	Hardware, n.e.c.
+30	3430	Plumbing and heating, except electric
+30	3431	Metal sanitary ware
+30	3432	Plumbing fittings and brass goods
+30	3433	Heating equipment, except electric
+30	3440	Fabricated structural metal products
+30	3441	Fabricated structural metal
+30	3442	Metal doors, sash, and trim
+30	3443	Fabricated plate work
+30	3444	Sheet metal work
+30	3446	Architectural metal work
+30	3448	Prefabricated metal buildings
+30	3449	Miscellaneous metal work
+30	3450	Screw machine products, bolts, etc.
+30	3451	Screw machine products
+30	3452	Bolts, nuts, rivets, and washers
+30	3460	Metal forgings and stampings
+30	3462	Iron and steel forgings
+30	3463	Nonferrous forgings
+30	3465	Automotive stampings
+30	3466	Crowns and closures
+30	3469	Metal stampings, n.e.c.
+30	3470	Metal services, n.e.c.
+30	3471	Plating and polishing
+30	3479	Metal coating and allied services
+30	3480	Ordnance and accessories, n.e.c.
+30	3482	Small arms ammunition
+30	3483	Ammunition, except for small arms, n.e.c.
+30	3484	Small arms
+30	3489	Ordnance and accessories, n.e.c.
+30	3490	Miscellaneous fabricated metal products
+30	3493	Steel springs, except wire
+30	3494	Valves and pipe fittings
+30	3495	Wire springs
+30	3496	Miscellaneous fabricated wire products
+30	3497	Metal foil and leaf
+30	3498	Fabricated pipe and fittings
+30	3499	Fabricated metal products, n.e.c.
+30	3500	Machinery, except electrical
+30	3510	Engines and turbines
+30	3511	Turbines and turbine generator sets
+30	3519	Internal combustion engines, n.e.c.
+30	3520	Farm and garden machinery
+30	3523	Farm machinery and equipment
+30	3524	Lawn and garden equipment
+30	3530	Construction and related machinery
+30	3531	Construction machinery
+30	3532	Mining machinery
+30	3533	Oil field machinery
+30	3534	Elevators and moving stairways
+30	3535	Conveyors and conveying equipment
+30	3536	Hoists, cranes, and monorails
+30	3537	Industrial trucks and tractors
+30	3540	Metalworking machinery
+30	3541	Machine tools, metal cutting types
+30	3542	Machine tools, metal forming types
+30	3544	Special dies, tools, jigs and fixtures
+30	3545	Machine tool accessories
+30	3546	Power driven hand tools
+30	3547	Rolling mill machinery
+30	3549	Metalworking machinery, n.e.c.
+30	3550	Special industry machinery
+30	3551	Food products machinery
+30	3552	Textile machinery
+30	3553	Woodworking machinery
+30	3554	Paper industries machinery
+30	3555	Printing trades machinery
+30	3559	Special industry machinery, n.e.c.
+30	3560	General industrial machinery
+30	3561	Pumps and pumping equipment
+30	3562	Ball and roller bearings
+30	3563	Air and gas compressors
+30	3564	Blowers and fans
+30	3565	Industrial patterns
+30	3566	Speed changers, drives, and gears
+30	3567	Industrial furnaces and ovens
+30	3568	Power transmission equipment, n.e.c.
+30	3569	General industrial machinery, n.e.c.
+30	3570	Office and computing machines
+30	3572	General industrial machinery, n.e.c.
+30	3573	Electronic computing equipment
+30	3574	Calculating and accounting machines
+30	3576	Scales and balances, except laboratory
+30	3579	Office machines, n.e.c.
+30	3580	Refrigeration and service machinery
+30	3581	Automatic merchandising machines
+30	3582	Commercial laundry equipment
+30	3585	Refrigeration and heating equipment
+30	3586	Measuring and dispensing pumps
+30	3589	Service industry machinery, n.e.c.
+30	3590	Miscellaneous machinery, except electrical
+30	3592	Carburetors, pistons, rings, valves
+30	3599	Industrial machinery, n.e.c.
+30	3600	Electric and electronic equipment
+30	3610	Electric distributing equipment
+30	3612	Transformers
+30	3613	Switchgear and switchboard apparatus
+30	3620	Electrical industrial apparatus
+30	3621	Motors and generators
+30	3622	Industrial controls
+30	3623	Welding apparatus, electric
+30	3624	Carbon and graphite products
+30	3629	Electrical industrial apparatus, n.e.c.
+30	3630	Household appliances
+30	3631	Household cooking equipment
+30	3632	Household refrigerators and freezers
+30	3633	Household laundry equipment
+30	3634	Electric housewares and fans
+30	3635	Household vacuum cleaners
+30	3636	Sewing machines
+30	3639	Household appliances, n.e.c.
+30	3640	Electric lighting and wiring equipment
+30	3641	Electric lamps
+30	3643	Current-carrying wiring devices
+30	3644	Noncurrent-carrying wiring devices
+30	3645	Residential lighting fixtures
+30	3646	Commercial lighting fixtures
+30	3647	Vehicular lighting equipment
+30	3648	Lighting equipment, n.e.c.
+30	3650	Radio and TV receiving equipment
+30	3651	Radio and TV receiving sets
+30	3652	Phonograph records
+30	3660	Communication equipment
+30	3661	Telephone and telegraph apparatus
+30	3662	Radio and TV communication equipment
+30	3670	Electronic components and accessories
+30	3671	Electron tubes, receiving type
+30	3672	Cathode ray television picture tubes
+30	3673	Electron tubes, transmitting
+30	3674	Semiconductors and related devices
+30	3675	Electronic capacitors
+30	3676	Electronic components and accessories
+30	3677	Electronic coils and transformers
+30	3678	Electronic connectors
+30	3679	Electronic components, n.e.c.
+30	3690	Miscellaneous electrical equipment and supplies
+30	3691	Storage batteries
+30	3692	Primary batteries, dry and wet
+30	3693	X-ray apparatus and tubes
+30	3694	Engine electrical equipment
+30	3699	Electrical equipment and supplies, n.e.c.
+30	3700	Transportation equipment
+30	3710	Motor vehicles and equipment
+30	3711	Motor vehicles and car bodies
+30	3713	Truck and bus bodies
+30	3714	Motor vehicle parts and accessories
+30	3715	Truck trailers
+30	3716	Self-contained motor homes
+30	3720	Aircraft and parts
+30	3721	Aircraft
+30	3724	Aircraft engines and engine parts
+30	3728	Aircraft equipment, n.e.c.
+30	3730	Ship and boat building and repairing
+30	3731	Ship building and repairing
+30	3732	Boat building and repairing
+30	3740	Railroad equipment
+30	3750	Motorcycles, bicycles, and parts
+30	3760	Guided missiles, space vehicles, parts
+30	3761	Guided missiles and space vehicles
+30	3764	Space propulsion units and parts
+30	3769	Space vehicle equipment, n.e.c.
+30	3790	Miscellaneous transportation equipment
+30	3792	Travel trailers and campers
+30	3795	Tanks and tank components
+30	3799	Transportation equipment, n.e.c.
+30	3800	Instruments and related products
+30	3810	Engineering and scientific instruments
+30	3820	Measuring and controlling devices
+30	3822	Environmental controls
+30	3823	Process control instruments
+30	3824	Fluid meters and counting devices
+30	3825	Instruments to measure electricity
+30	3829	Measuring and controlling devices, n.e.c.
+30	3830	Optical instruments and lenses
+30	3832	Optical instruments and lenses
+30	3840	Medical instruments and supplies
+30	3841	Surgical and medical instruments
+30	3842	Surgical appliances and supplies
+30	3843	Dental equipment and supplies
+30	3850	Ophthalmic goods
+30	3860	Photographic equipment and supplies
+30	3870	Watches, clocks, and watch cases
+30	3900	Miscellaneous manufacturing industries
+30	3910	Jewelry, silverware, and plated ware
+30	3911	Jewelry, precious metal
+30	3914	Silverware and plated ware
+30	3915	Jewelers' materials and lapidary work
+30	3930	Musical instruments
+30	3940	Toys and sporting goods
+30	3942	Dolls
+30	3944	Games, toys, and children's vehicles
+30	3949	Sporting and athletic goods, n.e.c.
+30	3950	Pens, pencils, office and art supplies
+30	3951	Pens and mechanical pencils
+30	3952	Lead pencils and art goods
+30	3953	Marking devices
+30	3955	Carbon paper and inked ribbons
+30	3960	Costume jewelry and notions
+30	3961	Costume jewelry
+30	3962	Articial flowers
+30	3963	Buttons
+30	3964	Needles, pins, and fasteners
+30	3990	Miscellaneous manufactures
+30	3991	Brooms and brushes
+30	3993	Signs and advertising displays
+30	3995	Burial caskets
+30	3996	Hard surface floor coverings
+30	3999	Manufacturing industries, n.e.c.
+40	0000	Transportation and public utilities
+40	4000	Railroad transportation
+40	4100	Local and interurban passenger transit
+40	4110	Local and suburban transportation
+40	4120	Taxicabs
+40	4130	Intercity highway transportation
+40	4140	Transportation charter service
+40	4150	School buses
+40	4170	Bus terminal and service facilities
+40	4200	Trucking and warehousing
+40	4210	Trucking, local and long distance
+40	4220	Public warehousing
+40	4230	Trucking terminal facilities
+40	4400	Water transportation
+40	4420	Deep sea domestic transportation
+40	4450	Local water transportation
+40	4460	Water transportation services
+40	4500	Transportation by air
+40	4510	Certicated air transportation
+40	4520	Noncerticated air transportation
+40	4580	Air transportation services
+40	4600	Pipelines, except natural gas
+40	4700	Transportation services
+40	4710	Freight forwarding
+40	4720	Arrangement of transportation
+40	4740	Rental of railroad cars
+40	4780	Miscellaneous transportation services
+40	4800	Communication
+40	4810	Telephone communication
+40	4820	Telegraph communication
+40	4830	Radio and television broadcasting
+40	4890	Communication services, n.e.c.
+40	4900	Electric, gas, and sanitary services
+40	4910	Electric services
+40	4920	Gas production and distribution
+40	4930	Combination utility services
+40	4940	Water supply
+40	4950	Sanitary services
+40	4960	Steam supply
+40	4970	Irrigation systems
+45	0000	Wholesale and retail trade
+50	0000	Wholesale trade
+50	5000	Wholesale trade-durable goods
+50	5010	Motor vehicles and automotive equipment
+50	5020	Furniture and home furnishings
+50	5030	Lumber and construction materials
+50	5040	Sporting goods, toys, and hobby goods
+50	5050	Metals and minerals, except petroleum
+50	5060	Electrical goods
+50	5070	Hardware, plumbing and heating equipment
+50	5080	Machinery, equipment, and supplies
+50	5090	Miscellaneous durable goods
+50	5100	Wholesale trade-nondurable goods
+50	5110	Paper and paper products
+50	5120	Drugs, proprietaries, and sundries
+50	5130	Apparel, piece goods, and notions
+50	5140	Groceries and related products
+50	5150	Farm-product raw materials
+50	5160	Chemicals and allied products
+50	5170	Petroleum and petroleum products
+50	5180	Beer, wine, and distilled beverages
+50	5190	Miscellaneous nondurable goods
+60	0000	Retail trade
+60	5200	Building materials and garden supplies
+60	5210	Lumber and other building materials
+60	5230	Paint, glass, and wallpaper stores
+60	5250	Hardware stores
+60	5260	Retail nurseries and garden stores
+60	5270	Mobile home dealers
+60	5300	General merchandise stores
+60	5310	Department stores
+60	5330	Variety stores
+60	5390	Miscellaneous general merchandise stores
+60	5400	Food stores
+60	5410	Grocery stores
+60	5420	Meat markets and freezer provisioners
+60	5450	Dairy products stores
+60	5460	Retail bakeries
+60	5490	Miscellaneous food stores
+60	5500	Automotive dealers and service stations
+60	5510	New and used car dealers
+60	5530	Auto and home supply stores
+60	5540	Gasoline service stations
+60	5550	Boat dealers
+60	5600	Apparel and accessory stores
+60	5620	Women's ready-to-wear stores
+60	5640	Children's and infants' wear stores
+60	5650	Family clothing stores
+60	5660	Shoe stores
+60	5700	Furniture and home furnishings stores
+60	5710	Furniture and home furnishings stores
+60	5720	Household appliance stores
+60	5730	Radio, television, and music stores
+60	5800	Eating and drinking places
+60	5900	Miscellaneous retail
+60	5910	Drug stores and proprietary stores
+60	5920	Liquor stores
+60	5930	Used merchandise stores
+60	5940	Miscellaneous shopping goods stores
+60	5960	Nonstore retailers
+60	5980	Fuel and ice dealers
+60	5990	Retail stores, n.e.c.
+70	0000	Finance, insurance, and real estate
+70	6000	Banking
+70	6010	Central reserve depositories
+70	6020	Commercial and stock savings banks
+70	6030	Mutual savings banks
+70	6040	Trust companies, nondeposit
+70	6050	Functions closely related to banking
+70	6100	Credit agencies other than banks
+70	6120	Savings and loan associations
+70	6140	Personal credit institutions
+70	6150	Business credit institutions
+70	6160	Mortgage bankers and brokers
+70	6200	Security, commodity brokers and services
+70	6210	Security brokers and dealers
+70	6230	Security and commodity exchanges
+70	6280	Security and commodity services
+70	6300	Insurance carriers
+70	6310	Life insurance
+70	6320	Medical service and health insurance
+70	6330	Fire, marine, and casualty insurance
+70	6350	Surety insurance
+70	6370	Pension, health, and welfare funds
+70	6390	Insurance carriers, n.e.c.
+70	6400	Insurance agents, brokers and service
+70	6500	Real estate
+70	6510	Real estate operators and lessors
+70	6530	Real estate agents and managers
+70	6540	Title abstract offices
+70	6550	Subdividers and developers
+70	6600	Combined real estate, insurance, etc.
+70	6700	Holding and other investment offices
+70	6710	Holding offices
+70	6720	Investments offices
+70	6790	Miscellaneous investing
+80	0000	Services
+80	7000	Hotels and other lodging places
+80	7010	Hotels, motels, and tourist courts
+80	7040	Membership-basis organization hotels
+80	7200	Personal services
+80	7210	Laundry, cleaning, and garment services
+80	7220	Photographic studios, portrait
+80	7230	Beauty shops
+80	7290	Miscellaneous personal services
+80	7300	Business services
+80	7310	Advertising
+80	7330	Mailing, reproduction, stenographic
+80	7340	Services to buildings
+80	7350	News syndicates
+80	7360	Personnel supply services
+80	7370	Computer and data processing services
+80	7390	Miscellaneous business services
+80	7500	Auto repair, services, and garages
+80	7510	Automotive rentals, without drivers
+80	7520	Automobile parking
+80	7530	Automotive repair shops
+80	7540	Automotive services, except repair
+80	7600	Miscellaneous repair services
+80	7620	Electrical repair shops
+80	7690	Miscellaneous repair shops
+80	7800	Motion pictures
+80	7810	Motion picture production and services
+80	7830	Motion picture theaters
+80	7900	Amusement and recreation services
+80	7910	Dance halls, studios, and schools
+80	7920	Producers, orchestras, entertainers
+80	7930	Bowling and billiard establishments
+80	7940	Commercial sports
+80	7990	Miscellaneous amusement, recreational services
+80	8000	Health services
+80	8010	Offices of physicians
+80	8030	Offices of osteopathic physicians
+80	8050	Nursing and personal care facilities
+80	8060	Hospitals
+80	8070	Medical and dental laboratories
+80	8080	Outpatient care facilities
+80	8090	Health and allied services
+80	8100	Legal services
+80	8200	Educational services
+80	8210	Elementary and secondary schools
+80	8220	Colleges and universities
+80	8230	Libraries and information centers
+80	8290	Schools and educational services, n.e.c.
+80	8300	Social services
+80	8320	Individual and family services
+80	8330	Job training and related services
+80	8350	Child day care services
+80	8360	Residential care
+80	8390	Social services, n.e.c.
+80	8400	Museums, botanical, zoological gardens
+80	8410	Museums and art galleries
+80	8420	Botanical and zoological gardens
+80	8600	Membership organizations
+80	8640	Civic and social associations
+80	8690	Membership organizations, n.e.c.
+80	8900	Miscellaneous services
+80	8910	Engineering and architectural services
+80	8920	Noncommercial research organizations
+80	8930	Accounting, auditing and bookkeeping
+

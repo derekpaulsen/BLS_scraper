@@ -1,0 +1,40 @@
+measure_code	measure_text	display_level	selectable	sort_sequence
+01	Multifactor Productivity	0	T	1	
+02	Real value-added Output	0	T	3	
+03	Combined Inputs	0	T	5	
+04	Capital Services	0	T	7	
+05	Labor Input	0	T	9	
+06	Labor Productivity	0	T	11	
+07	Output per unit capital services	0	T	13	
+08	Capital Intensity	0	T	49	
+09	Labor composition	0	T	17	
+10	Value-added Output, billions of current dollar	0	T	19	
+11	Capital income, billions of current dollars	0	T	20	
+12	Labor compensation, billions of current dollars	0	T	21	
+13	Capital's share in cost	0	T	22	
+14	Labor's share in cost	0	T	23	
+15	Contribution of capital intensity	0	T	24	
+16	Contribution of information capital intensity	0	T	26	
+17	Contribution of capital services excluding IPP and IPE intensity	0	T	28	
+18	Contribution of labor composition	0	T	30	
+19	Contribution of research and development (R&D) intensity	0	T	32	
+20	Contribution of intellectual property products excluding R&D intensity	0	T	34	
+51	Sectoral Output	0	T	31	
+55	Energy	0	T	39	
+56	Materials	0	T	41	
+57	Purchased Services	0	T	43	
+61	Value of Production, billions of current dollars	0	T	51	
+62	Capital Payments, billions of current dollars	0	T	52	
+63	Cost of Labor, billions of current dollars	0	T	53	
+64	Cost of Energy, billions of current dollars	0	T	54	
+65	Cost of Materials, billions of current dollars	0	T	55	
+66	Cost of Purchased Services, billions of current dollars	0	T	56	
+67	Capital Factor Shares	0	T	57	
+68	Labor Factor Shares	0	T	58	
+69	Energy Factor Shares	0	T	59	
+70	Materials Factor Shares	0	T	60	
+71	Purchased Services Factor Shares	0	T	61	
+74	Contribution of Energy Intensity	0	T	65	
+76	Contribution of Materials Intensity	0	T	69	
+77	Contribution of Purchased Services Intensity	0	T	71	
+78	Contribution of Intermediate Inputs	0	T	73	

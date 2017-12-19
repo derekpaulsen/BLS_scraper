@@ -1,0 +1,4 @@
+003	Layoff events
+004	Separations
+005	Total initial claimants
+006	Percent of total(characteristics)

@@ -1,0 +1,4 @@
+data_type_code	data_type_text
+0	Illness only
+1	Injury only
+3	Injury/Illness

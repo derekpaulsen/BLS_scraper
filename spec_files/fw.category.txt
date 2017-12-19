@@ -1,0 +1,328 @@
+category_code	category_text
+00X	Total fatalities	
+05X	Ownership-- All government	
+10X	Ownership-- Federal government	
+20X	Ownership-- State government	
+30X	Ownership-- Local government	
+50X	Ownership-- Private industry	
+AAX	Age group-- Under 16 years	
+ABX	Age group-- 16 to 17 years	
+ACX	Age group-- 18 to 19 years	
+ADW	Private industry-- Administration and support and waste management and remediation services	
+ADX	Age group-- 20 to 24 years	
+AER	Private industry-- Arts, entertainment, and recreation	
+AEX	Age group-- 25 to 34 years	
+AFH	Private industry-- Agriculture, forestry, fishing, and hunting	
+AFS	Private industry-- Accommodation and food services	
+AFX	Age group-- 35 to 44 years	
+AGX	Age group-- 45 to 54 years	
+AHX	Age group-- 55 to 64 years	
+AIX	Age group-- 65 years and over	
+CON	Private industry-- Construction	
+E11	Event or exposure-- Intentional injury by person	
+E12	Event or exposure-- Injury by person--unintentional or intent unknown	
+E13	Event or exposure-- Animal and insect related incidents	
+E1A	Event or exposure-- Homicides (Intentional injury by other person)	
+E1B	Event or exposure-- Shooting by other person--intentional	
+E1C	Event or exposure-- Suicides (Self-inflicted injury--intentional)	
+E1D	Event or exposure-- Shooting--intentional self-harm	
+E1E	Event or exposure-- Hanging, strangulation, asphyxiation--intentional self-harm	
+E1F	Event or exposure-- Drug overdose--intentional self-harm	
+E1G	Event or exposure-- Shooting by other person-unintentional	
+E1H	Event or exposure-- Self-inflicted shooting--unintentional or intent unknown	
+E1I	Event or exposure-- Bites and stings	
+E1J	Event or exposure-- Struck by animal	
+E1X	Event or exposure-- Violence and other injuries by persons or animals	
+E21	Event or exposure-- Aircraft incidents	
+E22	Event or exposure-- Rail vehicle incidents	
+E24	Event or exposure-- Pedestrian vehicular incident	
+E25	Event or exposure-- Water vehicle incidents	
+E26	Event or exposure-- Roadway incidents involving motorized land vehicle	
+E27	Event or exposure-- Nonroadway incidents involving motorized land vehicles	
+E2A	Event or exposure-- Roadway collision with other vehicle	
+E2B	Event or exposure-- Vehicle struck object or animal in roadway	
+E2C	Event or exposure-- Vehicle struck object or animal on side of roadway	
+E2D	Event or exposure-- Roadway noncollision incident	
+E2E	Event or exposure-- Jack-knifed or overturned, roadway	
+E2F	Event or exposure-- Nonroadway collision with other vehicle	
+E2G	Event or exposure-- Nonroadway noncollision incident	
+E2H	Event or exposure-- Jack-knifed or overturned, nonroadway	
+E2X	Event or exposure-- Transportation incidents	
+E3X	Event or exposure-- Fires and explosions	
+E42	Event or exposure-- Falls on same level	
+E43	Event or exposure-- Falls to lower level	
+E44	Event or exposure-- Jumps to lower level	
+E4A	Event or exposure-- Fall from collapsing structure or equipment	
+E4B	Event or exposure-- Fall through surface or existing opening	
+E4C	Event or exposure-- Other fall to lower level	
+E4D	Event or exposure-- Falls to lower level, height unspecified	
+E4E	Event or exposure-- Falls to lower level, height less than 6 feet	
+E4F	Event or exposure-- Falls to lower level, height 6 to 10 feet	
+E4G	Event or exposure-- Falls to lower level, height 11 to 15 feet	
+E4H	Event or exposure-- Falls to lower level, height 16 to 20 feet	
+E4I	Event or exposure-- Falls to lower level, height 21 to 25 feet	
+E4J	Event or exposure-- Falls to lower level, height 26 to 30 feet	
+E4K	Event or exposure-- Falls to lower level, height more than 30 feet	
+E4X	Event or exposure-- Falls, slips, trips	
+E51	Event or exposure-- Exposure to electricity	
+E53	Event or exposure-- Exposure to temperature extremes	
+E55	Event or exposure-- Exposure to other harmful substances	
+E56	Event or exposure-- Exposure to oxygen deficiency, n.e.c.	
+E5A	Event or exposure-- Exposure to environmental heat	
+E5B	Event or exposure-- Exposure to environmental cold	
+E5C	Event or exposure-- Drowning, submersion, n.e.c.	
+E5D	Event or exposure-- Depletion of oxygen	
+E5X	Event or exposure-- Exposure to harmful substances or environments	
+E62	Event or exposure-- Struck by object or equipment	
+E64	Event or exposure-- Caught in or compressed by equipment or objects	
+E65	Event or exposure-- Struck, caught, or crushed in collapsing structure, equipment, or material	
+E6A	Event or exposure-- Struck by powered vehicle--nontransport	
+E6B	Event or exposure-- Struck by rolling object or equipment--other than powered vehicle	
+E6C	Event or exposure-- Struck by falling object or equipment--other than powered vehicle	
+E6D	Event or exposure-- Caught in running equipment or machinery	
+E6X	Event or exposure-- Contact with objects and equipment	
+EDS	Private industry-- Educational services	
+EHS	Private industry-- Educational and health services	
+FIA	Private industry-- Financial activities	
+FIN	Private industry-- Finance and insurance	
+GFX	Gender-- Women	
+GMX	Gender-- Men	
+GP1	Private industry-- Goods producing	
+HSA	Private industry-- Health care and social assistance	
+I1X	Time of incident-- 12:00 midnight - 3:59 a.m.	
+I2X	Time of incident-- 4:00 a.m. - 7:59 a.m.	
+I3X	Time of incident-- 8:00 a.m. - 11:59 a.m.	
+I4X	Time of incident-- 12:00 noon - 3:59 p.m.	
+I5X	Time of incident-- 4:00 p.m. - 7:59 p.m.	
+I6X	Time of incident-- 8:00 p.m. - 11:59 p.m.	
+INF	Private industry-- Information	
+LEH	Private industry-- Leisure and hospitality	
+MCE	Private industry-- Management of companies and enterprises	
+MFG	Private industry-- Manufacturing	
+MIN	Private industry-- Mining	
+N1X	Nature-- Traumatic injuries to bones, nerves, spinal cord	
+N2X	Nature-- Traumatic injuries to muscles, tendons, ligaments, joints, etc.	
+N34	Nature-- Gunshot wounds	
+N3X	Nature-- Open wounds	
+N4X	Nature-- Surface wounds and bruises	
+N5X	Nature-- Burns and corrosions	
+N6X	Nature-- Intracranial injuries	
+N7X	Nature-- Effects of environmental conditions	
+N8A	Nature-- Burns and other injuries, except fractures	
+N8B	Nature-- Burns and smoke inhalation	
+N8C	Nature-- Intracranial injuries and injuries to internal organs	
+N8X	Nature-- Multiple traumatic injuries and disorders	
+N9A	Nature-- Asphyxiations, strangulations, suffocations	
+N9B	Nature-- Drownings	
+N9C	Nature-- Electrocutions, electric shocks	
+N9D	Nature-- Internal injuries to organs and blood vessels of the trunk	
+N9E	Nature-- Other poisoning, toxic, noxious, or allergenic effects	
+N9X	Nature-- Other traumatic injuries and disorders	
+NRM	Private industry-- Natural resources and mining	
+O00	Occupation-- Management, Business, Science, and Arts Occupations (11--29)	
+O10	Occupation-- Management, Business, and Financial Occupations (11--13)	
+O11	Occupation-- Management Occupations	
+O13	Occupation-- Business and Financial Operations Occupations	
+O15	Occupation-- Computer and Mathematical Occupations	
+O17	Occupation-- Architecture and Engineering Occupations	
+O19	Occupation-- Life, Physical, and Social Science Occupations	
+O20	Occupation-- Professional and Related Occupations (15--29)	
+O21	Occupation-- Community and Social Services Occupations	
+O23	Occupation-- Legal Occupations	
+O25	Occupation-- Education, Training, and Library Occupations	
+O27	Occupation-- Arts, Design, Entertainment, Sports, and Media Occupations	
+O29	Occupation-- Healthcare Practitioner and Technical Occupations	
+O30	Occupation-- Service Occupations (31--39)	
+O31	Occupation-- Healthcare Support Occupations	
+O33	Occupation-- Protective Service Occupations	
+O35	Occupation-- Food Preparation and Serving Related Occupations	
+O37	Occupation-- Building and Grounds Cleaning and Maintenance Occupations	
+O39	Occupation-- Personal Care and Service Occupations	
+O40	Occupation-- Sales and Office Occupations (41--43)	
+O41	Occupation-- Sales and Related Occupations	
+O43	Occupation-- Office and Administrative Support Occupations	
+O44	Occupation-- Natural Resources, Construction, and Maintenance Occupations (45--49)	
+O45	Occupation-- Farming, Fishing, and Forestry Occupations	
+O47	Occupation-- Construction and Extraction Occupations	
+O49	Occupation-- Installation, Maintenance, and Repair Occupations	
+O50	Occupation-- Production, Transportation, and Material Moving Occupations (51--53)	
+O51	Occupation-- Production Occupations	
+O53	Occupation-- Transportation and Material Moving Occupations	
+O55	Occupation-- Military Occupations	
+OTS	Private industry-- Other services, except public administration	
+P1X	Part-- Head	
+P2X	Part-- Neck, including throat	
+P31	Part-- Chest, including ribs, internal organs	
+P32	Part-- Back, including spine, spinal cord	
+P33	Part-- Abdomen	
+P34	Part-- Pelvic region	
+P3X	Part-- Trunk	
+P4X	Part-- Upper extremities	
+P5X	Part-- Lower extremities	
+P6X	Part-- Body systems	
+P81	Part-- Head and neck	
+P82	Part-- Head, neck, and trunk	
+P83	Part-- Head and trunk	
+P84	Part-- Neck and back	
+P89	Part-- Other multiple body parts	
+P8A	Part-- Whole body	
+P8X	Part-- Multiple body parts	
+PBS	Private industry-- Professional and business services	
+PST	Private industry-- Professional, scientific, and technical services	
+RAF	Race-- Asian, Foreign-born	
+RAN	Race-- Asian, Native-born	
+RAT	Race-- Asian, non-Hispanic, Total	
+RBF	Race-- Black or African-American, Foreign-born	
+RBN	Race-- Black or African-American, Native-born	
+RBT	Race-- Black or African-American, non-Hispanic, Total	
+RET	Private industry-- Retail trade	
+RFT	Race-- Total, Native-born	
+RHF	Race-- Hispanic or Latino, Foreign-born	
+RHT	Race-- Hispanic or Latino, Total	
+RIN	Race-- American Indian or Alaska Native, Native-born	
+RIT	Race-- American Indian or Alaska Native, non-Hispanic, Total	
+RMF	Race-- Person of multiple races, Foreign-born	
+RMN	Race-- Person of multiple races, Native-born	
+RMT	Race-- Person of multiple races, non-Hispanic, Total	
+RNT	Race-- Total, Foreign-born	
+ROF	Race-- Other races or not reported, Foreign-born	
+RON	Race-- Other races or not reported, Native-born	
+ROT	Race-- Other races or not reported, non-Hispanic, Total	
+RPF	Race-- Native Hawaiian or Pacific Islander, Foreign-born	
+RPN	Race-- Native Hawaiian or Pacific Islander, Native-born	
+RPT	Race-- Native Hawaiian or Pacific Islander, non-Hispanic, Total	
+RRL	Private industry-- Real estate and rental and leasing	
+RWF	Race-- White, Foreign-born	
+RWN	Race-- White, Native-born	
+RWT	Race-- White, non-Hispanic, Total	
+S1X	Primary source of injury-- Chemicals and chemical products	
+S2X	Primary source of injury-- Containers, furniture, and fixtures	
+S31	Primary source of injury-- Agricultural and garden machinery	
+S32	Primary source of injury-- Construction, logging, and mining machinery	
+S34	Primary source of injury-- Material and personnel handling machinery	
+S3X	Primary source of injury-- Machinery	
+S41	Primary source of injury-- Building materials--solid elements	
+S44	Primary source of injury-- Machine, tool, and electric parts	
+S4X	Primary source of injury-- Parts and materials	
+S51	Primary source of injury-- Animals	
+S56	Primary source of injury-- Person--injured or ill worker	
+S57	Primary source of injury-- Person--other than injured or ill worker	
+S58	Primary source of injury-- Plants, trees, vegetation--not processed	
+S5A	Primary source of injury-- Relative or domestic partner of injured or ill worker	
+S5B	Primary source of injury-- Co-worker or work associate of injured or ill worker	
+S5C	Primary source of injury-- Client or customer	
+S5D	Primary source of injury-- Acquaintance	
+S5E	Primary source of injury-- Assailant, suspect, inmate	
+S5F	Primary source of injury-- Robber	
+S5G	Primary source of injury-- Inmate or detainee in custody	
+S5H	Primary source of injury-- Suspect not yet apprehended	
+S5I	Primary source of injury-- Trees, logs, limbs	
+S5J	Primary source of injury-- Trees	
+S5K	Primary source of injury-- Logs	
+S5X	Primary source of injury-- Persons, plants, animals, and minerals	
+S62	Primary source of injury-- Buildings--office, plant, residential	
+S63	Primary source of injury-- Structures other than buildings	
+S65	Primary source of injury-- Other structural elements	
+S67	Primary source of injury-- Geographical structures	
+S6A	Primary source of injury-- Scaffolds, staging	
+S6B	Primary source of injury-- Towers, poles	
+S6C	Primary source of injury-- Roofs	
+S6D	Primary source of injury-- Elevator shafts	
+S6E	Primary source of injury-- Stairs, steps, escalators	
+S6X	Primary source of injury-- Structures and surfaces	
+S74	Primary source of injury-- Ladders	
+S7X	Primary source of injury-- Tools, instruments, and equipment	
+S81	Primary source of injury-- Aircraft	
+S82	Primary source of injury-- Rail vehicles	
+S83	Primary source of injury-- Water vehicles	
+S84	Primary source of injury-- Highway vehicles, motorized	
+S86	Primary source of injury-- SUV, sports utility vehicle	
+S87	Primary source of injury-- Off-road and industrial vehicles--powered	
+S88	Primary source of injury-- Plant and industrial vehicles--nonpowered	
+S8A	Primary source of injury-- Passenger vehicles--automobiles, buses, and passenger vans	
+S8B	Primary source of injury-- Automobile	
+S8C	Primary source of injury-- Trucks--motorized freight hauling and utility	
+S8D	Primary source of injury-- Semi, tractor-trailer, tanker truck	
+S8E	Primary source of injury-- Dump truck	
+S8F	Primary source of injury-- Garbage, recycling, or refuse truck	
+S8G	Primary source of injury-- Delivery truck or van	
+S8H	Primary source of injury-- Multi-purpose highway vehicles	
+S8I	Primary source of injury-- Industrial vehicles, material hauling and transport--powered	
+S8J	Primary source of injury-- Forklift, order picker, platform truck--powered	
+S8K	Primary source of injury-- Tractors, PTOs	
+S8X	Primary source of injury-- Vehicles	
+S9A	Primary source of injury-- Temperature extremes--environmental	
+S9B	Primary source of injury-- Water	
+SP1	Private industry-- Service providing	
+T1A	Secondary source of injury-- Petroleum fuels, distillates, and products, n.e.c.	
+T1B	Secondary source of injury-- Drugs, alcohol, and medicines	
+T1X	Secondary source of injury-- Chemicals and chemical products	
+T2X	Secondary source of injury-- Containers, furniture, and fixtures	
+T3X	Secondary source of injury-- Machinery	
+T42	Secondary source of injury-- Fasteners, connectors, ropes, ties	
+T44	Secondary source of injury-- Machine, tool, and electric parts	
+T4X	Secondary source of injury-- Parts and materials	
+T58	Secondary source of injury-- Plants, trees, vegetation--not processed	
+T5A	Secondary source of injury-- Trees, logs, limbs	
+T5X	Secondary source of injury-- Persons, plants, animals, and minerals	
+T61	Secondary source of injury-- Confined spaces	
+T62	Secondary source of injury-- Buildings--office, plant, residential	
+T63	Secondary source of injury-- Structures other than buildings	
+T66	Secondary source of injury-- Floors, walkways, ground surfaces	
+T67	Secondary source of injury-- Geographical structures	
+T6A	Secondary source of injury-- Guardrails, road dividers	
+T6B	Secondary source of injury-- Raised natural structures, hills, mountains	
+T6C	Secondary source of injury-- Water bodies--natural	
+T6X	Secondary source of injury-- Structures and surfaces	
+T7A	Secondary source of injury-- Knives, n.e.c.	
+T7B	Secondary source of injury-- Firearms	
+T7X	Secondary source of injury-- Tools, instruments, and equipment	
+T81	Secondary source of injury-- Aircraft	
+T82	Secondary source of injury-- Rail vehicles	
+T83	Secondary source of injury-- Water vehicles	
+T84	Secondary source of injury-- Highway vehicles, motorized	
+T86	Secondary source of injury-- Off-road and industrial vehicles--powered	
+T87	Secondary source of injury-- Plant and industrial vehicles--nonpowered	
+T8A	Secondary source of injury-- Passenger vehicles--automobiles, buses, and passenger vans	
+T8B	Secondary source of injury-- Trucks--motorized freight hauling and utility	
+T8C	Secondary source of injury-- Forklift, order picker, platform truck--powered	
+T8D	Secondary source of injury-- Tractors, PTOs	
+T8X	Secondary source of injury-- Vehicles	
+T91	Secondary source of injury-- Apparel and textiles	
+T92	Secondary source of injury-- Environmental and elemental conditions	
+T9A	Secondary source of injury-- Weather and atmospheric conditions	
+TRW	Private industry-- Transportation and warehousing	
+TTU	Private industry-- Trade, transportation, and utilities	
+UTL	Private industry-- Utilities	
+WAX	Worker status-- Wage and salary	
+WBX	Worker status-- Self-employed	
+WHT	Private industry-- Wholesale trade	
+X11	Worker activity-- Driving or operating a vehicle	
+X12	Worker activity-- Riding in or on a vehicle	
+X13	Worker activity-- Other transportation or pedestrian activities	
+X1X	Worker activity-- Vehicular and transportation operations	
+X2X	Worker activity-- Using or operating tools, machinery	
+X3X	Worker activity-- Constructing, repairing, cleaning	
+X4X	Worker activity-- Protective service activities	
+X5X	Worker activity-- Material handing operations	
+X6X	Worker activity-- Physical activities, n.e.c.	
+X71	Worker activity-- Tending an establishment, waiting on customers	
+X7X	Worker activity-- Other activities	
+Y14	Worker location-- Residential construction sites	
+Y1X	Worker location-- Home	
+Y2X	Worker location-- Farm	
+Y3X	Worker location-- Mine and quarry	
+Y47	Worker location-- Construction site (non-residential)	
+Y48	Worker location-- Factory, plant	
+Y4X	Worker location-- Industrial place and premises	
+Y5X	Worker location-- Place for recreation and sport	
+Y62	Worker location-- Interstate, freeway, or expressway	
+Y63	Worker location-- Other highway (State or U.S.)	
+Y64	Worker location-- Local road or street	
+Y65	Worker location-- Road construction	
+Y6X	Worker location-- Street and highway	
+Y74	Worker location-- Convenience store	
+Y75	Worker location-- Office building	
+Y76	Worker location-- Restaurant, cafe	
+Y7X	Worker location-- Public building	
+Y8X	Worker location-- Residential institution	

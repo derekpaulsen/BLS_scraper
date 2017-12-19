@@ -1,0 +1,4 @@
+costfactor_code	costfactor_text
+
+D	Cost of compensation (Cost per hour worked)
+P	Percent of total compensation

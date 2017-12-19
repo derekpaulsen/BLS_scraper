@@ -1,0 +1,3 @@
+duration_code	duration_text
+0	Indexes or values	
+1	Annual percent changes	

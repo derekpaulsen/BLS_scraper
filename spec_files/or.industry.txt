@@ -1,0 +1,2 @@
+industry_code	industry_text	display_level	selectable	sort_sequence
+0000	All workers	0	T	1	

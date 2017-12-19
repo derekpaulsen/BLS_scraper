@@ -1,0 +1,7 @@
+region_code	region_text	display_level	selectable	sort_sequence
+
+00	Total US	0 	T	1    
+MW	Midwest (Only available for Total Nonfarm)	1 	T	4    
+NE	Northeast (Only available for Total Nonfarm)	1 	T	2    
+SO	South (Only available for Total Nonfarm)	1 	T	3    
+WE	West (Only available for Total Nonfarm)	1 	T	5    

@@ -1,0 +1,11 @@
+case_type_code	case_type_text
+
+1	Total recordable cases
+2	Cases involving days away from work, job restriction, or transfer
+3	Cases involving days away from work
+4	Cases involving days of job transfer or restriction
+8	Other recordable cases
+T	Total recordable cases of poisoning
+U	Total recordable cases of skin disease
+W	Total recordable cases of respiratory illnesses
+Z	Total recordable cases of all other illnesses

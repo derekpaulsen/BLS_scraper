@@ -1,0 +1,2357 @@
+case_code	category_code	category_text	display_level	selectable	sort_sequence
+3	00X	All industry	0	T	1	
+3	ABX	Age group (14 - 15 yrs.)	0	T	16	
+3	ACX	Age group (16 - 19 yrs.)	0	T	17	
+3	ADX	Age group (20 - 24 yrs.)	0	T	18	
+3	AEX	Age group (25 - 34 yrs.)	0	T	19	
+3	AFX	Age group (35 - 44 yrs.)	0	T	20	
+3	AGX	Age group (45 - 54 yrs.)	0	T	21	
+3	AHX	Age group (55 - 64 yrs.)	0	T	22	
+3	AIX	Age group (65+ yrs.)	0	T	23	
+3	AJX	Age group (not reported)	0	T	24	
+3	DAX	DAFW (1 day)	0	T	25	
+3	DBX	DAFW (2 days)	0	T	26	
+3	DCX	DAFW (3 - 5 days)	0	T	27	
+3	DDX	DAFW (6 - 10 days)	0	T	28	
+3	DEX	DAFW (11 - 20 days)	0	T	29	
+3	DFX	DAFW (21 - 30 days)	0	T	30	
+3	DGX	DAFW (31+ days)	0	T	31	
+3	E11	Event - Intentional injury by other person	0	T	32	
+3	E12	Event - Injury by person-unintentional or intent unknown	0	T	33	
+3	E13	Event - Animal and insect related incidents	0	T	34	
+3	E1X	Event - Violence and other injuries by persons or animal	0	T	35	
+3	E26	Event - Roadway incidents involving motorized land vehicles	0	T	36	
+3	E2X	Event - Transportation incidents	0	T	37	
+3	E3X	Event - Fires and explosions	0	T	38	
+3	E41	Event - Slips, trips without fall	0	T	39	
+3	E42	Event - Fall on same level	0	T	40	
+3	E43	Event - Fall to lower level	0	T	41	
+3	E4X	Event - Falls, slips, trips	0	T	42	
+3	E5X	Event - Exposure to harmful substances or enviroments	0	T	43	
+3	E62	Event - Struck by object or equipment	0	T	44	
+3	E63	Event - Struck against object or equipment	0	T	45	
+3	E64	Event - Caught in or compressed by object or equipment	0	T	46	
+3	E6X	Event - Contact with object, equipment	0	T	47	
+3	E72	Event - Repetitive motion involving microtasks	0	T	48	
+3	E7A	Event - Overexertion in lifting or lowering	0	T	49	
+3	E7X	Event - Overexertion and bodily reaction	0	T	50	
+3	EXX	Event - all other	0	T	51	
+3	GFX	Gender (Female)	0	T	52	
+3	GMX	Gender (Male)	0	T	53	
+3	GNX	Gender (Not reported)	0	T	54	
+3	HAX	Hours (before shift began)	0	T	55	
+3	HBX	Hours (less than 1 hour)	0	T	56	
+3	HCX	Hours (1 -2 hours)	0	T	57	
+3	HDX	Hours (2 - 4 hours)	0	T	58	
+3	HEX	Hours (4 - 6 hours)	0	T	59	
+3	HFX	Hours (6 - 8 hours)	0	T	60	
+3	HGX	Hours (8 - 10 hours)	0	T	61	
+3	HHX	Hours (10 - 12 hours)	0	T	62	
+3	HIX	Hours (12 - 16 hours)	0	T	63	
+3	HJX	Hours (more than 16 hours)	0	T	64	
+3	HKX	Hours (not reported)	0	T	65	
+3	LAX	LOS (< 3 mos.)	0	T	66	
+3	LBX	LOS (3 - 11 mos.)	0	T	67	
+3	LCX	LOS (1 - 5 yrs.)	0	T	68	
+3	LDX	LOS (5 yrs.)	0	T	69	
+3	LEX	LOS (Not reported)	0	T	70	
+3	MSD	Musculoskeletal disorders	0	T	71	
+3	N1A	Nature - Fractures	0	T	72	
+3	N1B	Nature - Sprains, strains, tears	0	T	73	
+3	N1C	Nature - Amputations	0	T	74	
+3	N1D	Nature - Bruise, contusions	0	T	75	
+3	N1E	Nature - Chemical burns and corrosions	0	T	76	
+3	N1F	Nature - Heat (thermal) burns	0	T	77	
+3	N1G	Nature - Soreness, pain	0	T	78	
+3	N21	Nature - Cuts, lacerations	0	T	79	
+3	N22	Nature - Punctures (except gunshot wounds)	0	T	80	
+3	N2X	Nature - Cuts, lacerations, punctures	0	T	81	
+3	N3A	Nature - Carpal tunnel syndrome	0	T	82	
+3	N3B	Nature - Tendonitis	0	T	83	
+3	N81	Nature - With sprains	0	T	84	
+3	N82	Nature - With fractures	0	T	85	
+3	N8X	Nature - Multiple traumatic injuries	0	T	86	
+3	NXX	Nature - all other	0	T	87	
+3	O10	Occupation - Management, Business, and Financial Occupations (11-13)	0	T	88	
+3	O23	Occupation - Computer, Engineering, and Science Occupations (15-19)	0	T	90	
+3	O25	Occupation - Education, Legal, Community Service, Arts, and Media Occupations (21-27)	0	T	91	
+3	O27	Occupation - Healthcare Practitioners and Technical Occupations (29)	0	T	92	
+3	O30	Occupation - Service Occupations (31-39)	0	T	93	
+3	O41	Occupation - Sales and Related Occupations	0	T	94	
+3	O43	Occupation - Office and Administrative Support Occupations	0	T	95	
+3	O45	Occupation - Farming, Fishing, and Forestry Occupations	0	T	96	
+3	O47	Occupation - Construction and Extraction Occupations	0	T	97	
+3	O49	Occupation - Installation, Maintenance, and Repair Occupations	0	T	98	
+3	O51	Occupation - Production Occupations	0	T	99	
+3	O53	Occupation - Transportation and Material Moving Occupations	0	T	100	
+3	P11	Part - Eye	0	T	101	
+3	P1X	Part - Head	0	T	102	
+3	P2X	Part - Neck	0	T	103	
+3	P32	Part - Back	0	T	104	
+3	P3X	Part - Trunk	0	T	105	
+3	P41	Part - Shoulder	0	T	106	
+3	P42	Part - Arm	0	T	107	
+3	P43	Part - Wrist	0	T	108	
+3	P44	Part - Hand(s)	0	T	109	
+3	P4A	Part - Hand(s), except finger(s)	0	T	110	
+3	P4B	Part - Finger(s), fingernail(s)	0	T	111	
+3	P4X	Part - Upper extremities	0	T	112	
+3	P51	Part - Knee	0	T	113	
+3	P52	Part - Ankle	0	T	114	
+3	P53	Part - Foot	0	T	115	
+3	P54	Part - Toe, toenail	0	T	116	
+3	P5X	Part - Lower extremities	0	T	117	
+3	P6X	Part - Body systems	0	T	118	
+3	P8X	Part - Multiple	0	T	119	
+3	PXX	Part - all other	0	T	120	
+3	RAX	Race (American Indian or Alaska native)	0	T	121	
+3	RBX	Race (Asian)	0	T	122	
+3	RCX	Race (Black or African American)	0	T	123	
+3	RDX	Race (Hispanic or Latino)	0	T	124	
+3	REX	Race (Native Hawaiian or Other Pacific Islander)	0	T	125	
+3	RFX	Race (White)	0	T	126	
+3	RGX	Race (Not reported)	0	T	127	
+3	RHX	Race (Multi-race)	0	T	128	
+3	RIX	Race (Hispanic and other)	0	T	129	
+3	S1X	Source - Chemical, chemical products	0	T	140	
+3	S21	Source - Containers	0	T	141	
+3	S22	Source - Furniture, fixtures	0	T	142	
+3	S3X	Source - Machinery	0	T	143	
+3	S4X	Source - Parts and materials	0	T	144	
+3	S56	Source - Person, injured or ill worker	0	T	145	
+3	S57	Source - Person, other than injured or ill workers	0	T	146	
+3	S5B	Source - Worker motion or position	0	T	147	
+3	S5C	Source - Patient	0	T	148	
+3	S66	Source - Floors, walkways, ground surfaces	0	T	149	
+3	S74	Source - Ladder	0	T	151	
+3	S7A	Source - Handtools	0	T	152	
+3	S8C	Source - Trucks	0	T	153	
+3	S8D	Source - Cart, dolly, hand truck-nonpowered	0	T	154	
+3	S8X	Source - Vehicles	0	T	155	
+3	SXX	Source - all other	0	T	156	
+3	T2X	Secondary Source - Containers, furniture, and fixtures	0	T	130	
+3	T31	Secondary Source - Computers and peripheral equipment	0	T	131	
+3	T3X	Secondary Source - Machinery	0	T	132	
+3	T71	Secondary Source - Firearms, law enforcement, and other self-defense equipment	0	T	133	
+3	T7X	Secondary Source - Tools, instruments, and equipment	0	T	134	
+3	T84	Secondary Source - Highway vehicle, motorized	0	T	135	
+3	T8X	Secondary Source - Vehicles	0	T	136	
+3	T91	Secondary Source - Ice, sleet, snow	0	T	137	
+3	T92	Secondary Source - Liquids-nonchemical	0	T	138	
+3	TAX	Time (12:01AM - 4:00AM)	0	T	157	
+3	TBX	Time (4:01AM - 8:00AM)	0	T	158	
+3	TCX	Time (8:01AM - 12Noon)	0	T	159	
+3	TDX	Time (12:01PM - 4:00PM)	0	T	160	
+3	TEX	Time (4:01PM - 8:00PM)	0	T	161	
+3	TFX	Time (8:01PM - 12Midnight)	0	T	162	
+3	TGX	Time (not reported)	0	T	163	
+3	TXX	Secondary Source - all other	0	T	139	
+3	WAX	Weekday (Sunday)	0	T	164	
+3	WBX	Weekday (Monday)	0	T	165	
+3	WCX	Weekday (Tuesday)	0	T	166	
+3	WDX	Weekday (Wednesday)	0	T	167	
+3	WEX	Weekday (Thursday)	0	T	168	
+3	WFX	Weekday (Friday)	0	T	169	
+3	WGX	Weekday (Saturday)	0	T	170	
+A	00X	All industry	0	T	2	
+A	ADW	Industry - Administration and support and waste management	0	T	212	
+A	AER	Industry - Arts, entertainment, and recreation	0	T	213	
+A	AFH	Industry - Agriculture, forestry, fishing, and hunting	0	T	214	
+A	AFS	Industry - Accommodation and food services	0	T	215	
+A	CON	Industry - Construction	0	T	216	
+A	DAX	DAFW (1 day)	0	T	171	
+A	DBX	DAFW (2 days)	0	T	172	
+A	DCX	DAFW (3 - 5 days)	0	T	173	
+A	DDX	DAFW (6 - 10 days)	0	T	174	
+A	DEX	DAFW (11 - 20 days)	0	T	175	
+A	DFX	DAFW (21 - 30 days)	0	T	176	
+A	DGX	DAFW (31+ days)	0	T	177	
+A	E11	Event - Intentional injury by other person	0	T	178	
+A	E12	Event - Injury by person-unintentional or intent unknown	0	T	179	
+A	E13	Event - Animal and insect related incidents	0	T	180	
+A	E1X	Event - Violence and other injuries by persons or animal	0	T	181	
+A	E26	Event - Roadway incidents involving motorized land vehicles	0	T	182	
+A	E2X	Event - Transportation incidents	0	T	183	
+A	E3X	Event - Fires and explosions	0	T	184	
+A	E41	Event - Slips, trips without fall	0	T	185	
+A	E42	Event - Fall on same level	0	T	186	
+A	E43	Event - Fall to lower level	0	T	187	
+A	E4X	Event - Falls, slips, trips	0	T	188	
+A	E5X	Event - Exposure to harmful substances or enviroments	0	T	189	
+A	E62	Event - Struck by object or equipment	0	T	190	
+A	E63	Event - Struck against object or equipment	0	T	191	
+A	E64	Event - Caught in or compressed by object or equipment	0	T	192	
+A	E6X	Event - Contact with object, equipment	0	T	193	
+A	E72	Event - Repetitive motion involving microtasks	0	T	194	
+A	E7A	Event - Overexertion in lifting or lowering	0	T	195	
+A	E7X	Event - Overexertion and bodily reaction	0	T	196	
+A	EDS	Industry - Educational services	0	T	217	
+A	EHS	Industry - Education and health services	0	T	218	
+A	EXX	Event - all other	0	T	197	
+A	FIA	Industry - Financial activities	0	T	219	
+A	FIN	Industry - Finance and insurance	0	T	220	
+A	GFX	Gender (Female)	0	T	198	
+A	GMX	Gender (Male)	0	T	199	
+A	GNX	Gender (Not reported)	0	T	200	
+A	GP1	Industry - Goods producing	0	T	221	
+A	HAS	Industry - Health care and social assistance	0	T	222	
+A	HAX	Hours (before shift began)	0	T	201	
+A	HBX	Hours (less than 1 hour)	0	T	202	
+A	HCX	Hours (1 -2 hours)	0	T	203	
+A	HDX	Hours (2 - 4 hours)	0	T	204	
+A	HEX	Hours (4 - 6 hours)	0	T	205	
+A	HFX	Hours (6 - 8 hours)	0	T	206	
+A	HGX	Hours (8 - 10 hours)	0	T	207	
+A	HHX	Hours (10 - 12 hours)	0	T	208	
+A	HIX	Hours (12 - 16 hours)	0	T	209	
+A	HJX	Hours (more than 16 hours)	0	T	210	
+A	HKX	Hours (not reported)	0	T	211	
+A	INF	Industry - Information	0	T	223	
+A	LAX	LOS (< 3 mos.)	0	T	240	
+A	LBX	LOS (3 - 11 mos.)	0	T	241	
+A	LCX	LOS (1 - 5 yrs.)	0	T	242	
+A	LDX	LOS (5 yrs.)	0	T	243	
+A	LEH	Industry - Leisure and hospitality	0	T	224	
+A	LEX	LOS (Not reported)	0	T	244	
+A	MCE	Industry - Management of companies and enterprises	0	T	225	
+A	MFG	Industry - Manufacturing	0	T	226	
+A	MIN	Industry - Mining	0	T	227	
+A	MSD	Musculoskeletal disorders	0	T	245	
+A	N1A	Nature - Fractures	0	T	246	
+A	N1B	Nature - Sprains, strains, tears	0	T	247	
+A	N1C	Nature - Amputations	0	T	248	
+A	N1D	Nature - Bruise, contusions	0	T	249	
+A	N1E	Nature - Chemical burns and corrosions	0	T	250	
+A	N1F	Nature - Heat (thermal) burns	0	T	251	
+A	N1G	Nature - Soreness, pain	0	T	252	
+A	N21	Nature - Cuts, lacerations	0	T	253	
+A	N22	Nature - Punctures (except gunshot wounds)	0	T	254	
+A	N2X	Nature - Cuts, lacerations, punctures	0	T	255	
+A	N3A	Nature - Carpal tunnel syndrome	0	T	256	
+A	N3B	Nature - Tendonitis	0	T	257	
+A	N81	Nature - With sprains	0	T	258	
+A	N82	Nature - With fractures	0	T	259	
+A	N8X	Nature - Multiple traumatic injuries	0	T	260	
+A	NRM	Industry - Natural resources	0	T	228	
+A	NXX	Nature - all other	0	T	261	
+A	O10	Occupation - Management, Business, and Financial Occupations (11-13)	0	T	262	
+A	O23	Occupation - Computer, Engineering, and Science Occupations (15-19)	0	T	264	
+A	O25	Occupation - Education, Legal, Community Service, Arts, and Media Occupations (21-27)	0	T	265	
+A	O27	Occupation - Healthcare Practitioners and Technical Occupations (29)	0	T	266	
+A	O30	Occupation - Service Occupations (31-39)	0	T	267	
+A	O41	Occupation - Sales and Related Occupations	0	T	268	
+A	O43	Occupation - Office and Administrative Support Occupations	0	T	269	
+A	O45	Occupation - Farming, Fishing, and Forestry Occupations	0	T	270	
+A	O47	Occupation - Construction and Extraction Occupations	0	T	271	
+A	O49	Occupation - Installation, Maintenance, and Repair Occupations	0	T	272	
+A	O51	Occupation - Production Occupations	0	T	273	
+A	O53	Occupation - Transportation and Material Moving Occupations	0	T	274	
+A	OTS	Industry - Other services	0	T	229	
+A	P11	Part - Eye	0	T	275	
+A	P1X	Part - Head	0	T	276	
+A	P2X	Part - Neck	0	T	277	
+A	P32	Part - Back	0	T	278	
+A	P3X	Part - Trunk	0	T	279	
+A	P41	Part - Shoulder	0	T	280	
+A	P42	Part - Arm	0	T	281	
+A	P43	Part - Wrist	0	T	282	
+A	P44	Part - Hand(s)	0	T	283	
+A	P4A	Part - Hand(s), except finger(s)	0	T	284	
+A	P4B	Part - Finger(s), fingernail(s)	0	T	285	
+A	P4X	Part - Upper extremities	0	T	286	
+A	P51	Part - Knee	0	T	287	
+A	P52	Part - Ankle	0	T	288	
+A	P53	Part - Foot	0	T	289	
+A	P54	Part - Toe, toenail	0	T	290	
+A	P5X	Part - Lower extremities	0	T	291	
+A	P6X	Part - Body systems	0	T	292	
+A	P8X	Part - Multiple	0	T	293	
+A	PAD	Industry - Public Administration	0	T	230	
+A	PBS	Industry - Professional business services	0	T	231	
+A	PST	Industry - Professional, scientific, and technical services	0	T	232	
+A	PXX	Part - all other	0	T	294	
+A	RAX	Race (American Indian or Alaska native)	0	T	295	
+A	RBX	Race (Asian)	0	T	296	
+A	RCX	Race (Black or African American)	0	T	297	
+A	RDX	Race (Hispanic or Latino)	0	T	298	
+A	RET	Industry - Retail trade	0	T	233	
+A	REX	Race (Native Hawaiian or Other Pacific Islander)	0	T	299	
+A	RFX	Race (White)	0	T	300	
+A	RGX	Race (Not reported)	0	T	301	
+A	RHX	Race (Multi-race)	0	T	302	
+A	RIX	Race (Hispanic and other)	0	T	303	
+A	RRL	Industry - Real estate and rental leasing	0	T	234	
+A	S1X	Source - Chemical, chemical products	0	T	314	
+A	S21	Source - Containers	0	T	315	
+A	S22	Source - Furniture, fixtures	0	T	316	
+A	S3X	Source - Machinery	0	T	317	
+A	S4X	Source - Parts and materials	0	T	318	
+A	S56	Source - Person, injured or ill worker	0	T	319	
+A	S57	Source - Person, other than injured or ill workers	0	T	320	
+A	S5B	Source - Worker motion or position	0	T	321	
+A	S5C	Source - Patient	0	T	322	
+A	S66	Source - Floors, walkways, ground surfaces	0	T	323	
+A	S74	Source - Ladder	0	T	325	
+A	S7A	Source - Handtools	0	T	326	
+A	S8C	Source - Trucks	0	T	327	
+A	S8D	Source - Cart, dolly, hand truck-nonpowered	0	T	328	
+A	S8X	Source - Vehicles	0	T	329	
+A	SP1	Industry - Service providing	0	T	235	
+A	SXX	Source - all other	0	T	330	
+A	T2X	Secondary Source - Containers, furniture, and fixtures	0	T	304	
+A	T31	Secondary Source - Computers and peripheral equipment	0	T	305	
+A	T3X	Secondary Source - Machinery	0	T	306	
+A	T71	Secondary Source - Firearms, law enforcement, and other self-defense equipment	0	T	307	
+A	T7X	Secondary Source - Tools, instruments, and equipment	0	T	308	
+A	T84	Secondary Source - Highway vehicle, motorized	0	T	309	
+A	T8X	Secondary Source - Vehicles	0	T	310	
+A	T91	Secondary Source - Ice, sleet, snow	0	T	311	
+A	T92	Secondary Source - Liquids-nonchemical	0	T	312	
+A	TAX	Time (12:01AM - 4:00AM)	0	T	331	
+A	TBX	Time (4:01AM - 8:00AM)	0	T	332	
+A	TCX	Time (8:01AM - 12Noon)	0	T	333	
+A	TDX	Time (12:01PM - 4:00PM)	0	T	334	
+A	TEX	Time (4:01PM - 8:00PM)	0	T	335	
+A	TFX	Time (8:01PM - 12Midnight)	0	T	336	
+A	TGX	Time (not reported)	0	T	337	
+A	TRW	Industry - Transportation and warehousing	0	T	236	
+A	TTU	Industry - Trade, transportation, and utilities	0	T	237	
+A	TXX	Secondary Source - all other	0	T	313	
+A	UTL	Industry - Utilities	0	T	238	
+A	WAX	Weekday (Sunday)	0	T	338	
+A	WBX	Weekday (Monday)	0	T	339	
+A	WCX	Weekday (Tuesday)	0	T	340	
+A	WDX	Weekday (Wednesday)	0	T	341	
+A	WEX	Weekday (Thursday)	0	T	342	
+A	WFX	Weekday (Friday)	0	T	343	
+A	WGX	Weekday (Saturday)	0	T	344	
+A	WHT	Industry - Wholesale trade	0	T	239	
+E	00X	All industry	0	T	3	
+E	ABX	Age group (14 - 15 yrs.)	0	T	346	
+E	ACX	Age group (16 - 19 yrs.)	0	T	347	
+E	ADW	Industry - Administration and support and waste management	0	T	376	
+E	ADX	Age group (20 - 24 yrs.)	0	T	348	
+E	AER	Industry - Arts, entertainment, and recreation	0	T	377	
+E	AEX	Age group (25 - 34 yrs.)	0	T	349	
+E	AFH	Industry - Agriculture, forestry, fishing, and hunting	0	T	378	
+E	AFS	Industry - Accommodation and food services	0	T	379	
+E	AFX	Age group (35 - 44 yrs.)	0	T	350	
+E	AGX	Age group (45 - 54 yrs.)	0	T	351	
+E	AHX	Age group (55 - 64 yrs.)	0	T	352	
+E	AIX	Age group (65+ yrs.)	0	T	353	
+E	AJX	Age group (not reported)	0	T	354	
+E	CON	Industry - Construction	0	T	380	
+E	DAX	DAFW (1 day)	0	T	355	
+E	DBX	DAFW (2 days)	0	T	356	
+E	DCX	DAFW (3 - 5 days)	0	T	357	
+E	DDX	DAFW (6 - 10 days)	0	T	358	
+E	DEX	DAFW (11 - 20 days)	0	T	359	
+E	DFX	DAFW (21 - 30 days)	0	T	360	
+E	DGX	DAFW (31+ days)	0	T	361	
+E	EDS	Industry - Educational services	0	T	381	
+E	EHS	Industry - Education and health services	0	T	382	
+E	FIA	Industry - Financial activities	0	T	383	
+E	FIN	Industry - Finance and insurance	0	T	384	
+E	GFX	Gender (Female)	0	T	362	
+E	GMX	Gender (Male)	0	T	363	
+E	GNX	Gender (Not reported)	0	T	364	
+E	GP1	Industry - Goods producing	0	T	385	
+E	HAS	Industry - Health care and social assistance	0	T	386	
+E	HAX	Hours (before shift began)	0	T	365	
+E	HBX	Hours (less than 1 hour)	0	T	366	
+E	HCX	Hours (1 -2 hours)	0	T	367	
+E	HDX	Hours (2 - 4 hours)	0	T	368	
+E	HEX	Hours (4 - 6 hours)	0	T	369	
+E	HFX	Hours (6 - 8 hours)	0	T	370	
+E	HGX	Hours (8 - 10 hours)	0	T	371	
+E	HHX	Hours (10 - 12 hours)	0	T	372	
+E	HIX	Hours (12 - 16 hours)	0	T	373	
+E	HJX	Hours (more than 16 hours)	0	T	374	
+E	HKX	Hours (not reported)	0	T	375	
+E	INF	Industry - Information	0	T	387	
+E	LAX	LOS (< 3 mos.)	0	T	404	
+E	LBX	LOS (3 - 11 mos.)	0	T	405	
+E	LCX	LOS (1 - 5 yrs.)	0	T	406	
+E	LDX	LOS (5 yrs.)	0	T	407	
+E	LEH	Industry - Leisure and hospitality	0	T	388	
+E	LEX	LOS (Not reported)	0	T	408	
+E	MCE	Industry - Management of companies and enterprises	0	T	389	
+E	MFG	Industry - Manufacturing	0	T	390	
+E	MIN	Industry - Mining	0	T	391	
+E	MSD	Musculoskeletal disorders	0	T	409	
+E	N1A	Nature - Fractures	0	T	410	
+E	N1B	Nature - Sprains, strains, tears	0	T	411	
+E	N1C	Nature - Amputations	0	T	412	
+E	N1D	Nature - Bruise, contusions	0	T	413	
+E	N1E	Nature - Chemical burns and corrosions	0	T	414	
+E	N1F	Nature - Heat (thermal) burns	0	T	415	
+E	N1G	Nature - Soreness, pain	0	T	416	
+E	N21	Nature - Cuts, lacerations	0	T	417	
+E	N22	Nature - Punctures (except gunshot wounds)	0	T	418	
+E	N2X	Nature - Cuts, lacerations, punctures	0	T	419	
+E	N3A	Nature - Carpal tunnel syndrome	0	T	420	
+E	N3B	Nature - Tendonitis	0	T	421	
+E	N81	Nature - With sprains	0	T	422	
+E	N82	Nature - With fractures	0	T	423	
+E	N8X	Nature - Multiple traumatic injuries	0	T	424	
+E	NRM	Industry - Natural resources	0	T	392	
+E	NXX	Nature - all other	0	T	425	
+E	O10	Occupation - Management, Business, and Financial Occupations (11-13)	0	T	426	
+E	O23	Occupation - Computer, Engineering, and Science Occupations (15-19)	0	T	428	
+E	O25	Occupation - Education, Legal, Community Service, Arts, and Media Occupations (21-27)	0	T	429	
+E	O27	Occupation - Healthcare Practitioners and Technical Occupations (29)	0	T	430	
+E	O30	Occupation - Service Occupations (31-39)	0	T	431	
+E	O41	Occupation - Sales and Related Occupations	0	T	432	
+E	O43	Occupation - Office and Administrative Support Occupations	0	T	433	
+E	O45	Occupation - Farming, Fishing, and Forestry Occupations	0	T	434	
+E	O47	Occupation - Construction and Extraction Occupations	0	T	435	
+E	O49	Occupation - Installation, Maintenance, and Repair Occupations	0	T	436	
+E	O51	Occupation - Production Occupations	0	T	437	
+E	O53	Occupation - Transportation and Material Moving Occupations	0	T	438	
+E	OTS	Industry - Other services	0	T	393	
+E	P11	Part - Eye	0	T	439	
+E	P1X	Part - Head	0	T	440	
+E	P2X	Part - Neck	0	T	441	
+E	P32	Part - Back	0	T	442	
+E	P3X	Part - Trunk	0	T	443	
+E	P41	Part - Shoulder	0	T	444	
+E	P42	Part - Arm	0	T	445	
+E	P43	Part - Wrist	0	T	446	
+E	P44	Part - Hand(s)	0	T	447	
+E	P4A	Part - Hand(s), except finger(s)	0	T	448	
+E	P4B	Part - Finger(s), fingernail(s)	0	T	449	
+E	P4X	Part - Upper extremities	0	T	450	
+E	P51	Part - Knee	0	T	451	
+E	P52	Part - Ankle	0	T	452	
+E	P53	Part - Foot	0	T	453	
+E	P54	Part - Toe, toenail	0	T	454	
+E	P5X	Part - Lower extremities	0	T	455	
+E	P6X	Part - Body systems	0	T	456	
+E	P8X	Part - Multiple	0	T	457	
+E	PAD	Industry - Public Administration	0	T	394	
+E	PBS	Industry - Professional business services	0	T	395	
+E	PST	Industry - Professional, scientific, and technical services	0	T	396	
+E	PXX	Part - all other	0	T	458	
+E	RAX	Race (American Indian or Alaska native)	0	T	459	
+E	RBX	Race (Asian)	0	T	460	
+E	RCX	Race (Black or African American)	0	T	461	
+E	RDX	Race (Hispanic or Latino)	0	T	462	
+E	RET	Industry - Retail trade	0	T	397	
+E	REX	Race (Native Hawaiian or Other Pacific Islander)	0	T	463	
+E	RFX	Race (White)	0	T	464	
+E	RGX	Race (Not reported)	0	T	465	
+E	RHX	Race (Multi-race)	0	T	466	
+E	RIX	Race (Hispanic and other)	0	T	467	
+E	RRL	Industry - Real estate and rental leasing	0	T	398	
+E	S1X	Source - Chemical, chemical products	0	T	478	
+E	S21	Source - Containers	0	T	479	
+E	S22	Source - Furniture, fixtures	0	T	480	
+E	S3X	Source - Machinery	0	T	481	
+E	S4X	Source - Parts and materials	0	T	482	
+E	S56	Source - Person, injured or ill worker	0	T	483	
+E	S57	Source - Person, other than injured or ill workers	0	T	484	
+E	S5B	Source - Worker motion or position	0	T	485	
+E	S5C	Source - Patient	0	T	486	
+E	S66	Source - Floors, walkways, ground surfaces	0	T	487	
+E	S74	Source - Ladder	0	T	489	
+E	S7A	Source - Handtools	0	T	490	
+E	S8C	Source - Trucks	0	T	491	
+E	S8D	Source - Cart, dolly, hand truck-nonpowered	0	T	492	
+E	S8X	Source - Vehicles	0	T	493	
+E	SP1	Industry - Service providing	0	T	399	
+E	SXX	Source - all other	0	T	494	
+E	T2X	Secondary Source - Containers, furniture, and fixtures	0	T	468	
+E	T31	Secondary Source - Computers and peripheral equipment	0	T	469	
+E	T3X	Secondary Source - Machinery	0	T	470	
+E	T71	Secondary Source - Firearms, law enforcement, and other self-defense equipment	0	T	471	
+E	T7X	Secondary Source - Tools, instruments, and equipment	0	T	472	
+E	T84	Secondary Source - Highway vehicle, motorized	0	T	473	
+E	T8X	Secondary Source - Vehicles	0	T	474	
+E	T91	Secondary Source - Ice, sleet, snow	0	T	475	
+E	T92	Secondary Source - Liquids-nonchemical	0	T	476	
+E	TAX	Time (12:01AM - 4:00AM)	0	T	495	
+E	TBX	Time (4:01AM - 8:00AM)	0	T	496	
+E	TCX	Time (8:01AM - 12Noon)	0	T	497	
+E	TDX	Time (12:01PM - 4:00PM)	0	T	498	
+E	TEX	Time (4:01PM - 8:00PM)	0	T	499	
+E	TFX	Time (8:01PM - 12Midnight)	0	T	500	
+E	TGX	Time (not reported)	0	T	501	
+E	TRW	Industry - Transportation and warehousing	0	T	400	
+E	TTU	Industry - Trade, transportation, and utilities	0	T	401	
+E	TXX	Secondary Source - all other	0	T	477	
+E	UTL	Industry - Utilities	0	T	402	
+E	WAX	Weekday (Sunday)	0	T	502	
+E	WBX	Weekday (Monday)	0	T	503	
+E	WCX	Weekday (Tuesday)	0	T	504	
+E	WDX	Weekday (Wednesday)	0	T	505	
+E	WEX	Weekday (Thursday)	0	T	506	
+E	WFX	Weekday (Friday)	0	T	507	
+E	WGX	Weekday (Saturday)	0	T	508	
+E	WHT	Industry - Wholesale trade	0	T	403	
+G	00X	All industry	0	T	4	
+G	ABX	Age group (14 - 15 yrs.)	0	T	510	
+G	ACX	Age group (16 - 19 yrs.)	0	T	511	
+G	ADW	Industry - Administration and support and waste management	0	T	557	
+G	ADX	Age group (20 - 24 yrs.)	0	T	512	
+G	AER	Industry - Arts, entertainment, and recreation	0	T	558	
+G	AEX	Age group (25 - 34 yrs.)	0	T	513	
+G	AFH	Industry - Agriculture, forestry, fishing, and hunting	0	T	559	
+G	AFS	Industry - Accommodation and food services	0	T	560	
+G	AFX	Age group (35 - 44 yrs.)	0	T	514	
+G	AGX	Age group (45 - 54 yrs.)	0	T	515	
+G	AHX	Age group (55 - 64 yrs.)	0	T	516	
+G	AIX	Age group (65+ yrs.)	0	T	517	
+G	AJX	Age group (not reported)	0	T	518	
+G	CON	Industry - Construction	0	T	561	
+G	DAX	DAFW (1 day)	0	T	519	
+G	DBX	DAFW (2 days)	0	T	520	
+G	DCX	DAFW (3 - 5 days)	0	T	521	
+G	DDX	DAFW (6 - 10 days)	0	T	522	
+G	DEX	DAFW (11 - 20 days)	0	T	523	
+G	DFX	DAFW (21 - 30 days)	0	T	524	
+G	DGX	DAFW (31+ days)	0	T	525	
+G	E11	Event - Intentional injury by other person	0	T	526	
+G	E12	Event - Injury by person-unintentional or intent unknown	0	T	527	
+G	E13	Event - Animal and insect related incidents	0	T	528	
+G	E1X	Event - Violence and other injuries by persons or animal	0	T	529	
+G	E26	Event - Roadway incidents involving motorized land vehicles	0	T	530	
+G	E2X	Event - Transportation incidents	0	T	531	
+G	E3X	Event - Fires and explosions	0	T	532	
+G	E41	Event - Slips, trips without fall	0	T	533	
+G	E42	Event - Fall on same level	0	T	534	
+G	E43	Event - Fall to lower level	0	T	535	
+G	E4X	Event - Falls, slips, trips	0	T	536	
+G	E5X	Event - Exposure to harmful substances or enviroments	0	T	537	
+G	E62	Event - Struck by object or equipment	0	T	538	
+G	E63	Event - Struck against object or equipment	0	T	539	
+G	E64	Event - Caught in or compressed by object or equipment	0	T	540	
+G	E6X	Event - Contact with object, equipment	0	T	541	
+G	E72	Event - Repetitive motion involving microtasks	0	T	542	
+G	E7A	Event - Overexertion in lifting or lowering	0	T	543	
+G	E7X	Event - Overexertion and bodily reaction	0	T	544	
+G	EDS	Industry - Educational services	0	T	562	
+G	EHS	Industry - Education and health services	0	T	563	
+G	EXX	Event - all other	0	T	545	
+G	FIA	Industry - Financial activities	0	T	564	
+G	FIN	Industry - Finance and insurance	0	T	565	
+G	GP1	Industry - Goods producing	0	T	566	
+G	HAS	Industry - Health care and social assistance	0	T	567	
+G	HAX	Hours (before shift began)	0	T	546	
+G	HBX	Hours (less than 1 hour)	0	T	547	
+G	HCX	Hours (1 -2 hours)	0	T	548	
+G	HDX	Hours (2 - 4 hours)	0	T	549	
+G	HEX	Hours (4 - 6 hours)	0	T	550	
+G	HFX	Hours (6 - 8 hours)	0	T	551	
+G	HGX	Hours (8 - 10 hours)	0	T	552	
+G	HHX	Hours (10 - 12 hours)	0	T	553	
+G	HIX	Hours (12 - 16 hours)	0	T	554	
+G	HJX	Hours (more than 16 hours)	0	T	555	
+G	HKX	Hours (not reported)	0	T	556	
+G	INF	Industry - Information	0	T	568	
+G	LAX	LOS (< 3 mos.)	0	T	585	
+G	LBX	LOS (3 - 11 mos.)	0	T	586	
+G	LCX	LOS (1 - 5 yrs.)	0	T	587	
+G	LDX	LOS (5 yrs.)	0	T	588	
+G	LEH	Industry - Leisure and hospitality	0	T	569	
+G	LEX	LOS (Not reported)	0	T	589	
+G	MCE	Industry - Management of companies and enterprises	0	T	570	
+G	MFG	Industry - Manufacturing	0	T	571	
+G	MIN	Industry - Mining	0	T	572	
+G	MSD	Musculoskeletal disorders	0	T	590	
+G	N1A	Nature - Fractures	0	T	591	
+G	N1B	Nature - Sprains, strains, tears	0	T	592	
+G	N1C	Nature - Amputations	0	T	593	
+G	N1D	Nature - Bruise, contusions	0	T	594	
+G	N1E	Nature - Chemical burns and corrosions	0	T	595	
+G	N1F	Nature - Heat (thermal) burns	0	T	596	
+G	N1G	Nature - Soreness, pain	0	T	597	
+G	N21	Nature - Cuts, lacerations	0	T	598	
+G	N22	Nature - Punctures (except gunshot wounds)	0	T	599	
+G	N2X	Nature - Cuts, lacerations, punctures	0	T	600	
+G	N3A	Nature - Carpal tunnel syndrome	0	T	601	
+G	N3B	Nature - Tendonitis	0	T	602	
+G	N81	Nature - With sprains	0	T	603	
+G	N82	Nature - With fractures	0	T	604	
+G	N8X	Nature - Multiple traumatic injuries	0	T	605	
+G	NRM	Industry - Natural resources	0	T	573	
+G	NXX	Nature - all other	0	T	606	
+G	O10	Occupation - Management, Business, and Financial Occupations (11-13)	0	T	607	
+G	O23	Occupation - Computer, Engineering, and Science Occupations (15-19)	0	T	609	
+G	O25	Occupation - Education, Legal, Community Service, Arts, and Media Occupations (21-27)	0	T	610	
+G	O27	Occupation - Healthcare Practitioners and Technical Occupations (29)	0	T	611	
+G	O30	Occupation - Service Occupations (31-39)	0	T	612	
+G	O41	Occupation - Sales and Related Occupations	0	T	613	
+G	O43	Occupation - Office and Administrative Support Occupations	0	T	614	
+G	O45	Occupation - Farming, Fishing, and Forestry Occupations	0	T	615	
+G	O47	Occupation - Construction and Extraction Occupations	0	T	616	
+G	O49	Occupation - Installation, Maintenance, and Repair Occupations	0	T	617	
+G	O51	Occupation - Production Occupations	0	T	618	
+G	O53	Occupation - Transportation and Material Moving Occupations	0	T	619	
+G	OTS	Industry - Other services	0	T	574	
+G	P11	Part - Eye	0	T	620	
+G	P1X	Part - Head	0	T	621	
+G	P2X	Part - Neck	0	T	622	
+G	P32	Part - Back	0	T	623	
+G	P3X	Part - Trunk	0	T	624	
+G	P41	Part - Shoulder	0	T	625	
+G	P42	Part - Arm	0	T	626	
+G	P43	Part - Wrist	0	T	627	
+G	P44	Part - Hand(s)	0	T	628	
+G	P4A	Part - Hand(s), except finger(s)	0	T	629	
+G	P4B	Part - Finger(s), fingernail(s)	0	T	630	
+G	P4X	Part - Upper extremities	0	T	631	
+G	P51	Part - Knee	0	T	632	
+G	P52	Part - Ankle	0	T	633	
+G	P53	Part - Foot	0	T	634	
+G	P54	Part - Toe, toenail	0	T	635	
+G	P5X	Part - Lower extremities	0	T	636	
+G	P6X	Part - Body systems	0	T	637	
+G	P8X	Part - Multiple	0	T	638	
+G	PAD	Industry - Public Administration	0	T	575	
+G	PBS	Industry - Professional business services	0	T	576	
+G	PST	Industry - Professional, scientific, and technical services	0	T	577	
+G	PXX	Part - all other	0	T	639	
+G	RAX	Race (American Indian or Alaska native)	0	T	640	
+G	RBX	Race (Asian)	0	T	641	
+G	RCX	Race (Black or African American)	0	T	642	
+G	RDX	Race (Hispanic or Latino)	0	T	643	
+G	RET	Industry - Retail trade	0	T	578	
+G	REX	Race (Native Hawaiian or Other Pacific Islander)	0	T	644	
+G	RFX	Race (White)	0	T	645	
+G	RGX	Race (Not reported)	0	T	646	
+G	RHX	Race (Multi-race)	0	T	647	
+G	RIX	Race (Hispanic and other)	0	T	648	
+G	RRL	Industry - Real estate and rental leasing	0	T	579	
+G	S1X	Source - Chemical, chemical products	0	T	659	
+G	S21	Source - Containers	0	T	660	
+G	S22	Source - Furniture, fixtures	0	T	661	
+G	S3X	Source - Machinery	0	T	662	
+G	S4X	Source - Parts and materials	0	T	663	
+G	S56	Source - Person, injured or ill worker	0	T	664	
+G	S57	Source - Person, other than injured or ill workers	0	T	665	
+G	S5B	Source - Worker motion or position	0	T	666	
+G	S5C	Source - Patient	0	T	667	
+G	S66	Source - Floors, walkways, ground surfaces	0	T	668	
+G	S74	Source - Ladder	0	T	670	
+G	S7A	Source - Handtools	0	T	671	
+G	S8C	Source - Trucks	0	T	672	
+G	S8D	Source - Cart, dolly, hand truck-nonpowered	0	T	673	
+G	S8X	Source - Vehicles	0	T	674	
+G	SP1	Industry - Service providing	0	T	580	
+G	SXX	Source - all other	0	T	675	
+G	T2X	Secondary Source - Containers, furniture, and fixtures	0	T	649	
+G	T31	Secondary Source - Computers and peripheral equipment	0	T	650	
+G	T3X	Secondary Source - Machinery	0	T	651	
+G	T71	Secondary Source - Firearms, law enforcement, and other self-defense equipment	0	T	652	
+G	T7X	Secondary Source - Tools, instruments, and equipment	0	T	653	
+G	T84	Secondary Source - Highway vehicle, motorized	0	T	654	
+G	T8X	Secondary Source - Vehicles	0	T	655	
+G	T91	Secondary Source - Ice, sleet, snow	0	T	656	
+G	T92	Secondary Source - Liquids-nonchemical	0	T	657	
+G	TAX	Time (12:01AM - 4:00AM)	0	T	676	
+G	TBX	Time (4:01AM - 8:00AM)	0	T	677	
+G	TCX	Time (8:01AM - 12Noon)	0	T	678	
+G	TDX	Time (12:01PM - 4:00PM)	0	T	679	
+G	TEX	Time (4:01PM - 8:00PM)	0	T	680	
+G	TFX	Time (8:01PM - 12Midnight)	0	T	681	
+G	TGX	Time (not reported)	0	T	682	
+G	TRW	Industry - Transportation and warehousing	0	T	581	
+G	TTU	Industry - Trade, transportation, and utilities	0	T	582	
+G	TXX	Secondary Source - all other	0	T	658	
+G	UTL	Industry - Utilities	0	T	583	
+G	WAX	Weekday (Sunday)	0	T	683	
+G	WBX	Weekday (Monday)	0	T	684	
+G	WCX	Weekday (Tuesday)	0	T	685	
+G	WDX	Weekday (Wednesday)	0	T	686	
+G	WEX	Weekday (Thursday)	0	T	687	
+G	WFX	Weekday (Friday)	0	T	688	
+G	WGX	Weekday (Saturday)	0	T	689	
+G	WHT	Industry - Wholesale trade	0	T	584	
+H	00X	All industry	0	T	5	
+H	ABX	Age group (14 - 15 yrs.)	0	T	691	
+H	ACX	Age group (16 - 19 yrs.)	0	T	692	
+H	ADW	Industry - Administration and support and waste management	0	T	730	
+H	ADX	Age group (20 - 24 yrs.)	0	T	693	
+H	AER	Industry - Arts, entertainment, and recreation	0	T	731	
+H	AEX	Age group (25 - 34 yrs.)	0	T	694	
+H	AFH	Industry - Agriculture, forestry, fishing, and hunting	0	T	732	
+H	AFS	Industry - Accommodation and food services	0	T	733	
+H	AFX	Age group (35 - 44 yrs.)	0	T	695	
+H	AGX	Age group (45 - 54 yrs.)	0	T	696	
+H	AHX	Age group (55 - 64 yrs.)	0	T	697	
+H	AIX	Age group (65+ yrs.)	0	T	698	
+H	AJX	Age group (not reported)	0	T	699	
+H	CON	Industry - Construction	0	T	734	
+H	DAX	DAFW (1 day)	0	T	700	
+H	DBX	DAFW (2 days)	0	T	701	
+H	DCX	DAFW (3 - 5 days)	0	T	702	
+H	DDX	DAFW (6 - 10 days)	0	T	703	
+H	DEX	DAFW (11 - 20 days)	0	T	704	
+H	DFX	DAFW (21 - 30 days)	0	T	705	
+H	DGX	DAFW (31+ days)	0	T	706	
+H	E11	Event - Intentional injury by other person	0	T	707	
+H	E12	Event - Injury by person-unintentional or intent unknown	0	T	708	
+H	E13	Event - Animal and insect related incidents	0	T	709	
+H	E1X	Event - Violence and other injuries by persons or animal	0	T	710	
+H	E26	Event - Roadway incidents involving motorized land vehicles	0	T	711	
+H	E2X	Event - Transportation incidents	0	T	712	
+H	E3X	Event - Fires and explosions	0	T	713	
+H	E41	Event - Slips, trips without fall	0	T	714	
+H	E42	Event - Fall on same level	0	T	715	
+H	E43	Event - Fall to lower level	0	T	716	
+H	E4X	Event - Falls, slips, trips	0	T	717	
+H	E5X	Event - Exposure to harmful substances or enviroments	0	T	718	
+H	E62	Event - Struck by object or equipment	0	T	719	
+H	E63	Event - Struck against object or equipment	0	T	720	
+H	E64	Event - Caught in or compressed by object or equipment	0	T	721	
+H	E6X	Event - Contact with object, equipment	0	T	722	
+H	E72	Event - Repetitive motion involving microtasks	0	T	723	
+H	E7A	Event - Overexertion in lifting or lowering	0	T	724	
+H	E7X	Event - Overexertion and bodily reaction	0	T	725	
+H	EDS	Industry - Educational services	0	T	735	
+H	EHS	Industry - Education and health services	0	T	736	
+H	EXX	Event - all other	0	T	726	
+H	FIA	Industry - Financial activities	0	T	737	
+H	FIN	Industry - Finance and insurance	0	T	738	
+H	GFX	Gender (Female)	0	T	727	
+H	GMX	Gender (Male)	0	T	728	
+H	GNX	Gender (Not reported)	0	T	729	
+H	GP1	Industry - Goods producing	0	T	739	
+H	HAS	Industry - Health care and social assistance	0	T	740	
+H	INF	Industry - Information	0	T	741	
+H	LAX	LOS (< 3 mos.)	0	T	758	
+H	LBX	LOS (3 - 11 mos.)	0	T	759	
+H	LCX	LOS (1 - 5 yrs.)	0	T	760	
+H	LDX	LOS (5 yrs.)	0	T	761	
+H	LEH	Industry - Leisure and hospitality	0	T	742	
+H	LEX	LOS (Not reported)	0	T	762	
+H	MCE	Industry - Management of companies and enterprises	0	T	743	
+H	MFG	Industry - Manufacturing	0	T	744	
+H	MIN	Industry - Mining	0	T	745	
+H	MSD	Musculoskeletal disorders	0	T	763	
+H	N1A	Nature - Fractures	0	T	764	
+H	N1B	Nature - Sprains, strains, tears	0	T	765	
+H	N1C	Nature - Amputations	0	T	766	
+H	N1D	Nature - Bruise, contusions	0	T	767	
+H	N1E	Nature - Chemical burns and corrosions	0	T	768	
+H	N1F	Nature - Heat (thermal) burns	0	T	769	
+H	N1G	Nature - Soreness, pain	0	T	770	
+H	N21	Nature - Cuts, lacerations	0	T	771	
+H	N22	Nature - Punctures (except gunshot wounds)	0	T	772	
+H	N2X	Nature - Cuts, lacerations, punctures	0	T	773	
+H	N3A	Nature - Carpal tunnel syndrome	0	T	774	
+H	N3B	Nature - Tendonitis	0	T	775	
+H	N81	Nature - With sprains	0	T	776	
+H	N82	Nature - With fractures	0	T	777	
+H	N8X	Nature - Multiple traumatic injuries	0	T	778	
+H	NRM	Industry - Natural resources	0	T	746	
+H	NXX	Nature - all other	0	T	779	
+H	O10	Occupation - Management, Business, and Financial Occupations (11-13)	0	T	780	
+H	O23	Occupation - Computer, Engineering, and Science Occupations (15-19)	0	T	782	
+H	O25	Occupation - Education, Legal, Community Service, Arts, and Media Occupations (21-27)	0	T	783	
+H	O27	Occupation - Healthcare Practitioners and Technical Occupations (29)	0	T	784	
+H	O30	Occupation - Service Occupations (31-39)	0	T	785	
+H	O41	Occupation - Sales and Related Occupations	0	T	786	
+H	O43	Occupation - Office and Administrative Support Occupations	0	T	787	
+H	O45	Occupation - Farming, Fishing, and Forestry Occupations	0	T	788	
+H	O47	Occupation - Construction and Extraction Occupations	0	T	789	
+H	O49	Occupation - Installation, Maintenance, and Repair Occupations	0	T	790	
+H	O51	Occupation - Production Occupations	0	T	791	
+H	O53	Occupation - Transportation and Material Moving Occupations	0	T	792	
+H	OTS	Industry - Other services	0	T	747	
+H	P11	Part - Eye	0	T	793	
+H	P1X	Part - Head	0	T	794	
+H	P2X	Part - Neck	0	T	795	
+H	P32	Part - Back	0	T	796	
+H	P3X	Part - Trunk	0	T	797	
+H	P41	Part - Shoulder	0	T	798	
+H	P42	Part - Arm	0	T	799	
+H	P43	Part - Wrist	0	T	800	
+H	P44	Part - Hand(s)	0	T	801	
+H	P4A	Part - Hand(s), except finger(s)	0	T	802	
+H	P4B	Part - Finger(s), fingernail(s)	0	T	803	
+H	P4X	Part - Upper extremities	0	T	804	
+H	P51	Part - Knee	0	T	805	
+H	P52	Part - Ankle	0	T	806	
+H	P53	Part - Foot	0	T	807	
+H	P54	Part - Toe, toenail	0	T	808	
+H	P5X	Part - Lower extremities	0	T	809	
+H	P6X	Part - Body systems	0	T	810	
+H	P8X	Part - Multiple	0	T	811	
+H	PAD	Industry - Public Administration	0	T	748	
+H	PBS	Industry - Professional business services	0	T	749	
+H	PST	Industry - Professional, scientific, and technical services	0	T	750	
+H	PXX	Part - all other	0	T	812	
+H	RAX	Race (American Indian or Alaska native)	0	T	813	
+H	RBX	Race (Asian)	0	T	814	
+H	RCX	Race (Black or African American)	0	T	815	
+H	RDX	Race (Hispanic or Latino)	0	T	816	
+H	RET	Industry - Retail trade	0	T	751	
+H	REX	Race (Native Hawaiian or Other Pacific Islander)	0	T	817	
+H	RFX	Race (White)	0	T	818	
+H	RGX	Race (Not reported)	0	T	819	
+H	RHX	Race (Multi-race)	0	T	820	
+H	RIX	Race (Hispanic and other)	0	T	821	
+H	RRL	Industry - Real estate and rental leasing	0	T	752	
+H	S1X	Source - Chemical, chemical products	0	T	832	
+H	S21	Source - Containers	0	T	833	
+H	S22	Source - Furniture, fixtures	0	T	834	
+H	S3X	Source - Machinery	0	T	835	
+H	S4X	Source - Parts and materials	0	T	836	
+H	S56	Source - Person, injured or ill worker	0	T	837	
+H	S57	Source - Person, other than injured or ill workers	0	T	838	
+H	S5B	Source - Worker motion or position	0	T	839	
+H	S5C	Source - Patient	0	T	840	
+H	S66	Source - Floors, walkways, ground surfaces	0	T	841	
+H	S74	Source - Ladder	0	T	843	
+H	S7A	Source - Handtools	0	T	844	
+H	S8C	Source - Trucks	0	T	845	
+H	S8D	Source - Cart, dolly, hand truck-nonpowered	0	T	846	
+H	S8X	Source - Vehicles	0	T	847	
+H	SP1	Industry - Service providing	0	T	753	
+H	SXX	Source - all other	0	T	848	
+H	T2X	Secondary Source - Containers, furniture, and fixtures	0	T	822	
+H	T31	Secondary Source - Computers and peripheral equipment	0	T	823	
+H	T3X	Secondary Source - Machinery	0	T	824	
+H	T71	Secondary Source - Firearms, law enforcement, and other self-defense equipment	0	T	825	
+H	T7X	Secondary Source - Tools, instruments, and equipment	0	T	826	
+H	T84	Secondary Source - Highway vehicle, motorized	0	T	827	
+H	T8X	Secondary Source - Vehicles	0	T	828	
+H	T91	Secondary Source - Ice, sleet, snow	0	T	829	
+H	T92	Secondary Source - Liquids-nonchemical	0	T	830	
+H	TAX	Time (12:01AM - 4:00AM)	0	T	849	
+H	TBX	Time (4:01AM - 8:00AM)	0	T	850	
+H	TCX	Time (8:01AM - 12Noon)	0	T	851	
+H	TDX	Time (12:01PM - 4:00PM)	0	T	852	
+H	TEX	Time (4:01PM - 8:00PM)	0	T	853	
+H	TFX	Time (8:01PM - 12Midnight)	0	T	854	
+H	TGX	Time (not reported)	0	T	855	
+H	TRW	Industry - Transportation and warehousing	0	T	754	
+H	TTU	Industry - Trade, transportation, and utilities	0	T	755	
+H	TXX	Secondary Source - all other	0	T	831	
+H	UTL	Industry - Utilities	0	T	756	
+H	WAX	Weekday (Sunday)	0	T	856	
+H	WBX	Weekday (Monday)	0	T	857	
+H	WCX	Weekday (Tuesday)	0	T	858	
+H	WDX	Weekday (Wednesday)	0	T	859	
+H	WEX	Weekday (Thursday)	0	T	860	
+H	WFX	Weekday (Friday)	0	T	861	
+H	WGX	Weekday (Saturday)	0	T	862	
+H	WHT	Industry - Wholesale trade	0	T	757	
+L	00X	All industry	0	T	6	
+L	ABX	Age group (14 - 15 yrs.)	0	T	864	
+L	ACX	Age group (16 - 19 yrs.)	0	T	865	
+L	ADW	Industry - Administration and support and waste management	0	T	914	
+L	ADX	Age group (20 - 24 yrs.)	0	T	866	
+L	AER	Industry - Arts, entertainment, and recreation	0	T	915	
+L	AEX	Age group (25 - 34 yrs.)	0	T	867	
+L	AFH	Industry - Agriculture, forestry, fishing, and hunting	0	T	916	
+L	AFS	Industry - Accommodation and food services	0	T	917	
+L	AFX	Age group (35 - 44 yrs.)	0	T	868	
+L	AGX	Age group (45 - 54 yrs.)	0	T	869	
+L	AHX	Age group (55 - 64 yrs.)	0	T	870	
+L	AIX	Age group (65+ yrs.)	0	T	871	
+L	AJX	Age group (not reported)	0	T	872	
+L	CON	Industry - Construction	0	T	918	
+L	DAX	DAFW (1 day)	0	T	873	
+L	DBX	DAFW (2 days)	0	T	874	
+L	DCX	DAFW (3 - 5 days)	0	T	875	
+L	DDX	DAFW (6 - 10 days)	0	T	876	
+L	DEX	DAFW (11 - 20 days)	0	T	877	
+L	DFX	DAFW (21 - 30 days)	0	T	878	
+L	DGX	DAFW (31+ days)	0	T	879	
+L	E11	Event - Intentional injury by other person	0	T	880	
+L	E12	Event - Injury by person-unintentional or intent unknown	0	T	881	
+L	E13	Event - Animal and insect related incidents	0	T	882	
+L	E1X	Event - Violence and other injuries by persons or animal	0	T	883	
+L	E26	Event - Roadway incidents involving motorized land vehicles	0	T	884	
+L	E2X	Event - Transportation incidents	0	T	885	
+L	E3X	Event - Fires and explosions	0	T	886	
+L	E41	Event - Slips, trips without fall	0	T	887	
+L	E42	Event - Fall on same level	0	T	888	
+L	E43	Event - Fall to lower level	0	T	889	
+L	E4X	Event - Falls, slips, trips	0	T	890	
+L	E5X	Event - Exposure to harmful substances or enviroments	0	T	891	
+L	E62	Event - Struck by object or equipment	0	T	892	
+L	E63	Event - Struck against object or equipment	0	T	893	
+L	E64	Event - Caught in or compressed by object or equipment	0	T	894	
+L	E6X	Event - Contact with object, equipment	0	T	895	
+L	E72	Event - Repetitive motion involving microtasks	0	T	896	
+L	E7A	Event - Overexertion in lifting or lowering	0	T	897	
+L	E7X	Event - Overexertion and bodily reaction	0	T	898	
+L	EDS	Industry - Educational services	0	T	919	
+L	EHS	Industry - Education and health services	0	T	920	
+L	EXX	Event - all other	0	T	899	
+L	FIA	Industry - Financial activities	0	T	921	
+L	FIN	Industry - Finance and insurance	0	T	922	
+L	GFX	Gender (Female)	0	T	900	
+L	GMX	Gender (Male)	0	T	901	
+L	GNX	Gender (Not reported)	0	T	902	
+L	GP1	Industry - Goods producing	0	T	923	
+L	HAS	Industry - Health care and social assistance	0	T	924	
+L	HAX	Hours (before shift began)	0	T	903	
+L	HBX	Hours (less than 1 hour)	0	T	904	
+L	HCX	Hours (1 -2 hours)	0	T	905	
+L	HDX	Hours (2 - 4 hours)	0	T	906	
+L	HEX	Hours (4 - 6 hours)	0	T	907	
+L	HFX	Hours (6 - 8 hours)	0	T	908	
+L	HGX	Hours (8 - 10 hours)	0	T	909	
+L	HHX	Hours (10 - 12 hours)	0	T	910	
+L	HIX	Hours (12 - 16 hours)	0	T	911	
+L	HJX	Hours (more than 16 hours)	0	T	912	
+L	HKX	Hours (not reported)	0	T	913	
+L	INF	Industry - Information	0	T	925	
+L	LEH	Industry - Leisure and hospitality	0	T	926	
+L	MCE	Industry - Management of companies and enterprises	0	T	927	
+L	MFG	Industry - Manufacturing	0	T	928	
+L	MIN	Industry - Mining	0	T	929	
+L	MSD	Musculoskeletal disorders	0	T	942	
+L	N1A	Nature - Fractures	0	T	943	
+L	N1B	Nature - Sprains, strains, tears	0	T	944	
+L	N1C	Nature - Amputations	0	T	945	
+L	N1D	Nature - Bruise, contusions	0	T	946	
+L	N1E	Nature - Chemical burns and corrosions	0	T	947	
+L	N1F	Nature - Heat (thermal) burns	0	T	948	
+L	N1G	Nature - Soreness, pain	0	T	949	
+L	N21	Nature - Cuts, lacerations	0	T	950	
+L	N22	Nature - Punctures (except gunshot wounds)	0	T	951	
+L	N2X	Nature - Cuts, lacerations, punctures	0	T	952	
+L	N3A	Nature - Carpal tunnel syndrome	0	T	953	
+L	N3B	Nature - Tendonitis	0	T	954	
+L	N81	Nature - With sprains	0	T	955	
+L	N82	Nature - With fractures	0	T	956	
+L	N8X	Nature - Multiple traumatic injuries	0	T	957	
+L	NRM	Industry - Natural resources	0	T	930	
+L	NXX	Nature - all other	0	T	958	
+L	O10	Occupation - Management, Business, and Financial Occupations (11-13)	0	T	959	
+L	O23	Occupation - Computer, Engineering, and Science Occupations (15-19)	0	T	961	
+L	O25	Occupation - Education, Legal, Community Service, Arts, and Media Occupations (21-27)	0	T	962	
+L	O27	Occupation - Healthcare Practitioners and Technical Occupations (29)	0	T	963	
+L	O30	Occupation - Service Occupations (31-39)	0	T	964	
+L	O41	Occupation - Sales and Related Occupations	0	T	965	
+L	O43	Occupation - Office and Administrative Support Occupations	0	T	966	
+L	O45	Occupation - Farming, Fishing, and Forestry Occupations	0	T	967	
+L	O47	Occupation - Construction and Extraction Occupations	0	T	968	
+L	O49	Occupation - Installation, Maintenance, and Repair Occupations	0	T	969	
+L	O51	Occupation - Production Occupations	0	T	970	
+L	O53	Occupation - Transportation and Material Moving Occupations	0	T	971	
+L	OTS	Industry - Other services	0	T	931	
+L	P11	Part - Eye	0	T	972	
+L	P1X	Part - Head	0	T	973	
+L	P2X	Part - Neck	0	T	974	
+L	P32	Part - Back	0	T	975	
+L	P3X	Part - Trunk	0	T	976	
+L	P41	Part - Shoulder	0	T	977	
+L	P42	Part - Arm	0	T	978	
+L	P43	Part - Wrist	0	T	979	
+L	P44	Part - Hand(s)	0	T	980	
+L	P4A	Part - Hand(s), except finger(s)	0	T	981	
+L	P4B	Part - Finger(s), fingernail(s)	0	T	982	
+L	P4X	Part - Upper extremities	0	T	983	
+L	P51	Part - Knee	0	T	984	
+L	P52	Part - Ankle	0	T	985	
+L	P53	Part - Foot	0	T	986	
+L	P54	Part - Toe, toenail	0	T	987	
+L	P5X	Part - Lower extremities	0	T	988	
+L	P6X	Part - Body systems	0	T	989	
+L	P8X	Part - Multiple	0	T	990	
+L	PAD	Industry - Public Administration	0	T	932	
+L	PBS	Industry - Professional business services	0	T	933	
+L	PST	Industry - Professional, scientific, and technical services	0	T	934	
+L	PXX	Part - all other	0	T	991	
+L	RAX	Race (American Indian or Alaska native)	0	T	992	
+L	RBX	Race (Asian)	0	T	993	
+L	RCX	Race (Black or African American)	0	T	994	
+L	RDX	Race (Hispanic or Latino)	0	T	995	
+L	RET	Industry - Retail trade	0	T	935	
+L	REX	Race (Native Hawaiian or Other Pacific Islander)	0	T	996	
+L	RFX	Race (White)	0	T	997	
+L	RGX	Race (Not reported)	0	T	998	
+L	RHX	Race (Multi-race)	0	T	999	
+L	RIX	Race (Hispanic and other)	0	T	1000	
+L	RRL	Industry - Real estate and rental leasing	0	T	936	
+L	S1X	Source - Chemical, chemical products	0	T	1011	
+L	S21	Source - Containers	0	T	1012	
+L	S22	Source - Furniture, fixtures	0	T	1013	
+L	S3X	Source - Machinery	0	T	1014	
+L	S4X	Source - Parts and materials	0	T	1015	
+L	S56	Source - Person, injured or ill worker	0	T	1016	
+L	S57	Source - Person, other than injured or ill workers	0	T	1017	
+L	S5B	Source - Worker motion or position	0	T	1018	
+L	S5C	Source - Patient	0	T	1019	
+L	S66	Source - Floors, walkways, ground surfaces	0	T	1020	
+L	S74	Source - Ladder	0	T	1022	
+L	S7A	Source - Handtools	0	T	1023	
+L	S8C	Source - Trucks	0	T	1024	
+L	S8D	Source - Cart, dolly, hand truck-nonpowered	0	T	1025	
+L	S8X	Source - Vehicles	0	T	1026	
+L	SP1	Industry - Service providing	0	T	937	
+L	SXX	Source - all other	0	T	1027	
+L	T2X	Secondary Source - Containers, furniture, and fixtures	0	T	1001	
+L	T31	Secondary Source - Computers and peripheral equipment	0	T	1002	
+L	T3X	Secondary Source - Machinery	0	T	1003	
+L	T71	Secondary Source - Firearms, law enforcement, and other self-defense equipment	0	T	1004	
+L	T7X	Secondary Source - Tools, instruments, and equipment	0	T	1005	
+L	T84	Secondary Source - Highway vehicle, motorized	0	T	1006	
+L	T8X	Secondary Source - Vehicles	0	T	1007	
+L	T91	Secondary Source - Ice, sleet, snow	0	T	1008	
+L	T92	Secondary Source - Liquids-nonchemical	0	T	1009	
+L	TAX	Time (12:01AM - 4:00AM)	0	T	1028	
+L	TBX	Time (4:01AM - 8:00AM)	0	T	1029	
+L	TCX	Time (8:01AM - 12Noon)	0	T	1030	
+L	TDX	Time (12:01PM - 4:00PM)	0	T	1031	
+L	TEX	Time (4:01PM - 8:00PM)	0	T	1032	
+L	TFX	Time (8:01PM - 12Midnight)	0	T	1033	
+L	TGX	Time (not reported)	0	T	1034	
+L	TRW	Industry - Transportation and warehousing	0	T	938	
+L	TTU	Industry - Trade, transportation, and utilities	0	T	939	
+L	TXX	Secondary Source - all other	0	T	1010	
+L	UTL	Industry - Utilities	0	T	940	
+L	WAX	Weekday (Sunday)	0	T	1035	
+L	WBX	Weekday (Monday)	0	T	1036	
+L	WCX	Weekday (Tuesday)	0	T	1037	
+L	WDX	Weekday (Wednesday)	0	T	1038	
+L	WEX	Weekday (Thursday)	0	T	1039	
+L	WFX	Weekday (Friday)	0	T	1040	
+L	WGX	Weekday (Saturday)	0	T	1041	
+L	WHT	Industry - Wholesale trade	0	T	941	
+M	00X	All industry	0	T	7	
+M	ABX	Age group (14 - 15 yrs.)	0	T	1043	
+M	ACX	Age group (16 - 19 yrs.)	0	T	1044	
+M	ADW	Industry - Administration and support and waste management	0	T	1093	
+M	ADX	Age group (20 - 24 yrs.)	0	T	1045	
+M	AER	Industry - Arts, entertainment, and recreation	0	T	1094	
+M	AEX	Age group (25 - 34 yrs.)	0	T	1046	
+M	AFH	Industry - Agriculture, forestry, fishing, and hunting	0	T	1095	
+M	AFS	Industry - Accommodation and food services	0	T	1096	
+M	AFX	Age group (35 - 44 yrs.)	0	T	1047	
+M	AGX	Age group (45 - 54 yrs.)	0	T	1048	
+M	AHX	Age group (55 - 64 yrs.)	0	T	1049	
+M	AIX	Age group (65+ yrs.)	0	T	1050	
+M	AJX	Age group (not reported)	0	T	1051	
+M	CON	Industry - Construction	0	T	1097	
+M	DAX	DAFW (1 day)	0	T	1052	
+M	DBX	DAFW (2 days)	0	T	1053	
+M	DCX	DAFW (3 - 5 days)	0	T	1054	
+M	DDX	DAFW (6 - 10 days)	0	T	1055	
+M	DEX	DAFW (11 - 20 days)	0	T	1056	
+M	DFX	DAFW (21 - 30 days)	0	T	1057	
+M	DGX	DAFW (31+ days)	0	T	1058	
+M	E6X	Event - Contact with object, equipment	0	T	1074	
+M	E72	Event - Repetitive motion involving microtasks	0	T	1075	
+M	E7A	Event - Overexertion in lifting or lowering	0	T	1076	
+M	E7X	Event - Overexertion and bodily reaction	0	T	1077	
+M	EDS	Industry - Educational services	0	T	1098	
+M	EHS	Industry - Education and health services	0	T	1099	
+M	FIA	Industry - Financial activities	0	T	1100	
+M	FIN	Industry - Finance and insurance	0	T	1101	
+M	GFX	Gender (Female)	0	T	1079	
+M	GMX	Gender (Male)	0	T	1080	
+M	GNX	Gender (Not reported)	0	T	1081	
+M	GP1	Industry - Goods producing	0	T	1102	
+M	HAS	Industry - Health care and social assistance	0	T	1103	
+M	HAX	Hours (before shift began)	0	T	1082	
+M	HBX	Hours (less than 1 hour)	0	T	1083	
+M	HCX	Hours (1 -2 hours)	0	T	1084	
+M	HDX	Hours (2 - 4 hours)	0	T	1085	
+M	HEX	Hours (4 - 6 hours)	0	T	1086	
+M	HFX	Hours (6 - 8 hours)	0	T	1087	
+M	HGX	Hours (8 - 10 hours)	0	T	1088	
+M	HHX	Hours (10 - 12 hours)	0	T	1089	
+M	HIX	Hours (12 - 16 hours)	0	T	1090	
+M	HJX	Hours (more than 16 hours)	0	T	1091	
+M	HKX	Hours (not reported)	0	T	1092	
+M	INF	Industry - Information	0	T	1104	
+M	LAX	LOS (< 3 mos.)	0	T	1121	
+M	LBX	LOS (3 - 11 mos.)	0	T	1122	
+M	LCX	LOS (1 - 5 yrs.)	0	T	1123	
+M	LDX	LOS (5 yrs.)	0	T	1124	
+M	LEH	Industry - Leisure and hospitality	0	T	1105	
+M	LEX	LOS (Not reported)	0	T	1125	
+M	MCE	Industry - Management of companies and enterprises	0	T	1106	
+M	MFG	Industry - Manufacturing	0	T	1107	
+M	MIN	Industry - Mining	0	T	1108	
+M	N1B	Nature - Sprains, strains, tears	0	T	1127	
+M	N1G	Nature - Soreness, pain	0	T	1132	
+M	N3A	Nature - Carpal tunnel syndrome	0	T	1136	
+M	N3B	Nature - Tendonitis	0	T	1137	
+M	NRM	Industry - Natural resources	0	T	1109	
+M	NXX	Nature - all other	0	T	1141	
+M	O10	Occupation - Management, Business, and Financial Occupations (11-13)	0	T	1142	
+M	O23	Occupation - Computer, Engineering, and Science Occupations (15-19)	0	T	1144	
+M	O25	Occupation - Education, Legal, Community Service, Arts, and Media Occupations (21-27)	0	T	1145	
+M	O27	Occupation - Healthcare Practitioners and Technical Occupations (29)	0	T	1146	
+M	O30	Occupation - Service Occupations (31-39)	0	T	1147	
+M	O41	Occupation - Sales and Related Occupations	0	T	1148	
+M	O43	Occupation - Office and Administrative Support Occupations	0	T	1149	
+M	O45	Occupation - Farming, Fishing, and Forestry Occupations	0	T	1150	
+M	O47	Occupation - Construction and Extraction Occupations	0	T	1151	
+M	O49	Occupation - Installation, Maintenance, and Repair Occupations	0	T	1152	
+M	O51	Occupation - Production Occupations	0	T	1153	
+M	O53	Occupation - Transportation and Material Moving Occupations	0	T	1154	
+M	OTS	Industry - Other services	0	T	1110	
+M	P11	Part - Eye	0	T	1155	
+M	P1X	Part - Head	0	T	1156	
+M	P2X	Part - Neck	0	T	1157	
+M	P32	Part - Back	0	T	1158	
+M	P3X	Part - Trunk	0	T	1159	
+M	P41	Part - Shoulder	0	T	1160	
+M	P42	Part - Arm	0	T	1161	
+M	P43	Part - Wrist	0	T	1162	
+M	P44	Part - Hand(s)	0	T	1163	
+M	P4A	Part - Hand(s), except finger(s)	0	T	1164	
+M	P4B	Part - Finger(s), fingernail(s)	0	T	1165	
+M	P4X	Part - Upper extremities	0	T	1166	
+M	P51	Part - Knee	0	T	1167	
+M	P52	Part - Ankle	0	T	1168	
+M	P53	Part - Foot	0	T	1169	
+M	P54	Part - Toe, toenail	0	T	1170	
+M	P5X	Part - Lower extremities	0	T	1171	
+M	P6X	Part - Body systems	0	T	1172	
+M	P8X	Part - Multiple	0	T	1173	
+M	PAD	Industry - Public Administration	0	T	1111	
+M	PBS	Industry - Professional business services	0	T	1112	
+M	PST	Industry - Professional, scientific, and technical services	0	T	1113	
+M	PXX	Part - all other	0	T	1174	
+M	RAX	Race (American Indian or Alaska native)	0	T	1175	
+M	RBX	Race (Asian)	0	T	1176	
+M	RCX	Race (Black or African American)	0	T	1177	
+M	RDX	Race (Hispanic or Latino)	0	T	1178	
+M	RET	Industry - Retail trade	0	T	1114	
+M	REX	Race (Native Hawaiian or Other Pacific Islander)	0	T	1179	
+M	RFX	Race (White)	0	T	1180	
+M	RGX	Race (Not reported)	0	T	1181	
+M	RHX	Race (Multi-race)	0	T	1182	
+M	RIX	Race (Hispanic and other)	0	T	1183	
+M	RRL	Industry - Real estate and rental leasing	0	T	1115	
+M	S21	Source - Containers	0	T	1195	
+M	S22	Source - Furniture, fixtures	0	T	1196	
+M	S3X	Source - Machinery	0	T	1197	
+M	S4X	Source - Parts and materials	0	T	1198	
+M	S56	Source - Person, injured or ill worker	0	T	1199	
+M	S57	Source - Person, other than injured or ill workers	0	T	1200	
+M	S5B	Source - Worker motion or position	0	T	1201	
+M	S5C	Source - Patient	0	T	1202	
+M	S66	Source - Floors, walkways, ground surfaces	0	T	1203	
+M	S74	Source - Ladder	0	T	1205	
+M	S7A	Source - Handtools	0	T	1206	
+M	S8C	Source - Trucks	0	T	1207	
+M	S8D	Source - Cart, dolly, hand truck-nonpowered	0	T	1208	
+M	S8X	Source - Vehicles	0	T	1209	
+M	SP1	Industry - Service providing	0	T	1116	
+M	SXX	Source - all other	0	T	1210	
+M	T2X	Secondary Source - Containers, furniture, and fixtures	0	T	1184	
+M	T31	Secondary Source - Computers and peripheral equipment	0	T	1185	
+M	T3X	Secondary Source - Machinery	0	T	1186	
+M	T71	Secondary Source - Firearms, law enforcement, and other self-defense equipment	0	T	1187	
+M	T7X	Secondary Source - Tools, instruments, and equipment	0	T	1188	
+M	T84	Secondary Source - Highway vehicle, motorized	0	T	1189	
+M	T8X	Secondary Source - Vehicles	0	T	1190	
+M	T91	Secondary Source - Ice, sleet, snow	0	T	1191	
+M	T92	Secondary Source - Liquids-nonchemical	0	T	1192	
+M	TAX	Time (12:01AM - 4:00AM)	0	T	1211	
+M	TBX	Time (4:01AM - 8:00AM)	0	T	1212	
+M	TCX	Time (8:01AM - 12Noon)	0	T	1213	
+M	TDX	Time (12:01PM - 4:00PM)	0	T	1214	
+M	TEX	Time (4:01PM - 8:00PM)	0	T	1215	
+M	TFX	Time (8:01PM - 12Midnight)	0	T	1216	
+M	TGX	Time (not reported)	0	T	1217	
+M	TRW	Industry - Transportation and warehousing	0	T	1117	
+M	TTU	Industry - Trade, transportation, and utilities	0	T	1118	
+M	TXX	Secondary Source - all other	0	T	1193	
+M	UTL	Industry - Utilities	0	T	1119	
+M	WAX	Weekday (Sunday)	0	T	1218	
+M	WBX	Weekday (Monday)	0	T	1219	
+M	WCX	Weekday (Tuesday)	0	T	1220	
+M	WDX	Weekday (Wednesday)	0	T	1221	
+M	WEX	Weekday (Thursday)	0	T	1222	
+M	WFX	Weekday (Friday)	0	T	1223	
+M	WGX	Weekday (Saturday)	0	T	1224	
+M	WHT	Industry - Wholesale trade	0	T	1120	
+N	00X	All industry	0	T	8	
+N	ABX	Age group (14 - 15 yrs.)	0	T	1226	
+N	ACX	Age group (16 - 19 yrs.)	0	T	1227	
+N	ADW	Industry - Administration and support and waste management	0	T	1276	
+N	ADX	Age group (20 - 24 yrs.)	0	T	1228	
+N	AER	Industry - Arts, entertainment, and recreation	0	T	1277	
+N	AEX	Age group (25 - 34 yrs.)	0	T	1229	
+N	AFH	Industry - Agriculture, forestry, fishing, and hunting	0	T	1278	
+N	AFS	Industry - Accommodation and food services	0	T	1279	
+N	AFX	Age group (35 - 44 yrs.)	0	T	1230	
+N	AGX	Age group (45 - 54 yrs.)	0	T	1231	
+N	AHX	Age group (55 - 64 yrs.)	0	T	1232	
+N	AIX	Age group (65+ yrs.)	0	T	1233	
+N	AJX	Age group (not reported)	0	T	1234	
+N	CON	Industry - Construction	0	T	1280	
+N	DAX	DAFW (1 day)	0	T	1235	
+N	DBX	DAFW (2 days)	0	T	1236	
+N	DCX	DAFW (3 - 5 days)	0	T	1237	
+N	DDX	DAFW (6 - 10 days)	0	T	1238	
+N	DEX	DAFW (11 - 20 days)	0	T	1239	
+N	DFX	DAFW (21 - 30 days)	0	T	1240	
+N	DGX	DAFW (31+ days)	0	T	1241	
+N	E11	Event - Intentional injury by other person	0	T	1242	
+N	E12	Event - Injury by person-unintentional or intent unknown	0	T	1243	
+N	E13	Event - Animal and insect related incidents	0	T	1244	
+N	E1X	Event - Violence and other injuries by persons or animal	0	T	1245	
+N	E26	Event - Roadway incidents involving motorized land vehicles	0	T	1246	
+N	E2X	Event - Transportation incidents	0	T	1247	
+N	E3X	Event - Fires and explosions	0	T	1248	
+N	E41	Event - Slips, trips without fall	0	T	1249	
+N	E42	Event - Fall on same level	0	T	1250	
+N	E43	Event - Fall to lower level	0	T	1251	
+N	E4X	Event - Falls, slips, trips	0	T	1252	
+N	E5X	Event - Exposure to harmful substances or enviroments	0	T	1253	
+N	E62	Event - Struck by object or equipment	0	T	1254	
+N	E63	Event - Struck against object or equipment	0	T	1255	
+N	E64	Event - Caught in or compressed by object or equipment	0	T	1256	
+N	E6X	Event - Contact with object, equipment	0	T	1257	
+N	E72	Event - Repetitive motion involving microtasks	0	T	1258	
+N	E7A	Event - Overexertion in lifting or lowering	0	T	1259	
+N	E7X	Event - Overexertion and bodily reaction	0	T	1260	
+N	EDS	Industry - Educational services	0	T	1281	
+N	EHS	Industry - Education and health services	0	T	1282	
+N	EXX	Event - all other	0	T	1261	
+N	FIA	Industry - Financial activities	0	T	1283	
+N	FIN	Industry - Finance and insurance	0	T	1284	
+N	GFX	Gender (Female)	0	T	1262	
+N	GMX	Gender (Male)	0	T	1263	
+N	GNX	Gender (Not reported)	0	T	1264	
+N	GP1	Industry - Goods producing	0	T	1285	
+N	HAS	Industry - Health care and social assistance	0	T	1286	
+N	HAX	Hours (before shift began)	0	T	1265	
+N	HBX	Hours (less than 1 hour)	0	T	1266	
+N	HCX	Hours (1 -2 hours)	0	T	1267	
+N	HDX	Hours (2 - 4 hours)	0	T	1268	
+N	HEX	Hours (4 - 6 hours)	0	T	1269	
+N	HFX	Hours (6 - 8 hours)	0	T	1270	
+N	HGX	Hours (8 - 10 hours)	0	T	1271	
+N	HHX	Hours (10 - 12 hours)	0	T	1272	
+N	HIX	Hours (12 - 16 hours)	0	T	1273	
+N	HJX	Hours (more than 16 hours)	0	T	1274	
+N	HKX	Hours (not reported)	0	T	1275	
+N	INF	Industry - Information	0	T	1287	
+N	LAX	LOS (< 3 mos.)	0	T	1304	
+N	LBX	LOS (3 - 11 mos.)	0	T	1305	
+N	LCX	LOS (1 - 5 yrs.)	0	T	1306	
+N	LDX	LOS (5 yrs.)	0	T	1307	
+N	LEH	Industry - Leisure and hospitality	0	T	1288	
+N	LEX	LOS (Not reported)	0	T	1308	
+N	MCE	Industry - Management of companies and enterprises	0	T	1289	
+N	MFG	Industry - Manufacturing	0	T	1290	
+N	MIN	Industry - Mining	0	T	1291	
+N	MSD	Musculoskeletal disorders	0	T	1309	
+N	NRM	Industry - Natural resources	0	T	1292	
+N	O10	Occupation - Management, Business, and Financial Occupations (11-13)	0	T	1310	
+N	O23	Occupation - Computer, Engineering, and Science Occupations (15-19)	0	T	1312	
+N	O25	Occupation - Education, Legal, Community Service, Arts, and Media Occupations (21-27)	0	T	1313	
+N	O27	Occupation - Healthcare Practitioners and Technical Occupations (29)	0	T	1314	
+N	O30	Occupation - Service Occupations (31-39)	0	T	1315	
+N	O41	Occupation - Sales and Related Occupations	0	T	1316	
+N	O43	Occupation - Office and Administrative Support Occupations	0	T	1317	
+N	O45	Occupation - Farming, Fishing, and Forestry Occupations	0	T	1318	
+N	O47	Occupation - Construction and Extraction Occupations	0	T	1319	
+N	O49	Occupation - Installation, Maintenance, and Repair Occupations	0	T	1320	
+N	O51	Occupation - Production Occupations	0	T	1321	
+N	O53	Occupation - Transportation and Material Moving Occupations	0	T	1322	
+N	OTS	Industry - Other services	0	T	1293	
+N	P11	Part - Eye	0	T	1323	
+N	P1X	Part - Head	0	T	1324	
+N	P2X	Part - Neck	0	T	1325	
+N	P32	Part - Back	0	T	1326	
+N	P3X	Part - Trunk	0	T	1327	
+N	P41	Part - Shoulder	0	T	1328	
+N	P42	Part - Arm	0	T	1329	
+N	P43	Part - Wrist	0	T	1330	
+N	P44	Part - Hand(s)	0	T	1331	
+N	P4A	Part - Hand(s), except finger(s)	0	T	1332	
+N	P4B	Part - Finger(s), fingernail(s)	0	T	1333	
+N	P4X	Part - Upper extremities	0	T	1334	
+N	P51	Part - Knee	0	T	1335	
+N	P52	Part - Ankle	0	T	1336	
+N	P53	Part - Foot	0	T	1337	
+N	P54	Part - Toe, toenail	0	T	1338	
+N	P5X	Part - Lower extremities	0	T	1339	
+N	P6X	Part - Body systems	0	T	1340	
+N	P8X	Part - Multiple	0	T	1341	
+N	PAD	Industry - Public Administration	0	T	1294	
+N	PBS	Industry - Professional business services	0	T	1295	
+N	PST	Industry - Professional, scientific, and technical services	0	T	1296	
+N	PXX	Part - all other	0	T	1342	
+N	RAX	Race (American Indian or Alaska native)	0	T	1343	
+N	RBX	Race (Asian)	0	T	1344	
+N	RCX	Race (Black or African American)	0	T	1345	
+N	RDX	Race (Hispanic or Latino)	0	T	1346	
+N	RET	Industry - Retail trade	0	T	1297	
+N	REX	Race (Native Hawaiian or Other Pacific Islander)	0	T	1347	
+N	RFX	Race (White)	0	T	1348	
+N	RGX	Race (Not reported)	0	T	1349	
+N	RHX	Race (Multi-race)	0	T	1350	
+N	RIX	Race (Hispanic and other)	0	T	1351	
+N	RRL	Industry - Real estate and rental leasing	0	T	1298	
+N	S1X	Source - Chemical, chemical products	0	T	1362	
+N	S21	Source - Containers	0	T	1363	
+N	S22	Source - Furniture, fixtures	0	T	1364	
+N	S3X	Source - Machinery	0	T	1365	
+N	S4X	Source - Parts and materials	0	T	1366	
+N	S56	Source - Person, injured or ill worker	0	T	1367	
+N	S57	Source - Person, other than injured or ill workers	0	T	1368	
+N	S5B	Source - Worker motion or position	0	T	1369	
+N	S5C	Source - Patient	0	T	1370	
+N	S66	Source - Floors, walkways, ground surfaces	0	T	1371	
+N	S74	Source - Ladder	0	T	1373	
+N	S7A	Source - Handtools	0	T	1374	
+N	S8C	Source - Trucks	0	T	1375	
+N	S8D	Source - Cart, dolly, hand truck-nonpowered	0	T	1376	
+N	S8X	Source - Vehicles	0	T	1377	
+N	SP1	Industry - Service providing	0	T	1299	
+N	SXX	Source - all other	0	T	1378	
+N	T2X	Secondary Source - Containers, furniture, and fixtures	0	T	1352	
+N	T31	Secondary Source - Computers and peripheral equipment	0	T	1353	
+N	T3X	Secondary Source - Machinery	0	T	1354	
+N	T71	Secondary Source - Firearms, law enforcement, and other self-defense equipment	0	T	1355	
+N	T7X	Secondary Source - Tools, instruments, and equipment	0	T	1356	
+N	T84	Secondary Source - Highway vehicle, motorized	0	T	1357	
+N	T8X	Secondary Source - Vehicles	0	T	1358	
+N	T91	Secondary Source - Ice, sleet, snow	0	T	1359	
+N	T92	Secondary Source - Liquids-nonchemical	0	T	1360	
+N	TAX	Time (12:01AM - 4:00AM)	0	T	1379	
+N	TBX	Time (4:01AM - 8:00AM)	0	T	1380	
+N	TCX	Time (8:01AM - 12Noon)	0	T	1381	
+N	TDX	Time (12:01PM - 4:00PM)	0	T	1382	
+N	TEX	Time (4:01PM - 8:00PM)	0	T	1383	
+N	TFX	Time (8:01PM - 12Midnight)	0	T	1384	
+N	TGX	Time (not reported)	0	T	1385	
+N	TRW	Industry - Transportation and warehousing	0	T	1300	
+N	TTU	Industry - Trade, transportation, and utilities	0	T	1301	
+N	TXX	Secondary Source - all other	0	T	1361	
+N	UTL	Industry - Utilities	0	T	1302	
+N	WAX	Weekday (Sunday)	0	T	1386	
+N	WBX	Weekday (Monday)	0	T	1387	
+N	WCX	Weekday (Tuesday)	0	T	1388	
+N	WDX	Weekday (Wednesday)	0	T	1389	
+N	WEX	Weekday (Thursday)	0	T	1390	
+N	WFX	Weekday (Friday)	0	T	1391	
+N	WGX	Weekday (Saturday)	0	T	1392	
+N	WHT	Industry - Wholesale trade	0	T	1303	
+O	00X	All industry	0	T	9	
+O	ABX	Age group (14 - 15 yrs.)	0	T	1394	
+O	ACX	Age group (16 - 19 yrs.)	0	T	1395	
+O	ADW	Industry - Administration and support and waste management	0	T	1444	
+O	ADX	Age group (20 - 24 yrs.)	0	T	1396	
+O	AER	Industry - Arts, entertainment, and recreation	0	T	1445	
+O	AEX	Age group (25 - 34 yrs.)	0	T	1397	
+O	AFH	Industry - Agriculture, forestry, fishing, and hunting	0	T	1446	
+O	AFS	Industry - Accommodation and food services	0	T	1447	
+O	AFX	Age group (35 - 44 yrs.)	0	T	1398	
+O	AGX	Age group (45 - 54 yrs.)	0	T	1399	
+O	AHX	Age group (55 - 64 yrs.)	0	T	1400	
+O	AIX	Age group (65+ yrs.)	0	T	1401	
+O	AJX	Age group (not reported)	0	T	1402	
+O	CON	Industry - Construction	0	T	1448	
+O	DAX	DAFW (1 day)	0	T	1403	
+O	DBX	DAFW (2 days)	0	T	1404	
+O	DCX	DAFW (3 - 5 days)	0	T	1405	
+O	DDX	DAFW (6 - 10 days)	0	T	1406	
+O	DEX	DAFW (11 - 20 days)	0	T	1407	
+O	DFX	DAFW (21 - 30 days)	0	T	1408	
+O	DGX	DAFW (31+ days)	0	T	1409	
+O	E11	Event - Intentional injury by other person	0	T	1410	
+O	E12	Event - Injury by person-unintentional or intent unknown	0	T	1411	
+O	E13	Event - Animal and insect related incidents	0	T	1412	
+O	E1X	Event - Violence and other injuries by persons or animal	0	T	1413	
+O	E26	Event - Roadway incidents involving motorized land vehicles	0	T	1414	
+O	E2X	Event - Transportation incidents	0	T	1415	
+O	E3X	Event - Fires and explosions	0	T	1416	
+O	E41	Event - Slips, trips without fall	0	T	1417	
+O	E42	Event - Fall on same level	0	T	1418	
+O	E43	Event - Fall to lower level	0	T	1419	
+O	E4X	Event - Falls, slips, trips	0	T	1420	
+O	E5X	Event - Exposure to harmful substances or enviroments	0	T	1421	
+O	E62	Event - Struck by object or equipment	0	T	1422	
+O	E63	Event - Struck against object or equipment	0	T	1423	
+O	E64	Event - Caught in or compressed by object or equipment	0	T	1424	
+O	E6X	Event - Contact with object, equipment	0	T	1425	
+O	E72	Event - Repetitive motion involving microtasks	0	T	1426	
+O	E7A	Event - Overexertion in lifting or lowering	0	T	1427	
+O	E7X	Event - Overexertion and bodily reaction	0	T	1428	
+O	EDS	Industry - Educational services	0	T	1449	
+O	EHS	Industry - Education and health services	0	T	1450	
+O	EXX	Event - all other	0	T	1429	
+O	FIA	Industry - Financial activities	0	T	1451	
+O	FIN	Industry - Finance and insurance	0	T	1452	
+O	GFX	Gender (Female)	0	T	1430	
+O	GMX	Gender (Male)	0	T	1431	
+O	GNX	Gender (Not reported)	0	T	1432	
+O	GP1	Industry - Goods producing	0	T	1453	
+O	HAS	Industry - Health care and social assistance	0	T	1454	
+O	HAX	Hours (before shift began)	0	T	1433	
+O	HBX	Hours (less than 1 hour)	0	T	1434	
+O	HCX	Hours (1 -2 hours)	0	T	1435	
+O	HDX	Hours (2 - 4 hours)	0	T	1436	
+O	HEX	Hours (4 - 6 hours)	0	T	1437	
+O	HFX	Hours (6 - 8 hours)	0	T	1438	
+O	HGX	Hours (8 - 10 hours)	0	T	1439	
+O	HHX	Hours (10 - 12 hours)	0	T	1440	
+O	HIX	Hours (12 - 16 hours)	0	T	1441	
+O	HJX	Hours (more than 16 hours)	0	T	1442	
+O	HKX	Hours (not reported)	0	T	1443	
+O	INF	Industry - Information	0	T	1455	
+O	LAX	LOS (< 3 mos.)	0	T	1472	
+O	LBX	LOS (3 - 11 mos.)	0	T	1473	
+O	LCX	LOS (1 - 5 yrs.)	0	T	1474	
+O	LDX	LOS (5 yrs.)	0	T	1475	
+O	LEH	Industry - Leisure and hospitality	0	T	1456	
+O	LEX	LOS (Not reported)	0	T	1476	
+O	MCE	Industry - Management of companies and enterprises	0	T	1457	
+O	MFG	Industry - Manufacturing	0	T	1458	
+O	MIN	Industry - Mining	0	T	1459	
+O	MSD	Musculoskeletal disorders	0	T	1477	
+O	N1A	Nature - Fractures	0	T	1478	
+O	N1B	Nature - Sprains, strains, tears	0	T	1479	
+O	N1C	Nature - Amputations	0	T	1480	
+O	N1D	Nature - Bruise, contusions	0	T	1481	
+O	N1E	Nature - Chemical burns and corrosions	0	T	1482	
+O	N1F	Nature - Heat (thermal) burns	0	T	1483	
+O	N1G	Nature - Soreness, pain	0	T	1484	
+O	N21	Nature - Cuts, lacerations	0	T	1485	
+O	N22	Nature - Punctures (except gunshot wounds)	0	T	1486	
+O	N2X	Nature - Cuts, lacerations, punctures	0	T	1487	
+O	N3A	Nature - Carpal tunnel syndrome	0	T	1488	
+O	N3B	Nature - Tendonitis	0	T	1489	
+O	N81	Nature - With sprains	0	T	1490	
+O	N82	Nature - With fractures	0	T	1491	
+O	N8X	Nature - Multiple traumatic injuries	0	T	1492	
+O	NRM	Industry - Natural resources	0	T	1460	
+O	NXX	Nature - all other	0	T	1493	
+O	OTS	Industry - Other services	0	T	1461	
+O	P11	Part - Eye	0	T	1494	
+O	P1X	Part - Head	0	T	1495	
+O	P2X	Part - Neck	0	T	1496	
+O	P32	Part - Back	0	T	1497	
+O	P3X	Part - Trunk	0	T	1498	
+O	P41	Part - Shoulder	0	T	1499	
+O	P42	Part - Arm	0	T	1500	
+O	P43	Part - Wrist	0	T	1501	
+O	P44	Part - Hand(s)	0	T	1502	
+O	P4A	Part - Hand(s), except finger(s)	0	T	1503	
+O	P4B	Part - Finger(s), fingernail(s)	0	T	1504	
+O	P4X	Part - Upper extremities	0	T	1505	
+O	P51	Part - Knee	0	T	1506	
+O	P52	Part - Ankle	0	T	1507	
+O	P53	Part - Foot	0	T	1508	
+O	P54	Part - Toe, toenail	0	T	1509	
+O	P5X	Part - Lower extremities	0	T	1510	
+O	P6X	Part - Body systems	0	T	1511	
+O	P8X	Part - Multiple	0	T	1512	
+O	PAD	Industry - Public Administration	0	T	1462	
+O	PBS	Industry - Professional business services	0	T	1463	
+O	PST	Industry - Professional, scientific, and technical services	0	T	1464	
+O	PXX	Part - all other	0	T	1513	
+O	RAX	Race (American Indian or Alaska native)	0	T	1514	
+O	RBX	Race (Asian)	0	T	1515	
+O	RCX	Race (Black or African American)	0	T	1516	
+O	RDX	Race (Hispanic or Latino)	0	T	1517	
+O	RET	Industry - Retail trade	0	T	1465	
+O	REX	Race (Native Hawaiian or Other Pacific Islander)	0	T	1518	
+O	RFX	Race (White)	0	T	1519	
+O	RGX	Race (Not reported)	0	T	1520	
+O	RHX	Race (Multi-race)	0	T	1521	
+O	RIX	Race (Hispanic and other)	0	T	1522	
+O	RRL	Industry - Real estate and rental leasing	0	T	1466	
+O	S1X	Source - Chemical, chemical products	0	T	1533	
+O	S21	Source - Containers	0	T	1534	
+O	S22	Source - Furniture, fixtures	0	T	1535	
+O	S3X	Source - Machinery	0	T	1536	
+O	S4X	Source - Parts and materials	0	T	1537	
+O	S56	Source - Person, injured or ill worker	0	T	1538	
+O	S57	Source - Person, other than injured or ill workers	0	T	1539	
+O	S5B	Source - Worker motion or position	0	T	1540	
+O	S5C	Source - Patient	0	T	1541	
+O	S66	Source - Floors, walkways, ground surfaces	0	T	1542	
+O	S74	Source - Ladder	0	T	1544	
+O	S7A	Source - Handtools	0	T	1545	
+O	S8C	Source - Trucks	0	T	1546	
+O	S8D	Source - Cart, dolly, hand truck-nonpowered	0	T	1547	
+O	S8X	Source - Vehicles	0	T	1548	
+O	SP1	Industry - Service providing	0	T	1467	
+O	SXX	Source - all other	0	T	1549	
+O	T2X	Secondary Source - Containers, furniture, and fixtures	0	T	1523	
+O	T31	Secondary Source - Computers and peripheral equipment	0	T	1524	
+O	T3X	Secondary Source - Machinery	0	T	1525	
+O	T71	Secondary Source - Firearms, law enforcement, and other self-defense equipment	0	T	1526	
+O	T7X	Secondary Source - Tools, instruments, and equipment	0	T	1527	
+O	T84	Secondary Source - Highway vehicle, motorized	0	T	1528	
+O	T8X	Secondary Source - Vehicles	0	T	1529	
+O	T91	Secondary Source - Ice, sleet, snow	0	T	1530	
+O	T92	Secondary Source - Liquids-nonchemical	0	T	1531	
+O	TAX	Time (12:01AM - 4:00AM)	0	T	1550	
+O	TBX	Time (4:01AM - 8:00AM)	0	T	1551	
+O	TCX	Time (8:01AM - 12Noon)	0	T	1552	
+O	TDX	Time (12:01PM - 4:00PM)	0	T	1553	
+O	TEX	Time (4:01PM - 8:00PM)	0	T	1554	
+O	TFX	Time (8:01PM - 12Midnight)	0	T	1555	
+O	TGX	Time (not reported)	0	T	1556	
+O	TRW	Industry - Transportation and warehousing	0	T	1468	
+O	TTU	Industry - Trade, transportation, and utilities	0	T	1469	
+O	TXX	Secondary Source - all other	0	T	1532	
+O	UTL	Industry - Utilities	0	T	1470	
+O	WAX	Weekday (Sunday)	0	T	1557	
+O	WBX	Weekday (Monday)	0	T	1558	
+O	WCX	Weekday (Tuesday)	0	T	1559	
+O	WDX	Weekday (Wednesday)	0	T	1560	
+O	WEX	Weekday (Thursday)	0	T	1561	
+O	WFX	Weekday (Friday)	0	T	1562	
+O	WGX	Weekday (Saturday)	0	T	1563	
+O	WHT	Industry - Wholesale trade	0	T	1471	
+P	00X	All industry	0	T	10	
+P	ABX	Age group (14 - 15 yrs.)	0	T	1565	
+P	ACX	Age group (16 - 19 yrs.)	0	T	1566	
+P	ADW	Industry - Administration and support and waste management	0	T	1615	
+P	ADX	Age group (20 - 24 yrs.)	0	T	1567	
+P	AER	Industry - Arts, entertainment, and recreation	0	T	1616	
+P	AEX	Age group (25 - 34 yrs.)	0	T	1568	
+P	AFH	Industry - Agriculture, forestry, fishing, and hunting	0	T	1617	
+P	AFS	Industry - Accommodation and food services	0	T	1618	
+P	AFX	Age group (35 - 44 yrs.)	0	T	1569	
+P	AGX	Age group (45 - 54 yrs.)	0	T	1570	
+P	AHX	Age group (55 - 64 yrs.)	0	T	1571	
+P	AIX	Age group (65+ yrs.)	0	T	1572	
+P	AJX	Age group (not reported)	0	T	1573	
+P	CON	Industry - Construction	0	T	1619	
+P	DAX	DAFW (1 day)	0	T	1574	
+P	DBX	DAFW (2 days)	0	T	1575	
+P	DCX	DAFW (3 - 5 days)	0	T	1576	
+P	DDX	DAFW (6 - 10 days)	0	T	1577	
+P	DEX	DAFW (11 - 20 days)	0	T	1578	
+P	DFX	DAFW (21 - 30 days)	0	T	1579	
+P	DGX	DAFW (31+ days)	0	T	1580	
+P	E11	Event - Intentional injury by other person	0	T	1581	
+P	E12	Event - Injury by person-unintentional or intent unknown	0	T	1582	
+P	E13	Event - Animal and insect related incidents	0	T	1583	
+P	E1X	Event - Violence and other injuries by persons or animal	0	T	1584	
+P	E26	Event - Roadway incidents involving motorized land vehicles	0	T	1585	
+P	E2X	Event - Transportation incidents	0	T	1586	
+P	E3X	Event - Fires and explosions	0	T	1587	
+P	E41	Event - Slips, trips without fall	0	T	1588	
+P	E42	Event - Fall on same level	0	T	1589	
+P	E43	Event - Fall to lower level	0	T	1590	
+P	E4X	Event - Falls, slips, trips	0	T	1591	
+P	E5X	Event - Exposure to harmful substances or enviroments	0	T	1592	
+P	E62	Event - Struck by object or equipment	0	T	1593	
+P	E63	Event - Struck against object or equipment	0	T	1594	
+P	E64	Event - Caught in or compressed by object or equipment	0	T	1595	
+P	E6X	Event - Contact with object, equipment	0	T	1596	
+P	E72	Event - Repetitive motion involving microtasks	0	T	1597	
+P	E7A	Event - Overexertion in lifting or lowering	0	T	1598	
+P	E7X	Event - Overexertion and bodily reaction	0	T	1599	
+P	EDS	Industry - Educational services	0	T	1620	
+P	EHS	Industry - Education and health services	0	T	1621	
+P	EXX	Event - all other	0	T	1600	
+P	FIA	Industry - Financial activities	0	T	1622	
+P	FIN	Industry - Finance and insurance	0	T	1623	
+P	GFX	Gender (Female)	0	T	1601	
+P	GMX	Gender (Male)	0	T	1602	
+P	GNX	Gender (Not reported)	0	T	1603	
+P	GP1	Industry - Goods producing	0	T	1624	
+P	HAS	Industry - Health care and social assistance	0	T	1625	
+P	HAX	Hours (before shift began)	0	T	1604	
+P	HBX	Hours (less than 1 hour)	0	T	1605	
+P	HCX	Hours (1 -2 hours)	0	T	1606	
+P	HDX	Hours (2 - 4 hours)	0	T	1607	
+P	HEX	Hours (4 - 6 hours)	0	T	1608	
+P	HFX	Hours (6 - 8 hours)	0	T	1609	
+P	HGX	Hours (8 - 10 hours)	0	T	1610	
+P	HHX	Hours (10 - 12 hours)	0	T	1611	
+P	HIX	Hours (12 - 16 hours)	0	T	1612	
+P	HJX	Hours (more than 16 hours)	0	T	1613	
+P	HKX	Hours (not reported)	0	T	1614	
+P	INF	Industry - Information	0	T	1626	
+P	LAX	LOS (< 3 mos.)	0	T	1643	
+P	LBX	LOS (3 - 11 mos.)	0	T	1644	
+P	LCX	LOS (1 - 5 yrs.)	0	T	1645	
+P	LDX	LOS (5 yrs.)	0	T	1646	
+P	LEH	Industry - Leisure and hospitality	0	T	1627	
+P	LEX	LOS (Not reported)	0	T	1647	
+P	MCE	Industry - Management of companies and enterprises	0	T	1628	
+P	MFG	Industry - Manufacturing	0	T	1629	
+P	MIN	Industry - Mining	0	T	1630	
+P	MSD	Musculoskeletal disorders	0	T	1648	
+P	N1A	Nature - Fractures	0	T	1649	
+P	N1B	Nature - Sprains, strains, tears	0	T	1650	
+P	N1C	Nature - Amputations	0	T	1651	
+P	N1D	Nature - Bruise, contusions	0	T	1652	
+P	N1E	Nature - Chemical burns and corrosions	0	T	1653	
+P	N1F	Nature - Heat (thermal) burns	0	T	1654	
+P	N1G	Nature - Soreness, pain	0	T	1655	
+P	N21	Nature - Cuts, lacerations	0	T	1656	
+P	N22	Nature - Punctures (except gunshot wounds)	0	T	1657	
+P	N2X	Nature - Cuts, lacerations, punctures	0	T	1658	
+P	N3A	Nature - Carpal tunnel syndrome	0	T	1659	
+P	N3B	Nature - Tendonitis	0	T	1660	
+P	N81	Nature - With sprains	0	T	1661	
+P	N82	Nature - With fractures	0	T	1662	
+P	N8X	Nature - Multiple traumatic injuries	0	T	1663	
+P	NRM	Industry - Natural resources	0	T	1631	
+P	NXX	Nature - all other	0	T	1664	
+P	O10	Occupation - Management, Business, and Financial Occupations (11-13)	0	T	1665	
+P	O23	Occupation - Computer, Engineering, and Science Occupations (15-19)	0	T	1667	
+P	O25	Occupation - Education, Legal, Community Service, Arts, and Media Occupations (21-27)	0	T	1668	
+P	O27	Occupation - Healthcare Practitioners and Technical Occupations (29)	0	T	1669	
+P	O30	Occupation - Service Occupations (31-39)	0	T	1670	
+P	O41	Occupation - Sales and Related Occupations	0	T	1671	
+P	O43	Occupation - Office and Administrative Support Occupations	0	T	1672	
+P	O45	Occupation - Farming, Fishing, and Forestry Occupations	0	T	1673	
+P	O47	Occupation - Construction and Extraction Occupations	0	T	1674	
+P	O49	Occupation - Installation, Maintenance, and Repair Occupations	0	T	1675	
+P	O51	Occupation - Production Occupations	0	T	1676	
+P	O53	Occupation - Transportation and Material Moving Occupations	0	T	1677	
+P	OTS	Industry - Other services	0	T	1632	
+P	PAD	Industry - Public Administration	0	T	1633	
+P	PBS	Industry - Professional business services	0	T	1634	
+P	PST	Industry - Professional, scientific, and technical services	0	T	1635	
+P	RAX	Race (American Indian or Alaska native)	0	T	1678	
+P	RBX	Race (Asian)	0	T	1679	
+P	RCX	Race (Black or African American)	0	T	1680	
+P	RDX	Race (Hispanic or Latino)	0	T	1681	
+P	RET	Industry - Retail trade	0	T	1636	
+P	REX	Race (Native Hawaiian or Other Pacific Islander)	0	T	1682	
+P	RFX	Race (White)	0	T	1683	
+P	RGX	Race (Not reported)	0	T	1684	
+P	RHX	Race (Multi-race)	0	T	1685	
+P	RIX	Race (Hispanic and other)	0	T	1686	
+P	RRL	Industry - Real estate and rental leasing	0	T	1637	
+P	S1X	Source - Chemical, chemical products	0	T	1697	
+P	S21	Source - Containers	0	T	1698	
+P	S22	Source - Furniture, fixtures	0	T	1699	
+P	S3X	Source - Machinery	0	T	1700	
+P	S4X	Source - Parts and materials	0	T	1701	
+P	S56	Source - Person, injured or ill worker	0	T	1702	
+P	S57	Source - Person, other than injured or ill workers	0	T	1703	
+P	S5B	Source - Worker motion or position	0	T	1704	
+P	S5C	Source - Patient	0	T	1705	
+P	S66	Source - Floors, walkways, ground surfaces	0	T	1706	
+P	S74	Source - Ladder	0	T	1708	
+P	S7A	Source - Handtools	0	T	1709	
+P	S8C	Source - Trucks	0	T	1710	
+P	S8D	Source - Cart, dolly, hand truck-nonpowered	0	T	1711	
+P	S8X	Source - Vehicles	0	T	1712	
+P	SP1	Industry - Service providing	0	T	1638	
+P	SXX	Source - all other	0	T	1713	
+P	T2X	Secondary Source - Containers, furniture, and fixtures	0	T	1687	
+P	T31	Secondary Source - Computers and peripheral equipment	0	T	1688	
+P	T3X	Secondary Source - Machinery	0	T	1689	
+P	T71	Secondary Source - Firearms, law enforcement, and other self-defense equipment	0	T	1690	
+P	T7X	Secondary Source - Tools, instruments, and equipment	0	T	1691	
+P	T84	Secondary Source - Highway vehicle, motorized	0	T	1692	
+P	T8X	Secondary Source - Vehicles	0	T	1693	
+P	T91	Secondary Source - Ice, sleet, snow	0	T	1694	
+P	T92	Secondary Source - Liquids-nonchemical	0	T	1695	
+P	TAX	Time (12:01AM - 4:00AM)	0	T	1714	
+P	TBX	Time (4:01AM - 8:00AM)	0	T	1715	
+P	TCX	Time (8:01AM - 12Noon)	0	T	1716	
+P	TDX	Time (12:01PM - 4:00PM)	0	T	1717	
+P	TEX	Time (4:01PM - 8:00PM)	0	T	1718	
+P	TFX	Time (8:01PM - 12Midnight)	0	T	1719	
+P	TGX	Time (not reported)	0	T	1720	
+P	TRW	Industry - Transportation and warehousing	0	T	1639	
+P	TTU	Industry - Trade, transportation, and utilities	0	T	1640	
+P	TXX	Secondary Source - all other	0	T	1696	
+P	UTL	Industry - Utilities	0	T	1641	
+P	WAX	Weekday (Sunday)	0	T	1721	
+P	WBX	Weekday (Monday)	0	T	1722	
+P	WCX	Weekday (Tuesday)	0	T	1723	
+P	WDX	Weekday (Wednesday)	0	T	1724	
+P	WEX	Weekday (Thursday)	0	T	1725	
+P	WFX	Weekday (Friday)	0	T	1726	
+P	WGX	Weekday (Saturday)	0	T	1727	
+P	WHT	Industry - Wholesale trade	0	T	1642	
+R	00X	All industry	0	T	11	
+R	ABX	Age group (14 - 15 yrs.)	0	T	1729	
+R	ACX	Age group (16 - 19 yrs.)	0	T	1730	
+R	ADW	Industry - Administration and support and waste management	0	T	1779	
+R	ADX	Age group (20 - 24 yrs.)	0	T	1731	
+R	AER	Industry - Arts, entertainment, and recreation	0	T	1780	
+R	AEX	Age group (25 - 34 yrs.)	0	T	1732	
+R	AFH	Industry - Agriculture, forestry, fishing, and hunting	0	T	1781	
+R	AFS	Industry - Accommodation and food services	0	T	1782	
+R	AFX	Age group (35 - 44 yrs.)	0	T	1733	
+R	AGX	Age group (45 - 54 yrs.)	0	T	1734	
+R	AHX	Age group (55 - 64 yrs.)	0	T	1735	
+R	AIX	Age group (65+ yrs.)	0	T	1736	
+R	AJX	Age group (not reported)	0	T	1737	
+R	CON	Industry - Construction	0	T	1783	
+R	DAX	DAFW (1 day)	0	T	1738	
+R	DBX	DAFW (2 days)	0	T	1739	
+R	DCX	DAFW (3 - 5 days)	0	T	1740	
+R	DDX	DAFW (6 - 10 days)	0	T	1741	
+R	DEX	DAFW (11 - 20 days)	0	T	1742	
+R	DFX	DAFW (21 - 30 days)	0	T	1743	
+R	DGX	DAFW (31+ days)	0	T	1744	
+R	E11	Event - Intentional injury by other person	0	T	1745	
+R	E12	Event - Injury by person-unintentional or intent unknown	0	T	1746	
+R	E13	Event - Animal and insect related incidents	0	T	1747	
+R	E1X	Event - Violence and other injuries by persons or animal	0	T	1748	
+R	E26	Event - Roadway incidents involving motorized land vehicles	0	T	1749	
+R	E2X	Event - Transportation incidents	0	T	1750	
+R	E3X	Event - Fires and explosions	0	T	1751	
+R	E41	Event - Slips, trips without fall	0	T	1752	
+R	E42	Event - Fall on same level	0	T	1753	
+R	E43	Event - Fall to lower level	0	T	1754	
+R	E4X	Event - Falls, slips, trips	0	T	1755	
+R	E5X	Event - Exposure to harmful substances or enviroments	0	T	1756	
+R	E62	Event - Struck by object or equipment	0	T	1757	
+R	E63	Event - Struck against object or equipment	0	T	1758	
+R	E64	Event - Caught in or compressed by object or equipment	0	T	1759	
+R	E6X	Event - Contact with object, equipment	0	T	1760	
+R	E72	Event - Repetitive motion involving microtasks	0	T	1761	
+R	E7A	Event - Overexertion in lifting or lowering	0	T	1762	
+R	E7X	Event - Overexertion and bodily reaction	0	T	1763	
+R	EDS	Industry - Educational services	0	T	1784	
+R	EHS	Industry - Education and health services	0	T	1785	
+R	EXX	Event - all other	0	T	1764	
+R	FIA	Industry - Financial activities	0	T	1786	
+R	FIN	Industry - Finance and insurance	0	T	1787	
+R	GFX	Gender (Female)	0	T	1765	
+R	GMX	Gender (Male)	0	T	1766	
+R	GNX	Gender (Not reported)	0	T	1767	
+R	GP1	Industry - Goods producing	0	T	1788	
+R	HAS	Industry - Health care and social assistance	0	T	1789	
+R	HAX	Hours (before shift began)	0	T	1768	
+R	HBX	Hours (less than 1 hour)	0	T	1769	
+R	HCX	Hours (1 -2 hours)	0	T	1770	
+R	HDX	Hours (2 - 4 hours)	0	T	1771	
+R	HEX	Hours (4 - 6 hours)	0	T	1772	
+R	HFX	Hours (6 - 8 hours)	0	T	1773	
+R	HGX	Hours (8 - 10 hours)	0	T	1774	
+R	HHX	Hours (10 - 12 hours)	0	T	1775	
+R	HIX	Hours (12 - 16 hours)	0	T	1776	
+R	HJX	Hours (more than 16 hours)	0	T	1777	
+R	HKX	Hours (not reported)	0	T	1778	
+R	INF	Industry - Information	0	T	1790	
+R	LAX	LOS (< 3 mos.)	0	T	1807	
+R	LBX	LOS (3 - 11 mos.)	0	T	1808	
+R	LCX	LOS (1 - 5 yrs.)	0	T	1809	
+R	LDX	LOS (5 yrs.)	0	T	1810	
+R	LEH	Industry - Leisure and hospitality	0	T	1791	
+R	LEX	LOS (Not reported)	0	T	1811	
+R	MCE	Industry - Management of companies and enterprises	0	T	1792	
+R	MFG	Industry - Manufacturing	0	T	1793	
+R	MIN	Industry - Mining	0	T	1794	
+R	MSD	Musculoskeletal disorders	0	T	1812	
+R	N1A	Nature - Fractures	0	T	1813	
+R	N1B	Nature - Sprains, strains, tears	0	T	1814	
+R	N1C	Nature - Amputations	0	T	1815	
+R	N1D	Nature - Bruise, contusions	0	T	1816	
+R	N1E	Nature - Chemical burns and corrosions	0	T	1817	
+R	N1F	Nature - Heat (thermal) burns	0	T	1818	
+R	N1G	Nature - Soreness, pain	0	T	1819	
+R	N21	Nature - Cuts, lacerations	0	T	1820	
+R	N22	Nature - Punctures (except gunshot wounds)	0	T	1821	
+R	N2X	Nature - Cuts, lacerations, punctures	0	T	1822	
+R	N3A	Nature - Carpal tunnel syndrome	0	T	1823	
+R	N3B	Nature - Tendonitis	0	T	1824	
+R	N81	Nature - With sprains	0	T	1825	
+R	N82	Nature - With fractures	0	T	1826	
+R	N8X	Nature - Multiple traumatic injuries	0	T	1827	
+R	NRM	Industry - Natural resources	0	T	1795	
+R	NXX	Nature - all other	0	T	1828	
+R	O10	Occupation - Management, Business, and Financial Occupations (11-13)	0	T	1829	
+R	O23	Occupation - Computer, Engineering, and Science Occupations (15-19)	0	T	1831	
+R	O25	Occupation - Education, Legal, Community Service, Arts, and Media Occupations (21-27)	0	T	1832	
+R	O27	Occupation - Healthcare Practitioners and Technical Occupations (29)	0	T	1833	
+R	O30	Occupation - Service Occupations (31-39)	0	T	1834	
+R	O41	Occupation - Sales and Related Occupations	0	T	1835	
+R	O43	Occupation - Office and Administrative Support Occupations	0	T	1836	
+R	O45	Occupation - Farming, Fishing, and Forestry Occupations	0	T	1837	
+R	O47	Occupation - Construction and Extraction Occupations	0	T	1838	
+R	O49	Occupation - Installation, Maintenance, and Repair Occupations	0	T	1839	
+R	O51	Occupation - Production Occupations	0	T	1840	
+R	O53	Occupation - Transportation and Material Moving Occupations	0	T	1841	
+R	OTS	Industry - Other services	0	T	1796	
+R	P11	Part - Eye	0	T	1842	
+R	P1X	Part - Head	0	T	1843	
+R	P2X	Part - Neck	0	T	1844	
+R	P32	Part - Back	0	T	1845	
+R	P3X	Part - Trunk	0	T	1846	
+R	P41	Part - Shoulder	0	T	1847	
+R	P42	Part - Arm	0	T	1848	
+R	P43	Part - Wrist	0	T	1849	
+R	P44	Part - Hand(s)	0	T	1850	
+R	P4A	Part - Hand(s), except finger(s)	0	T	1851	
+R	P4B	Part - Finger(s), fingernail(s)	0	T	1852	
+R	P4X	Part - Upper extremities	0	T	1853	
+R	P51	Part - Knee	0	T	1854	
+R	P52	Part - Ankle	0	T	1855	
+R	P53	Part - Foot	0	T	1856	
+R	P54	Part - Toe, toenail	0	T	1857	
+R	P5X	Part - Lower extremities	0	T	1858	
+R	P6X	Part - Body systems	0	T	1859	
+R	P8X	Part - Multiple	0	T	1860	
+R	PAD	Industry - Public Administration	0	T	1797	
+R	PBS	Industry - Professional business services	0	T	1798	
+R	PST	Industry - Professional, scientific, and technical services	0	T	1799	
+R	PXX	Part - all other	0	T	1861	
+R	RET	Industry - Retail trade	0	T	1800	
+R	RRL	Industry - Real estate and rental leasing	0	T	1801	
+R	S1X	Source - Chemical, chemical products	0	T	1872	
+R	S21	Source - Containers	0	T	1873	
+R	S22	Source - Furniture, fixtures	0	T	1874	
+R	S3X	Source - Machinery	0	T	1875	
+R	S4X	Source - Parts and materials	0	T	1876	
+R	S56	Source - Person, injured or ill worker	0	T	1877	
+R	S57	Source - Person, other than injured or ill workers	0	T	1878	
+R	S5B	Source - Worker motion or position	0	T	1879	
+R	S5C	Source - Patient	0	T	1880	
+R	S66	Source - Floors, walkways, ground surfaces	0	T	1881	
+R	S74	Source - Ladder	0	T	1883	
+R	S7A	Source - Handtools	0	T	1884	
+R	S8C	Source - Trucks	0	T	1885	
+R	S8D	Source - Cart, dolly, hand truck-nonpowered	0	T	1886	
+R	S8X	Source - Vehicles	0	T	1887	
+R	SP1	Industry - Service providing	0	T	1802	
+R	SXX	Source - all other	0	T	1888	
+R	T2X	Secondary Source - Containers, furniture, and fixtures	0	T	1862	
+R	T31	Secondary Source - Computers and peripheral equipment	0	T	1863	
+R	T3X	Secondary Source - Machinery	0	T	1864	
+R	T71	Secondary Source - Firearms, law enforcement, and other self-defense equipment	0	T	1865	
+R	T7X	Secondary Source - Tools, instruments, and equipment	0	T	1866	
+R	T84	Secondary Source - Highway vehicle, motorized	0	T	1867	
+R	T8X	Secondary Source - Vehicles	0	T	1868	
+R	T91	Secondary Source - Ice, sleet, snow	0	T	1869	
+R	T92	Secondary Source - Liquids-nonchemical	0	T	1870	
+R	TAX	Time (12:01AM - 4:00AM)	0	T	1889	
+R	TBX	Time (4:01AM - 8:00AM)	0	T	1890	
+R	TCX	Time (8:01AM - 12Noon)	0	T	1891	
+R	TDX	Time (12:01PM - 4:00PM)	0	T	1892	
+R	TEX	Time (4:01PM - 8:00PM)	0	T	1893	
+R	TFX	Time (8:01PM - 12Midnight)	0	T	1894	
+R	TGX	Time (not reported)	0	T	1895	
+R	TRW	Industry - Transportation and warehousing	0	T	1803	
+R	TTU	Industry - Trade, transportation, and utilities	0	T	1804	
+R	TXX	Secondary Source - all other	0	T	1871	
+R	UTL	Industry - Utilities	0	T	1805	
+R	WAX	Weekday (Sunday)	0	T	1896	
+R	WBX	Weekday (Monday)	0	T	1897	
+R	WCX	Weekday (Tuesday)	0	T	1898	
+R	WDX	Weekday (Wednesday)	0	T	1899	
+R	WEX	Weekday (Thursday)	0	T	1900	
+R	WFX	Weekday (Friday)	0	T	1901	
+R	WGX	Weekday (Saturday)	0	T	1902	
+R	WHT	Industry - Wholesale trade	0	T	1806	
+S	00X	All industry	0	T	12	
+S	ABX	Age group (14 - 15 yrs.)	0	T	1904	
+S	ACX	Age group (16 - 19 yrs.)	0	T	1905	
+S	ADW	Industry - Administration and support and waste management	0	T	1954	
+S	ADX	Age group (20 - 24 yrs.)	0	T	1906	
+S	AER	Industry - Arts, entertainment, and recreation	0	T	1955	
+S	AEX	Age group (25 - 34 yrs.)	0	T	1907	
+S	AFH	Industry - Agriculture, forestry, fishing, and hunting	0	T	1956	
+S	AFS	Industry - Accommodation and food services	0	T	1957	
+S	AFX	Age group (35 - 44 yrs.)	0	T	1908	
+S	AGX	Age group (45 - 54 yrs.)	0	T	1909	
+S	AHX	Age group (55 - 64 yrs.)	0	T	1910	
+S	AIX	Age group (65+ yrs.)	0	T	1911	
+S	AJX	Age group (not reported)	0	T	1912	
+S	CON	Industry - Construction	0	T	1958	
+S	DAX	DAFW (1 day)	0	T	1913	
+S	DBX	DAFW (2 days)	0	T	1914	
+S	DCX	DAFW (3 - 5 days)	0	T	1915	
+S	DDX	DAFW (6 - 10 days)	0	T	1916	
+S	DEX	DAFW (11 - 20 days)	0	T	1917	
+S	DFX	DAFW (21 - 30 days)	0	T	1918	
+S	DGX	DAFW (31+ days)	0	T	1919	
+S	E11	Event - Intentional injury by other person	0	T	1920	
+S	E12	Event - Injury by person-unintentional or intent unknown	0	T	1921	
+S	E13	Event - Animal and insect related incidents	0	T	1922	
+S	E1X	Event - Violence and other injuries by persons or animal	0	T	1923	
+S	E26	Event - Roadway incidents involving motorized land vehicles	0	T	1924	
+S	E2X	Event - Transportation incidents	0	T	1925	
+S	E3X	Event - Fires and explosions	0	T	1926	
+S	E41	Event - Slips, trips without fall	0	T	1927	
+S	E42	Event - Fall on same level	0	T	1928	
+S	E43	Event - Fall to lower level	0	T	1929	
+S	E4X	Event - Falls, slips, trips	0	T	1930	
+S	E5X	Event - Exposure to harmful substances or enviroments	0	T	1931	
+S	E62	Event - Struck by object or equipment	0	T	1932	
+S	E63	Event - Struck against object or equipment	0	T	1933	
+S	E64	Event - Caught in or compressed by object or equipment	0	T	1934	
+S	E6X	Event - Contact with object, equipment	0	T	1935	
+S	E72	Event - Repetitive motion involving microtasks	0	T	1936	
+S	E7A	Event - Overexertion in lifting or lowering	0	T	1937	
+S	E7X	Event - Overexertion and bodily reaction	0	T	1938	
+S	EDS	Industry - Educational services	0	T	1959	
+S	EHS	Industry - Education and health services	0	T	1960	
+S	EXX	Event - all other	0	T	1939	
+S	FIA	Industry - Financial activities	0	T	1961	
+S	FIN	Industry - Finance and insurance	0	T	1962	
+S	GFX	Gender (Female)	0	T	1940	
+S	GMX	Gender (Male)	0	T	1941	
+S	GNX	Gender (Not reported)	0	T	1942	
+S	GP1	Industry - Goods producing	0	T	1963	
+S	HAS	Industry - Health care and social assistance	0	T	1964	
+S	HAX	Hours (before shift began)	0	T	1943	
+S	HBX	Hours (less than 1 hour)	0	T	1944	
+S	HCX	Hours (1 -2 hours)	0	T	1945	
+S	HDX	Hours (2 - 4 hours)	0	T	1946	
+S	HEX	Hours (4 - 6 hours)	0	T	1947	
+S	HFX	Hours (6 - 8 hours)	0	T	1948	
+S	HGX	Hours (8 - 10 hours)	0	T	1949	
+S	HHX	Hours (10 - 12 hours)	0	T	1950	
+S	HIX	Hours (12 - 16 hours)	0	T	1951	
+S	HJX	Hours (more than 16 hours)	0	T	1952	
+S	HKX	Hours (not reported)	0	T	1953	
+S	INF	Industry - Information	0	T	1965	
+S	LAX	LOS (< 3 mos.)	0	T	1982	
+S	LBX	LOS (3 - 11 mos.)	0	T	1983	
+S	LCX	LOS (1 - 5 yrs.)	0	T	1984	
+S	LDX	LOS (5 yrs.)	0	T	1985	
+S	LEH	Industry - Leisure and hospitality	0	T	1966	
+S	LEX	LOS (Not reported)	0	T	1986	
+S	MCE	Industry - Management of companies and enterprises	0	T	1967	
+S	MFG	Industry - Manufacturing	0	T	1968	
+S	MIN	Industry - Mining	0	T	1969	
+S	MSD	Musculoskeletal disorders	0	T	1987	
+S	N1A	Nature - Fractures	0	T	1988	
+S	N1B	Nature - Sprains, strains, tears	0	T	1989	
+S	N1C	Nature - Amputations	0	T	1990	
+S	N1D	Nature - Bruise, contusions	0	T	1991	
+S	N1E	Nature - Chemical burns and corrosions	0	T	1992	
+S	N1F	Nature - Heat (thermal) burns	0	T	1993	
+S	N1G	Nature - Soreness, pain	0	T	1994	
+S	N21	Nature - Cuts, lacerations	0	T	1995	
+S	N22	Nature - Punctures (except gunshot wounds)	0	T	1996	
+S	N2X	Nature - Cuts, lacerations, punctures	0	T	1997	
+S	N3A	Nature - Carpal tunnel syndrome	0	T	1998	
+S	N3B	Nature - Tendonitis	0	T	1999	
+S	N81	Nature - With sprains	0	T	2000	
+S	N82	Nature - With fractures	0	T	2001	
+S	N8X	Nature - Multiple traumatic injuries	0	T	2002	
+S	NRM	Industry - Natural resources	0	T	1970	
+S	NXX	Nature - all other	0	T	2003	
+S	O10	Occupation - Management, Business, and Financial Occupations (11-13)	0	T	2004	
+S	O23	Occupation - Computer, Engineering, and Science Occupations (15-19)	0	T	2006	
+S	O25	Occupation - Education, Legal, Community Service, Arts, and Media Occupations (21-27)	0	T	2007	
+S	O27	Occupation - Healthcare Practitioners and Technical Occupations (29)	0	T	2008	
+S	O30	Occupation - Service Occupations (31-39)	0	T	2009	
+S	O41	Occupation - Sales and Related Occupations	0	T	2010	
+S	O43	Occupation - Office and Administrative Support Occupations	0	T	2011	
+S	O45	Occupation - Farming, Fishing, and Forestry Occupations	0	T	2012	
+S	O47	Occupation - Construction and Extraction Occupations	0	T	2013	
+S	O49	Occupation - Installation, Maintenance, and Repair Occupations	0	T	2014	
+S	O51	Occupation - Production Occupations	0	T	2015	
+S	O53	Occupation - Transportation and Material Moving Occupations	0	T	2016	
+S	OTS	Industry - Other services	0	T	1971	
+S	P11	Part - Eye	0	T	2017	
+S	P1X	Part - Head	0	T	2018	
+S	P2X	Part - Neck	0	T	2019	
+S	P32	Part - Back	0	T	2020	
+S	P3X	Part - Trunk	0	T	2021	
+S	P41	Part - Shoulder	0	T	2022	
+S	P42	Part - Arm	0	T	2023	
+S	P43	Part - Wrist	0	T	2024	
+S	P44	Part - Hand(s)	0	T	2025	
+S	P4A	Part - Hand(s), except finger(s)	0	T	2026	
+S	P4B	Part - Finger(s), fingernail(s)	0	T	2027	
+S	P4X	Part - Upper extremities	0	T	2028	
+S	P51	Part - Knee	0	T	2029	
+S	P52	Part - Ankle	0	T	2030	
+S	P53	Part - Foot	0	T	2031	
+S	P54	Part - Toe, toenail	0	T	2032	
+S	P5X	Part - Lower extremities	0	T	2033	
+S	P6X	Part - Body systems	0	T	2034	
+S	P8X	Part - Multiple	0	T	2035	
+S	PAD	Industry - Public Administration	0	T	1972	
+S	PBS	Industry - Professional business services	0	T	1973	
+S	PST	Industry - Professional, scientific, and technical services	0	T	1974	
+S	PXX	Part - all other	0	T	2036	
+S	RAX	Race (American Indian or Alaska native)	0	T	2037	
+S	RBX	Race (Asian)	0	T	2038	
+S	RCX	Race (Black or African American)	0	T	2039	
+S	RDX	Race (Hispanic or Latino)	0	T	2040	
+S	RET	Industry - Retail trade	0	T	1975	
+S	REX	Race (Native Hawaiian or Other Pacific Islander)	0	T	2041	
+S	RFX	Race (White)	0	T	2042	
+S	RGX	Race (Not reported)	0	T	2043	
+S	RHX	Race (Multi-race)	0	T	2044	
+S	RIX	Race (Hispanic and other)	0	T	2045	
+S	RRL	Industry - Real estate and rental leasing	0	T	1976	
+S	SP1	Industry - Service providing	0	T	1977	
+S	T2X	Secondary Source - Containers, furniture, and fixtures	0	T	2046	
+S	T31	Secondary Source - Computers and peripheral equipment	0	T	2047	
+S	T3X	Secondary Source - Machinery	0	T	2048	
+S	T71	Secondary Source - Firearms, law enforcement, and other self-defense equipment	0	T	2049	
+S	T7X	Secondary Source - Tools, instruments, and equipment	0	T	2050	
+S	T84	Secondary Source - Highway vehicle, motorized	0	T	2051	
+S	T8X	Secondary Source - Vehicles	0	T	2052	
+S	T91	Secondary Source - Ice, sleet, snow	0	T	2053	
+S	T92	Secondary Source - Liquids-nonchemical	0	T	2054	
+S	TAX	Time (12:01AM - 4:00AM)	0	T	2056	
+S	TBX	Time (4:01AM - 8:00AM)	0	T	2057	
+S	TCX	Time (8:01AM - 12Noon)	0	T	2058	
+S	TDX	Time (12:01PM - 4:00PM)	0	T	2059	
+S	TEX	Time (4:01PM - 8:00PM)	0	T	2060	
+S	TFX	Time (8:01PM - 12Midnight)	0	T	2061	
+S	TGX	Time (not reported)	0	T	2062	
+S	TRW	Industry - Transportation and warehousing	0	T	1978	
+S	TTU	Industry - Trade, transportation, and utilities	0	T	1979	
+S	TXX	Secondary Source - all other	0	T	2055	
+S	UTL	Industry - Utilities	0	T	1980	
+S	WAX	Weekday (Sunday)	0	T	2063	
+S	WBX	Weekday (Monday)	0	T	2064	
+S	WCX	Weekday (Tuesday)	0	T	2065	
+S	WDX	Weekday (Wednesday)	0	T	2066	
+S	WEX	Weekday (Thursday)	0	T	2067	
+S	WFX	Weekday (Friday)	0	T	2068	
+S	WGX	Weekday (Saturday)	0	T	2069	
+S	WHT	Industry - Wholesale trade	0	T	1981	
+T	00X	All industry	0	T	13	
+T	ABX	Age group (14 - 15 yrs.)	0	T	2071	
+T	ACX	Age group (16 - 19 yrs.)	0	T	2072	
+T	ADW	Industry - Administration and support and waste management	0	T	2121	
+T	ADX	Age group (20 - 24 yrs.)	0	T	2073	
+T	AER	Industry - Arts, entertainment, and recreation	0	T	2122	
+T	AEX	Age group (25 - 34 yrs.)	0	T	2074	
+T	AFH	Industry - Agriculture, forestry, fishing, and hunting	0	T	2123	
+T	AFS	Industry - Accommodation and food services	0	T	2124	
+T	AFX	Age group (35 - 44 yrs.)	0	T	2075	
+T	AGX	Age group (45 - 54 yrs.)	0	T	2076	
+T	AHX	Age group (55 - 64 yrs.)	0	T	2077	
+T	AIX	Age group (65+ yrs.)	0	T	2078	
+T	AJX	Age group (not reported)	0	T	2079	
+T	CON	Industry - Construction	0	T	2125	
+T	DAX	DAFW (1 day)	0	T	2080	
+T	DBX	DAFW (2 days)	0	T	2081	
+T	DCX	DAFW (3 - 5 days)	0	T	2082	
+T	DDX	DAFW (6 - 10 days)	0	T	2083	
+T	DEX	DAFW (11 - 20 days)	0	T	2084	
+T	DFX	DAFW (21 - 30 days)	0	T	2085	
+T	DGX	DAFW (31+ days)	0	T	2086	
+T	E11	Event - Intentional injury by other person	0	T	2087	
+T	E12	Event - Injury by person-unintentional or intent unknown	0	T	2088	
+T	E13	Event - Animal and insect related incidents	0	T	2089	
+T	E1X	Event - Violence and other injuries by persons or animal	0	T	2090	
+T	E26	Event - Roadway incidents involving motorized land vehicles	0	T	2091	
+T	E2X	Event - Transportation incidents	0	T	2092	
+T	E3X	Event - Fires and explosions	0	T	2093	
+T	E41	Event - Slips, trips without fall	0	T	2094	
+T	E42	Event - Fall on same level	0	T	2095	
+T	E43	Event - Fall to lower level	0	T	2096	
+T	E4X	Event - Falls, slips, trips	0	T	2097	
+T	E5X	Event - Exposure to harmful substances or enviroments	0	T	2098	
+T	E62	Event - Struck by object or equipment	0	T	2099	
+T	E63	Event - Struck against object or equipment	0	T	2100	
+T	E64	Event - Caught in or compressed by object or equipment	0	T	2101	
+T	E6X	Event - Contact with object, equipment	0	T	2102	
+T	E72	Event - Repetitive motion involving microtasks	0	T	2103	
+T	E7A	Event - Overexertion in lifting or lowering	0	T	2104	
+T	E7X	Event - Overexertion and bodily reaction	0	T	2105	
+T	EDS	Industry - Educational services	0	T	2126	
+T	EHS	Industry - Education and health services	0	T	2127	
+T	EXX	Event - all other	0	T	2106	
+T	FIA	Industry - Financial activities	0	T	2128	
+T	FIN	Industry - Finance and insurance	0	T	2129	
+T	GFX	Gender (Female)	0	T	2107	
+T	GMX	Gender (Male)	0	T	2108	
+T	GNX	Gender (Not reported)	0	T	2109	
+T	GP1	Industry - Goods producing	0	T	2130	
+T	HAS	Industry - Health care and social assistance	0	T	2131	
+T	HAX	Hours (before shift began)	0	T	2110	
+T	HBX	Hours (less than 1 hour)	0	T	2111	
+T	HCX	Hours (1 -2 hours)	0	T	2112	
+T	HDX	Hours (2 - 4 hours)	0	T	2113	
+T	HEX	Hours (4 - 6 hours)	0	T	2114	
+T	HFX	Hours (6 - 8 hours)	0	T	2115	
+T	HGX	Hours (8 - 10 hours)	0	T	2116	
+T	HHX	Hours (10 - 12 hours)	0	T	2117	
+T	HIX	Hours (12 - 16 hours)	0	T	2118	
+T	HJX	Hours (more than 16 hours)	0	T	2119	
+T	HKX	Hours (not reported)	0	T	2120	
+T	INF	Industry - Information	0	T	2132	
+T	LAX	LOS (< 3 mos.)	0	T	2149	
+T	LBX	LOS (3 - 11 mos.)	0	T	2150	
+T	LCX	LOS (1 - 5 yrs.)	0	T	2151	
+T	LDX	LOS (5 yrs.)	0	T	2152	
+T	LEH	Industry - Leisure and hospitality	0	T	2133	
+T	LEX	LOS (Not reported)	0	T	2153	
+T	MCE	Industry - Management of companies and enterprises	0	T	2134	
+T	MFG	Industry - Manufacturing	0	T	2135	
+T	MIN	Industry - Mining	0	T	2136	
+T	MSD	Musculoskeletal disorders	0	T	2154	
+T	N1A	Nature - Fractures	0	T	2155	
+T	N1B	Nature - Sprains, strains, tears	0	T	2156	
+T	N1C	Nature - Amputations	0	T	2157	
+T	N1D	Nature - Bruise, contusions	0	T	2158	
+T	N1E	Nature - Chemical burns and corrosions	0	T	2159	
+T	N1F	Nature - Heat (thermal) burns	0	T	2160	
+T	N1G	Nature - Soreness, pain	0	T	2161	
+T	N21	Nature - Cuts, lacerations	0	T	2162	
+T	N22	Nature - Punctures (except gunshot wounds)	0	T	2163	
+T	N2X	Nature - Cuts, lacerations, punctures	0	T	2164	
+T	N3A	Nature - Carpal tunnel syndrome	0	T	2165	
+T	N3B	Nature - Tendonitis	0	T	2166	
+T	N81	Nature - With sprains	0	T	2167	
+T	N82	Nature - With fractures	0	T	2168	
+T	N8X	Nature - Multiple traumatic injuries	0	T	2169	
+T	NRM	Industry - Natural resources	0	T	2137	
+T	NXX	Nature - all other	0	T	2170	
+T	O10	Occupation - Management, Business, and Financial Occupations (11-13)	0	T	2171	
+T	O23	Occupation - Computer, Engineering, and Science Occupations (15-19)	0	T	2173	
+T	O25	Occupation - Education, Legal, Community Service, Arts, and Media Occupations (21-27)	0	T	2174	
+T	O27	Occupation - Healthcare Practitioners and Technical Occupations (29)	0	T	2175	
+T	O30	Occupation - Service Occupations (31-39)	0	T	2176	
+T	O41	Occupation - Sales and Related Occupations	0	T	2177	
+T	O43	Occupation - Office and Administrative Support Occupations	0	T	2178	
+T	O45	Occupation - Farming, Fishing, and Forestry Occupations	0	T	2179	
+T	O47	Occupation - Construction and Extraction Occupations	0	T	2180	
+T	O49	Occupation - Installation, Maintenance, and Repair Occupations	0	T	2181	
+T	O51	Occupation - Production Occupations	0	T	2182	
+T	O53	Occupation - Transportation and Material Moving Occupations	0	T	2183	
+T	OTS	Industry - Other services	0	T	2138	
+T	P11	Part - Eye	0	T	2184	
+T	P1X	Part - Head	0	T	2185	
+T	P2X	Part - Neck	0	T	2186	
+T	P32	Part - Back	0	T	2187	
+T	P3X	Part - Trunk	0	T	2188	
+T	P41	Part - Shoulder	0	T	2189	
+T	P42	Part - Arm	0	T	2190	
+T	P43	Part - Wrist	0	T	2191	
+T	P44	Part - Hand(s)	0	T	2192	
+T	P4A	Part - Hand(s), except finger(s)	0	T	2193	
+T	P4B	Part - Finger(s), fingernail(s)	0	T	2194	
+T	P4X	Part - Upper extremities	0	T	2195	
+T	P51	Part - Knee	0	T	2196	
+T	P52	Part - Ankle	0	T	2197	
+T	P53	Part - Foot	0	T	2198	
+T	P54	Part - Toe, toenail	0	T	2199	
+T	P5X	Part - Lower extremities	0	T	2200	
+T	P6X	Part - Body systems	0	T	2201	
+T	P8X	Part - Multiple	0	T	2202	
+T	PAD	Industry - Public Administration	0	T	2139	
+T	PBS	Industry - Professional business services	0	T	2140	
+T	PST	Industry - Professional, scientific, and technical services	0	T	2141	
+T	PXX	Part - all other	0	T	2203	
+T	RAX	Race (American Indian or Alaska native)	0	T	2204	
+T	RBX	Race (Asian)	0	T	2205	
+T	RCX	Race (Black or African American)	0	T	2206	
+T	RDX	Race (Hispanic or Latino)	0	T	2207	
+T	RET	Industry - Retail trade	0	T	2142	
+T	REX	Race (Native Hawaiian or Other Pacific Islander)	0	T	2208	
+T	RFX	Race (White)	0	T	2209	
+T	RGX	Race (Not reported)	0	T	2210	
+T	RHX	Race (Multi-race)	0	T	2211	
+T	RIX	Race (Hispanic and other)	0	T	2212	
+T	RRL	Industry - Real estate and rental leasing	0	T	2143	
+T	S1X	Source - Chemical, chemical products	0	T	2223	
+T	S21	Source - Containers	0	T	2224	
+T	S22	Source - Furniture, fixtures	0	T	2225	
+T	S3X	Source - Machinery	0	T	2226	
+T	S4X	Source - Parts and materials	0	T	2227	
+T	S56	Source - Person, injured or ill worker	0	T	2228	
+T	S57	Source - Person, other than injured or ill workers	0	T	2229	
+T	S5B	Source - Worker motion or position	0	T	2230	
+T	S5C	Source - Patient	0	T	2231	
+T	S66	Source - Floors, walkways, ground surfaces	0	T	2232	
+T	S74	Source - Ladder	0	T	2234	
+T	S7A	Source - Handtools	0	T	2235	
+T	S8C	Source - Trucks	0	T	2236	
+T	S8D	Source - Cart, dolly, hand truck-nonpowered	0	T	2237	
+T	S8X	Source - Vehicles	0	T	2238	
+T	SP1	Industry - Service providing	0	T	2144	
+T	SXX	Source - all other	0	T	2239	
+T	T2X	Secondary Source - Containers, furniture, and fixtures	0	T	2213	
+T	T31	Secondary Source - Computers and peripheral equipment	0	T	2214	
+T	T3X	Secondary Source - Machinery	0	T	2215	
+T	T71	Secondary Source - Firearms, law enforcement, and other self-defense equipment	0	T	2216	
+T	T7X	Secondary Source - Tools, instruments, and equipment	0	T	2217	
+T	T84	Secondary Source - Highway vehicle, motorized	0	T	2218	
+T	T8X	Secondary Source - Vehicles	0	T	2219	
+T	T91	Secondary Source - Ice, sleet, snow	0	T	2220	
+T	T92	Secondary Source - Liquids-nonchemical	0	T	2221	
+T	TRW	Industry - Transportation and warehousing	0	T	2145	
+T	TTU	Industry - Trade, transportation, and utilities	0	T	2146	
+T	TXX	Secondary Source - all other	0	T	2222	
+T	UTL	Industry - Utilities	0	T	2147	
+T	WAX	Weekday (Sunday)	0	T	2240	
+T	WBX	Weekday (Monday)	0	T	2241	
+T	WCX	Weekday (Tuesday)	0	T	2242	
+T	WDX	Weekday (Wednesday)	0	T	2243	
+T	WEX	Weekday (Thursday)	0	T	2244	
+T	WFX	Weekday (Friday)	0	T	2245	
+T	WGX	Weekday (Saturday)	0	T	2246	
+T	WHT	Industry - Wholesale trade	0	T	2148	
+W	00X	All industry	0	T	14	
+W	ABX	Age group (14 - 15 yrs.)	0	T	2248	
+W	ACX	Age group (16 - 19 yrs.)	0	T	2249	
+W	ADW	Industry - Administration and support and waste management	0	T	2298	
+W	ADX	Age group (20 - 24 yrs.)	0	T	2250	
+W	AER	Industry - Arts, entertainment, and recreation	0	T	2299	
+W	AEX	Age group (25 - 34 yrs.)	0	T	2251	
+W	AFH	Industry - Agriculture, forestry, fishing, and hunting	0	T	2300	
+W	AFS	Industry - Accommodation and food services	0	T	2301	
+W	AFX	Age group (35 - 44 yrs.)	0	T	2252	
+W	AGX	Age group (45 - 54 yrs.)	0	T	2253	
+W	AHX	Age group (55 - 64 yrs.)	0	T	2254	
+W	AIX	Age group (65+ yrs.)	0	T	2255	
+W	AJX	Age group (not reported)	0	T	2256	
+W	CON	Industry - Construction	0	T	2302	
+W	DAX	DAFW (1 day)	0	T	2257	
+W	DBX	DAFW (2 days)	0	T	2258	
+W	DCX	DAFW (3 - 5 days)	0	T	2259	
+W	DDX	DAFW (6 - 10 days)	0	T	2260	
+W	DEX	DAFW (11 - 20 days)	0	T	2261	
+W	DFX	DAFW (21 - 30 days)	0	T	2262	
+W	DGX	DAFW (31+ days)	0	T	2263	
+W	E11	Event - Intentional injury by other person	0	T	2264	
+W	E12	Event - Injury by person-unintentional or intent unknown	0	T	2265	
+W	E13	Event - Animal and insect related incidents	0	T	2266	
+W	E1X	Event - Violence and other injuries by persons or animal	0	T	2267	
+W	E26	Event - Roadway incidents involving motorized land vehicles	0	T	2268	
+W	E2X	Event - Transportation incidents	0	T	2269	
+W	E3X	Event - Fires and explosions	0	T	2270	
+W	E41	Event - Slips, trips without fall	0	T	2271	
+W	E42	Event - Fall on same level	0	T	2272	
+W	E43	Event - Fall to lower level	0	T	2273	
+W	E4X	Event - Falls, slips, trips	0	T	2274	
+W	E5X	Event - Exposure to harmful substances or enviroments	0	T	2275	
+W	E62	Event - Struck by object or equipment	0	T	2276	
+W	E63	Event - Struck against object or equipment	0	T	2277	
+W	E64	Event - Caught in or compressed by object or equipment	0	T	2278	
+W	E6X	Event - Contact with object, equipment	0	T	2279	
+W	E72	Event - Repetitive motion involving microtasks	0	T	2280	
+W	E7A	Event - Overexertion in lifting or lowering	0	T	2281	
+W	E7X	Event - Overexertion and bodily reaction	0	T	2282	
+W	EDS	Industry - Educational services	0	T	2303	
+W	EHS	Industry - Education and health services	0	T	2304	
+W	EXX	Event - all other	0	T	2283	
+W	FIA	Industry - Financial activities	0	T	2305	
+W	FIN	Industry - Finance and insurance	0	T	2306	
+W	GFX	Gender (Female)	0	T	2284	
+W	GMX	Gender (Male)	0	T	2285	
+W	GNX	Gender (Not reported)	0	T	2286	
+W	GP1	Industry - Goods producing	0	T	2307	
+W	HAS	Industry - Health care and social assistance	0	T	2308	
+W	HAX	Hours (before shift began)	0	T	2287	
+W	HBX	Hours (less than 1 hour)	0	T	2288	
+W	HCX	Hours (1 -2 hours)	0	T	2289	
+W	HDX	Hours (2 - 4 hours)	0	T	2290	
+W	HEX	Hours (4 - 6 hours)	0	T	2291	
+W	HFX	Hours (6 - 8 hours)	0	T	2292	
+W	HGX	Hours (8 - 10 hours)	0	T	2293	
+W	HHX	Hours (10 - 12 hours)	0	T	2294	
+W	HIX	Hours (12 - 16 hours)	0	T	2295	
+W	HJX	Hours (more than 16 hours)	0	T	2296	
+W	HKX	Hours (not reported)	0	T	2297	
+W	INF	Industry - Information	0	T	2309	
+W	LAX	LOS (< 3 mos.)	0	T	2326	
+W	LBX	LOS (3 - 11 mos.)	0	T	2327	
+W	LCX	LOS (1 - 5 yrs.)	0	T	2328	
+W	LDX	LOS (5 yrs.)	0	T	2329	
+W	LEH	Industry - Leisure and hospitality	0	T	2310	
+W	LEX	LOS (Not reported)	0	T	2330	
+W	MCE	Industry - Management of companies and enterprises	0	T	2311	
+W	MFG	Industry - Manufacturing	0	T	2312	
+W	MIN	Industry - Mining	0	T	2313	
+W	MSD	Musculoskeletal disorders	0	T	2331	
+W	N1A	Nature - Fractures	0	T	2332	
+W	N1B	Nature - Sprains, strains, tears	0	T	2333	
+W	N1C	Nature - Amputations	0	T	2334	
+W	N1D	Nature - Bruise, contusions	0	T	2335	
+W	N1E	Nature - Chemical burns and corrosions	0	T	2336	
+W	N1F	Nature - Heat (thermal) burns	0	T	2337	
+W	N1G	Nature - Soreness, pain	0	T	2338	
+W	N21	Nature - Cuts, lacerations	0	T	2339	
+W	N22	Nature - Punctures (except gunshot wounds)	0	T	2340	
+W	N2X	Nature - Cuts, lacerations, punctures	0	T	2341	
+W	N3A	Nature - Carpal tunnel syndrome	0	T	2342	
+W	N3B	Nature - Tendonitis	0	T	2343	
+W	N81	Nature - With sprains	0	T	2344	
+W	N82	Nature - With fractures	0	T	2345	
+W	N8X	Nature - Multiple traumatic injuries	0	T	2346	
+W	NRM	Industry - Natural resources	0	T	2314	
+W	NXX	Nature - all other	0	T	2347	
+W	O10	Occupation - Management, Business, and Financial Occupations (11-13)	0	T	2348	
+W	O23	Occupation - Computer, Engineering, and Science Occupations (15-19)	0	T	2350	
+W	O25	Occupation - Education, Legal, Community Service, Arts, and Media Occupations (21-27)	0	T	2351	
+W	O27	Occupation - Healthcare Practitioners and Technical Occupations (29)	0	T	2352	
+W	O30	Occupation - Service Occupations (31-39)	0	T	2353	
+W	O41	Occupation - Sales and Related Occupations	0	T	2354	
+W	O43	Occupation - Office and Administrative Support Occupations	0	T	2355	
+W	O45	Occupation - Farming, Fishing, and Forestry Occupations	0	T	2356	
+W	O47	Occupation - Construction and Extraction Occupations	0	T	2357	
+W	O49	Occupation - Installation, Maintenance, and Repair Occupations	0	T	2358	
+W	O51	Occupation - Production Occupations	0	T	2359	
+W	O53	Occupation - Transportation and Material Moving Occupations	0	T	2360	
+W	OTS	Industry - Other services	0	T	2315	
+W	P11	Part - Eye	0	T	2361	
+W	P1X	Part - Head	0	T	2362	
+W	P2X	Part - Neck	0	T	2363	
+W	P32	Part - Back	0	T	2364	
+W	P3X	Part - Trunk	0	T	2365	
+W	P41	Part - Shoulder	0	T	2366	
+W	P42	Part - Arm	0	T	2367	
+W	P43	Part - Wrist	0	T	2368	
+W	P44	Part - Hand(s)	0	T	2369	
+W	P4A	Part - Hand(s), except finger(s)	0	T	2370	
+W	P4B	Part - Finger(s), fingernail(s)	0	T	2371	
+W	P4X	Part - Upper extremities	0	T	2372	
+W	P51	Part - Knee	0	T	2373	
+W	P52	Part - Ankle	0	T	2374	
+W	P53	Part - Foot	0	T	2375	
+W	P54	Part - Toe, toenail	0	T	2376	
+W	P5X	Part - Lower extremities	0	T	2377	
+W	P6X	Part - Body systems	0	T	2378	
+W	P8X	Part - Multiple	0	T	2379	
+W	PAD	Industry - Public Administration	0	T	2316	
+W	PBS	Industry - Professional business services	0	T	2317	
+W	PST	Industry - Professional, scientific, and technical services	0	T	2318	
+W	PXX	Part - all other	0	T	2380	
+W	RAX	Race (American Indian or Alaska native)	0	T	2381	
+W	RBX	Race (Asian)	0	T	2382	
+W	RCX	Race (Black or African American)	0	T	2383	
+W	RDX	Race (Hispanic or Latino)	0	T	2384	
+W	RET	Industry - Retail trade	0	T	2319	
+W	REX	Race (Native Hawaiian or Other Pacific Islander)	0	T	2385	
+W	RFX	Race (White)	0	T	2386	
+W	RGX	Race (Not reported)	0	T	2387	
+W	RHX	Race (Multi-race)	0	T	2388	
+W	RIX	Race (Hispanic and other)	0	T	2389	
+W	RRL	Industry - Real estate and rental leasing	0	T	2320	
+W	S1X	Source - Chemical, chemical products	0	T	2400	
+W	S21	Source - Containers	0	T	2401	
+W	S22	Source - Furniture, fixtures	0	T	2402	
+W	S3X	Source - Machinery	0	T	2403	
+W	S4X	Source - Parts and materials	0	T	2404	
+W	S56	Source - Person, injured or ill worker	0	T	2405	
+W	S57	Source - Person, other than injured or ill workers	0	T	2406	
+W	S5B	Source - Worker motion or position	0	T	2407	
+W	S5C	Source - Patient	0	T	2408	
+W	S66	Source - Floors, walkways, ground surfaces	0	T	2409	
+W	S74	Source - Ladder	0	T	2411	
+W	S7A	Source - Handtools	0	T	2412	
+W	S8C	Source - Trucks	0	T	2413	
+W	S8D	Source - Cart, dolly, hand truck-nonpowered	0	T	2414	
+W	S8X	Source - Vehicles	0	T	2415	
+W	SP1	Industry - Service providing	0	T	2321	
+W	SXX	Source - all other	0	T	2416	
+W	T2X	Secondary Source - Containers, furniture, and fixtures	0	T	2390	
+W	T31	Secondary Source - Computers and peripheral equipment	0	T	2391	
+W	T3X	Secondary Source - Machinery	0	T	2392	
+W	T71	Secondary Source - Firearms, law enforcement, and other self-defense equipment	0	T	2393	
+W	T7X	Secondary Source - Tools, instruments, and equipment	0	T	2394	
+W	T84	Secondary Source - Highway vehicle, motorized	0	T	2395	
+W	T8X	Secondary Source - Vehicles	0	T	2396	
+W	T91	Secondary Source - Ice, sleet, snow	0	T	2397	
+W	T92	Secondary Source - Liquids-nonchemical	0	T	2398	
+W	TAX	Time (12:01AM - 4:00AM)	0	T	2417	
+W	TBX	Time (4:01AM - 8:00AM)	0	T	2418	
+W	TCX	Time (8:01AM - 12Noon)	0	T	2419	
+W	TDX	Time (12:01PM - 4:00PM)	0	T	2420	
+W	TEX	Time (4:01PM - 8:00PM)	0	T	2421	
+W	TFX	Time (8:01PM - 12Midnight)	0	T	2422	
+W	TGX	Time (not reported)	0	T	2423	
+W	TRW	Industry - Transportation and warehousing	0	T	2322	
+W	TTU	Industry - Trade, transportation, and utilities	0	T	2323	
+W	TXX	Secondary Source - all other	0	T	2399	
+W	UTL	Industry - Utilities	0	T	2324	
+W	WHT	Industry - Wholesale trade	0	T	2325	

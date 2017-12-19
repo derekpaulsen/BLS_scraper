@@ -1,0 +1,59 @@
+group_code	group_name
+00	All commodities	
+01	Farm products	
+02	Processed foods and feeds	
+03	Textile products and apparel	
+04	Hides, skins, leather, and related products	
+05	Fuels and related products and power	
+06	Chemicals and allied products	
+07	Rubber and plastic products	
+08	Lumber and wood products	
+09	Pulp, paper, and allied products	
+10	Metals and metal products	
+11	Machinery and equipment	
+12	Furniture and household durables	
+13	Nonmetallic mineral products	
+14	Transportation equipment	
+15	Miscellaneous products	
+30	Transportation services	
+31	Services related to transportation activities	
+32	Warehousing, storage, and related services	
+33	Publishing sales, excluding software	
+34	Software publishing	
+35	Network compensation from broadcast and cable television and radio	
+36	Advertising space and time sales	
+37	Telecommunication, cable, and internet user services	
+38	Data processing and related services	
+39	Credit intermediation services (partial)	
+40	Investment services	
+41	Insurance and annuities	
+42	Commissions and fees from sales and administration of insurance policies (partial)	
+43	Real estate services (partial)	
+44	Rental and leasing of goods (partial)	
+45	Professional services (partial)	
+46	Employment services	
+47	Travel arrangement services  (partial)	
+48	Selected security services (partial)	
+49	Cleaning and building maintenance services (partial)	
+50	Waste collection and remediation services (partial)	
+51	Health care services	
+52	Educational services (partial)	
+53	Accommodation services	
+54	Food and beverage for immediate consumption services (partial)	
+55	Repair and maintenance services (partial)	
+56	Entertainment services (partial)	
+57	Wholesale trade services	
+58	Retail trade services	
+59	Metal treatment services	
+60	Mining services	
+61	Contract work on textile products, apparel, and leather	
+80	Construction (partial)	
+DUR	Durability of product	
+FD	Final demand	
+ID5	Intermediate demand by production flow	
+ID6	Intermediate demand by commodity type	
+ILF	Industrial Commodities less fuels	
+IND	Industrial Commodities	
+IP	Inputs to industries	
+PFF	Farm products, processed foods and feeds	
+SI	Special indexes	

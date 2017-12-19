@@ -1,0 +1,1225 @@
+supersector_code	industry_code	industry_text	display_level	selectable	sort_sequence
+000	000000	All workers	0	T	1	
+CON	236000	Construction of buildings	4	T	152	
+CON	236100	Residential building construction	5	T	153	
+CON	236110	Residential building construction	6	T	154	
+CON	236115	New single-family housing construction (except for-sale builders)	7	T	155	
+CON	236116	New multifamily housing construction (except for-sale builders)	7	T	156	
+CON	236117	New housing for-sale builders	7	T	157	
+CON	236118	Residential remodelers	7	T	158	
+CON	236200	Nonresidential building construction	5	T	159	
+CON	236210	Industrial building construction	6	T	160	
+CON	236220	Commercial and institutional building construction	6	T	161	
+CON	237000	Heavy and civil engineering construction	4	T	162	
+CON	237100	Utility system construction	5	T	163	
+CON	237110	Water and sewer line and related structures construction	6	T	164	
+CON	237120	Oil and gas pipeline and related structures construction	6	T	165	
+CON	237130	Power and communication line and related structures construction	6	T	166	
+CON	237200	Land subdivision	5	T	167	
+CON	237300	Highway, street, and bridge construction	5	T	169	
+CON	237900	Other heavy and civil engineering construction	5	T	171	
+CON	238000	Specialty trade contractors	4	T	173	
+CON	238100	Foundation, structure, and building exterior contractors	5	T	174	
+CON	238110	Poured concrete foundation and structure contractors	6	T	175	
+CON	238120	Structural steel and precast concrete contractors	6	T	178	
+CON	238130	Framing contractors	6	T	181	
+CON	238140	Masonry contractors	6	T	184	
+CON	238150	Glass and glazing contractors	6	T	187	
+CON	238160	Roofing contractors	6	T	190	
+CON	238170	Siding contractors	6	T	193	
+CON	238190	Other foundation, structure, and building exterior contractors	6	T	196	
+CON	238200	Building equipment contractors	5	T	199	
+CON	238210	Electrical contractors and other wiring installation contractors	6	T	200	
+CON	238220	Plumbing, heating, and air-conditioning contractors	6	T	203	
+CON	238290	Other building equipment contractors	6	T	206	
+CON	238300	Building finishing contractors	5	T	209	
+CON	238310	Drywall and insulation contractors	6	T	210	
+CON	238320	Painting and wall covering contractors	6	T	213	
+CON	238330	Flooring contractors	6	T	216	
+CON	238340	Tile and terrazzo contractors	6	T	219	
+CON	238350	Finish carpentry contractors	6	T	222	
+CON	238390	Other building finishing contractors	6	T	225	
+CON	238900	Other specialty trade contractors	5	T	228	
+CON	238910	Site preparation contractors	6	T	229	
+CON	238990	All other specialty trade contractors	6	T	232	
+CON	GP1CON	Construction	2	T	150	
+CON	GP2CON	Construction	3	T	151	
+EHS	611000	Educational services	4	T	1590	
+EHS	611100	Elementary and secondary schools	5	T	1591	
+EHS	611200	Junior colleges	5	T	1593	
+EHS	611300	Colleges, universities, and professional schools	5	T	1595	
+EHS	611400	Business schools and computer and management training	5	T	1597	
+EHS	611410	Business and secretarial schools	6	T	1598	
+EHS	611420	Computer training	6	T	1599	
+EHS	611430	Professional and management development training	6	T	1600	
+EHS	611500	Technical and trade schools	5	T	1601	
+EHS	611600	Other schools and instruction	5	T	1607	
+EHS	611610	Fine arts schools	6	T	1608	
+EHS	611620	Sports and recreation instruction	6	T	1609	
+EHS	611630	Language schools	6	T	1610	
+EHS	611690	All other schools and instruction	6	T	1611	
+EHS	611700	Educational support services	5	T	1615	
+EHS	621000	Ambulatory health care services	4	T	1618	
+EHS	621100	Offices of physicians	5	T	1619	
+EHS	621110	Offices of physicians	6	T	1620	
+EHS	621111	Offices of physicians (except mental health specialists)	7	T	1621	
+EHS	621112	Offices of physicians, mental health specialists	7	T	1622	
+EHS	621200	Offices of dentists	5	T	1623	
+EHS	621300	Offices of other health practitioners	5	T	1625	
+EHS	621400	Outpatient care centers	5	T	1633	
+EHS	621490	Other outpatient care centers	6	T	1636	
+EHS	621500	Medical and diagnostic laboratories	5	T	1641	
+EHS	621600	Home health care services	5	T	1645	
+EHS	621900	Other ambulatory health care services	5	T	1647	
+EHS	621910	Ambulance services	6	T	1648	
+EHS	621990	All other ambulatory health care services	6	T	1649	
+EHS	622000	Hospitals	4	T	1652	
+EHS	622100	General medical and surgical hospitals	5	T	1653	
+EHS	622200	Psychiatric and substance abuse hospitals	5	T	1655	
+EHS	622300	Specialty (except psychiatric and substance abuse) hospitals	5	T	1657	
+EHS	623000	Nursing and residential care facilities	4	T	1659	
+EHS	623100	Nursing care facilities (skilled nursing facilities)	5	T	1660	
+EHS	623200	Residential intellectual and developmental disability, mental health, and substance abuse facilities	5	T	1662	
+EHS	623300	Continuing care retirement communities and assisted living facilities for the elderly	5	T	1665	
+EHS	623310	Continuing care retirement communities and assisted living facilities for the elderly	6	T	1666	
+EHS	623312	Assisted living facilities for the elderly	7	T	1668	
+EHS	623900	Other residential care facilities	5	T	1669	
+EHS	624000	Social assistance	4	T	1671	
+EHS	624100	Individual and family services	5	T	1672	
+EHS	624110	Child and youth services	6	T	1673	
+EHS	624120	Services for the elderly and persons with disabilities	6	T	1674	
+EHS	624190	Other individual and family services	6	T	1675	
+EHS	624200	Community food and housing, and emergency and other relief services	5	T	1676	
+EHS	624210	Community food services	6	T	1677	
+EHS	624220	Community housing services	6	T	1678	
+EHS	624230	Emergency and other relief services	6	T	1681	
+EHS	624300	Vocational rehabilitation services	5	T	1682	
+EHS	624400	Child day care services	5	T	1684	
+EHS	SP1EHS	Educational and health services	2	T	1588	
+EHS	SP2EDS	Educational services	3	T	1589	
+EHS	SP2HSA	Health care and social assistance	3	T	1617	
+FIA	521000	Monetary authorities-central bank	4	T	1345	
+FIA	522000	Credit intermediation and related activities	4	T	1348	
+FIA	522100	Depository credit intermediation	5	T	1349	
+FIA	522110	Commercial banking	6	T	1350	
+FIA	522120	Savings institutions	6	T	1351	
+FIA	522130	Credit unions	6	T	1352	
+FIA	522200	Nondepository credit intermediation	5	T	1354	
+FIA	522210	Credit card issuing	6	T	1355	
+FIA	522220	Sales financing	6	T	1356	
+FIA	522290	Other nondepository credit intermediation	6	T	1357	
+FIA	522300	Activities related to credit intermediation	5	T	1363	
+FIA	522310	Mortgage and nonmortgage loan brokers	6	T	1364	
+FIA	522320	Financial transactions processing, reserve, and clearinghouse activities	6	T	1365	
+FIA	522390	Other activities related to credit intermediation	6	T	1366	
+FIA	523000	Securities, commodity contracts, and other financial investments and related activities	4	T	1367	
+FIA	523100	Securities and commodity contracts intermediation and brokerage	5	T	1368	
+FIA	523110	Investment banking and securities dealing	6	T	1369	
+FIA	523120	Securities brokerage	6	T	1370	
+FIA	523130	Commodity contracts dealing	6	T	1371	
+FIA	523140	Commodity contracts brokerage	6	T	1372	
+FIA	523900	Other financial investment activities	5	T	1375	
+FIA	523910	Miscellaneous intermediation	6	T	1376	
+FIA	523920	Portfolio management	6	T	1377	
+FIA	523930	Investment advice	6	T	1378	
+FIA	524000	Insurance carriers and related activities	4	T	1382	
+FIA	524100	Insurance carriers	5	T	1383	
+FIA	524110	Direct life, health, and medical insurance carriers	6	T	1384	
+FIA	524120	Direct insurance (ex. life, health, and medical) carriers	6	T	1387	
+FIA	524130	Reinsurance carriers	6	T	1391	
+FIA	524200	Agencies, brokerages, and other insurance related activities	5	T	1392	
+FIA	524210	Insurance agencies and brokerages	6	T	1393	
+FIA	524290	Other insurance related activities	6	T	1394	
+FIA	525000	Funds, trusts, and other financial vehicles	4	T	1398	
+FIA	525190	Other insurance funds	6	T	1402	
+FIA	525900	Other investment pools and funds	5	T	1403	
+FIA	525990	Other financial vehicles	6	T	1406	
+FIA	531000	Real estate	4	T	1408	
+FIA	531100	Lessors of real estate	5	T	1409	
+FIA	531110	Lessors of residential buildings and dwellings	6	T	1410	
+FIA	531120	Lessors of nonresidential buildings (except miniwarehouses)	6	T	1411	
+FIA	531130	Lessors of miniwarehouses and self-storage units	6	T	1412	
+FIA	531190	Lessors of other real estate property	6	T	1413	
+FIA	531200	Offices of real estate agents and brokers	5	T	1414	
+FIA	531300	Activities related to real estate	5	T	1416	
+FIA	531310	Real estate property managers	6	T	1417	
+FIA	531320	Offices of real estate appraisers	6	T	1420	
+FIA	531390	Other activities related to real estate	6	T	1421	
+FIA	532000	Rental and leasing services	4	T	1422	
+FIA	532100	Automotive equipment rental and leasing	5	T	1423	
+FIA	532110	Passenger car rental and leasing	6	T	1424	
+FIA	532120	Truck, utility trailer, and rv (recreational vehicle) rental and leasing	6	T	1427	
+FIA	532200	Consumer goods rental	5	T	1428	
+FIA	532210	Consumer electronics and appliances rental	6	T	1429	
+FIA	532220	Formal wear and costume rental	6	T	1430	
+FIA	532230	Video tape and disc rental	6	T	1431	
+FIA	532290	Other consumer goods rental	6	T	1432	
+FIA	532300	General rental centers	5	T	1436	
+FIA	532400	Commercial and industrial machinery and equipment rental and leasing	5	T	1438	
+FIA	532410	Construction, transportation, mining, and forestry machinery and equipment rental and leasing	6	T	1439	
+FIA	532420	Office machinery and equipment rental and leasing	6	T	1442	
+FIA	532490	Other commercial and industrial machinery and equipment rental and leasing	6	T	1443	
+FIA	533000	Lessors of nonfinancial intangible assets (except copyrighted works)	4	T	1444	
+FIA	SP1FIA	Finance, insurance, and real estate	2	T	1343	
+FIA	SP2FIN	Finance and insurance	3	T	1344	
+FIA	SP2RRL	Real estate and rental and leasing	3	T	1407	
+GP1	GP1AAA	Goods-producing	1	T	2	
+INF	511000	Publishing industries (except internet)	4	T	1288	
+INF	511100	Newspaper, periodical, book, and directory publishers	5	T	1289	
+INF	511110	Newspaper publishers	6	T	1290	
+INF	511120	Periodical publishers	6	T	1291	
+INF	511130	Book publishers	6	T	1292	
+INF	511140	Directory and mailing list publishers	6	T	1293	
+INF	511190	Other publishers	6	T	1294	
+INF	511200	Software publishers	5	T	1297	
+INF	512000	Motion picture and sound recording industries	4	T	1299	
+INF	512100	Motion picture and video industries	5	T	1300	
+INF	512120	Motion picture and video distribution	6	T	1302	
+INF	512130	Motion picture and video exhibition	6	T	1303	
+INF	512190	Postproduction services and other motion picture and video industries	6	T	1306	
+INF	512200	Sound recording industries	5	T	1309	
+INF	512210	Record production	6	T	1310	
+INF	512220	Integrated record production/distribution	6	T	1311	
+INF	512230	Music publishers	6	T	1312	
+INF	512240	Sound recording studios	6	T	1313	
+INF	512290	Other sound recording industries	6	T	1314	
+INF	515000	Broadcasting (except internet)	4	T	1315	
+INF	515100	Radio and television broadcasting	5	T	1316	
+INF	515110	Radio broadcasting	6	T	1317	
+INF	515120	Television broadcasting	6	T	1320	
+INF	515200	Cable and other subscription programming	5	T	1321	
+INF	517000	Telecommunications	4	T	1323	
+INF	517100	Wired telecommunications carriers	5	T	1324	
+INF	517200	Wireless telecommunications carriers (except satellite)	5	T	1326	
+INF	517400	Satellite telecommunications	5	T	1328	
+INF	517900	Other telecommunications	5	T	1330	
+INF	518000	Data processing, hosting, and related services	4	T	1334	
+INF	519000	Other information services	4	T	1337	
+INF	519100	Other information services	5	T	1338	
+INF	519110	News syndicates	6	T	1339	
+INF	519120	Libraries and archives	6	T	1340	
+INF	519130	Internet publishing and broadcasting and web search portals	6	T	1341	
+INF	519190	All other information services	6	T	1342	
+INF	SP1INF	Information	2	T	1286	
+INF	SP2INF	Information	3	T	1287	
+LEH	711000	Performing arts, spectator sports, and related industries	4	T	1688	
+LEH	711100	Performing arts companies	5	T	1689	
+LEH	711200	Spectator sports	5	T	1694	
+LEH	711210	Spectator sports	6	T	1695	
+LEH	711211	Sports teams and clubs	7	T	1696	
+LEH	711212	Racetracks	7	T	1697	
+LEH	711219	Other spectator sports	7	T	1698	
+LEH	711300	Promoters of performing arts, sports, and similar events	5	T	1699	
+LEH	711400	Agents and managers for artists, athletes, entertainers, and other public figures	5	T	1702	
+LEH	711500	Independent artists, writers, and performers	5	T	1704	
+LEH	712000	Museums, historical sites, and similar institutions	4	T	1706	
+LEH	713000	Amusement, gambling, and recreation industries	4	T	1712	
+LEH	713100	Amusement parks and arcades	5	T	1713	
+LEH	713110	Amusement and theme parks	6	T	1714	
+LEH	713120	Amusement arcades	6	T	1715	
+LEH	713200	Gambling industries	5	T	1716	
+LEH	713210	Casinos (except casino hotels)	6	T	1717	
+LEH	713290	Other gambling industries	6	T	1718	
+LEH	713900	Other amusement and recreation industries	5	T	1719	
+LEH	713910	Golf courses and country clubs	6	T	1720	
+LEH	713920	Skiing facilities	6	T	1721	
+LEH	713930	Marinas	6	T	1722	
+LEH	713940	Fitness and recreational sports centers	6	T	1723	
+LEH	713950	Bowling centers	6	T	1724	
+LEH	713990	All other amusement and recreation industries	6	T	1725	
+LEH	721000	Accommodation	4	T	1727	
+LEH	721100	Traveler accommodation	5	T	1728	
+LEH	721110	Hotels (except casino hotels) and motels	6	T	1729	
+LEH	721120	Casino hotels	6	T	1730	
+LEH	721190	Other traveler accommodation	6	T	1731	
+LEH	721200	Rv (recreational vehicle) parks and recreational camps	5	T	1734	
+LEH	721210	Rv (recreational vehicle) parks and recreational camps	6	T	1735	
+LEH	721211	Rv (recreational vehicle) parks and campgrounds	7	T	1736	
+LEH	721214	Recreational and vacation camps (except campgrounds)	7	T	1737	
+LEH	721300	Rooming and boarding houses	5	T	1738	
+LEH	722000	Food services and drinking places	4	T	1740	
+LEH	722300	Special food services	5	T	1741	
+LEH	722400	Drinking places (alcoholic beverages)	5	T	1745	
+LEH	722500	Restaurants and other eating places	5	T	1747	
+LEH	722510	Restaurants and other eating places	6	T	1749	
+LEH	722511	Full-service restaurants	7	T	1751	
+LEH	722513	Limited-service restaurants	7	T	1752	
+LEH	722514	Cafeterias, grill buffets, and buffets	7	T	1753	
+LEH	722515	Snack and nonalcoholic beverage bars	7	T	1754	
+LEH	SP1LEH	Leisure, entertainment, and hospitality	2	T	1686	
+LEH	SP2AER	Arts, entertainment, and recreation	3	T	1687	
+LEH	SP2AFS	Accommodation and food services	3	T	1726	
+MFG	311000	Food manufacturing	4	T	237	
+MFG	311100	Animal food manufacturing	5	T	238	
+MFG	311110	Animal food manufacturing	6	T	239	
+MFG	311111	Dog and cat food manufacturing	7	T	240	
+MFG	311119	Other animal food manufacturing	7	T	241	
+MFG	311200	Grain and oilseed milling	5	T	242	
+MFG	311210	Flour milling and malt manufacturing	6	T	243	
+MFG	311211	Flour milling	7	T	244	
+MFG	311212	Rice milling	7	T	245	
+MFG	311220	Starch and vegetable fats and oils manufacturing	6	T	247	
+MFG	311221	Wet corn milling	7	T	248	
+MFG	311224	Soybean and other oilseed processing	7	T	249	
+MFG	311225	Fats and oils refining and blending	7	T	251	
+MFG	311230	Breakfast cereal manufacturing	6	T	252	
+MFG	311300	Sugar and confectionery product manufacturing	5	T	253	
+MFG	311310	Sugar manufacturing	6	T	254	
+MFG	311313	Beet sugar manufacturing	7	T	257	
+MFG	311314	Cane sugar manufacturing	7	T	258	
+MFG	311340	Nonchocolate confectionery manufacturing	6	T	260	
+MFG	311350	Chocolate and confectionery manufacturing	6	T	261	
+MFG	311351	Chocolate and confectionery manufacturing from cacao beans	7	T	262	
+MFG	311352	Confectionery manufacturing from purchased chocolate	7	T	263	
+MFG	311400	Fruit and vegetable preserving and specialty food manufacturing	5	T	264	
+MFG	311410	Frozen food manufacturing	6	T	265	
+MFG	311411	Frozen fruit, juice, and vegetable manufacturing	7	T	266	
+MFG	311412	Frozen specialty food manufacturing	7	T	267	
+MFG	311420	Fruit and vegetable canning, pickling, and drying	6	T	268	
+MFG	311421	Fruit and vegetable canning	7	T	269	
+MFG	311422	Specialty canning	7	T	270	
+MFG	311423	Dried and dehydrated food manufacturing	7	T	271	
+MFG	311500	Dairy product manufacturing	5	T	272	
+MFG	311510	Dairy product (except frozen) manufacturing	6	T	273	
+MFG	311511	Fluid milk manufacturing	7	T	274	
+MFG	311512	Creamery butter manufacturing	7	T	275	
+MFG	311513	Cheese manufacturing	7	T	276	
+MFG	311514	Dry, condensed, and evaporated dairy product manufacturing	7	T	277	
+MFG	311520	Ice cream and frozen dessert manufacturing	6	T	278	
+MFG	311600	Animal slaughtering and processing	5	T	279	
+MFG	311610	Animal slaughtering and processing	6	T	280	
+MFG	311611	Animal (except poultry) slaughtering	7	T	281	
+MFG	311612	Meat processed from carcasses	7	T	282	
+MFG	311613	Rendering and meat byproduct processing	7	T	283	
+MFG	311615	Poultry processing	7	T	284	
+MFG	311700	Seafood product preparation and packaging	5	T	285	
+MFG	311800	Bakeries and tortilla manufacturing	5	T	287	
+MFG	311810	Bread and bakery product manufacturing	6	T	288	
+MFG	311811	Retail bakeries	7	T	289	
+MFG	311812	Commercial bakeries	7	T	290	
+MFG	311813	Frozen cakes, pies, and other pastries manufacturing	7	T	291	
+MFG	311820	Cookie, cracker, and pasta manufacturing	6	T	292	
+MFG	311821	Cookie and cracker manufacturing	7	T	293	
+MFG	311824	Dry pasta, dough, and flour mixes manufacturing from purchased flour	7	T	294	
+MFG	311830	Tortilla manufacturing	6	T	295	
+MFG	311900	Other food manufacturing	5	T	296	
+MFG	311910	Snack food manufacturing	6	T	297	
+MFG	311911	Roasted nuts and peanut butter manufacturing	7	T	298	
+MFG	311919	Other snack food manufacturing	7	T	299	
+MFG	311920	Coffee and tea manufacturing	6	T	300	
+MFG	311930	Flavoring syrup and concentrate manufacturing	6	T	301	
+MFG	311940	Seasoning and dressing manufacturing	6	T	302	
+MFG	311941	Mayonnaise, dressing, and other prepared sauce manufacturing	7	T	303	
+MFG	311942	Spice and extract manufacturing	7	T	304	
+MFG	311990	All other food manufacturing	6	T	305	
+MFG	311991	Perishable prepared food manufacturing	7	T	306	
+MFG	311999	All other miscellaneous food manufacturing	7	T	307	
+MFG	312000	Beverage and tobacco product manufacturing	4	T	308	
+MFG	312100	Beverage manufacturing	5	T	309	
+MFG	312110	Soft drink and ice manufacturing	6	T	310	
+MFG	312111	Soft drink manufacturing	7	T	311	
+MFG	312112	Bottled water manufacturing	7	T	312	
+MFG	312113	Ice manufacturing	7	T	313	
+MFG	312120	Breweries	6	T	314	
+MFG	312130	Wineries	6	T	315	
+MFG	312140	Distilleries	6	T	316	
+MFG	312200	Tobacco manufacturing	5	T	317	
+MFG	313000	Textile mills	4	T	322	
+MFG	313100	Fiber, yarn, and thread mills	5	T	323	
+MFG	313200	Fabric mills	5	T	328	
+MFG	313210	Broadwoven fabric mills	6	T	329	
+MFG	313220	Narrow fabric mills and schiffli machine embroidery	6	T	330	
+MFG	313230	Nonwoven fabric mills	6	T	333	
+MFG	313240	Knit fabric mills	6	T	334	
+MFG	313300	Textile and fabric finishing and fabric coating mills	5	T	337	
+MFG	313310	Textile and fabric finishing mills	6	T	338	
+MFG	313320	Fabric coating mills	6	T	341	
+MFG	314000	Textile product mills	4	T	342	
+MFG	314100	Textile furnishings mills	5	T	343	
+MFG	314110	Carpet and rug mills	6	T	344	
+MFG	314120	Curtain and linen mills	6	T	345	
+MFG	314900	Other textile product mills	5	T	348	
+MFG	314910	Textile bag and canvas mills	6	T	349	
+MFG	314990	All other textile product mills	6	T	352	
+MFG	314994	Rope, cordage, twine, tire cord, and tire fabric mills	7	T	353	
+MFG	314999	All other miscellaneous textile product mills	7	T	355	
+MFG	315000	Apparel manufacturing	4	T	356	
+MFG	315100	Apparel knitting mills	5	T	357	
+MFG	315110	Hosiery and sock mills	6	T	358	
+MFG	315190	Other apparel knitting mills	6	T	361	
+MFG	315200	Cut and sew apparel manufacturing	5	T	364	
+MFG	315210	Cut and sew apparel contractors	6	T	365	
+MFG	315220	Men's and boys' cut and sew apparel manufacturing	6	T	368	
+MFG	315240	Women's, girls', and infants' cut and sew apparel manufacturing	6	T	369	
+MFG	315280	Other cut and sew apparel manufacturing	6	T	370	
+MFG	315900	Apparel accessories and other apparel manufacturing	5	T	385	
+MFG	316000	Leather and allied product manufacturing	4	T	391	
+MFG	316100	Leather and hide tanning and finishing	5	T	392	
+MFG	316200	Footwear manufacturing	5	T	394	
+MFG	316900	Other leather and allied product manufacturing	5	T	401	
+MFG	316990	Other leather and allied product manufacturing	6	T	402	
+MFG	316998	All other leather good and allied product manufacturing	7	T	405	
+MFG	321000	Wood product manufacturing	4	T	407	
+MFG	321100	Sawmills and wood preservation	5	T	408	
+MFG	321110	Sawmills and wood preservation	6	T	409	
+MFG	321113	Sawmills	7	T	410	
+MFG	321114	Wood preservation	7	T	411	
+MFG	321200	Veneer, plywood, and engineered wood product manufacturing	5	T	412	
+MFG	321210	Veneer, plywood, and engineered wood product manufacturing	6	T	413	
+MFG	321211	Hardwood veneer and plywood manufacturing	7	T	414	
+MFG	321212	Softwood veneer and plywood manufacturing	7	T	415	
+MFG	321213	Engineered wood member (except truss) manufacturing	7	T	416	
+MFG	321214	Truss manufacturing	7	T	417	
+MFG	321219	Reconstituted wood product manufacturing	7	T	418	
+MFG	321900	Other wood product manufacturing	5	T	419	
+MFG	321910	Millwork	6	T	420	
+MFG	321911	Wood window and door manufacturing	7	T	421	
+MFG	321912	Cut stock, resawing lumber, and planing	7	T	422	
+MFG	321918	Other millwork (including flooring)	7	T	423	
+MFG	321920	Wood container and pallet manufacturing	6	T	424	
+MFG	321990	All other wood product manufacturing	6	T	425	
+MFG	321991	Manufactured home (mobile home) manufacturing	7	T	426	
+MFG	321992	Prefabricated wood building manufacturing	7	T	427	
+MFG	321999	All other miscellaneous wood product manufacturing	7	T	428	
+MFG	322000	Paper manufacturing	4	T	429	
+MFG	322100	Pulp, paper, and paperboard mills	5	T	430	
+MFG	322110	Pulp mills	6	T	431	
+MFG	322120	Paper mills	6	T	432	
+MFG	322121	Paper (except newsprint) mills	7	T	433	
+MFG	322122	Newsprint mills	7	T	434	
+MFG	322130	Paperboard mills	6	T	435	
+MFG	322200	Converted paper product manufacturing	5	T	436	
+MFG	322210	Paperboard container manufacturing	6	T	437	
+MFG	322211	Corrugated and solid fiber box manufacturing	7	T	438	
+MFG	322212	Folding paperboard box manufacturing	7	T	439	
+MFG	322219	Other paperboard container manufacturing	7	T	440	
+MFG	322220	Paper bag and coated and treated paper manufacturing	6	T	443	
+MFG	322230	Stationery product manufacturing	6	T	450	
+MFG	322290	Other converted paper product manufacturing	6	T	454	
+MFG	322291	Sanitary paper product manufacturing	7	T	455	
+MFG	322299	All other converted paper product manufacturing	7	T	456	
+MFG	323000	Printing and related support activities	4	T	457	
+MFG	323100	Printing and related support activities	5	T	458	
+MFG	323110	Printing	6	T	460	
+MFG	323111	Commercial printing (except screen and books)	7	T	461	
+MFG	323113	Commercial screen printing	7	T	463	
+MFG	323117	Books printing	7	T	467	
+MFG	323120	Support activities for printing	6	T	470	
+MFG	324000	Petroleum and coal products manufacturing	4	T	473	
+MFG	324100	Petroleum and coal products manufacturing	5	T	474	
+MFG	324110	Petroleum refineries	6	T	475	
+MFG	324120	Asphalt paving, roofing, and saturated materials manufacturing	6	T	476	
+MFG	324121	Asphalt paving mixture and block manufacturing	7	T	477	
+MFG	324122	Asphalt shingle and coating materials manufacturing	7	T	478	
+MFG	324190	Other petroleum and coal products manufacturing	6	T	479	
+MFG	324191	Petroleum lubricating oil and grease manufacturing	7	T	480	
+MFG	324199	All other petroleum and coal products manufacturing	7	T	481	
+MFG	325000	Chemical manufacturing	4	T	482	
+MFG	325100	Basic chemical manufacturing	5	T	483	
+MFG	325110	Petrochemical manufacturing	6	T	484	
+MFG	325120	Industrial gas manufacturing	6	T	485	
+MFG	325130	Synthetic dye and pigment manufacturing	6	T	486	
+MFG	325180	Other basic inorganic chemical manufacturing	6	T	489	
+MFG	325190	Other basic organic chemical manufacturing	6	T	493	
+MFG	325193	Ethyl alcohol manufacturing	7	T	496	
+MFG	325194	Cyclic crude, intermediate, and gum and wood chemical manufacturing	7	T	497	
+MFG	325199	All other basic organic chemical manufacturing	7	T	498	
+MFG	325200	Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing	5	T	499	
+MFG	325210	Resin and synthetic rubber manufacturing	6	T	500	
+MFG	325211	Plastics material and resin manufacturing	7	T	501	
+MFG	325212	Synthetic rubber manufacturing	7	T	502	
+MFG	325220	Artificial and synthetic fibers and filaments manufacturing	6	T	503	
+MFG	325300	Pesticide, fertilizer, and other agricultural chemical manufacturing	5	T	505	
+MFG	325310	Fertilizer manufacturing	6	T	506	
+MFG	325311	Nitrogenous fertilizer manufacturing	7	T	507	
+MFG	325314	Fertilizer (mixing only) manufacturing	7	T	509	
+MFG	325320	Pesticide and other agricultural chemical manufacturing	6	T	510	
+MFG	325400	Pharmaceutical and medicine manufacturing	5	T	511	
+MFG	325410	Pharmaceutical and medicine manufacturing	6	T	512	
+MFG	325411	Medicinal and botanical manufacturing	7	T	513	
+MFG	325412	Pharmaceutical preparation manufacturing	7	T	514	
+MFG	325413	In-vitro diagnostic substance manufacturing	7	T	515	
+MFG	325414	Biological product (except diagnostic) manufacturing	7	T	516	
+MFG	325500	Paint, coating, and adhesive manufacturing	5	T	517	
+MFG	325510	Paint and coating manufacturing	6	T	518	
+MFG	325520	Adhesive manufacturing	6	T	519	
+MFG	325600	Soap, cleaning compound, and toilet preparation manufacturing	5	T	520	
+MFG	325610	Soap and cleaning compound manufacturing	6	T	521	
+MFG	325611	Soap and other detergent manufacturing	7	T	522	
+MFG	325612	Polish and other sanitation good manufacturing	7	T	523	
+MFG	325613	Surface active agent manufacturing	7	T	524	
+MFG	325620	Toilet preparation manufacturing	6	T	525	
+MFG	325900	Other chemical product and preparation manufacturing	5	T	526	
+MFG	325910	Printing ink manufacturing	6	T	527	
+MFG	325920	Explosives manufacturing	6	T	528	
+MFG	325990	All other chemical product and preparation manufacturing	6	T	529	
+MFG	325991	Custom compounding of purchased resins	7	T	530	
+MFG	325992	Photographic film, paper, plate, and chemical manufacturing	7	T	531	
+MFG	325998	All other miscellaneous chemical product and preparation manufacturing	7	T	532	
+MFG	326000	Plastics and rubber products manufacturing	4	T	533	
+MFG	326100	Plastics product manufacturing	5	T	534	
+MFG	326110	Plastics packaging materials and unlaminated film and sheet manufacturing	6	T	535	
+MFG	326111	Plastics bag and pouch manufacturing	7	T	536	
+MFG	326112	Plastics packaging film and sheet (including laminated) manufacturing	7	T	537	
+MFG	326113	Unlaminated plastics film and sheet (except packaging) manufacturing	7	T	538	
+MFG	326120	Plastics pipe, pipe fitting, and unlaminated profile shape manufacturing	6	T	539	
+MFG	326121	Unlaminated plastics profile shape manufacturing	7	T	540	
+MFG	326122	Plastics pipe and pipe fitting manufacturing	7	T	541	
+MFG	326130	Laminated plastics plate, sheet (except packaging), and shape manufacturing	6	T	542	
+MFG	326140	Polystyrene foam product manufacturing	6	T	543	
+MFG	326150	Urethane and other foam product (except polystyrene) manufacturing	6	T	544	
+MFG	326160	Plastics bottle manufacturing	6	T	545	
+MFG	326190	Other plastics product manufacturing	6	T	546	
+MFG	326191	Plastics plumbing fixture manufacturing	7	T	547	
+MFG	326199	All other plastics product manufacturing	7	T	549	
+MFG	326200	Rubber product manufacturing	5	T	550	
+MFG	326210	Tire manufacturing	6	T	551	
+MFG	326211	Tire manufacturing (except retreading)	7	T	552	
+MFG	326212	Tire retreading	7	T	553	
+MFG	326220	Rubber and plastics hoses and belting manufacturing	6	T	554	
+MFG	326290	Other rubber product manufacturing	6	T	555	
+MFG	326291	Rubber product manufacturing for mechanical use	7	T	556	
+MFG	326299	All other rubber product manufacturing	7	T	557	
+MFG	327000	Nonmetallic mineral product manufacturing	4	T	558	
+MFG	327100	Clay product and refractory manufacturing	5	T	559	
+MFG	327110	Pottery, ceramics, and plumbing fixture manufacturing	6	T	560	
+MFG	327120	Clay building material and refractories manufacturing	6	T	564	
+MFG	327200	Glass and glass product manufacturing	5	T	570	
+MFG	327210	Glass and glass product manufacturing	6	T	571	
+MFG	327211	Flat glass manufacturing	7	T	572	
+MFG	327212	Other pressed and blown glass and glassware manufacturing	7	T	573	
+MFG	327213	Glass container manufacturing	7	T	574	
+MFG	327215	Glass product manufacturing made of purchased glass	7	T	575	
+MFG	327300	Cement and concrete product manufacturing	5	T	576	
+MFG	327310	Cement manufacturing	6	T	577	
+MFG	327320	Ready-mix concrete manufacturing	6	T	578	
+MFG	327330	Concrete pipe, brick, and block manufacturing	6	T	579	
+MFG	327331	Concrete block and brick manufacturing	7	T	580	
+MFG	327332	Concrete pipe manufacturing	7	T	581	
+MFG	327390	Other concrete product manufacturing	6	T	582	
+MFG	327400	Lime and gypsum product manufacturing	5	T	583	
+MFG	327420	Gypsum product manufacturing	6	T	585	
+MFG	327900	Other nonmetallic mineral product manufacturing	5	T	586	
+MFG	327910	Abrasive product manufacturing	6	T	587	
+MFG	327990	All other nonmetallic mineral product manufacturing	6	T	588	
+MFG	327991	Cut stone and stone product manufacturing	7	T	589	
+MFG	327992	Ground or treated mineral and earth manufacturing	7	T	590	
+MFG	327993	Mineral wool manufacturing	7	T	591	
+MFG	327999	All other miscellaneous nonmetallic mineral product manufacturing	7	T	592	
+MFG	331000	Primary metal manufacturing	4	T	593	
+MFG	331100	Iron and steel mills and ferroalloy manufacturing	5	T	594	
+MFG	331200	Steel product manufacturing from purchased steel	5	T	598	
+MFG	331210	Iron and steel pipe and tube manufacturing from purchased steel	6	T	599	
+MFG	331220	Rolling and drawing of purchased steel	6	T	600	
+MFG	331221	Rolled steel shape manufacturing	7	T	601	
+MFG	331222	Steel wire drawing	7	T	602	
+MFG	331300	Alumina and aluminum production and processing	5	T	603	
+MFG	331310	Alumina and aluminum production and processing	6	T	604	
+MFG	331313	Alumina refining and primary aluminum production	7	T	605	
+MFG	331314	Secondary smelting and alloying of aluminum	7	T	607	
+MFG	331315	Aluminum sheet, plate, and foil manufacturing	7	T	608	
+MFG	331318	Other aluminum rolling, drawing, and extruding	7	T	609	
+MFG	331400	Nonferrous metal (except aluminum) production and processing	5	T	611	
+MFG	331410	Nonferrous metal (except aluminum) smelting and refining	6	T	612	
+MFG	331420	Copper rolling, drawing, extruding, and alloying	6	T	615	
+MFG	331490	Nonferrous metal (except copper and aluminum) rolling, drawing, extruding, and alloying	6	T	619	
+MFG	331491	Nonferrous metal (except copper and aluminum) rolling, drawing, and extruding	7	T	620	
+MFG	331492	Secondary smelting, refining, and alloying of nonferrous metal (except copper and aluminum)	7	T	621	
+MFG	331500	Foundries	5	T	622	
+MFG	331510	Ferrous metal foundries	6	T	623	
+MFG	331511	Iron foundries	7	T	624	
+MFG	331512	Steel investment foundries	7	T	625	
+MFG	331513	Steel foundries (except investment)	7	T	626	
+MFG	331520	Nonferrous metal foundries	6	T	627	
+MFG	331523	Nonferrous metal die-casting foundries	7	T	628	
+MFG	331524	Aluminum foundries (except die-casting)	7	T	630	
+MFG	331529	Other nonferrous metal foundries (except die-casting)	7	T	631	
+MFG	332000	Fabricated metal product manufacturing	4	T	633	
+MFG	332100	Forging and stamping	5	T	634	
+MFG	332110	Forging and stamping	6	T	635	
+MFG	332111	Iron and steel forging	7	T	636	
+MFG	332112	Nonferrous forging	7	T	637	
+MFG	332114	Custom roll forming	7	T	638	
+MFG	332117	Powder metallurgy part manufacturing	7	T	641	
+MFG	332119	Metal crown, closure, and other metal stamping (except automotive)	7	T	642	
+MFG	332200	Cutlery and handtool manufacturing	5	T	643	
+MFG	332210	Cutlery and handtool manufacturing	6	T	644	
+MFG	332215	Metal kitchen cookware, utensil, cutlery, and flatware (except precious) manufacturing	7	T	645	
+MFG	332216	Saw blade and handtool manufacturing	7	T	646	
+MFG	332300	Architectural and structural metals manufacturing	5	T	648	
+MFG	332310	Plate work and fabricated structural product manufacturing	6	T	649	
+MFG	332311	Prefabricated metal building and component manufacturing	7	T	650	
+MFG	332312	Fabricated structural metal manufacturing	7	T	651	
+MFG	332313	Plate work manufacturing	7	T	652	
+MFG	332320	Ornamental and architectural metal products manufacturing	6	T	653	
+MFG	332321	Metal window and door manufacturing	7	T	654	
+MFG	332322	Sheet metal work manufacturing	7	T	655	
+MFG	332323	Ornamental and architectural metal work manufacturing	7	T	656	
+MFG	332400	Boiler, tank, and shipping container manufacturing	5	T	657	
+MFG	332410	Power boiler and heat exchanger manufacturing	6	T	658	
+MFG	332420	Metal tank (heavy gauge) manufacturing	6	T	659	
+MFG	332430	Metal can, box, and other metal container (light gauge) manufacturing	6	T	660	
+MFG	332431	Metal can manufacturing	7	T	661	
+MFG	332439	Other metal container manufacturing	7	T	662	
+MFG	332500	Hardware manufacturing	5	T	663	
+MFG	332600	Spring and wire product manufacturing	5	T	665	
+MFG	332610	Spring and wire product manufacturing	6	T	666	
+MFG	332613	Spring manufacturing	7	T	667	
+MFG	332618	Other fabricated wire product manufacturing	7	T	669	
+MFG	332700	Machine shops; turned product; and screw, nut, and bolt manufacturing	5	T	670	
+MFG	332710	Machine shops	6	T	671	
+MFG	332720	Turned product and screw, nut, and bolt manufacturing	6	T	672	
+MFG	332721	Precision turned product manufacturing	7	T	673	
+MFG	332722	Bolt, nut, screw, rivet, and washer manufacturing	7	T	674	
+MFG	332800	Coating, engraving, heat treating, and allied activities	5	T	675	
+MFG	332810	Coating, engraving, heat treating, and allied activities	6	T	676	
+MFG	332811	Metal heat treating	7	T	677	
+MFG	332812	Metal coating, engraving (except jewelry and silverware), and allied services to manufacturers	7	T	678	
+MFG	332813	Electroplating, plating, polishing, anodizing, and coloring	7	T	679	
+MFG	332900	Other fabricated metal product manufacturing	5	T	680	
+MFG	332910	Metal valve manufacturing	6	T	681	
+MFG	332911	Industrial valve manufacturing	7	T	682	
+MFG	332912	Fluid power valve and hose fitting manufacturing	7	T	683	
+MFG	332913	Plumbing fixture fitting and trim manufacturing	7	T	684	
+MFG	332919	Other metal valve and pipe fitting manufacturing	7	T	685	
+MFG	332990	All other fabricated metal product manufacturing	6	T	686	
+MFG	332991	Ball and roller bearing manufacturing	7	T	687	
+MFG	332992	Small arms ammunition manufacturing	7	T	688	
+MFG	332993	Ammunition (except small arms) manufacturing	7	T	689	
+MFG	332994	Small arms, ordnance, and ordnance accessories manufacturing	7	T	690	
+MFG	332996	Fabricated pipe and pipe fitting manufacturing	7	T	692	
+MFG	332999	All other miscellaneous fabricated metal product manufacturing	7	T	695	
+MFG	333000	Machinery manufacturing	4	T	696	
+MFG	333100	Agriculture, construction, and mining machinery manufacturing	5	T	697	
+MFG	333110	Agricultural implement manufacturing	6	T	698	
+MFG	333111	Farm machinery and equipment manufacturing	7	T	699	
+MFG	333112	Lawn and garden tractor and home lawn and garden equipment manufacturing	7	T	700	
+MFG	333120	Construction machinery manufacturing	6	T	701	
+MFG	333130	Mining and oil and gas field machinery manufacturing	6	T	702	
+MFG	333131	Mining machinery and equipment manufacturing	7	T	703	
+MFG	333132	Oil and gas field machinery and equipment manufacturing	7	T	704	
+MFG	333200	Industrial machinery manufacturing	5	T	705	
+MFG	333240	Industrial machinery manufacturing	6	T	706	
+MFG	333241	Food product machinery manufacturing	7	T	707	
+MFG	333242	Semiconductor machinery manufacturing	7	T	708	
+MFG	333243	Sawmill, woodworking, and paper machinery manufacturing	7	T	709	
+MFG	333244	Printing machinery and equipment manufacturing	7	T	710	
+MFG	333249	Other industrial machinery manufacturing	7	T	711	
+MFG	333300	Commercial and service industry machinery manufacturing	5	T	715	
+MFG	333310	Commercial and service industry machinery manufacturing	6	T	716	
+MFG	333314	Optical instrument and lens manufacturing	7	T	720	
+MFG	333316	Photographic and photocopying equipment manufacturing	7	T	721	
+MFG	333318	Other commercial and service industry machinery manufacturing	7	T	722	
+MFG	333400	Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing	5	T	723	
+MFG	333410	Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing	6	T	724	
+MFG	333413	Industrial and commercial fan and blower and air purification equipment manufacturing	7	T	725	
+MFG	333414	Heating equipment (except warm air furnaces) manufacturing	7	T	727	
+MFG	333415	Air-conditioning and warm air heating equip and commercial and industrial refrigeration equip mfg	7	T	728	
+MFG	333500	Metalworking machinery manufacturing	5	T	729	
+MFG	333510	Metalworking machinery manufacturing	6	T	730	
+MFG	333511	Industrial mold manufacturing	7	T	731	
+MFG	333514	Special die and tool, die set, jig, and fixture manufacturing	7	T	734	
+MFG	333515	Cutting tool and machine tool accessory manufacturing	7	T	735	
+MFG	333517	Machine tool manufacturing	7	T	736	
+MFG	333519	Rolling mill and other metalworking machinery manufacturing	7	T	737	
+MFG	333600	Engine, turbine, and power transmission equipment manufacturing	5	T	738	
+MFG	333610	Engine, turbine, and power transmission equipment manufacturing	6	T	739	
+MFG	333611	Turbine and turbine generator set units manufacturing	7	T	740	
+MFG	333612	Speed changer, industrial high-speed drive, and gear manufacturing	7	T	741	
+MFG	333613	Mechanical power transmission equipment manufacturing	7	T	742	
+MFG	333618	Other engine equipment manufacturing	7	T	743	
+MFG	333900	Other general purpose machinery manufacturing	5	T	744	
+MFG	333910	Pump and compressor manufacturing	6	T	745	
+MFG	333911	Pump and pumping equipment manufacturing	7	T	746	
+MFG	333912	Air and gas compressor manufacturing	7	T	747	
+MFG	333913	Measuring and dispensing pump manufacturing	7	T	748	
+MFG	333920	Material handling equipment manufacturing	6	T	749	
+MFG	333921	Elevator and moving stairway manufacturing	7	T	750	
+MFG	333922	Conveyor and conveying equipment manufacturing	7	T	751	
+MFG	333923	Overhead traveling crane, hoist, and monorail system manufacturing	7	T	752	
+MFG	333924	Industrial truck, tractor, trailer, and stacker machinery manufacturing	7	T	753	
+MFG	333990	All other general purpose machinery manufacturing	6	T	754	
+MFG	333991	Power-driven handtool manufacturing	7	T	755	
+MFG	333992	Welding and soldering equipment manufacturing	7	T	756	
+MFG	333993	Packaging machinery manufacturing	7	T	757	
+MFG	333994	Industrial process furnace and oven manufacturing	7	T	758	
+MFG	333995	Fluid power cylinder and actuator manufacturing	7	T	759	
+MFG	333996	Fluid power pump and motor manufacturing	7	T	760	
+MFG	333999	All other miscellaneous general purpose machinery manufacturing	7	T	762	
+MFG	334000	Computer and electronic product manufacturing	4	T	763	
+MFG	334100	Computer and peripheral equipment manufacturing	5	T	764	
+MFG	334110	Computer and peripheral equipment manufacturing	6	T	765	
+MFG	334111	Electronic computer manufacturing	7	T	766	
+MFG	334112	Computer storage device manufacturing	7	T	767	
+MFG	334118	Computer terminal and other computer peripheral equipment manufacturing	7	T	768	
+MFG	334200	Communications equipment manufacturing	5	T	770	
+MFG	334210	Telephone apparatus manufacturing	6	T	771	
+MFG	334220	Radio and television broadcasting and wireless communications equipment manufacturing	6	T	772	
+MFG	334290	Other communications equipment manufacturing	6	T	773	
+MFG	334300	Audio and video equipment manufacturing	5	T	774	
+MFG	334400	Semiconductor and other electronic component manufacturing	5	T	776	
+MFG	334410	Semiconductor and other electronic component manufacturing	6	T	777	
+MFG	334412	Bare printed circuit board manufacturing	7	T	779	
+MFG	334413	Semiconductor and related device manufacturing	7	T	780	
+MFG	334416	Capacitor, resistor, coil, transformer, and other inductor manufacturing	7	T	783	
+MFG	334417	Electronic connector manufacturing	7	T	784	
+MFG	334418	Printed circuit assembly (electronic assembly) manufacturing	7	T	785	
+MFG	334419	Other electronic component manufacturing	7	T	786	
+MFG	334500	Navigational, measuring, electromedical, and control instruments manufacturing	5	T	787	
+MFG	334501	Navigational, measuring, electromedical, and control instruments manufacturing	6	T	788	
+MFG	334510	Electromedical and electrotherapeutic apparatus manufacturing	7	T	789	
+MFG	334511	Search, detection, navigation, guidance, aeronautical, and nautical system and instrument mfg	7	T	790	
+MFG	334512	Automatic environmental control manufacturing for residential, commercial, and appliance use	7	T	791	
+MFG	334513	Instr. and rel. prod. mfg. for measuring, displaying, and controlling industrial process variables	7	T	792	
+MFG	334514	Totalizing fluid meter and counting device manufacturing	7	T	793	
+MFG	334515	Instrument manufacturing for measuring and testing electricity and electrical signals	7	T	794	
+MFG	334516	Analytical laboratory instrument manufacturing	7	T	795	
+MFG	334517	Irradiation apparatus manufacturing	7	T	796	
+MFG	334519	Other measuring and controlling device manufacturing	7	T	798	
+MFG	334600	Manufacturing and reproducing magnetic and optical media	5	T	799	
+MFG	334610	Manufacturing and reproducing magnetic and optical media	6	T	800	
+MFG	334613	Blank magnetic and optical recording media manufacturing	7	T	801	
+MFG	334614	Software and other prerecorded compact disc, tape, and record reproducing	7	T	802	
+MFG	335000	Electrical equipment, appliance, and component manufacturing	4	T	804	
+MFG	335100	Electric lighting equipment manufacturing	5	T	805	
+MFG	335110	Electric lamp bulb and part manufacturing	6	T	806	
+MFG	335120	Lighting fixture manufacturing	6	T	807	
+MFG	335121	Residential electric lighting fixture manufacturing	7	T	808	
+MFG	335122	Commercial, industrial, and institutional electric lighting fixture manufacturing	7	T	809	
+MFG	335129	Other lighting equipment manufacturing	7	T	810	
+MFG	335200	Household appliance manufacturing	5	T	811	
+MFG	335210	Small electrical appliance manufacturing	6	T	812	
+MFG	335220	Major appliance manufacturing	6	T	815	
+MFG	335221	Household cooking appliance manufacturing	7	T	816	
+MFG	335222	Household refrigerator and home freezer manufacturing	7	T	817	
+MFG	335228	Other major household appliance manufacturing	7	T	819	
+MFG	335300	Electrical equipment manufacturing	5	T	820	
+MFG	335310	Electrical equipment manufacturing	6	T	821	
+MFG	335311	Power, distribution, and specialty transformer manufacturing	7	T	822	
+MFG	335312	Motor and generator manufacturing	7	T	823	
+MFG	335313	Switchgear and switchboard apparatus manufacturing	7	T	824	
+MFG	335314	Relay and industrial control manufacturing	7	T	825	
+MFG	335900	Other electrical equipment and component manufacturing	5	T	826	
+MFG	335910	Battery manufacturing	6	T	827	
+MFG	335911	Storage battery manufacturing	7	T	828	
+MFG	335912	Primary battery manufacturing	7	T	829	
+MFG	335920	Communication and energy wire and cable manufacturing	6	T	830	
+MFG	335921	Fiber optic cable manufacturing	7	T	831	
+MFG	335929	Other communication and energy wire manufacturing	7	T	832	
+MFG	335930	Wiring device manufacturing	6	T	833	
+MFG	335931	Current-carrying wiring device manufacturing	7	T	834	
+MFG	335932	Noncurrent-carrying wiring device manufacturing	7	T	835	
+MFG	335990	All other electrical equipment and component manufacturing	6	T	836	
+MFG	335991	Carbon and graphite product manufacturing	7	T	837	
+MFG	335999	All other miscellaneous electrical equipment and component manufacturing	7	T	838	
+MFG	336000	Transportation equipment manufacturing	4	T	839	
+MFG	336100	Motor vehicle manufacturing	5	T	840	
+MFG	336110	Automobile and light duty motor vehicle manufacturing	6	T	841	
+MFG	336111	Automobile manufacturing	7	T	842	
+MFG	336112	Light truck and utility vehicle manufacturing	7	T	843	
+MFG	336120	Heavy duty truck manufacturing	6	T	844	
+MFG	336200	Motor vehicle body and trailer manufacturing	5	T	845	
+MFG	336210	Motor vehicle body and trailer manufacturing	6	T	846	
+MFG	336211	Motor vehicle body manufacturing	7	T	847	
+MFG	336212	Truck trailer manufacturing	7	T	848	
+MFG	336213	Motor home manufacturing	7	T	849	
+MFG	336214	Travel trailer and camper manufacturing	7	T	850	
+MFG	336300	Motor vehicle parts manufacturing	5	T	851	
+MFG	336310	Motor vehicle gasoline engine and engine parts manufacturing	6	T	852	
+MFG	336320	Motor vehicle electrical and electronic equipment manufacturing	6	T	855	
+MFG	336330	Motor vehicle steering and suspension components (except spring) manufacturing	6	T	858	
+MFG	336340	Motor vehicle brake system manufacturing	6	T	859	
+MFG	336350	Motor vehicle transmission and power train parts manufacturing	6	T	860	
+MFG	336360	Motor vehicle seating and interior trim manufacturing	6	T	861	
+MFG	336370	Motor vehicle metal stamping	6	T	862	
+MFG	336390	Other motor vehicle parts manufacturing	6	T	863	
+MFG	336400	Aerospace product and parts manufacturing	5	T	866	
+MFG	336410	Aerospace product and parts manufacturing	6	T	867	
+MFG	336411	Aircraft manufacturing	7	T	868	
+MFG	336412	Aircraft engine and engine parts manufacturing	7	T	869	
+MFG	336413	Other aircraft parts and auxiliary equipment manufacturing	7	T	870	
+MFG	336414	Guided missile and space vehicle manufacturing	7	T	871	
+MFG	336415	Guided missile and space vehicle propulsion unit and propulsion unit parts manufacturing	7	T	872	
+MFG	336419	Other guided missile and space vehicle parts and auxiliary equipment manufacturing	7	T	873	
+MFG	336500	Railroad rolling stock manufacturing	5	T	874	
+MFG	336600	Ship and boat building	5	T	876	
+MFG	336610	Ship and boat building	6	T	877	
+MFG	336611	Ship building and repairing	7	T	878	
+MFG	336612	Boat building	7	T	879	
+MFG	336900	Other transportation equipment manufacturing	5	T	880	
+MFG	336990	Other transportation equipment manufacturing	6	T	881	
+MFG	336991	Motorcycle, bicycle, and parts manufacturing	7	T	882	
+MFG	336992	Military armored vehicle, tank, and tank component manufacturing	7	T	883	
+MFG	336999	All other transportation equipment manufacturing	7	T	884	
+MFG	337000	Furniture and related product manufacturing	4	T	885	
+MFG	337100	Household and institutional furniture and kitchen cabinet manufacturing	5	T	886	
+MFG	337110	Wood kitchen cabinet and countertop manufacturing	6	T	887	
+MFG	337120	Household and institutional furniture manufacturing	6	T	888	
+MFG	337121	Upholstered household furniture manufacturing	7	T	889	
+MFG	337122	Nonupholstered wood household furniture manufacturing	7	T	890	
+MFG	337125	Household furniture (except wood and metal) manufacturing	7	T	892	
+MFG	337127	Institutional furniture manufacturing	7	T	893	
+MFG	337200	Office furniture (including fixtures) manufacturing	5	T	895	
+MFG	337210	Office furniture (including fixtures) manufacturing	6	T	896	
+MFG	337211	Wood office furniture manufacturing	7	T	897	
+MFG	337212	Custom architectural woodwork and millwork manufacturing	7	T	898	
+MFG	337214	Office furniture (except wood) manufacturing	7	T	899	
+MFG	337215	Showcase, partition, shelving, and locker manufacturing	7	T	900	
+MFG	337900	Other furniture related product manufacturing	5	T	901	
+MFG	337910	Mattress manufacturing	6	T	902	
+MFG	337920	Blind and shade manufacturing	6	T	903	
+MFG	339000	Miscellaneous manufacturing	4	T	904	
+MFG	339100	Medical equipment and supplies manufacturing	5	T	905	
+MFG	339110	Medical equipment and supplies manufacturing	6	T	906	
+MFG	339112	Surgical and medical instrument manufacturing	7	T	907	
+MFG	339113	Surgical appliance and supplies manufacturing	7	T	908	
+MFG	339114	Dental equipment and supplies manufacturing	7	T	909	
+MFG	339115	Ophthalmic goods manufacturing	7	T	910	
+MFG	339116	Dental laboratories	7	T	911	
+MFG	339900	Other miscellaneous manufacturing	5	T	912	
+MFG	339910	Jewelry and silverware manufacturing	6	T	913	
+MFG	339920	Sporting and athletic goods manufacturing	6	T	918	
+MFG	339930	Doll, toy, and game manufacturing	6	T	919	
+MFG	339940	Office supplies (except paper) manufacturing	6	T	922	
+MFG	339950	Sign manufacturing	6	T	927	
+MFG	339990	All other miscellaneous manufacturing	6	T	928	
+MFG	339991	Gasket, packing, and sealing device manufacturing	7	T	929	
+MFG	339992	Musical instrument manufacturing	7	T	930	
+MFG	339993	Fastener, button, needle, and pin manufacturing	7	T	931	
+MFG	339994	Broom, brush, and mop manufacturing	7	T	932	
+MFG	339995	Burial casket manufacturing	7	T	933	
+MFG	339999	All other miscellaneous manufacturing	7	T	934	
+MFG	GP1MFG	Manufacturing	2	T	235	
+MFG	GP2MFG	Manufacturing	3	T	236	
+NRM	111000	Crop production	4	T	5	
+NRM	111100	Oilseed and grain farming	5	T	6	
+NRM	111200	Vegetable and melon farming	5	T	16	
+NRM	111300	Fruit and tree nut farming	5	T	20	
+NRM	111310	Orange groves	6	T	21	
+NRM	111330	Noncitrus fruit and tree nut farming	6	T	23	
+NRM	111400	Greenhouse, nursery, and floriculture production	5	T	31	
+NRM	111410	Food crops grown under cover	6	T	32	
+NRM	111411	Mushroom production	7	T	33	
+NRM	111419	Other food crops grown under cover	7	T	34	
+NRM	111900	Other crop farming	5	T	38	
+NRM	112000	Animal production and aquaculture	4	T	47	
+NRM	112100	Cattle ranching and farming	5	T	48	
+NRM	112110	Beef cattle ranching and farming, including feedlots	6	T	49	
+NRM	112120	Dairy cattle and milk production	6	T	52	
+NRM	112200	Hog and pig farming	5	T	54	
+NRM	112300	Poultry and egg production	5	T	56	
+NRM	112330	Turkey production	6	T	59	
+NRM	112400	Sheep and goat farming	5	T	62	
+NRM	112500	Aquaculture	5	T	65	
+NRM	112900	Other animal production	5	T	70	
+NRM	113000	Forestry and logging	4	T	75	
+NRM	113100	Timber tract operations	5	T	76	
+NRM	113200	Forest nurseries and gathering of forest products	5	T	78	
+NRM	113300	Logging	5	T	80	
+NRM	114000	Fishing, hunting and trapping	4	T	82	
+NRM	114100	Fishing	5	T	83	
+NRM	114200	Hunting and trapping	5	T	88	
+NRM	115000	Support activities for agriculture and forestry	4	T	90	
+NRM	115100	Support activities for crop production	5	T	91	
+NRM	115110	Support activities for crop production	6	T	92	
+NRM	115112	Soil preparation, planting, and cultivating	7	T	94	
+NRM	115113	Crop harvesting, primarily by machine	7	T	95	
+NRM	115114	Postharvest crop activities (except cotton ginning)	7	T	96	
+NRM	115115	Farm labor contractors and crew leaders	7	T	97	
+NRM	115116	Farm management services	7	T	98	
+NRM	115200	Support activities for animal production	5	T	99	
+NRM	115300	Support activities for forestry	5	T	101	
+NRM	211000	Oil and gas extraction	4	T	104	
+NRM	211100	Oil and gas extraction	5	T	105	
+NRM	211110	Oil and gas extraction	6	T	106	
+NRM	211111	Crude petroleum and natural gas extraction	7	T	107	
+NRM	211112	Natural gas liquid extraction	7	T	108	
+NRM	212000	Mining (except oil and gas)	4	T	109	
+NRM	212100	Coal mining	5	T	110	
+NRM	212110	Coal mining	6	T	111	
+NRM	212111	Bituminous coal and lignite surface mining	7	T	112	
+NRM	212112	Bituminous coal underground mining	7	T	113	
+NRM	212113	Anthracite mining	7	T	114	
+NRM	212200	Metal ore mining	5	T	115	
+NRM	212210	Iron ore mining	6	T	116	
+NRM	212220	Gold ore and silver ore mining	6	T	117	
+NRM	212221	Gold ore mining	7	T	118	
+NRM	212222	Silver ore mining	7	T	119	
+NRM	212230	Copper, nickel, lead, and zinc mining	6	T	120	
+NRM	212231	Lead ore and zinc ore mining	7	T	121	
+NRM	212234	Copper ore and nickel ore mining	7	T	122	
+NRM	212290	Other metal ore mining	6	T	123	
+NRM	212291	Uranium-radium-vanadium ore mining	7	T	124	
+NRM	212299	All other metal ore mining	7	T	125	
+NRM	212300	Nonmetallic mineral mining and quarrying	5	T	126	
+NRM	212310	Stone mining and quarrying	6	T	127	
+NRM	212311	Dimension stone mining and quarrying	7	T	128	
+NRM	212312	Crushed and broken limestone mining and quarrying	7	T	129	
+NRM	212313	Crushed and broken granite mining and quarrying	7	T	130	
+NRM	212319	Other crushed and broken stone mining and quarrying	7	T	131	
+NRM	212320	Sand, gravel, clay, and ceramic and refractory minerals mining and quarrying	6	T	132	
+NRM	212321	Construction sand and gravel mining	7	T	133	
+NRM	212324	Kaolin and ball clay mining	7	T	135	
+NRM	212325	Clay and ceramic and refractory minerals mining	7	T	136	
+NRM	212390	Other nonmetallic mineral mining and quarrying	6	T	137	
+NRM	212391	Potash, soda, and borate mineral mining	7	T	138	
+NRM	212392	Phosphate rock mining	7	T	139	
+NRM	212393	Other chemical and fertilizer mineral mining	7	T	140	
+NRM	212399	All other nonmetallic mineral mining	7	T	141	
+NRM	213000	Support activities for mining	4	T	142	
+NRM	213100	Support activities for mining	5	T	143	
+NRM	213110	Support activities for mining	6	T	144	
+NRM	213111	Drilling oil and gas wells	7	T	145	
+NRM	213112	Support activities for oil and gas operations	7	T	146	
+NRM	GP1NRM	Natural resources and mining	2	T	3	
+NRM	GP2AFH	Agriculture, forestry, fishing and hunting	3	T	4	
+NRM	GP2MIN	Mining, quarrying, and oil and gas extraction	3	T	103	
+OTS	811000	Repair and maintenance	4	T	1757	
+OTS	811100	Automotive repair and maintenance	5	T	1758	
+OTS	811200	Electronic and precision equipment repair and maintenance	5	T	1771	
+OTS	811300	Commercial and industrial machinery and equipment (ex auto and electronic) repair and maintenance	5	T	1777	
+OTS	811400	Personal and household goods repair and maintenance	5	T	1779	
+OTS	812000	Personal and laundry services	4	T	1786	
+OTS	812100	Personal care services	5	T	1787	
+OTS	812200	Death care services	5	T	1795	
+OTS	812300	Drycleaning and laundry services	5	T	1798	
+OTS	812310	Coin-operated laundries and drycleaners	6	T	1799	
+OTS	812320	Drycleaning and laundry services (except coin-operated)	6	T	1800	
+OTS	812330	Linen and uniform supply	6	T	1801	
+OTS	812331	Linen supply	7	T	1802	
+OTS	812332	Industrial launderers	7	T	1803	
+OTS	812900	Other personal services	5	T	1804	
+OTS	812910	Pet care (except veterinary) services	6	T	1805	
+OTS	812920	Photofinishing	6	T	1806	
+OTS	812930	Parking lots and garages	6	T	1809	
+OTS	812990	All other personal services	6	T	1810	
+OTS	813000	Religious, grantmaking, civic, professional, and similar organizations	4	T	1811	
+OTS	813300	Social advocacy organizations	5	T	1819	
+OTS	813400	Civic and social organizations	5	T	1824	
+OTS	SP1OTS	Other services (except public administration)	2	T	1748	
+OTS	SP2OTS	Other services (except public administration)	3	T	1750	
+PAD	921000	Executive, legislative, and other general government support	4	T	1837	
+PAD	921100	Executive, legislative, and other general government support	5	T	1838	
+PAD	921130	Public finance activities	6	T	1841	
+PAD	922000	Justice, public order, and safety activities	4	T	1845	
+PAD	922100	Justice, public order, and safety activities	5	T	1846	
+PAD	922110	Courts	6	T	1847	
+PAD	922120	Police protection	6	T	1848	
+PAD	922140	Correctional institutions	6	T	1850	
+PAD	922160	Fire protection	6	T	1852	
+PAD	923000	Administration of human resource programs	4	T	1854	
+PAD	923100	Administration of human resource programs	5	T	1855	
+PAD	923130	Admin. of human resource programs (except education, public health, and veterans' affairs programs)	6	T	1858	
+PAD	924000	Administration of environmental quality programs	4	T	1860	
+PAD	924100	Administration of environmental quality programs	5	T	1861	
+PAD	924110	Administration of air and water resource and solid waste management programs	6	T	1862	
+PAD	925000	Administration of housing programs, urban planning, and community development	4	T	1864	
+PAD	926000	Administration of economic programs	4	T	1868	
+PAD	926100	Administration of economic programs	5	T	1869	
+PAD	926120	Regulation and administration of transportation programs	6	T	1871	
+PAD	SP1PAD	Public administration	2	T	1832	
+PAD	SP2PAD	Public administration	3	T	1833	
+PBS	541000	Professional, scientific, and technical services	4	T	1449	
+PBS	541100	Legal services	5	T	1450	
+PBS	541200	Accounting, tax preparation, bookkeeping, and payroll services	5	T	1456	
+PBS	541210	Accounting, tax preparation, bookkeeping, and payroll services	6	T	1457	
+PBS	541211	Offices of certified public accountants	7	T	1458	
+PBS	541213	Tax preparation services	7	T	1459	
+PBS	541214	Payroll services	7	T	1460	
+PBS	541219	Other accounting services	7	T	1461	
+PBS	541300	Architectural, engineering, and related services	5	T	1462	
+PBS	541310	Architectural services	6	T	1463	
+PBS	541320	Landscape architectural services	6	T	1464	
+PBS	541330	Engineering services	6	T	1465	
+PBS	541340	Drafting services	6	T	1466	
+PBS	541350	Building inspection services	6	T	1467	
+PBS	541360	Geophysical surveying and mapping services	6	T	1468	
+PBS	541370	Surveying and mapping (except geophysical) services	6	T	1469	
+PBS	541380	Testing laboratories	6	T	1470	
+PBS	541400	Specialized design services	5	T	1471	
+PBS	541500	Computer systems design and related services	5	T	1476	
+PBS	541510	Computer systems design and related services	6	T	1477	
+PBS	541511	Custom computer programming services	7	T	1478	
+PBS	541512	Computer systems design services	7	T	1479	
+PBS	541513	Computer facilities management services	7	T	1480	
+PBS	541519	Other computer related services	7	T	1481	
+PBS	541600	Management, scientific, and technical consulting services	5	T	1482	
+PBS	541610	Management consulting services	6	T	1483	
+PBS	541620	Environmental consulting services	6	T	1489	
+PBS	541690	Other scientific and technical consulting services	6	T	1490	
+PBS	541700	Scientific research and development services	5	T	1491	
+PBS	541800	Advertising, public relations, and related services	5	T	1496	
+PBS	541900	Other professional, scientific, and technical services	5	T	1505	
+PBS	541910	Marketing research and public opinion polling	6	T	1506	
+PBS	541920	Photographic services	6	T	1507	
+PBS	541930	Translation and interpretation services	6	T	1510	
+PBS	541940	Veterinary services	6	T	1511	
+PBS	541990	All other professional, scientific, and technical services	6	T	1512	
+PBS	551000	Management of companies and enterprises	4	T	1514	
+PBS	551100	Management of companies and enterprises	5	T	1515	
+PBS	551110	Management of companies and enterprises	6	T	1516	
+PBS	551114	Corporate, subsidiary, and regional managing offices	7	T	1519	
+PBS	561000	Administrative and support services	4	T	1521	
+PBS	561100	Office administrative services	5	T	1522	
+PBS	561200	Facilities support services	5	T	1524	
+PBS	561300	Employment services	5	T	1526	
+PBS	561310	Employment placement agencies and executive search services	6	T	1527	
+PBS	561320	Temporary help services	6	T	1530	
+PBS	561330	Professional employer organizations	6	T	1531	
+PBS	561400	Business support services	5	T	1532	
+PBS	561410	Document preparation services	6	T	1533	
+PBS	561420	Telephone call centers	6	T	1534	
+PBS	561430	Business service centers	6	T	1537	
+PBS	561440	Collection agencies	6	T	1540	
+PBS	561450	Credit bureaus	6	T	1541	
+PBS	561490	Other business support services	6	T	1542	
+PBS	561500	Travel arrangement and reservation services	5	T	1546	
+PBS	561510	Travel agencies	6	T	1547	
+PBS	561520	Tour operators	6	T	1548	
+PBS	561590	Other travel arrangement and reservation services	6	T	1549	
+PBS	561600	Investigation and security services	5	T	1552	
+PBS	561610	Investigation, guard, and armored car services	6	T	1553	
+PBS	561611	Investigation services	7	T	1554	
+PBS	561612	Security guards and patrol services	7	T	1555	
+PBS	561620	Security systems services	6	T	1557	
+PBS	561700	Services to buildings and dwellings	5	T	1560	
+PBS	561710	Exterminating and pest control services	6	T	1561	
+PBS	561720	Janitorial services	6	T	1562	
+PBS	561730	Landscaping services	6	T	1563	
+PBS	561740	Carpet and upholstery cleaning services	6	T	1564	
+PBS	561790	Other services to buildings and dwellings	6	T	1565	
+PBS	561900	Other support services	5	T	1566	
+PBS	562000	Waste management and remediation services	4	T	1570	
+PBS	562100	Waste collection	5	T	1571	
+PBS	562110	Waste collection	6	T	1572	
+PBS	562111	Solid waste collection	7	T	1573	
+PBS	562112	Hazardous waste collection	7	T	1574	
+PBS	562119	Other waste collection	7	T	1575	
+PBS	562200	Waste treatment and disposal	5	T	1576	
+PBS	562210	Waste treatment and disposal	6	T	1577	
+PBS	562211	Hazardous waste treatment and disposal	7	T	1578	
+PBS	562212	Solid waste landfill	7	T	1579	
+PBS	562213	Solid waste combustors and incinerators	7	T	1580	
+PBS	562219	Other nonhazardous waste treatment and disposal	7	T	1581	
+PBS	562900	Remediation and other waste management services	5	T	1582	
+PBS	562910	Remediation services	6	T	1583	
+PBS	562920	Materials recovery facilities	6	T	1584	
+PBS	562990	All other waste management services	6	T	1585	
+PBS	SP1PBS	Professional and business services	2	T	1447	
+PBS	SP2ADW	Administrative and support and waste management and remediation services	3	T	1520	
+PBS	SP2MCE	Management of companies and enterprises	3	T	1513	
+PBS	SP2PST	Professional, scientific, and technical services	3	T	1448	
+SP1	SP1AAA	Service-providing	1	T	935	
+TTU	221000	Utilities	4	T	1266	
+TTU	221100	Electric power generation, transmission and distribution	5	T	1267	
+TTU	221110	Electric power generation	6	T	1268	
+TTU	221111	Hydroelectric power generation	7	T	1269	
+TTU	221112	Fossil fuel electric power generation	7	T	1270	
+TTU	221113	Nuclear electric power generation	7	T	1271	
+TTU	221120	Electric power transmission, control, and distribution	6	T	1277	
+TTU	221122	Electric power distribution	7	T	1279	
+TTU	221200	Natural gas distribution	5	T	1280	
+TTU	221300	Water, sewage and other systems	5	T	1282	
+TTU	221310	Water supply and irrigation systems	6	T	1283	
+TTU	221320	Sewage treatment facilities	6	T	1284	
+TTU	221330	Steam and air-conditioning supply	6	T	1285	
+TTU	423000	Merchant wholesalers, durable goods	4	T	938	
+TTU	423100	Motor vehicle and motor vehicle parts and supplies merchant wholesalers	5	T	939	
+TTU	423200	Furniture and home furnishing merchant wholesalers	5	T	944	
+TTU	423300	Lumber and other construction materials merchant wholesalers	5	T	947	
+TTU	423400	Professional and commercial equipment and supplies merchant wholesalers	5	T	952	
+TTU	423500	Metal and mineral (except petroleum) merchant wholesalers	5	T	960	
+TTU	423510	Metal service centers and other metal merchant wholesalers	6	T	961	
+TTU	423520	Coal and other mineral and ore merchant wholesalers	6	T	962	
+TTU	423600	Household appliances and electrical and electronic goods merchant wholesalers	5	T	963	
+TTU	423700	Hardware, and plumbing and heating equipment and supplies merchant wholesalers	5	T	968	
+TTU	423800	Machinery, equipment, and supplies merchant wholesalers	5	T	973	
+TTU	423810	Construction and mining (except oil well) machinery and equipment merchant wholesalers	6	T	974	
+TTU	423830	Industrial machinery and equipment merchant wholesalers	6	T	976	
+TTU	423900	Miscellaneous durable goods merchant wholesalers	5	T	980	
+TTU	423910	Sporting and recreational goods and supplies merchant wholesalers	6	T	981	
+TTU	423920	Toy and hobby goods and supplies merchant wholesalers	6	T	982	
+TTU	423930	Recyclable material merchant wholesalers	6	T	983	
+TTU	423940	Jewelry, watch, precious stone, and precious metal merchant wholesalers	6	T	984	
+TTU	423990	Other miscellaneous durable goods merchant wholesalers	6	T	985	
+TTU	424000	Merchant wholesalers, nondurable goods	4	T	986	
+TTU	424100	Paper and paper product merchant wholesalers	5	T	987	
+TTU	424200	Drugs and druggists' sundries merchant wholesalers	5	T	991	
+TTU	424300	Apparel, piece goods, and notions merchant wholesalers	5	T	993	
+TTU	424400	Grocery and related product merchant wholesalers	5	T	998	
+TTU	424500	Farm product raw material merchant wholesalers	5	T	1008	
+TTU	424600	Chemical and allied products merchant wholesalers	5	T	1012	
+TTU	424700	Petroleum and petroleum products merchant wholesalers	5	T	1015	
+TTU	424800	Beer, wine, and distilled alcoholic beverage merchant wholesalers	5	T	1018	
+TTU	424900	Miscellaneous nondurable goods merchant wholesalers	5	T	1021	
+TTU	425000	Wholesale electronic markets and agents and brokers	4	T	1028	
+TTU	441000	Motor vehicle and parts dealers	4	T	1033	
+TTU	441100	Automobile dealers	5	T	1034	
+TTU	441110	New car dealers	6	T	1035	
+TTU	441120	Used car dealers	6	T	1036	
+TTU	441200	Other motor vehicle dealers	5	T	1037	
+TTU	441210	Recreational vehicle dealers	6	T	1038	
+TTU	441220	Motorcycle, boat, and other motor vehicle dealers	6	T	1039	
+TTU	441300	Automotive parts, accessories, and tire stores	5	T	1043	
+TTU	441310	Automotive parts and accessories stores	6	T	1044	
+TTU	441320	Tire dealers	6	T	1045	
+TTU	442000	Furniture and home furnishings stores	4	T	1046	
+TTU	442100	Furniture stores	5	T	1047	
+TTU	442200	Home furnishings stores	5	T	1049	
+TTU	442210	Floor covering stores	6	T	1050	
+TTU	442290	Other home furnishings stores	6	T	1051	
+TTU	443000	Electronics and appliance stores	4	T	1054	
+TTU	443100	Electronics and appliance stores	5	T	1055	
+TTU	443140	Electronics and appliance stores	6	T	1056	
+TTU	443141	Household appliance stores	7	T	1057	
+TTU	443142	Electronics stores	7	T	1058	
+TTU	444000	Building material and garden equipment and supplies dealers	4	T	1061	
+TTU	444100	Building material and supplies dealers	5	T	1062	
+TTU	444110	Home centers	6	T	1063	
+TTU	444120	Paint and wallpaper stores	6	T	1064	
+TTU	444130	Hardware stores	6	T	1065	
+TTU	444190	Other building material dealers	6	T	1066	
+TTU	444200	Lawn and garden equipment and supplies stores	5	T	1067	
+TTU	444210	Outdoor power equipment stores	6	T	1068	
+TTU	444220	Nursery, garden center, and farm supply stores	6	T	1069	
+TTU	445000	Food and beverage stores	4	T	1070	
+TTU	445100	Grocery stores	5	T	1071	
+TTU	445110	Supermarkets and other grocery (except convenience) stores	6	T	1072	
+TTU	445120	Convenience stores	6	T	1073	
+TTU	445200	Specialty food stores	5	T	1074	
+TTU	445210	Meat markets	6	T	1075	
+TTU	445230	Fruit and vegetable markets	6	T	1077	
+TTU	445290	Other specialty food stores	6	T	1078	
+TTU	445300	Beer, wine, and liquor stores	5	T	1082	
+TTU	446000	Health and personal care stores	4	T	1084	
+TTU	446100	Health and personal care stores	5	T	1085	
+TTU	446110	Pharmacies and drug stores	6	T	1086	
+TTU	446120	Cosmetics, beauty supplies, and perfume stores	6	T	1087	
+TTU	446130	Optical goods stores	6	T	1088	
+TTU	446190	Other health and personal care stores	6	T	1089	
+TTU	447000	Gasoline stations	4	T	1092	
+TTU	447100	Gasoline stations	5	T	1093	
+TTU	447110	Gasoline stations with convenience stores	6	T	1094	
+TTU	447190	Other gasoline stations	6	T	1095	
+TTU	448000	Clothing and clothing accessories stores	4	T	1096	
+TTU	448100	Clothing stores	5	T	1097	
+TTU	448110	Men's clothing stores	6	T	1098	
+TTU	448120	Women's clothing stores	6	T	1099	
+TTU	448130	Children's and infants' clothing stores	6	T	1100	
+TTU	448140	Family clothing stores	6	T	1101	
+TTU	448150	Clothing accessories stores	6	T	1102	
+TTU	448190	Other clothing stores	6	T	1103	
+TTU	448200	Shoe stores	5	T	1104	
+TTU	448300	Jewelry, luggage, and leather goods stores	5	T	1106	
+TTU	448310	Jewelry stores	6	T	1107	
+TTU	448320	Luggage and leather goods stores	6	T	1108	
+TTU	451000	Sporting goods, hobby, book, and music stores	4	T	1109	
+TTU	451100	Sporting goods, hobby, and musical instrument stores	5	T	1110	
+TTU	451110	Sporting goods stores	6	T	1111	
+TTU	451120	Hobby, toy, and game stores	6	T	1112	
+TTU	451130	Sewing, needlework, and piece goods stores	6	T	1113	
+TTU	451140	Musical instrument and supplies stores	6	T	1114	
+TTU	451200	Book stores and news dealers	5	T	1115	
+TTU	451210	Book stores and news dealers	6	T	1116	
+TTU	451211	Book stores	7	T	1117	
+TTU	451212	News dealers and newsstands	7	T	1118	
+TTU	452000	General merchandise stores	4	T	1120	
+TTU	452100	Department stores	5	T	1121	
+TTU	452900	Other general merchandise stores	5	T	1125	
+TTU	452910	Warehouse clubs and supercenters	6	T	1126	
+TTU	452990	All other general merchandise stores	6	T	1127	
+TTU	453000	Miscellaneous store retailers	4	T	1128	
+TTU	453100	Florists	5	T	1129	
+TTU	453200	Office supplies, stationery, and gift stores	5	T	1131	
+TTU	453210	Office supplies and stationery stores	6	T	1132	
+TTU	453220	Gift, novelty, and souvenir stores	6	T	1133	
+TTU	453300	Used merchandise stores	5	T	1134	
+TTU	453900	Other miscellaneous store retailers	5	T	1136	
+TTU	453910	Pet and pet supplies stores	6	T	1137	
+TTU	453920	Art dealers	6	T	1138	
+TTU	453930	Manufactured (mobile) home dealers	6	T	1139	
+TTU	453990	All other miscellaneous store retailers	6	T	1140	
+TTU	454000	Nonstore retailers	4	T	1143	
+TTU	454100	Electronic shopping and mail-order houses	5	T	1144	
+TTU	454110	Electronic shopping and mail-order houses	6	T	1145	
+TTU	454111	Electronic shopping	7	T	1146	
+TTU	454112	Electronic auctions	7	T	1147	
+TTU	454113	Mail-order houses	7	T	1148	
+TTU	454200	Vending machine operators	5	T	1149	
+TTU	454300	Direct selling establishments	5	T	1151	
+TTU	454310	Fuel dealers	6	T	1152	
+TTU	454390	Other direct selling establishments	6	T	1156	
+TTU	481000	Air transportation	4	T	1158	
+TTU	481100	Scheduled air transportation	5	T	1159	
+TTU	481110	Scheduled air transportation	6	T	1160	
+TTU	481111	Scheduled passenger air transportation	7	T	1161	
+TTU	481112	Scheduled freight air transportation	7	T	1162	
+TTU	481200	Nonscheduled air transportation	5	T	1163	
+TTU	482000	Rail transportation	4	T	1168	
+TTU	483000	Water transportation	4	T	1173	
+TTU	483100	Deep sea, coastal, and great lakes water transportation	5	T	1174	
+TTU	483110	Deep sea, coastal, and great lakes water transportation	6	T	1175	
+TTU	483111	Deep sea freight transportation	7	T	1176	
+TTU	483112	Deep sea passenger transportation	7	T	1177	
+TTU	483113	Coastal and great lakes freight transportation	7	T	1178	
+TTU	483114	Coastal and great lakes passenger transportation	7	T	1179	
+TTU	483200	Inland water transportation	5	T	1180	
+TTU	483210	Inland water transportation	6	T	1181	
+TTU	483211	Inland water freight transportation	7	T	1182	
+TTU	483212	Inland water passenger transportation	7	T	1183	
+TTU	484000	Truck transportation	4	T	1184	
+TTU	484100	General freight trucking	5	T	1185	
+TTU	484110	General freight trucking, local	6	T	1186	
+TTU	484120	General freight trucking, long-distance	6	T	1187	
+TTU	484121	General freight trucking, long-distance, truckload	7	T	1188	
+TTU	484200	Specialized freight trucking	5	T	1190	
+TTU	484210	Used household and office goods moving	6	T	1191	
+TTU	484220	Specialized freight (except used goods) trucking, local	6	T	1192	
+TTU	484230	Specialized freight (except used goods) trucking, long-distance	6	T	1193	
+TTU	485000	Transit and ground passenger transportation	4	T	1194	
+TTU	485100	Urban transit systems	5	T	1195	
+TTU	485110	Urban transit systems	6	T	1196	
+TTU	485200	Interurban and rural bus transportation	5	T	1201	
+TTU	485300	Taxi and limousine service	5	T	1203	
+TTU	485310	Taxi service	6	T	1204	
+TTU	485320	Limousine service	6	T	1205	
+TTU	485400	School and employee bus transportation	5	T	1206	
+TTU	485500	Charter bus industry	5	T	1208	
+TTU	485900	Other transit and ground passenger transportation	5	T	1210	
+TTU	486000	Pipeline transportation	4	T	1214	
+TTU	486200	Pipeline transportation of natural gas	5	T	1217	
+TTU	486900	Other pipeline transportation	5	T	1219	
+TTU	486910	Pipeline transportation of refined petroleum products	6	T	1220	
+TTU	486990	All other pipeline transportation	6	T	1221	
+TTU	487000	Scenic and sightseeing transportation	4	T	1222	
+TTU	487100	Scenic and sightseeing transportation, land	5	T	1223	
+TTU	487200	Scenic and sightseeing transportation, water	5	T	1225	
+TTU	487900	Scenic and sightseeing transportation, other	5	T	1227	
+TTU	488000	Support activities for transportation	4	T	1229	
+TTU	488100	Support activities for air transportation	5	T	1230	
+TTU	488110	Airport operations	6	T	1231	
+TTU	488119	Other airport operations	7	T	1233	
+TTU	488200	Support activities for rail transportation	5	T	1235	
+TTU	488300	Support activities for water transportation	5	T	1237	
+TTU	488320	Marine cargo handling	6	T	1239	
+TTU	488330	Navigational services to shipping	6	T	1240	
+TTU	488390	Other support activities for water transportation	6	T	1241	
+TTU	488400	Support activities for road transportation	5	T	1242	
+TTU	488410	Motor vehicle towing	6	T	1243	
+TTU	488490	Other support activities for road transportation	6	T	1244	
+TTU	488500	Freight transportation arrangement	5	T	1245	
+TTU	488900	Other support activities for transportation	5	T	1247	
+TTU	492000	Couriers and messengers	4	T	1254	
+TTU	492100	Couriers and express delivery services	5	T	1255	
+TTU	492200	Local messengers and local delivery	5	T	1257	
+TTU	493000	Warehousing and storage	4	T	1259	
+TTU	493100	Warehousing and storage	5	T	1260	
+TTU	493110	General warehousing and storage	6	T	1261	
+TTU	493120	Refrigerated warehousing and storage	6	T	1262	
+TTU	493130	Farm product warehousing and storage	6	T	1263	
+TTU	493190	Other warehousing and storage	6	T	1264	
+TTU	SP1TTU	Trade, transportation, and utilities	2	T	936	
+TTU	SP2RET	Retail trade	3	T	1032	
+TTU	SP2TRW	Transportation and warehousing	3	T	1157	
+TTU	SP2UTL	Utilities	3	T	1265	
+TTU	SP2WHT	Wholesale trade	3	T	937	

@@ -1,0 +1,871 @@
+source_code	source_text	display_level	selectable	sort_sequence
+0000XX	All sources	0	T	1	
+1112XX	Hydrogen chloride, hydrochloric acid	4	T	6	
+1113XX	Hydrogen fluoride, hydrofluoric acid	4	T	7	
+1115XX	Sulfuric acid	4	T	9	
+111XXX	Acids	3	T	4	
+1121XX	Cement, mortar mix--dry	4	T	12	
+1122XX	Cement, mortar mix--wet	4	T	13	
+1125XX	Sodium and potassium hydroxide, potassium carbonate	4	T	16	
+112XXX	Alkalies	3	T	11	
+11XXXX	Acids and alkalies	2	T	3	
+1211XX	Antifreeze	4	T	20	
+1212XX	Ethanol	4	T	21	
+1213XX	Ethylene glycol	4	T	22	
+1214XX	Methanol	4	T	23	
+121XXX	Alcohols	3	T	19	
+1231XX	Benzene	4	T	28	
+1233XX	Toluene	4	T	30	
+1235XX	Phenol	4	T	32	
+123XXX	Aromatics	3	T	27	
+1241XX	Acetone	4	T	35	
+1243XX	Methyl ethyl ketone	4	T	37	
+124XXX	Ketones	3	T	34	
+128XXX	Multiple aromatics and hydrocarbon derivatives, except halogenated	3	T	39	
+129XXX	Other aromatics and hydrocarbon derivatives, except halogenated	3	T	40	
+12XXXX	Aromatics and hydrocarbon derivatives, except halogenated	2	T	18	
+1311XX	Chlorine, chlorine bleach	4	T	49	
+1312XX	Dichloromethane	4	T	50	
+1315XX	Trichloroethylene	4	T	53	
+131XXX	Chlorine and chlorine compounds	3	T	48	
+1322XX	Fluorotrichloromethane	4	T	56	
+132XXX	Fluorine and fluorine compounds	3	T	54	
+13XXXX	Halogens and halogen compounds	2	T	47	
+146XXX	Other metallics and compounds	3	T	63	
+147XXX	Welding or soldering fumes, unspecified or n.e.c.	3	T	69	
+148XXX	Multiple metallics and metallic compounds	3	T	70	
+14XXXX	Metallic particulates, trace elements, dusts, powders, fumes	2	T	57	
+1510XX	Fertilizers, plant food, n.e.c.	3	T	72	
+1540XX	Herbicides	3	T	75	
+1550XX	Insecticides	3	T	76	
+15XXXX	Pesticides and other agricultural chemicals	2	T	71	
+161XXX	Coal, coal dust	3	T	80	
+162XXX	Natural gas	3	T	81	
+163XXX	Petroleum, crude oil	3	T	82	
+1641XX	Gasoline, diesel fuel, jet fuel	4	T	84	
+1642XX	Lubricating greases, cutting oils	4	T	85	
+1643XX	Propane	4	T	86	
+1644XX	Paving asphalt, asphaltic cement	4	T	87	
+164XXX	Petroleum fuels, distillates, and products, n.e.c.	3	T	83	
+16XXXX	Coal, natural gas, petroleum fuels and products	2	T	79	
+1711XX	Ammonia, anhydrous ammonia	4	T	90	
+171XXX	Ammonia and ammonium compounds	3	T	89	
+172XXX	Cryogenic gases	3	T	93	
+1731XX	Hydrogen cyanide	4	T	95	
+173XXX	Cyanide and cyanide compounds	3	T	94	
+1741XX	Carbon monoxide	4	T	97	
+1742XX	Carbon dioxide, dry ice	4	T	98	
+1743XX	Nitrogen oxides	4	T	99	
+174XXX	Oxygen and oxygen compounds	3	T	96	
+1751XX	Cyanates, urethanes	4	T	103	
+1752XX	Resins	4	T	104	
+175XXX	Plastics, resins	3	T	102	
+1761XX	Methane gas	4	T	106	
+1763XX	Sewer gas	4	T	108	
+1764XX	Manure gas	4	T	109	
+176XXX	Sewer, mine, and similar gases	3	T	105	
+1771XX	Hydrogen sulfide	4	T	111	
+177XXX	Sulfur and sulfur compounds	3	T	110	
+1780XX	Multiple chemicals or chemical mixtures, n.e.c.	4	T	115	
+1791XX	Nitrogen	4	T	117	
+1792XX	Helium	4	T	118	
+1793XX	Hydrogen	4	T	119	
+179XXX	Other chemicals, n.e.c.	3	T	116	
+17XXXX	Other chemicals	2	T	88	
+1838XX	Multiple cleaning and polishing agents	4	T	129	
+183XXX	Cleaning and polishing agents, disinfectants	3	T	123	
+1841XX	Alcoholic beverages	4	T	131	
+1842XX	Drugs--nonmedicinal	4	T	132	
+1843XX	Medicines, except vaccines	4	T	133	
+1844XX	Vaccines	4	T	134	
+1848XX	Multiple drugs, alcohol, medicines	4	T	135	
+184XXX	Drugs, alcohol, and medicines	3	T	130	
+1853XX	Gunpowder	4	T	139	
+1854XX	Pyrotechnics, fireworks	4	T	140	
+185XXX	Explosives, blasting agents	3	T	136	
+1861XX	Lacquer, shellac, varnish	4	T	142	
+1862XX	Paint	4	T	143	
+186XXX	Paint, lacquer, shellac, varnish	3	T	141	
+1871XX	Naphtha solvents	4	T	146	
+1872XX	Paint removers, thinners	4	T	147	
+1878XX	Multiple solvents, degreasers	4	T	149	
+187XXX	Solvents, degreasers	3	T	145	
+1892XX	Photographic and copying solutions	4	T	152	
+189XXX	Other chemical products--general	3	T	150	
+18XXXX	Chemical products--general	2	T	121	
+1XXXXX	Chemicals and chemical products	1	T	2	
+2111XX	Bags, sacks	4	T	157	
+2112XX	Barrels, drums--except pressurized	4	T	158	
+2113XX	Bottles, jugs, flasks	4	T	159	
+2114XX	Boxes, crates, cartons	4	T	160	
+2115XX	Buckets, baskets, pails	4	T	161	
+2116XX	Cans	4	T	162	
+2117XX	Pots, pans, trays	4	T	163	
+2118XX	Tanks, bins, vats--nonconfined space	4	T	164	
+211XXX	Containers--nonpressurized	3	T	156	
+2121XX	Boilers	4	T	166	
+2122XX	Hoses	4	T	167	
+2123XX	Oxygen tanks and cylinders	4	T	168	
+2124XX	Pressure lines, except hoses	4	T	169	
+2125XX	Propane tanks and cylinders	4	T	170	
+2126XX	Beer and soda kegs	4	T	171	
+2127XX	Fire extinguishers	4	T	172	
+212XXX	Containers--pressurized	3	T	165	
+2131XX	Bundles, bales	4	T	174	
+2133XX	Reels, rolls, spools, coils, cones	4	T	176	
+213XXX	Containers--variable restraint	3	T	173	
+2152XX	Handbags, pocketbooks, wallets, tote bags	4	T	182	
+2153XX	Suitcases, baggage, luggage	4	T	183	
+2155XX	Backpacks	4	T	185	
+215XXX	Luggage, handbags	3	T	180	
+216XXX	Skids, pallets	3	T	189	
+21XXXX	Containers	2	T	155	
+2212XX	Cabinets, cases--display, storage	4	T	194	
+2214XX	Racks--garment and other	4	T	196	
+2217XX	Shelves, shelving	4	T	199	
+221XXX	Cases, cabinets, racks, shelves	3	T	192	
+2221XX	Floor coverings--nonstructural	4	T	202	
+222XXX	Floor, wall, and window coverings	3	T	201	
+2231XX	Beds, mattresses	4	T	206	
+2232XX	Benches, workbenches, saw horses	4	T	207	
+2233XX	Chairs	4	T	208	
+2234XX	Desks	4	T	209	
+2236XX	Tables, worktables	4	T	211	
+223XXX	Furniture	3	T	205	
+2241XX	Lamps, light fixtures	4	T	215	
+224XXX	Lighting fixtures and equipment	3	T	214	
+2251XX	Bathtubs, hot tubs, showers	4	T	218	
+225XXX	Plumbing fixtures	3	T	217	
+226XXX	Blackboards, bulletin boards, mirrors	3	T	221	
+22XXXX	Furniture and fixtures	2	T	191	
+2XXXXX	Containers, furniture, and fixtures	1	T	154	
+3111XX	Balers--agricultural	4	T	227	
+3112XX	Combines	4	T	228	
+3113XX	Harvesters, reapers	4	T	229	
+311XXX	Harvesting and threshing machinery	3	T	226	
+3121XX	Lawn mowers--nonriding, powered	4	T	232	
+3122XX	Lawn mowers--riding	4	T	233	
+3123XX	Brush hogs--tractor	4	T	234	
+3124XX	Sickle bars--tractor	4	T	235	
+3125XX	Mower--tractor, n.e.c.	4	T	236	
+312XXX	Mowing machinery	3	T	231	
+3131XX	Plowing and cultivating machinery	4	T	238	
+3132XX	Seed planting machinery	4	T	239	
+3133XX	Spreading machinery--agricultural	4	T	240	
+313XXX	Plowing, planting, and fertilizing machinery	3	T	237	
+3191XX	Feed grinders, crushers, mixers--agricultural	4	T	242	
+3192XX	Spraying and dusting machinery--agricultural	4	T	243	
+3193XX	Irrigation machinery	4	T	244	
+319XXX	Other agricultural and garden machinery	3	T	241	
+31XXXX	Agricultural and garden machinery	2	T	225	
+3211XX	Backhoes, trackhoes	4	T	247	
+3212XX	Bulldozers	4	T	248	
+3213XX	Front and power shovels	4	T	249	
+3214XX	Mini excavators	4	T	250	
+3215XX	Trenchers	4	T	251	
+321XXX	Excavating machinery	3	T	246	
+3221XX	Bucket, front-end, end, and pay loaders	4	T	253	
+3222XX	Skid steer loaders, mini loaders	4	T	254	
+322XXX	Loaders	3	T	252	
+3231XX	Mechanical harvesters--logging	4	T	256	
+3232XX	Forwarding and yarding machinery, except feller-forwarders	4	T	257	
+3233XX	Skidders--cable and grapple	4	T	258	
+3234XX	Chippers	4	T	259	
+3235XX	Log processing machinery	4	T	260	
+3237XX	Log loaders	4	T	262	
+323XXX	Logging and wood processing machinery--specialized	3	T	255	
+3241XX	Drilling machines, drilling augers	4	T	264	
+3242XX	Mineral sorters, separators, concentrators	4	T	265	
+3243XX	Tunneling machines	4	T	266	
+3244XX	Oil drilling rigs and machinery	4	T	267	
+324XXX	Mining and drilling machinery	3	T	263	
+3251XX	Asphalt and concrete spreaders	4	T	269	
+3252XX	Asphalt and concrete paving machines, pavers	4	T	270	
+3253XX	Rollers, compactors--construction	4	T	271	
+3254XX	Graders, scrapers--construction	4	T	272	
+3255XX	Milling machines, cold planers, and road profilers	4	T	273	
+3256XX	Road recyclers, road reclaimers	4	T	274	
+3257XX	Material transfer machines	4	T	275	
+325XXX	Road grading and surfacing machinery	3	T	268	
+3291XX	Agitators, mixers--earth, mineral	4	T	278	
+3292XX	Compactors, crushers, pulverizers--earth, mineral	4	T	279	
+3293XX	Pile drivers, tamping machinery	4	T	280	
+329XXX	Other construction, logging, and mining machinery	3	T	277	
+32XXXX	Construction, logging, and mining machinery	2	T	245	
+3311XX	Air conditioning units	4	T	283	
+3312XX	Fans, blowers--wall, floor, ceiling, ventilation	4	T	284	
+3313XX	Humidifiers, dehumidifiers, vaporizers	4	T	285	
+3314XX	Refrigerators, freezers, ice makers	4	T	286	
+331XXX	Cooling and humidifying machinery and appliances	3	T	282	
+3321XX	Beverage heating and percolating equipment and appliances	4	T	288	
+3322XX	Broiling and frying equipment and appliances	4	T	289	
+3324XX	Furnaces, heaters	4	T	291	
+3325XX	Kilns	4	T	292	
+3326XX	Ranges, cooking ovens, grills, toasters, food warmers	4	T	293	
+332XXX	Heating and cooking machinery and appliances	3	T	287	
+3332XX	Clothes dryers	4	T	297	
+3333XX	Clothes washers	4	T	298	
+3336XX	Vacuum cleaners	4	T	301	
+333XXX	Washers, dryers, and cleaning machinery and appliances	3	T	295	
+33XXXX	Heating, cooling, and cleaning machinery and appliances	2	T	281	
+3411XX	Chutes	4	T	304	
+3412XX	Conveyors--roller	4	T	305	
+341XXX	Conveyors--gravity and nonpowered	3	T	303	
+3421XX	Conveyors--belt	4	T	308	
+3422XX	Conveyors--bucket, cup	4	T	309	
+3423XX	Conveyors--chain	4	T	310	
+3424XX	Conveyors--live roller	4	T	311	
+3427XX	Conveyors--screw, auger	4	T	314	
+342XXX	Conveyors--powered	3	T	307	
+3431XX	Cranes--truck-mounted	4	T	317	
+3432XX	Cranes--rail-mounted	4	T	318	
+3433XX	Cranes--floating, barge mounted	4	T	319	
+3434XX	Cranes--other mobile cranes	4	T	320	
+3435XX	Cranes--tower, self-erecting, portal, pillar, hammerhead	4	T	321	
+3436XX	Cranes--gantry, overhead, monorail, container	4	T	322	
+3437XX	Cranes--other fixed or stationary cranes	4	T	323	
+343XXX	Cranes	3	T	316	
+3441XX	Overhead hoists--electric powered	4	T	325	
+3442XX	Overhead hoists--manual	4	T	326	
+3443XX	Overhead hoists--pneumatic powered	4	T	327	
+344XXX	Overhead hoists	3	T	324	
+345XXX	Derricks and related equipment	3	T	328	
+3461XX	Dumbwaiters	4	T	330	
+3462XX	Elevators	4	T	331	
+3463XX	Manlifts	4	T	332	
+3464XX	Automobile lifts and hoists	4	T	333	
+3465XX	Material and personnel hoists	4	T	334	
+3467XX	Aerial lifts, scissor lifts--except truck-mounted	4	T	336	
+346XXX	Elevators, hoists, aerial lifts, personnel platforms--except truck-mounted	3	T	329	
+347XXX	Jacks	3	T	337	
+3481XX	Ski lifts, gondola rides	4	T	339	
+3482XX	Nonrail amusement rides	4	T	340	
+348XXX	Ski lifts, nonrail amusement rides	3	T	338	
+3491XX	Winders, unwinders	4	T	342	
+3492XX	Banding, baling, strapping machinery	4	T	343	
+3493XX	Stacking machinery	4	T	344	
+349XXX	Other material and personnel handling machinery	3	T	341	
+34XXXX	Material and personnel handling machinery	2	T	302	
+3511XX	Bending, crimping machines	4	T	347	
+3512XX	Shearing machines	4	T	348	
+3513XX	Rolling mills, rolling, calendering machinery	4	T	349	
+351XXX	Bending, rolling, shaping machinery	3	T	346	
+3521XX	Drills--stationary	4	T	351	
+3522XX	Planing mills	4	T	352	
+3523XX	Milling machines	4	T	353	
+3524XX	Reaming machines	4	T	354	
+3525XX	Boring, routing, notching machines	4	T	355	
+352XXX	Boring, drilling, planing, milling machinery	3	T	350	
+3531XX	Casting machinery	4	T	357	
+3532XX	Extruding machinery	4	T	358	
+3533XX	Forging machinery	4	T	359	
+3534XX	Plastic injection molding machinery	4	T	360	
+353XXX	Extruding, injecting, forming, molding machinery	3	T	356	
+3541XX	Grinders, abraders	4	T	362	
+3542XX	Honing, polishing, lapping machinery	4	T	363	
+354XXX	Grinding, polishing machinery	3	T	361	
+3551XX	Metalworking lathes	4	T	365	
+3552XX	Woodworking lathes	4	T	366	
+355XXX	Lathes	3	T	364	
+3561XX	Assembly presses	4	T	368	
+3562XX	Brake presses	4	T	369	
+3563XX	Punch presses	4	T	370	
+356XXX	Presses, except printing	3	T	367	
+3571XX	Arm saws, radial arm saws	4	T	372	
+3572XX	Band saws	4	T	373	
+3573XX	Table saws	4	T	374	
+357XXX	Sawing machinery--stationary	3	T	371	
+358XXX	Threading and tapping machines	3	T	375	
+3592XX	Laser cutting machinery	4	T	378	
+3594XX	Welding machinery	4	T	380	
+359XXX	Other metal, woodworking, and special material machinery	3	T	376	
+35XXXX	Metal, woodworking, and special material machinery	2	T	345	
+3621XX	Automated teller machines	4	T	391	
+3627XX	Shredders	4	T	397	
+362XXX	Office, banking, and retail machinery	3	T	390	
+36XXXX	Office and business machinery	2	T	381	
+3713XX	Meat grinders	4	T	402	
+3714XX	Mixers, blenders, whippers--food and beverage	4	T	403	
+3716XX	Dairy and milk processing machinery--specialized	4	T	405	
+371XXX	Food and beverage processing machinery--specialized	3	T	399	
+3731XX	Bottling, canning, filling machinery	4	T	410	
+3732XX	Packaging, wrapping, bundling machinery	4	T	411	
+373XXX	Packaging, bottling, wrapping machinery	3	T	409	
+3741XX	Calenders, supercalenders--paper production	4	T	415	
+3743XX	Dryers--paper production	4	T	417	
+3744XX	Formers--paper production	4	T	418	
+3745XX	Slitters, winders--paper production	4	T	419	
+374XXX	Paper production machinery	3	T	414	
+3753XX	Presses--printing	4	T	424	
+375XXX	Printing machinery and equipment	3	T	421	
+3763XX	Picking, carding, combing machinery	4	T	429	
+3765XX	Spinning machinery	4	T	431	
+3766XX	Weaving machinery	4	T	432	
+376XXX	Textile, apparel, leather production machinery	3	T	426	
+3791XX	Centrifuges	4	T	434	
+3792XX	Distilling and rectifying machinery	4	T	435	
+3797XX	Pumps	4	T	440	
+379XXX	Other special process machinery	3	T	433	
+37XXXX	Special process machinery	2	T	398	
+3914XX	Televisions	4	T	446	
+391XXX	Audio and video equipment	3	T	442	
+392XXX	Product assembly machinery, n.e.c.	3	T	448	
+393XXX	Product testing, inspecting, and diagnostic machinery, n.e.c.	3	T	449	
+3991XX	Air compressors	4	T	451	
+3993XX	Incinerators	4	T	453	
+3995XX	Trash compactors	4	T	455	
+399XXX	Other machinery	3	T	450	
+39XXXX	Miscellaneous machinery	2	T	441	
+3XXXXX	Machinery	1	T	224	
+4111XX	Bricks and pavers	4	T	460	
+4112XX	Concrete blocks, cinder blocks	4	T	461	
+4113XX	Stone, marble, granite slabs	4	T	462	
+4114XX	Structural stones or slabs, n.e.c.	4	T	463	
+411XXX	Bricks, blocks, structural stone	3	T	459	
+4121XX	Concrete or clay pipes and conduits	4	T	465	
+4122XX	Ducts	4	T	466	
+4123XX	Metal pipes, tubing	4	T	467	
+4124XX	Pipe fittings, collars	4	T	468	
+4125XX	Plastic, PVC, or rubber pipes and tubing	4	T	469	
+412XXX	Pipes, ducts, tubing	3	T	464	
+4131XX	Angle irons	4	T	471	
+4132XX	Bars, rods, reinforcing bar (rebar)	4	T	472	
+4133XX	Beams--unattached metal	4	T	473	
+4134XX	Grates	4	T	474	
+4135XX	Metal plates, metal panels	4	T	475	
+4136XX	Rails--unattached metal	4	T	476	
+4137XX	Sheet metal	4	T	477	
+413XXX	Structural metal materials	3	T	470	
+4143XX	Roof shingles, except tile	4	T	481	
+414XXX	Tiles, shingles	3	T	478	
+4151XX	Dimensional lumber:  2x4, 2x3, etc.	4	T	484	
+4152XX	Plywood, wood paneling; particle, chip, flake board	4	T	485	
+4153XX	Wooden beams	4	T	486	
+4154XX	Wood pieces, trim pieces, wood scraps, n.e.c.	4	T	487	
+4155XX	Wooden stakes	4	T	488	
+415XXX	Wood, lumber	3	T	483	
+4191XX	Fencing and screening material, n.e.c.	4	T	490	
+4192XX	Flashing	4	T	491	
+4193XX	Glass building materials	4	T	492	
+4194XX	Gutters, downspouts	4	T	493	
+4196XX	Siding--aluminum, vinyl	4	T	495	
+4198XX	Wallboard, drywall, sheetrock	4	T	497	
+419XXX	Other building materials--solid elements	3	T	489	
+41XXXX	Building materials--solid elements	2	T	458	
+4211XX	Clamps, couplings	4	T	500	
+4212XX	Nails, brads, tacks, nuts, bolts, washers	4	T	501	
+4216XX	Spikes	4	T	505	
+421XXX	Fasteners	3	T	499	
+4221XX	Bands	4	T	508	
+4222XX	Bungee cords	4	T	509	
+4223XX	Chains, n.e.c.	4	T	510	
+4224XX	Rope, twine, string	4	T	511	
+4225XX	Strapping	4	T	512	
+4226XX	Wire, cables--nonelectrical	4	T	513	
+422XXX	Ropes, ties, chains	3	T	507	
+423XXX	Valves, nozzles	3	T	514	
+42XXXX	Fasteners, connectors, ropes, ties	2	T	498	
+432XXX	Hooks, shackles, magnets, clamshells	3	T	517	
+433XXX	Slings	3	T	518	
+43XXXX	Hoisting accessories	2	T	515	
+4411XX	Electrical wiring--building	4	T	521	
+4412XX	Generators	4	T	522	
+4413XX	Batteries other than automotive	4	T	523	
+4414XX	Motors other than vehicle	4	T	524	
+4415XX	Power lines, transformers, convertors	4	T	525	
+4417XX	Switchboards, switches, fuses	4	T	527	
+4418XX	Power cords, electrical cords, extension cords	4	T	528	
+441XXX	Electric parts	3	T	520	
+4421XX	Dies, molds, patterns	4	T	530	
+4422XX	Drives--chain, leather, fabric, vee belt	4	T	531	
+4423XX	Drums, pulleys, sheaves	4	T	532	
+4424XX	Engines, turbines, except vehicle	4	T	533	
+4426XX	Gears	4	T	535	
+4427XX	Rollers	4	T	536	
+442XXX	Machine and appliance parts	3	T	529	
+4431XX	Drill bits--unattached	4	T	538	
+4432XX	Saw blades--unattached	4	T	539	
+443XXX	Tool parts, accessories	3	T	537	
+44XXXX	Machine, tool, and electric parts	2	T	519	
+451XXX	Metal sheets, ingots, bars--nonstructural	3	T	541	
+452XXX	Molten or hot metals, slag	3	T	542	
+45XXXX	Metal materials--nonstructural	2	T	540	
+461XXX	Roofing asphalt, roofing tar	3	T	544	
+463XXX	Foam caulking, foam insulation	3	T	546	
+466XXX	Sealants, waterproofers, n.e.c.	3	T	549	
+46XXXX	Tars, sealants, caulking, insulating materials	2	T	543	
+472XXX	Tarps, plastic or fabric sheeting	3	T	552	
+473XXX	Plastic wrap	3	T	553	
+47XXXX	Tarps and sheeting--nonmetal	2	T	550	
+4813XX	Tires, except bike	4	T	559	
+4814XX	Wheels, tire rims	4	T	560	
+481XXX	Tires, inner tubes, wheels	3	T	556	
+4821XX	Battery--vehicle	4	T	562	
+4823XX	Engine, engine block, motor--vehicle	4	T	564	
+4824XX	Fan--vehicle	4	T	565	
+4827XX	Transmission--vehicle	4	T	568	
+482XXX	Engine parts and accessories	3	T	561	
+483XXX	Trailers	3	T	569	
+4852XX	Liftgates	4	T	573	
+4853XX	Tailgates	4	T	574	
+485XXX	Vehicle doors, liftgates, tailgates	3	T	571	
+48XXXX	Vehicle and mobile equipment parts	2	T	555	
+4911XX	Container caps, lids, covers	4	T	577	
+4912XX	Manhole and cistern covers	4	T	578	
+491XXX	Caps, lids, covers	3	T	576	
+49XXXX	Other parts and materials	2	T	575	
+4XXXXX	Parts and materials	1	T	457	
+511XXX	Birds and fowl	3	T	581	
+5131XX	Bees, hornets, wasps	4	T	589	
+5132XX	Spiders, scorpions	4	T	590	
+5135XX	Mosquitoes	4	T	593	
+5136XX	Ticks and mites	4	T	594	
+513XXX	Insects, arachnids, mites	3	T	588	
+5141XX	Venomous snakes	4	T	597	
+514XXX	Reptiles	3	T	596	
+5152XX	Dogs, canines--domestic	4	T	601	
+5153XX	Cattle and other bovines	4	T	602	
+5154XX	Horses and other equines	4	T	603	
+5155XX	Rodents	4	T	604	
+5156XX	Sheep, goats, and other caprids	4	T	605	
+5157XX	Swine and other porcines	4	T	606	
+5158XX	Deer and other cervids	4	T	607	
+515XXX	Mammals, except humans	3	T	599	
+51XXXX	Animals	2	T	580	
+5216XX	Animal waste products	4	T	615	
+521XXX	Animal products, nonfood	3	T	609	
+5221XX	Fats, oils, cooking greases	4	T	617	
+5225XX	Fruits, nuts, vegetables	4	T	621	
+5226XX	Grains, cereals, grain mill products	4	T	622	
+5227XX	Meat, poultry, seafood	4	T	623	
+5228XX	Multiple foods or groceries	4	T	624	
+522XXX	Food products	3	T	616	
+52XXXX	Animal and plant byproducts	2	T	608	
+531XXX	Bacteria	3	T	626	
+532XXX	Fungi	3	T	627	
+53XXXX	Infectious and parasitic agents	2	T	625	
+541XXX	Metal ores--nonradiating	3	T	631	
+54XXXX	Metallic minerals	2	T	630	
+552XXX	Boulders	3	T	638	
+554XXX	Dirt, earth	3	T	640	
+555XXX	Mud	3	T	641	
+556XXX	Rocks, crushed stone	3	T	642	
+557XXX	Sand, gravel	3	T	643	
+558XXX	Silica	3	T	644	
+55XXXX	Nonmetallic minerals, except fuel	2	T	636	
+561XXX	Bodily conditions of injured, ill worker	3	T	646	
+562XXX	Bodily motion or position of injured, ill worker	3	T	647	
+56XXXX	Person--injured or ill worker	2	T	645	
+5711XX	Spouse or domestic partner of injured or ill worker	4	T	650	
+5712XX	Immediate family member other than spouse	4	T	651	
+571XXX	Relative or domestic partner of injured or ill worker	3	T	649	
+5721XX	Co-worker	4	T	653	
+5722XX	Former co-worker	4	T	654	
+5723XX	Work associate	4	T	655	
+5724XX	Former work associate	4	T	656	
+572XXX	Co-worker or work associate of injured or ill worker	3	T	652	
+573XXX	Student	3	T	657	
+574XXX	Patient	3	T	658	
+575XXX	Other client or customer	3	T	659	
+576XXX	Acquaintance	3	T	660	
+5771XX	Robber	4	T	662	
+5772XX	Inmate or detainee in custody	4	T	663	
+5773XX	Suspect not yet apprehended	4	T	664	
+577XXX	Assailant, suspect, inmate	3	T	661	
+5781XX	Blood of other than injured or ill person	4	T	666	
+578XXX	Bodily fluids or substances of other than injured or ill person	3	T	665	
+57XXXX	Person--other than injured or ill worker	2	T	648	
+581XXX	Cash grain crops	3	T	671	
+582XXX	Field crops	3	T	672	
+586XXX	Shrubs, grasses	3	T	679	
+5871XX	Trees	4	T	681	
+5872XX	Logs	4	T	682	
+5873XX	Limbs, branches--unattached	4	T	683	
+587XXX	Trees, logs, limbs	3	T	680	
+5891XX	Grain dust	4	T	685	
+589XXX	Other plants, trees, vegetation--not processed	3	T	684	
+58XXXX	Plants, trees, vegetation--not processed	2	T	670	
+5XXXXX	Persons, plants, animals, and minerals	1	T	579	
+611XXX	Ditches, channels, trenches, excavations	3	T	688	
+6121XX	Underground mines, mine tunnels	4	T	690	
+6122XX	Sewers, manholes, storm drains	4	T	691	
+612XXX	Underground mines, caves, tunnels	3	T	689	
+613XXX	Wells, cisterns	3	T	694	
+614XXX	Pipeline interiors	3	T	695	
+615XXX	Manure pits	3	T	696	
+6171XX	Silo, grain bin interiors	4	T	699	
+6172XX	Grain elevator interiors	4	T	700	
+6173XX	Septic tank or water tank interiors	4	T	701	
+6174XX	Trash bin or dumpster interiors	4	T	702	
+6176XX	Oil storage tank interiors	4	T	704	
+6177XX	Hopper interiors	4	T	705	
+617XXX	Tank, bin, vat interiors	3	T	698	
+6181XX	Confined spaces on ships, water vessels	4	T	707	
+6182XX	Tanker truck interiors	4	T	708	
+618XXX	Confined spaces on vehicles	3	T	706	
+6191XX	Crawl spaces	4	T	710	
+619XXX	Other confined spaces	3	T	709	
+61XXXX	Confined spaces	2	T	687	
+6211XX	Warehouse	4	T	713	
+6212XX	Factory, manufacturing plant	4	T	714	
+6213XX	Offshore oil platform	4	T	715	
+621XXX	Industrial buildings	3	T	712	
+6221XX	Barn	4	T	717	
+6222XX	Silo exterior	4	T	718	
+6223XX	Grain bin exterior	4	T	719	
+622XXX	Agricultural buildings	3	T	716	
+6231XX	Restaurant, bar	4	T	721	
+6232XX	Retail establishment, store, mall	4	T	722	
+6233XX	Hotel, motel, lodging establishment	4	T	723	
+623XXX	Commercial and retail buildings	3	T	720	
+6241XX	Hospital	4	T	725	
+624XXX	Medical buildings, except institutional residential	3	T	724	
+6251XX	House, townhouse, rowhouse	4	T	729	
+6252XX	High-rise apartment building, condominium	4	T	730	
+6253XX	Low or mid-rise apartment building, condominium	4	T	731	
+6254XX	Mobile or prefabricated home	4	T	732	
+625XXX	Residential buildings, except institutionalized	3	T	728	
+6261XX	Skyscraper, high-rise--except government	4	T	734	
+6262XX	Low or mid-rise office building--except government	4	T	735	
+6263XX	Government building, post office	4	T	736	
+626XXX	Other public and office buildings	3	T	733	
+627XXX	Institutionalized residential building, except jails	3	T	737	
+62XXXX	Buildings--office, plant, residential	2	T	711	
+631XXX	Bridges, dams, locks	3	T	740	
+632XXX	Grandstands, stadia	3	T	741	
+633XXX	Pools	3	T	742	
+6341XX	Scaffolds--improvised staging	4	T	744	
+6342XX	Scaffolds--self-supporting staging	4	T	745	
+6343XX	Scaffolds--staging supported by structure or other means	4	T	746	
+6344XX	Scaffolds--suspended staging	4	T	747	
+6345XX	Machine platforms	4	T	748	
+6346XX	Catwalks	4	T	749	
+634XXX	Scaffolds, staging	3	T	743	
+6351XX	Telecommunications and cell phone towers	4	T	751	
+6352XX	Utility and telephone poles	4	T	752	
+6353XX	Lamp posts, street lights	4	T	753	
+6354XX	Windmills, wind turbines	4	T	754	
+635XXX	Towers, poles	3	T	750	
+636XXX	Excavations, strip mines, and quarries (except confined space)	3	T	755	
+6391XX	Guardrails, road dividers	4	T	757	
+6392XX	Posts, bollards, moorings	4	T	758	
+6394XX	Road signs	4	T	760	
+6395XX	Porches, balconies, decks, patios	4	T	761	
+6396XX	Railroad tracks	4	T	762	
+6397XX	Mailboxes	4	T	763	
+639XXX	Other structures	3	T	756	
+63XXXX	Structures other than buildings	2	T	739	
+641XXX	Climate control systems	3	T	765	
+643XXX	Electrical systems	3	T	767	
+64XXXX	Building systems	2	T	764	
+6511XX	Doors, except garage and vehicle	4	T	771	
+6512XX	Garage doors	4	T	772	
+651XXX	Entrances and exits	3	T	770	
+6521XX	Chain-link fences, panels	4	T	774	
+6522XX	Barbed-wire fences	4	T	775	
+6523XX	Wooden fences, panels	4	T	776	
+6524XX	Gates	4	T	777	
+652XXX	Fences, fence panels, gates	3	T	773	
+653XXX	Windows, openings	3	T	778	
+6541XX	Skylights	4	T	780	
+6542XX	Existing roof openings, other than skylights	4	T	781	
+6543XX	Roof surface, other than roof edge	4	T	782	
+6544XX	Roof edges	4	T	783	
+654XXX	Roofs	3	T	779	
+6551XX	Girders, beams, structural steel	4	T	785	
+6552XX	Roof trusses, joists	4	T	786	
+655XXX	Trusses, girders, beams--structurally attached	3	T	784	
+6561XX	Ceilings	4	T	788	
+6562XX	Walls	4	T	789	
+656XXX	Ceilings, walls	3	T	787	
+657XXX	Handrails, banisters	3	T	790	
+658XXX	Elevator shafts	3	T	791	
+65XXXX	Other structural elements	2	T	769	
+6611XX	Stairs, steps--indoors	4	T	794	
+6612XX	Stairs, steps--outdoors	4	T	795	
+661XXX	Stairs, steps, escalators	3	T	793	
+6621XX	Existing floor opening	4	T	798	
+6622XX	Floor irregularity	4	T	799	
+662XXX	Floors	3	T	797	
+6631XX	Ground irregularity	4	T	801	
+663XXX	Ground	3	T	800	
+6641XX	Sidewalk, path, or outdoor walkway irregularity	4	T	803	
+6642XX	Sidewalk, path, outdoor walkway--paved	4	T	804	
+6643XX	Sidewalk, path, outdoor walkway--unpaved	4	T	805	
+664XXX	Sidewalks, paths, outdoor walkways	3	T	802	
+6651XX	Street, road, or driveway irregularity	4	T	807	
+6652XX	Street, road, driveway--paved	4	T	808	
+6653XX	Street, road, driveway--unpaved	4	T	809	
+665XXX	Streets, roads, driveways	3	T	806	
+6661XX	Parking lot irregularity	4	T	811	
+6662XX	Parking lot--paved	4	T	812	
+6663XX	Parking lot--unpaved	4	T	813	
+666XXX	Parking lots	3	T	810	
+6671XX	Curbs	4	T	815	
+6673XX	Concrete parking blocks and barriers	4	T	817	
+6674XX	Berms	4	T	818	
+6675XX	Embankments	4	T	819	
+6676XX	Culverts, nonconfined ditches	4	T	820	
+667XXX	Curbs, traffic calming bumps, embankments	3	T	814	
+6691XX	Piers, wharfs	4	T	822	
+6692XX	Ramps, loading docks, dock plates	4	T	823	
+6694XX	Grates and drains in floor surface	4	T	825	
+6695XX	Airport runways	4	T	826	
+669XXX	Other floors, walkways, ground surfaces	3	T	821	
+66XXXX	Floors, walkways, ground surfaces	2	T	792	
+6711XX	Hills	4	T	829	
+6712XX	Mountains	4	T	830	
+671XXX	Raised natural structures, hills, mountains	3	T	828	
+6721XX	Valley	4	T	832	
+6722XX	Gorge, crevice	4	T	833	
+672XXX	Recessed natural structures, valleys	3	T	831	
+6731XX	Natural ponds	4	T	835	
+6732XX	Lakes	4	T	836	
+6733XX	Rivers, streams	4	T	837	
+6734XX	Oceans	4	T	838	
+673XXX	Water bodies--natural	3	T	834	
+67XXXX	Geographical structures	2	T	827	
+6XXXXX	Structures and surfaces	1	T	686	
+7112XX	Braces--nonpowered	4	T	843	
+711XXX	Boring handtools--nonpowered	3	T	841	
+7121XX	Axes, hatchets	4	T	846	
+7122XX	Bolt cutters--nonpowered	4	T	847	
+7124XX	Box cutters and razor knives	4	T	849	
+7125XX	Knives, unspecified or n.e.c.	4	T	850	
+7126XX	Saws--nonpowered	4	T	851	
+7127XX	Scissors, snips, shears--nonpowered	4	T	852	
+712XXX	Cutting handtools--nonpowered	3	T	845	
+7133XX	Shovels	4	T	856	
+713XXX	Digging handtools--nonpowered	3	T	853	
+7141XX	Pliers, tongs	4	T	859	
+7142XX	Vises, clamps	4	T	860	
+714XXX	Gripping handtools--nonpowered	3	T	858	
+7151XX	Hammers, except sledge--nonpowered	4	T	862	
+7152XX	Mallets	4	T	863	
+7154XX	Sledges, sledgehammers	4	T	865	
+715XXX	Striking and nailing handtools--nonpowered	3	T	861	
+7164XX	Sharpening stones and wheels--nonpowered	4	T	871	
+7165XX	Scrapers--nonpowered	4	T	872	
+716XXX	Surfacing handtools--nonpowered	3	T	867	
+7171XX	Screwdrivers--nonpowered	4	T	875	
+7173XX	Wrenches--nonpowered	4	T	877	
+717XXX	Turning handtools--nonpowered	3	T	874	
+7191XX	Brooms, mops, and other cleaning tools	4	T	879	
+7192XX	Crowbars	4	T	880	
+7193XX	Pitchforks, spading forks	4	T	881	
+719XXX	Other handtools--nonpowered	3	T	878	
+71XXXX	Handtools--nonpowered	2	T	840	
+7213XX	Drills--powered	4	T	889	
+721XXX	Boring handtools--powered	3	T	886	
+7221XX	Chainsaws--powered	4	T	892	
+7222XX	Chisels--powered	4	T	893	
+7224XX	Saws--powered, except chainsaws	4	T	895	
+7225XX	Lawn edgers, clippers, trimmers--powered	4	T	896	
+722XXX	Cutting handtools--powered	3	T	891	
+7231XX	Hammers--powered	4	T	898	
+7232XX	Jackhammers--powered	4	T	899	
+7235XX	Nail guns--powered	4	T	902	
+7236XX	Stapling tools--electric or pneumatic	4	T	903	
+723XXX	Striking and nailing handtools--powered	3	T	897	
+7241XX	Buffers, polishers, waxers--powered	4	T	905	
+7242XX	Hand grinders--powered	4	T	906	
+7243XX	Sanders--powered	4	T	907	
+7244XX	Sandblasters--powered	4	T	908	
+724XXX	Surfacing handtools--powered	3	T	904	
+7252XX	Impact wrenches--powered	4	T	911	
+7254XX	Tongs--powered	4	T	913	
+725XXX	Turning handtools--powered	3	T	909	
+7261XX	Welding, cutting, and blow torches	4	T	915	
+7262XX	Soldering irons--powered	4	T	916	
+726XXX	Welding and heating handtools--powered	3	T	914	
+7292XX	Sprayers, air guns--paint	4	T	920	
+7293XX	Power washers	4	T	921	
+729XXX	Other handtools--powered	3	T	918	
+72XXXX	Handtools--powered	2	T	885	
+7323XX	Saws--power not determined	4	T	933	
+732XXX	Cutting handtools--power not determined	3	T	930	
+7352XX	Wrenches--power not determined	4	T	941	
+735XXX	Turning handtools--power not determined	3	T	939	
+7366XX	Rulers, tape measures	4	T	948	
+736XXX	Measuring handtools	3	T	942	
+73XXXX	Handtools--power not determined	2	T	925	
+741XXX	Ladders--fixed	3	T	954	
+7421XX	Extension ladders	4	T	956	
+7422XX	Step ladders	4	T	957	
+7423XX	Straight ladders	4	T	958	
+7424XX	Truck mounted ladders, aerial ladder trams	4	T	959	
+742XXX	Movable--ladders	3	T	955	
+74XXXX	Ladders	2	T	953	
+7511XX	Needles, syringes	4	T	962	
+7512XX	Scalpels	4	T	963	
+751XXX	Medical sharps instruments	3	T	961	
+7531XX	Wheelchairs--powered	4	T	967	
+7532XX	Mobility scooters--powered	4	T	968	
+753XXX	Wheelchairs and other mobility devices	3	T	966	
+757XXX	Patient hoists, lifting harnesses	3	T	973	
+75XXXX	Medical and surgical instruments and equipment	2	T	960	
+7613XX	Projectors--still and motion picture	4	T	978	
+761XXX	Photographic equipment	3	T	975	
+7621XX	Pens and pencils	4	T	982	
+762XXX	Writing, drawing, and art supplies	3	T	981	
+7631XX	Balls, pucks	4	T	987	
+7632XX	Baseball bats, hockey sticks, rackets	4	T	988	
+7633XX	Gymnasium and exercise equipment	4	T	989	
+7635XX	Playground equipment	4	T	991	
+7637XX	Snow sports equipment	4	T	993	
+7638XX	Water sports equipment	4	T	994	
+763XXX	Recreation and athletic equipment	3	T	986	
+76XXXX	Photographic, athletic, and recreational equipment	2	T	974	
+775XXX	Lifelines, lanyards, safety belts, harnesses	3	T	1000	
+776XXX	Respirators	3	T	1001	
+77XXXX	Protective equipment, except clothing	2	T	995	
+7811XX	Pistol, handgun, revolver	4	T	1005	
+7812XX	Rifle, shotgun	4	T	1006	
+7813XX	Explosive devices	4	T	1007	
+781XXX	Firearms	3	T	1004	
+782XXX	Ammunition	3	T	1008	
+7833XX	Tear gas, mace, pepper spray	4	T	1012	
+783XXX	Other law enforcement and self-defense equipment	3	T	1009	
+78XXXX	Firearms, law enforcement, and other self-defense equipment	2	T	1003	
+793XXX	Musical instruments	3	T	1018	
+7952XX	Commercial fishing equipment	4	T	1025	
+795XXX	Fishing equipment	3	T	1023	
+79XXXX	Other tools, instruments, and equipment	2	T	1015	
+7XXXXX	Tools, instruments, and equipment	1	T	839	
+8111XX	Airplane--jet or  turbine engine	4	T	1029	
+8112XX	Airplane--propeller-driven or piston engine	4	T	1030	
+811XXX	Airplanes--powered fixed wing	3	T	1028	
+8121XX	Helicopter	4	T	1032	
+812XXX	Aircraft--powered rotary wing	3	T	1031	
+8131XX	Glider, hang glider--nonpowered	4	T	1034	
+8132XX	Parachute	4	T	1035	
+813XXX	Aircraft--nonpowered	3	T	1033	
+81XXXX	Aircraft	2	T	1027	
+821XXX	Amusement park rail vehicle	3	T	1037	
+822XXX	Streetcar, trolley, cable car, light rail	3	T	1038	
+823XXX	Subway, elevated train	3	T	1039	
+8241XX	Freight train	4	T	1041	
+8242XX	Passenger train, heavy rail	4	T	1042	
+8243XX	Locomotive--unattached to rail car(s)	4	T	1043	
+8244XX	Rail car(s)--unattached to locomotive	4	T	1044	
+824XXX	Train, locomotive, rail car	3	T	1040	
+825XXX	Rail-mounted construction, cleaning, maintenance machine	3	T	1045	
+826XXX	Industrial, mining rail vehicle	3	T	1046	
+82XXXX	Rail vehicles	2	T	1036	
+831XXX	Barge	3	T	1048	
+832XXX	Commercial fishing vessel	3	T	1049	
+833XXX	Tugboat, towboat	3	T	1050	
+834XXX	Cargo ship, freighter, passenger liner, ship, excluding sail-powered	3	T	1051	
+835XXX	Motorboat, motorized yacht	3	T	1052	
+836XXX	Sailboat	3	T	1053	
+837XXX	Rowboat, kayak, canoe	3	T	1054	
+838XXX	Raft, floating dock	3	T	1055	
+83XXXX	Water vehicle	2	T	1047	
+8411XX	Ambulance, police, and other emergency passenger vehicle	4	T	1058	
+8412XX	Taxi	4	T	1059	
+8413XX	Automobile	4	T	1060	
+8414XX	Bus	4	T	1061	
+8415XX	Passenger van	4	T	1062	
+8416XX	Motorcycle, moped, dirt bike	4	T	1063	
+8417XX	Motor home, RV	4	T	1064	
+841XXX	Passenger vehicle--automobiles, buses, and passenger vans	3	T	1057	
+8421XX	Semi, tractor-trailer, tanker truck	4	T	1066	
+8422XX	Boom truck, bucket or basket hoist truck	4	T	1067	
+8423XX	Dump truck	4	T	1068	
+8424XX	Garbage, recycling, or refuse truck	4	T	1069	
+8425XX	Fire truck, other emergency equipment truck	4	T	1070	
+8426XX	Delivery truck or van	4	T	1071	
+8427XX	Cement truck, concrete mixer truck	4	T	1072	
+8428XX	Tow truck	4	T	1073	
+842XXX	Trucks--motorized freight hauling and utility	3	T	1065	
+8431XX	Pickup truck	4	T	1075	
+8432XX	SUV, sports utility vehicle	4	T	1076	
+843XXX	Multi-purpose highway vehicles	3	T	1074	
+84XXXX	Highway vehicles, motorized	2	T	1056	
+851XXX	Bicycle, pedal cycle	3	T	1078	
+852XXX	Horse-drawn carriage, buggy	3	T	1079	
+853XXX	Animal-powered wagon	3	T	1080	
+85XXXX	Animal- and human-powered vehicles	2	T	1077	
+8611XX	ATV, all terrain vehicle	4	T	1083	
+8612XX	Golf cart, personnel transport cart	4	T	1084	
+8613XX	Racecar	4	T	1085	
+8614XX	Snowmobile	4	T	1086	
+861XXX	Off-road passenger vehicles--powered	3	T	1082	
+8621XX	Forklift, order picker, platform truck--powered	4	T	1088	
+8622XX	Powered industrial carrier	4	T	1089	
+8623XX	Pallet jack--powered	4	T	1090	
+8624XX	Airport utility vehicle--powered	4	T	1091	
+862XXX	Industrial vehicles, material hauling and transport--powered	3	T	1087	
+8631XX	Farm tractor	4	T	1093	
+8632XX	Construction tractor	4	T	1094	
+8633XX	Industrial tractor	4	T	1095	
+8634XX	Power take-off (PTO)	4	T	1096	
+863XXX	Tractors, PTOs	3	T	1092	
+86XXXX	Off-road or industrial vehicles--powered	2	T	1081	
+871XXX	Cart, dolly, hand truck--nonpowered	3	T	1098	
+872XXX	Pallet jack--nonpowered	3	T	1099	
+873XXX	Wagon	3	T	1100	
+874XXX	Wheelbarrow	3	T	1101	
+875XXX	Shopping cart, grocery carriage--nonpowered	3	T	1102	
+87XXXX	Plant and industrial vehicles--nonpowered	2	T	1097	
+891XXX	Armored personnel carrier	3	T	1104	
+892XXX	Tank	3	T	1105	
+893XXX	Humvee	3	T	1106	
+894XXX	Street sweeping and cleaning machinery	3	T	1107	
+89XXXX	Other vehicles	2	T	1103	
+8XXXXX	Vehicles	1	T	1026	
+9111XX	Belts, gloves, neckties, scarves	4	T	1111	
+9112XX	Blouses, shirts, dresses, trousers, skirts	4	T	1112	
+9115XX	Suits, coats, jackets	4	T	1115	
+911XXX	Clothing and shoes	3	T	1110	
+9131XX	Fabric	4	T	1121	
+913XXX	Textiles	3	T	1120	
+915XXX	Sheets, towels, linens, bedding	3	T	1124	
+91XXXX	Apparel and textiles	2	T	1109	
+9213XX	Pressurized air--blast	4	T	1129	
+921XXX	Air pressure	3	T	1126	
+922XXX	Avalanche, mudslide	3	T	1130	
+9241XX	Fire, flame	4	T	1133	
+9248XX	Multiple fire, flame, smoke	4	T	1135	
+924XXX	Fire, flame, smoke	3	T	1132	
+9251XX	Flooding	4	T	1137	
+9252XX	Waves, surges, rough seas	4	T	1138	
+9253XX	Water pressure--high or low	4	T	1139	
+9254XX	Pressurized water--blast	4	T	1140	
+925XXX	Flooding and other water sources	3	T	1136	
+9261XX	Cold--environmental	4	T	1142	
+9262XX	Heat--environmental	4	T	1143	
+926XXX	Temperature extremes--environmental	3	T	1141	
+9271XX	Fog	4	T	1145	
+9272XX	High winds, gusts, turbulence	4	T	1146	
+9273XX	Ice, sleet, snow	4	T	1147	
+9274XX	Lightning	4	T	1148	
+9275XX	Rain	4	T	1149	
+9277XX	Tornado, hurricane, typhoon	4	T	1151	
+9278XX	Multiple weather and atmospheric conditions	4	T	1152	
+927XXX	Weather and atmospheric conditions	3	T	1144	
+9292XX	Sun	4	T	1155	
+9293XX	Welders? flash	4	T	1156	
+9297XX	Oxygen-deficient environment	4	T	1160	
+929XXX	Other environmental and elemental conditions	3	T	1153	
+92XXXX	Environmental and elemental conditions	2	T	1125	
+931XXX	Books, notebooks, magazines, catalogues	3	T	1162	
+932XXX	Paper, sheets	3	T	1163	
+93XXXX	Paper, books, magazines	2	T	1161	
+9411XX	Dirt particles and dust from dirt, debris	4	T	1167	
+9412XX	Broken glass, glass chips, or fibers	4	T	1168	
+9413XX	Metal chips, particles	4	T	1169	
+9414XX	Wood chips, sawdust	4	T	1170	
+941XXX	Chips, particles, splinters	3	T	1166	
+942XXX	Sewage	3	T	1173	
+943XXX	Construction debris	3	T	1174	
+944XXX	Trash, garbage	3	T	1175	
+945XXX	Scrap metal	3	T	1176	
+94XXXX	Scrap, waste, debris	2	T	1165	
+951XXX	Steam, vapors--nonchemical	3	T	1178	
+9521XX	Water	4	T	1180	
+952XXX	Liquids--nonchemical	3	T	1179	
+953XXX	Ice--blocks, cubes, crushed	3	T	1181	
+959XXX	Steam, vapor, liquids, ice, n.e.c.	3	T	1182	
+95XXXX	Other steam, vapors, liquids, ice	2	T	1177	
+9XXXXX	Other sources	1	T	1108	

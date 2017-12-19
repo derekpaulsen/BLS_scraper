@@ -1,0 +1,894 @@
+division_code	industry_code	industry_name
+
+00	0000	Private industry	0 	T	1    
+09	0000	Agriculture, forestry, and fishing	1 	T	2    
+09	0001	Agricultural production	2 	T	3    
+09	0100	Agricultural production - crops	3 	T	4    
+09	0110	Cash grains	4 	T	5    
+09	0130	Field crops, except cash grains	4 	T	6    
+09	0160	Vegetables and melons	4 	T	7    
+09	0170	Fruits and tree nuts	4 	T	8    
+09	0180	Horticultural specialties	4 	T	9    
+09	0190	General farms, primarily crop	4 	T	10   
+09	0200	Agricultural production - livestock	3 	T	11   
+09	0210	Livestock, except dairy and poultry	4 	T	12   
+09	0240	Dairy farms	4 	T	13   
+09	0250	Poultry and eggs	4 	T	14   
+09	0270	Animal specialties	4 	T	15   
+09	0290	General farms, primarily animal	4 	T	16   
+09	0700	Agricultural services	3 	T	17   
+09	0710	Soil preparation services	4 	T	18   
+09	0720	Crop services	4 	T	19   
+09	0740	Veterinary services	4 	T	20   
+09	0750	Animal services, except veterinary	4 	T	21   
+09	0760	Farm labor and management services	4 	T	22   
+09	0780	Landscape and horticultural services	4 	T	23   
+09	0800	Forestry	3 	T	24   
+09	0810	Timber tracts	4 	T	25   
+09	0830	Forest products	4 	T	26   
+09	0850	Forestry services	4 	T	27   
+09	0900	Fishing, hunting, and trapping	3 	T	28   
+09	0910	Commercial fishing	4 	T	29   
+09	0920	Fish hatcheries and preserves	4 	T	30   
+09	0970	Hunting, trapping, game propagation	4 	T	31   
+10	0000	Mining	1 	T	32   
+10	1000	Metal mining	3 	T	33   
+10	1010	Iron ores	4 	T	34   
+10	1020	Copper ores	4 	T	35   
+10	1030	Lead and zinc ores	4 	T	36   
+10	1040	Gold and silver ores	4 	T	37   
+10	1060	Ferroalloy ores, except vanadium	4 	T	38   
+10	1080	Metal mining services	4 	T	39   
+10	1090	Miscellaneous metal ores	4 	T	40   
+10	1200	Coal mining	3 	T	41   
+10	1220	Bituminous coal and lignite mining	4 	T	42   
+10	1230	Anthracite mining	4 	T	43   
+10	1240	Coal mining services	4 	T	44   
+10	1300	Oil and gas extraction	3 	T	45   
+10	1310	Crude petroleum and natural gas	4 	T	46   
+10	1320	Natural gas liquids	4 	T	47   
+10	1380	Oil and gas field services	4 	T	48   
+10	1400	Nonmetallic minerals, except fuels	3 	T	49   
+10	1410	Dimension stone	4 	T	50   
+10	1420	Crushed and broken stone	4 	T	51   
+10	1440	Sand and gravel	4 	T	52   
+10	1450	Clay, ceramic, and refractory minerals	4 	T	53   
+10	1470	Chemical and fertilizer minerals	4 	T	54   
+10	1480	Nonmetallic minerals services	4 	T	55   
+10	1490	Miscelaneous nonmetallic minerals	4 	T	56   
+20	0000	Construction	1 	T	57   
+20	1500	General building contractors	3 	T	58   
+20	1520	Residential building construction	4 	T	59   
+20	1530	Operative builders	4 	T	60   
+20	1540	Nonresidential building construction	4 	T	61   
+20	1600	Heavy construction, except building	3 	T	62   
+20	1610	Highway and street construction	4 	T	63   
+20	1620	Heavy construction, except highway	4 	T	64   
+20	1700	Special trade contractors	3 	T	65   
+20	1710	Plumbing, heating, air-conditioning	4 	T	66   
+20	1720	Painting and paper hanging	4 	T	67   
+20	1730	Electrical work	4 	T	68   
+20	1740	Masonry, stonework, and plastering	4 	T	69   
+20	1750	Carpentry and floor work	4 	T	70   
+20	1760	Roofing, siding, and sheet metal work	4 	T	71   
+20	1770	Concrete work	4 	T	72   
+20	1780	Water well drilling	4 	T	73   
+20	1790	Miscellaneous special trade contractors	4 	T	74   
+30	0000	Manufacturing	1 	T	75   
+30	0001	Durable goods	2 	T	76   
+30	0002	Nondurable goods	2 	T	406  
+30	2000	Food and kindred products	3 	T	407  
+30	2010	Meat products	4 	T	408  
+30	2011	Meat packing plants	5 	T	409  
+30	2013	Sausages and other prepared meats	5 	T	410  
+30	2015	Poultry slaughtering and processing	5 	T	411  
+30	2020	Dairy products	4 	T	412  
+30	2021	Creamery butter	5 	T	413  
+30	2022	Cheese, natural and processed	5 	T	414  
+30	2023	Dry, condensed, evaporated products	5 	T	415  
+30	2024	Ice cream and frozen desserts	5 	T	416  
+30	2026	Fluid milk	5 	T	417  
+30	2030	Preserved fruits and vegetables	4 	T	418  
+30	2032	Canned specialities	5 	T	419  
+30	2033	Canned fruits and vegetables	5 	T	420  
+30	2034	Dehydrated fruits, vegetables, soups	5 	T	421  
+30	2035	Pickles, sauces, and salad dressings	5 	T	422  
+30	2037	Frozen fruits and vegetables	5 	T	423  
+30	2038	Frozen specialities, n.e.c.	5 	T	424  
+30	2040	Grain mill products	4 	T	425  
+30	2041	Flour and other grain mill products	5 	T	426  
+30	2043	Cereal breakfast foods	5 	T	427  
+30	2044	Rice milling	5 	T	428  
+30	2045	Prepared flour mixes and doughs	5 	T	429  
+30	2046	Wet corn milling	5 	T	430  
+30	2047	Dog and cat food	5 	T	431  
+30	2048	Prepared feeds, n.e.c.	5 	T	432  
+30	2050	Bakery products	4 	T	433  
+30	2051	Bread, cake, and related products	5 	T	434  
+30	2052	Cookies and crackers	5 	T	435  
+30	2053	Frozen bakery products, except bread	5 	T	436  
+30	2060	Sugar and confectionery products	4 	T	437  
+30	2061	Raw cane sugar	5 	T	438  
+30	2062	Cane sugar refining	5 	T	439  
+30	2063	Beet sugar	5 	T	440  
+30	2064	Candy and other confectionery products	5 	T	441  
+30	2066	Chocolate and cocoa products	5 	T	442  
+30	2067	Chewing gum	5 	T	443  
+30	2068	Salted and roasted nuts and seeds	5 	T	444  
+30	2070	Fats and oils	4 	T	445  
+30	2074	Cottonseed oil mills	5 	T	446  
+30	2075	Soybean oil mills	5 	T	447  
+30	2076	Vegetable oil mills, n.e.c.	5 	T	448  
+30	2077	Animal and marine fats and oils	5 	T	449  
+30	2079	Edible fats and oils, n.e.c.	5 	T	450  
+30	2080	Beverages	4 	T	451  
+30	2082	Malt beverages	5 	T	452  
+30	2083	Malt	5 	T	453  
+30	2084	Wines, brandy, and brandy spirits	5 	T	454  
+30	2085	Distilled and blended liquors	5 	T	455  
+30	2086	Bottled and canned soft drinks	5 	T	456  
+30	2087	Flavoring extracts and syrups, n.e.c.	5 	T	457  
+30	2090	Miscellaneous food and kindred products	4 	T	458  
+30	2091	Canned and cured fish and seafoods	5 	T	459  
+30	2092	Fresh or frozen prepared fish	5 	T	460  
+30	2095	Roasted coffee	5 	T	461  
+30	2096	Potato chips and similar snacks	5 	T	462  
+30	2097	Manufactured ice	5 	T	463  
+30	2098	Macaroni and spaghetti	5 	T	464  
+30	2099	Food preparations, n.e.c.	5 	T	465  
+30	2100	Tobacco products	3 	T	466  
+30	2110	Cigarettes	4 	T	467  
+30	2120	Cigars	4 	T	468  
+30	2130	Chewing and smoking tobacco	4 	T	469  
+30	2140	Tobacco stemming and redrying	4 	T	470  
+30	2200	Textile mill products	3 	T	471  
+30	2210	Broadwoven fabric mills, cotton	4 	T	472  
+30	2220	Broadwoven fabric mills, manmade	4 	T	473  
+30	2230	Broadwoven fabric mills, wool	4 	T	474  
+30	2240	Narrow fabric mills	4 	T	475  
+30	2250	Knitting mills	4 	T	476  
+30	2251	Women's hosiery, except socks	5 	T	477  
+30	2252	Hosiery, n.e.c.	5 	T	478  
+30	2253	Knit outerwear mills	5 	T	479  
+30	2254	Knit underwear mills	5 	T	480  
+30	2257	Weft knit fabric mills	5 	T	481  
+30	2258	Lace and warp knit fabric mills	5 	T	482  
+30	2259	Knitting mills, n.e.c.	5 	T	483  
+30	2260	Textile finishing, except wool	4 	T	484  
+30	2261	Finishing plants, cotton	5 	T	485  
+30	2262	Finishing plants, manmade	5 	T	486  
+30	2269	Finishing plants, n.e.c.	5 	T	487  
+30	2270	Carpets and rugs	4 	T	488  
+30	2280	Yarn and thread mills	4 	T	489  
+30	2281	Yarn spinning mills	5 	T	490  
+30	2282	Throwing and winding mills	5 	T	491  
+30	2284	Thread mills	5 	T	492  
+30	2290	Miscellaneous textile goods	4 	T	493  
+30	2295	Coated fabrics, not rubberized	5 	T	494  
+30	2296	Tire cord and fabrics	5 	T	495  
+30	2297	Nonwoven fabrics	5 	T	496  
+30	2298	Cordage and twine	5 	T	497  
+30	2299	Textile goods, n.e.c.	5 	T	498  
+30	2300	Apparel and other textile products	3 	T	499  
+30	2310	Men's and boys' suits and coats	4 	T	500  
+30	2320	Men's and boys' furnishings	4 	T	501  
+30	2321	Men's and boys' shirts	5 	T	502  
+30	2322	Men's and boys' underwear and nightwear	5 	T	503  
+30	2323	Men's and boys' neckwear	5 	T	504  
+30	2325	Men's and boys' trousers and slacks	5 	T	505  
+30	2326	Men's and boys' work clothing	5 	T	506  
+30	2329	Men's and boys' clothing, n.e.c.	5 	T	507  
+30	2330	Women's and misses' outerwear	4 	T	508  
+30	2331	Women's and misses' blouses and shirts	5 	T	509  
+30	2335	Women's, junior's, and misses' dresses	5 	T	510  
+30	2337	Women's and misses' suits and coats	5 	T	511  
+30	2339	Women's and misses' outerwear, n.e.c.	5 	T	512  
+30	2340	Women's and children's undergarments	4 	T	513  
+30	2341	Women's and children's underwear	5 	T	514  
+30	2342	Bras, girdles, and allied garments	5 	T	515  
+30	2350	Hats, caps, and millinery	4 	T	516  
+30	2360	Girls' and children's outerwear	4 	T	517  
+30	2361	Girls' and children's dresses, blouses	5 	T	518  
+30	2369	Girls' and children's outerwear, n.e.c.	5 	T	519  
+30	2370	Fur goods	4 	T	520  
+30	2380	Miscellaneous apparel and accessories	4 	T	521  
+30	2381	Fabric dress and work gloves	5 	T	522  
+30	2384	Robes and dressing gowns	5 	T	523  
+30	2385	Waterproof outerwear	5 	T	524  
+30	2386	Leather and sheep-lined clothing	5 	T	525  
+30	2387	Apparel belts	5 	T	526  
+30	2389	Apparel and accessories, n.e.c.	5 	T	527  
+30	2390	Miscellaneous fabricated textile product	4 	T	528  
+30	2391	Curtains and draperies	5 	T	529  
+30	2392	Housefurnishings, n.e.c.	5 	T	530  
+30	2393	Textile bags	5 	T	531  
+30	2394	Canvas and related products	5 	T	532  
+30	2395	Pleating and stitching	5 	T	533  
+30	2396	Automotive and apparel trimmings	5 	T	534  
+30	2397	Schiffli machine embroideries	5 	T	535  
+30	2399	Fabricated textile products, n.e.c.	5 	T	536  
+30	2400	Lumber and wood products	3 	T	77   
+30	2410	Logging	4 	T	78   
+30	2420	Sawmills and planing mills	4 	T	79   
+30	2421	Sawmills and planing mills, general	5 	T	80   
+30	2426	Hardwood dimension and flooring mills	5 	T	81   
+30	2429	Special product sawmills, n.e.c.	5 	T	82   
+30	2430	Millwork, plywood and structural members	4 	T	83   
+30	2431	Millwork	5 	T	84   
+30	2434	Wood kitchen cabinets	5 	T	85   
+30	2435	Hardwood veneer and plywood	5 	T	86   
+30	2436	Softwood veneer and plywood	5 	T	87   
+30	2439	Structural wood members, n.e.c.	5 	T	88   
+30	2440	Wood containers	4 	T	89   
+30	2441	Nailed wood boxes and shook	5 	T	90   
+30	2448	Wood pallets and skids	5 	T	91   
+30	2449	Wood containers, n.e.c.	5 	T	92   
+30	2450	Wood buildings and mobile homes	4 	T	93   
+30	2451	Mobile homes	5 	T	94   
+30	2452	Prefabricated wood buildings	5 	T	95   
+30	2490	Miscellaneous wood products	4 	T	96   
+30	2491	Wood preserving	5 	T	97   
+30	2493	Reconstituted wood products	5 	T	98   
+30	2499	Wood products, n.e.c.	5 	T	99   
+30	2500	Furniture and fixtures	3 	T	100  
+30	2510	Household furniture	4 	T	101  
+30	2511	Wood household furniture	5 	T	102  
+30	2512	Upholstered household furniture	5 	T	103  
+30	2514	Metal household furniture	5 	T	104  
+30	2515	Mattresses and bedsprings	5 	T	105  
+30	2517	Wood television and radio cabinets	5 	T	106  
+30	2519	Household furniture, n.e.c.	5 	T	107  
+30	2520	Office furniture	4 	T	108  
+30	2521	Wood office furniture	5 	T	109  
+30	2522	Office furniture, except wood	5 	T	110  
+30	2530	Public building and related furniture	4 	T	111  
+30	2540	Partitions and fixtures	4 	T	112  
+30	2541	Wood partitions and fixtures	5 	T	113  
+30	2542	Partitions and fixtures, except wood	5 	T	114  
+30	2590	Miscellaneous furniture and fixtures	4 	T	115  
+30	2591	Drapery hardware and blinds and shades	5 	T	116  
+30	2599	Furniture and fixtures, n.e.c.	5 	T	117  
+30	2600	Paper and allied products	3 	T	537  
+30	2610	Pulp mills	4 	T	538  
+30	2620	Paper mills	4 	T	539  
+30	2630	Paperboard mills	4 	T	540  
+30	2650	Paperboard containers and boxes	4 	T	541  
+30	2652	Setup paperboard boxes	5 	T	542  
+30	2653	Corrugated and solid fiber boxes	5 	T	543  
+30	2655	Fiber cans, drums and similar products	5 	T	544  
+30	2656	Sanitary food containers	5 	T	545  
+30	2657	Folding paperboard boxes	5 	T	546  
+30	2670	Miscellaneous converted paper products	4 	T	547  
+30	2671	Paper coated and laminated, packaging	5 	T	548  
+30	2672	Paper coated and laminated, n.e.c.	5 	T	549  
+30	2673	Bags: plastics, laminated, and coated	5 	T	550  
+30	2674	Bags: uncoated paper and multiwall	5 	T	551  
+30	2675	Die-cut paper and board	5 	T	552  
+30	2676	Sanitary paper products	5 	T	553  
+30	2677	Envelopes	5 	T	554  
+30	2678	Stationery products	5 	T	555  
+30	2679	Converted paper products, n.e.c.	5 	T	556  
+30	2700	Printing and publishing	3 	T	557  
+30	2710	Newspapers	4 	T	558  
+30	2720	Periodicals	4 	T	559  
+30	2730	Books	4 	T	560  
+30	2731	Book publishing	5 	T	561  
+30	2732	Book printing	5 	T	562  
+30	2740	Miscellaneous publishing	4 	T	563  
+30	2750	Commercial printing	4 	T	564  
+30	2752	Commercial printing, lithographic	5 	T	565  
+30	2754	Commercial printing, gravure	5 	T	566  
+30	2759	Commercial printing, n.e.c.	5 	T	567  
+30	2760	Manifold business forms	4 	T	568  
+30	2770	Greeting cards	4 	T	569  
+30	2780	Blankbooks and bookbinding	4 	T	570  
+30	2782	Blankbooks and looseleaf binders	5 	T	571  
+30	2789	Bookbinding and related work	5 	T	572  
+30	2790	Printing trade services	4 	T	573  
+30	2791	Typesetting	5 	T	574  
+30	2796	Platemaking services	5 	T	575  
+30	2800	Chemicals and allied products	3 	T	576  
+30	2810	Industrial inorganic chemicals	4 	T	577  
+30	2812	Alkalies and chlorine	5 	T	578  
+30	2813	Industrial gases	5 	T	579  
+30	2816	Inorganic pigments	5 	T	580  
+30	2819	Industrial inorganic chemicals, n.e.c.	5 	T	581  
+30	2820	Plastics materials and synthetics	4 	T	582  
+30	2821	Plastics materials and resins	5 	T	583  
+30	2822	Synthetic rubber	5 	T	584  
+30	2823	Cellulosic manmade fibers	5 	T	585  
+30	2824	Organic fibers, noncellulosic	5 	T	586  
+30	2830	Drugs	4 	T	587  
+30	2833	Medicinals and botanicals	5 	T	588  
+30	2834	Pharmaceutical preparations	5 	T	589  
+30	2835	Diagnostic substances	5 	T	590  
+30	2836	Biological products except diagnostic	5 	T	591  
+30	2840	Soap, cleaners, and toilet goods	4 	T	592  
+30	2841	Soap and other detergents	5 	T	593  
+30	2842	Polishes and sanitation goods	5 	T	594  
+30	2843	Surface active agents	5 	T	595  
+30	2844	Toilet preparations	5 	T	596  
+30	2850	Paints and allied products	4 	T	597  
+30	2860	Industrial organic chemicals	4 	T	598  
+30	2861	Gum and wood chemicals	5 	T	599  
+30	2865	Cyclic crudes and intermediates	5 	T	600  
+30	2869	Industrial organic chemicals, n.e.c.	5 	T	601  
+30	2870	Agricultural chemicals	4 	T	602  
+30	2873	Nitrogenous fertilizers	5 	T	603  
+30	2874	Phosphatic fertilizers	5 	T	604  
+30	2875	Fertilizers, mixing only	5 	T	605  
+30	2879	Agricultural chemicals, n.e.c.	5 	T	606  
+30	2890	Miscellaneous chemical products	4 	T	607  
+30	2891	Adhesives and sealants	5 	T	608  
+30	2892	Explosives	5 	T	609  
+30	2893	Printing ink	5 	T	610  
+30	2895	Carbon black	5 	T	611  
+30	2899	Chemical preparations, n.e.c.	5 	T	612  
+30	2900	Petroleum and coal products	3 	T	613  
+30	2910	Petroleum refining	4 	T	614  
+30	2950	Asphalt paving and roofing materials	4 	T	615  
+30	2951	Asphalt paving mixtures and blocks	5 	T	616  
+30	2952	Asphalt felts and coatings	5 	T	617  
+30	2990	Misc. petroleum and coal products	4 	T	618  
+30	2992	Lubricating oils and greases	5 	T	619  
+30	2999	Petroleum and coal products, n.e.c.	5 	T	620  
+30	3000	Rubber and misc. plastics products	3 	T	621  
+30	3010	Tires and inner tubes	4 	T	622  
+30	3020	Rubber and plastics footwear	4 	T	623  
+30	3050	Hose and belting and gaskets and packing	4 	T	624  
+30	3052	Rubber and plastics hose and belting	5 	T	625  
+30	3053	Gaskets, packing and sealing devices	5 	T	626  
+30	3060	Fabricated rubber products, n.e.c.	4 	T	627  
+30	3061	Mechanical rubber goods	5 	T	628  
+30	3069	Fabricated rubber products, n.e.c.	5 	T	629  
+30	3080	Miscellaneous plastics products, n.e.c.	4 	T	630  
+30	3081	Unsupported plastics film and sheet	5 	T	631  
+30	3082	Unsupported plastics profile shapes	5 	T	632  
+30	3083	Laminated plastics plate and sheet	5 	T	633  
+30	3084	Plastics pipe	5 	T	634  
+30	3085	Plastics bottles	5 	T	635  
+30	3086	Plastics foam products	5 	T	636  
+30	3087	Custom compound purchased resins	5 	T	637  
+30	3088	Plastics plumbing fixtures	5 	T	638  
+30	3089	Plastics products, n.e.c.	5 	T	639  
+30	3100	Leather and leather products	3 	T	640  
+30	3110	Leather tanning and finishing	4 	T	641  
+30	3130	Footwear cut stock	4 	T	642  
+30	3140	Footwear, except rubber	4 	T	643  
+30	3142	House slippers	5 	T	644  
+30	3143	Men's footwear, except athletic	5 	T	645  
+30	3144	Women's footwear, except athletic	5 	T	646  
+30	3149	Footwear, except rubber, n.e.c.	5 	T	647  
+30	3150	Leather gloves and mittens	4 	T	648  
+30	3160	Luggage	4 	T	649  
+30	3170	Handbags and personal leather goods	4 	T	650  
+30	3171	Women's handbags and purses	5 	T	651  
+30	3172	Personal leather goods, n.e.c.	5 	T	652  
+30	3190	Leather goods, n.e.c.	4 	T	653  
+30	3200	Stone, clay, and glass products	3 	T	118  
+30	3210	Flat glass	4 	T	119  
+30	3220	Glass and glassware, pressed or blown	4 	T	120  
+30	3221	Glass containers	5 	T	121  
+30	3229	Pressed and blown glass, n.e.c.	5 	T	122  
+30	3230	Products of purchased glass	4 	T	123  
+30	3240	Cement, hydraulic	4 	T	124  
+30	3250	Structural clay products	4 	T	125  
+30	3251	Brick and structural clay tile	5 	T	126  
+30	3253	Ceramic wall and floor tile	5 	T	127  
+30	3255	Clay refractories	5 	T	128  
+30	3259	Structural clay products, n.e.c.	5 	T	129  
+30	3260	Pottery and related products	4 	T	130  
+30	3261	Vitreous plumbing fixtures	5 	T	131  
+30	3262	Vitreous china table and kitchenware	5 	T	132  
+30	3263	Semivitreous table and kitchenware	5 	T	133  
+30	3264	Porcelain electrical supplies	5 	T	134  
+30	3269	Pottery products, n.e.c.	5 	T	135  
+30	3270	Concrete, gypsum, and plaster products	4 	T	136  
+30	3271	Concrete block and brick	5 	T	137  
+30	3272	Concrete products, n.e.c.	5 	T	138  
+30	3273	Ready-mixed concrete	5 	T	139  
+30	3274	Lime	5 	T	140  
+30	3275	Gypsum products	5 	T	141  
+30	3280	Cut stone and stone products	4 	T	142  
+30	3290	Misc. nonmetallic mineral products	4 	T	143  
+30	3291	Abrasive products	5 	T	144  
+30	3292	Asbestos products	5 	T	145  
+30	3295	Minerals, ground or treated	5 	T	146  
+30	3296	Mineral wool	5 	T	147  
+30	3297	Nonclay refractories	5 	T	148  
+30	3299	Nonmetallic mineral products, n.e.c.	5 	T	149  
+30	3300	Primary metal industries	3 	T	150  
+30	3310	Blast furnace and basic steel products	4 	T	151  
+30	3312	Blast furnaces and steel mills	5 	T	152  
+30	3313	Electrometallurgical products	5 	T	153  
+30	3315	Steel wire and related products	5 	T	154  
+30	3316	Cold finishing of steel shapes	5 	T	155  
+30	3317	Steel pipe and tubes	5 	T	156  
+30	3320	Iron and steel foundries	4 	T	157  
+30	3321	Gray and ductile iron foundries	5 	T	158  
+30	3322	Malleable iron foundries	5 	T	159  
+30	3324	Steel investment foundries	5 	T	160  
+30	3325	Steel foundries, n.e.c.	5 	T	161  
+30	3330	Primary nonferrous metals	4 	T	162  
+30	3331	Primary copper	5 	T	163  
+30	3334	Primary aluminum	5 	T	164  
+30	3339	Primary nonferrous metals, n.e.c.	5 	T	165  
+30	3340	Secondary nonferrous metals	4 	T	166  
+30	3350	Nonferrous rolling and drawing	4 	T	167  
+30	3351	Copper rolling and drawing	5 	T	168  
+30	3353	Aluminum sheet, plate, and foil	5 	T	169  
+30	3354	Aluminum extruded products	5 	T	170  
+30	3355	Aluminum rolling and drawing, n.e.c.	5 	T	171  
+30	3356	Nonferrous rolling and drawing, n.e.c.	5 	T	172  
+30	3357	Nonferrous wiredrawing and insulating	5 	T	173  
+30	3360	Nonferrous foundries (castings)	4 	T	174  
+30	3363	Aluminum die-castings	5 	T	175  
+30	3364	Nonferrous die-casting except aluminum	5 	T	176  
+30	3365	Aluminum foundries	5 	T	177  
+30	3366	Copper foundries	5 	T	178  
+30	3369	Nonferrous foundries, n.e.c.	5 	T	179  
+30	3390	Miscellaneous primary metal products	4 	T	180  
+30	3398	Metal heat treating	5 	T	181  
+30	3399	Primary metal products, n.e.c.	5 	T	182  
+30	3400	Fabricated metal products	3 	T	183  
+30	3410	Metal cans and shipping containers	4 	T	184  
+30	3411	Metal cans	5 	T	185  
+30	3412	Metal barrels, drums, and pails	5 	T	186  
+30	3420	Cutlery, handtools, and hardware	4 	T	187  
+30	3421	Cutlery	5 	T	188  
+30	3423	Hand and edge tools, n.e.c.	5 	T	189  
+30	3425	Saw blades and handsaws	5 	T	190  
+30	3429	Hardware, n.e.c.	5 	T	191  
+30	3430	Plumbing and heating, except electric	4 	T	192  
+30	3431	Metal sanitary ware	5 	T	193  
+30	3432	Plumbing fixture fittings and trim	5 	T	194  
+30	3433	Heating equipment, except electric	5 	T	195  
+30	3440	Fabricated structural metal products	4 	T	196  
+30	3441	Fabricated structural metal	5 	T	197  
+30	3442	Metal doors, sash, and trim	5 	T	198  
+30	3443	Fabricated plate work (boiler shops)	5 	T	199  
+30	3444	Sheet metalwork	5 	T	200  
+30	3446	Architectural metal work	5 	T	201  
+30	3448	Prefabricated metal buildings	5 	T	202  
+30	3449	Miscellaneous metal work	5 	T	203  
+30	3450	Screw machine products, bolts, etc.	4 	T	204  
+30	3451	Screw machine products	5 	T	205  
+30	3452	Bolts, nuts, rivets, and washers	5 	T	206  
+30	3460	Metal forgings and stampings	4 	T	207  
+30	3462	Iron and steel forgings	5 	T	208  
+30	3463	Nonferrous forgings	5 	T	209  
+30	3465	Automotive stampings	5 	T	210  
+30	3466	Crowns and closures	5 	T	211  
+30	3469	Metal stampings, n.e.c.	5 	T	212  
+30	3470	Metal services, n.e.c.	4 	T	213  
+30	3471	Plating and polishing	5 	T	214  
+30	3479	Metal coating and allied services	5 	T	215  
+30	3480	Ordnance and accessories, n.e.c.	4 	T	216  
+30	3482	Small arms ammunition	5 	T	217  
+30	3483	Ammunition, exc. for small arms, n.e.c.	5 	T	218  
+30	3484	Small arms	5 	T	219  
+30	3489	Ordnance and accessories, n.e.c.	5 	T	220  
+30	3490	Miscellaneous fabricated metal products	4 	T	221  
+30	3491	Industrial valves	5 	T	222  
+30	3492	Fluid power valves and hose fittings	5 	T	223  
+30	3493	Steel springs, except wire	5 	T	224  
+30	3494	Valves and pipe fittings, n.e.c.	5 	T	225  
+30	3495	Wire springs	5 	T	226  
+30	3496	Miscellaneous fabricated wire products	5 	T	227  
+30	3497	Metal foil and leaf	5 	T	228  
+30	3498	Fabricated pipe and fittings	5 	T	229  
+30	3499	Fabricated metal products, n.e.c.	5 	T	230  
+30	3500	Industrial machinery and equipment	3 	T	231  
+30	3510	Engines and turbines	4 	T	232  
+30	3511	Turbines and turbine generator sets	5 	T	233  
+30	3519	Internal combustion engines, n.e.c.	5 	T	234  
+30	3520	Farm and garden machinery	4 	T	235  
+30	3523	Farm machinery and equipment	5 	T	236  
+30	3524	Lawn and garden equipment	5 	T	237  
+30	3530	Construction and related machinery	4 	T	238  
+30	3531	Construction machinery	5 	T	239  
+30	3532	Mining machinery	5 	T	240  
+30	3533	Oil and gas field machinery	5 	T	241  
+30	3534	Elevators and moving stairways	5 	T	242  
+30	3535	Conveyors and conveying equipment	5 	T	243  
+30	3536	Hoists, cranes, and monorails	5 	T	244  
+30	3537	Industrial trucks and tractors	5 	T	245  
+30	3540	Metalworking machinery	4 	T	246  
+30	3541	Machine tools, metal cutting types	5 	T	247  
+30	3542	Machine tools, metal forming types	5 	T	248  
+30	3543	Industrial patterns	5 	T	249  
+30	3544	Special dies, tools, jigs and fixtures	5 	T	250  
+30	3545	Machine tool accessories	5 	T	251  
+30	3546	Power-driven handtools	5 	T	252  
+30	3547	Rolling mill machinery	5 	T	253  
+30	3548	Welding apparatus	5 	T	254  
+30	3549	Metalworking machinery, n.e.c.	5 	T	255  
+30	3550	Special industry machinery	4 	T	256  
+30	3552	Textile machinery	5 	T	257  
+30	3553	Woodworking machinery	5 	T	258  
+30	3554	Paper industries machinery	5 	T	259  
+30	3555	Printing trades machinery	5 	T	260  
+30	3556	Food products machinery	5 	T	261  
+30	3559	Special industry machinery, n.e.c.	5 	T	262  
+30	3560	General industrial machinery	4 	T	263  
+30	3561	Pumps and pumping equipment	5 	T	264  
+30	3562	Ball and roller bearings	5 	T	265  
+30	3563	Air and gas compressors	5 	T	266  
+30	3564	Blowers and fans	5 	T	267  
+30	3565	Packaging machinery	5 	T	268  
+30	3566	Speed changers, drives, and gears	5 	T	269  
+30	3567	Industrial furnaces and ovens	5 	T	270  
+30	3568	Power transmission equipment, n.e.c.	5 	T	271  
+30	3569	General industrial machinery, n.e.c.	5 	T	272  
+30	3570	Computer and office equipment	4 	T	273  
+30	3571	Electronic computers	5 	T	274  
+30	3572	Computer storage devices	5 	T	275  
+30	3575	Computer terminals	5 	T	276  
+30	3577	Computer peripheral equipment, n.e.c.	5 	T	277  
+30	3578	Calculating and accounting equipment	5 	T	278  
+30	3579	Office machines, n.e.c.	5 	T	279  
+30	3580	Refrigeration and service machinery	4 	T	280  
+30	3581	Automatic vending machines	5 	T	281  
+30	3582	Commercial laundry equipment	5 	T	282  
+30	3585	Refrigeration and heating equipment	5 	T	283  
+30	3586	Measuring and dispensing pumps	5 	T	284  
+30	3589	Service industry machinery, n.e.c.	5 	T	285  
+30	3590	Industrial machinery, n.e.c.	4 	T	286  
+30	3592	Carburetors, pistons, rings, valves	5 	T	287  
+30	3593	Fluid power cylinders and actuators	5 	T	288  
+30	3594	Fluid power pumps and motors	5 	T	289  
+30	3596	Scales and balances, except laboratory	5 	T	290  
+30	3599	Industrial machinery, n.e.c.	5 	T	291  
+30	3600	Electronic and other electric equipment	3 	T	292  
+30	3610	Electric distribution equipment	4 	T	293  
+30	3612	Transformers, except electronic	5 	T	294  
+30	3613	Switchgear and switchboard apparatus	5 	T	295  
+30	3620	Electrical industrial apparatus	4 	T	296  
+30	3621	Motors and generators	5 	T	297  
+30	3624	Carbon and graphite products	5 	T	298  
+30	3625	Relays and industrial controls	5 	T	299  
+30	3629	Electrical industrial apparatus, n.e.c.	5 	T	300  
+30	3630	Household appliances	4 	T	301  
+30	3631	Household cooking equipment	5 	T	302  
+30	3632	Household refrigerators and freezers	5 	T	303  
+30	3633	Household laundry equipment	5 	T	304  
+30	3634	Electric housewares and fans	5 	T	305  
+30	3635	Household vacuum cleaners	5 	T	306  
+30	3639	Household appliances, n.e.c.	5 	T	307  
+30	3640	Electric lighting and wiring equipment	4 	T	308  
+30	3641	Electric lamps	5 	T	309  
+30	3643	Current-carrying wiring devices	5 	T	310  
+30	3644	Noncurrent-carrying wiring devices	5 	T	311  
+30	3645	Residential lighting fixtures	5 	T	312  
+30	3646	Commercial lighting fixtures	5 	T	313  
+30	3647	Vehicular lighting equipment	5 	T	314  
+30	3648	Lighting equipment, n.e.c.	5 	T	315  
+30	3650	Household audio and video equipment	4 	T	316  
+30	3651	Household audio and video equipment	5 	T	317  
+30	3652	Prerecorded records and tapes	5 	T	318  
+30	3660	Communications equipment	4 	T	319  
+30	3661	Telephone and telegraph apparatus	5 	T	320  
+30	3663	Radio and TV communications equipment	5 	T	321  
+30	3669	Communications equipment, n.e.c.	5 	T	322  
+30	3670	Electronic components and accessories	4 	T	323  
+30	3671	Electron tubes	5 	T	324  
+30	3672	Printed circuit boards	5 	T	325  
+30	3674	Semiconductors and related devices	5 	T	326  
+30	3675	Electronic capacitors	5 	T	327  
+30	3676	Electronic resistors	5 	T	328  
+30	3677	Electronic coils and transformers	5 	T	329  
+30	3678	Electronic connectors	5 	T	330  
+30	3679	Electronic components, n.e.c.	5 	T	331  
+30	3690	Misc. electrical equipment and supplies	4 	T	332  
+30	3691	Storage batteries	5 	T	333  
+30	3692	Primary batteries, dry and wet	5 	T	334  
+30	3694	Engine electrical equipment	5 	T	335  
+30	3695	Magnetic and optical recording media	5 	T	336  
+30	3699	Electrical equipment and supplies, n.e.c	5 	T	337  
+30	3700	Transportation equipment	3 	T	338  
+30	3710	Motor vehicles and equipment	4 	T	339  
+30	3711	Motor vehicles and car bodies	5 	T	340  
+30	3713	Truck and bus bodies	5 	T	341  
+30	3714	Motor vehicle parts and accessories	5 	T	342  
+30	3715	Truck trailers	5 	T	343  
+30	3716	Motor homes	5 	T	344  
+30	3720	Aircraft and parts	4 	T	345  
+30	3721	Aircraft	5 	T	346  
+30	3724	Aircraft engines and engine parts	5 	T	347  
+30	3728	Aircraft parts and equipment, n.e.c.	5 	T	348  
+30	3730	Ship and boat building and repairing	4 	T	349  
+30	3731	Ship building and repairing	5 	T	350  
+30	3732	Boat building and repairing	5 	T	351  
+30	3740	Railroad equipment	4 	T	352  
+30	3750	Motorcycles, bicycles, and parts	4 	T	353  
+30	3760	Guided missiles, space vehicles, parts	4 	T	354  
+30	3761	Guided missiles and space vehicles	5 	T	355  
+30	3764	Space propulsion units and parts	5 	T	356  
+30	3769	Space vehicle equipment, n.e.c.	5 	T	357  
+30	3790	Miscellaneous transportation equipment	4 	T	358  
+30	3792	Travel trailers and campers	5 	T	359  
+30	3795	Tanks and tank components	5 	T	360  
+30	3799	Transportation equipment, n.e.c.	5 	T	361  
+30	3800	Instruments and related products	3 	T	362  
+30	3810	Search and navigation equipment	4 	T	363  
+30	3820	Measuring and controlling devices	4 	T	364  
+30	3821	Laboratory apparatus and furniture	5 	T	365  
+30	3822	Environmental controls	5 	T	366  
+30	3823	Process control instruments	5 	T	367  
+30	3824	Fluid meters and counting devices	5 	T	368  
+30	3825	Instruments to measure electricity	5 	T	369  
+30	3826	Analytical instruments	5 	T	370  
+30	3827	Optical instruments and lenses	5 	T	371  
+30	3829	Measuring and controlling devices, n.e.c	5 	T	372  
+30	3840	Medical instruments and supplies	4 	T	373  
+30	3841	Surgical and medical instruments	5 	T	374  
+30	3842	Surgical appliances and supplies	5 	T	375  
+30	3843	Dental equipment and supplies	5 	T	376  
+30	3844	X-ray apparatus and tubes	5 	T	377  
+30	3845	Electromedical equipment	5 	T	378  
+30	3850	Ophthalmic goods	4 	T	379  
+30	3860	Photographic equipment and supplies	4 	T	380  
+30	3870	Watches, clocks, watchcases and parts	4 	T	381  
+30	3900	Miscellaneous manufacturing industries	3 	T	382  
+30	3910	Jewelry, silverware, and plated ware	4 	T	383  
+30	3911	Jewelry, precious metal	5 	T	384  
+30	3914	Silverware and plated ware	5 	T	385  
+30	3915	Jewelers' materials and lapidary work	5 	T	386  
+30	3930	Musical instruments	4 	T	387  
+30	3940	Toys and sporting goods	4 	T	388  
+30	3942	Dolls and stuffed toys	5 	T	389  
+30	3944	Games, toys, and children's vehicles	5 	T	390  
+30	3949	Sporting and athletic goods, n.e.c.	5 	T	391  
+30	3950	Pens, pencils, office, and art supplies	4 	T	392  
+30	3951	Pens and mechanical pencils	5 	T	393  
+30	3952	Lead pencils and art goods	5 	T	394  
+30	3953	Marking devices	5 	T	395  
+30	3955	Carbon paper and inked ribbons	5 	T	396  
+30	3960	Costume jewelry and notions	4 	T	397  
+30	3961	Costume jewelry	5 	T	398  
+30	3965	Fasteners, buttons, needles, and pins	5 	T	399  
+30	3990	Miscellaneous manufactures	4 	T	400  
+30	3991	Brooms and brushes	5 	T	401  
+30	3993	Signs and advertising specialities	5 	T	402  
+30	3995	Burial caskets	5 	T	403  
+30	3996	Hard surface floor coverings, n.e.c.	5 	T	404  
+30	3999	Manufacturing industries, n.e.c.	5 	T	405  
+40	0000	Transportation and public utilites	1 	T	654  
+40	4000	Railroad transportation	3 	T	655  
+40	4100	Local and interurban passenger transit	3 	T	656  
+40	4110	Local and suburban transportation	4 	T	657  
+40	4120	Taxicabs	4 	T	658  
+40	4130	Intercity and rural bus transportation	4 	T	659  
+40	4140	Bus charter service	4 	T	660  
+40	4150	School buses	4 	T	661  
+40	4170	Bus terminal and service facilities	4 	T	662  
+40	4200	Trucking and warehousing	3 	T	663  
+40	4210	Trucking and courier services, exc. air	4 	T	664  
+40	4220	Public warehousing and storage	4 	T	665  
+40	4230	Trucking terminal facilities	4 	T	666  
+40	4400	Water transportation	3 	T	667  
+40	4410	Deep sea foreign trans. of freight	4 	T	668  
+40	4420	Deep sea domestic trans. of freight	4 	T	669  
+40	4430	Freight trans. on the Great Lakes	4 	T	670  
+40	4440	Water transportation of freight, n.e.c.	4 	T	671  
+40	4480	Water transportation of passengers	4 	T	672  
+40	4490	Water transportation services	4 	T	673  
+40	4500	Transportation by air	3 	T	674  
+40	4510	Air transportation, scheduled	4 	T	675  
+40	4520	Air transportation, nonscheduled	4 	T	676  
+40	4580	Airports, flying fields, and services	4 	T	677  
+40	4600	Pipelines, except natural gas	3 	T	678  
+40	4700	Transportation services	3 	T	679  
+40	4720	Passenger transportation arrangement	4 	T	680  
+40	4730	Freight transportation arrangement	4 	T	681  
+40	4740	Rental of railroad cars	4 	T	682  
+40	4780	Miscellaneous transportation services	4 	T	683  
+40	4800	Communications	3 	T	684  
+40	4810	Telephone communications	4 	T	685  
+40	4820	Telegraph and other communications	4 	T	686  
+40	4830	Radio and television broadcasting	4 	T	687  
+40	4840	Cable and other pay television services	4 	T	688  
+40	4890	Communication services, n.e.c.	4 	T	689  
+40	4900	Electric, gas, and sanitary services	3 	T	690  
+40	4910	Electric services	4 	T	691  
+40	4920	Gas production and distribution	4 	T	692  
+40	4930	Combination utility services	4 	T	693  
+40	4940	Water supply	4 	T	694  
+40	4950	Sanitary services	4 	T	695  
+40	4960	Steam and air-conditioning supply	4 	T	696  
+40	4970	Irrigation systems	4 	T	697  
+45	0000	Wholesale and retail trade	1 	T	698  
+50	0001	Wholesale trade	2 	T	699  
+50	5000	Wholesale trade - durable goods	3 	T	700  
+50	5010	Motor vehicles, parts, and supplies	4 	T	701  
+50	5020	Furniture and homefurnishings	4 	T	702  
+50	5030	Lumber and construction materials	4 	T	703  
+50	5040	Professional and commercial equipment	4 	T	704  
+50	5050	Metals and minerals, except petroleum	4 	T	705  
+50	5060	Electrical goods	4 	T	706  
+50	5070	Hardware, plumbing and heating equipment	4 	T	707  
+50	5080	Machinery, equipment, and supplies	4 	T	708  
+50	5090	Miscellaneous durable goods	4 	T	709  
+50	5100	Wholesale trade--nondurable goods	3 	T	710  
+50	5110	Paper and paper products	4 	T	711  
+50	5120	Drugs, proprietaries, and sundries	4 	T	712  
+50	5130	Apparel, piece goods, and notions	4 	T	713  
+50	5140	Groceries and related products	4 	T	714  
+50	5150	Farm-product raw materials	4 	T	715  
+50	5160	Chemicals and allied products	4 	T	716  
+50	5170	Petroleum and petroleum products	4 	T	717  
+50	5180	Beer, wine, and distilled beverages	4 	T	718  
+50	5190	Miscellaneous nondurable goods	4 	T	719  
+60	0002	Retail trade	2 	T	720  
+60	5200	Building materials and garden supplies	3 	T	721  
+60	5210	Lumber and other building materials	4 	T	722  
+60	5230	Paint, glass, and wallpaper stores	4 	T	723  
+60	5250	Hardware stores	4 	T	724  
+60	5260	Retail nurseries and garden stores	4 	T	725  
+60	5270	Mobile home dealers	4 	T	726  
+60	5300	General merchandise stores	3 	T	727  
+60	5310	Department stores	4 	T	728  
+60	5330	Variety stores	4 	T	729  
+60	5390	Miscellaneous general merchandise stores	4 	T	730  
+60	5400	Food stores	3 	T	731  
+60	5410	Grocery stores	4 	T	732  
+60	5420	Meat and fish markets	4 	T	733  
+60	5430	Fruit and vegetable markets	4 	T	734  
+60	5440	Candy, nut, and confectionery stores	4 	T	735  
+60	5450	Dairy products stores	4 	T	736  
+60	5460	Retail bakeries	4 	T	737  
+60	5490	Miscellaneous food stores	4 	T	738  
+60	5500	Automotive dealers and service stations	3 	T	739  
+60	5510	New and used car dealers	4 	T	740  
+60	5520	Used car dealers	4 	T	741  
+60	5530	Auto and home supply stores	4 	T	742  
+60	5540	Gasoline service stations	4 	T	743  
+60	5550	Boat dealers	4 	T	744  
+60	5560	Recreational vehicle dealers	4 	T	745  
+60	5570	Motorcycle dealers	4 	T	746  
+60	5590	Automotive dealers, n.e.c.	4 	T	747  
+60	5600	Apparel and accessory stores	3 	T	748  
+60	5610	Men's and boys' clothing stores	4 	T	749  
+60	5620	Women's clothing stores	4 	T	750  
+60	5630	Women's accessory and speciality stores	4 	T	751  
+60	5640	Children's and infants' wear stores	4 	T	752  
+60	5650	Family clothing stores	4 	T	753  
+60	5660	Shoe stores	4 	T	754  
+60	5690	Misc. apparel and accessory stores	4 	T	755  
+60	5700	Furniture and homefurnishings stores	3 	T	756  
+60	5710	Furniture and homefurnishings stores	4 	T	757  
+60	5720	Household appliance stores	4 	T	758  
+60	5730	Radio, television, and computer stores	4 	T	759  
+60	5800	Eating and drinking places	3 	T	760  
+60	5810	Eating and drinking places	4 	T	761  
+60	5900	Miscellaneous retail	3 	T	762  
+60	5910	Drug stores and proprietary stores	4 	T	763  
+60	5920	Liquor stores	4 	T	764  
+60	5930	Used merchandise stores	4 	T	765  
+60	5940	Miscellaneous shopping goods stores	4 	T	766  
+60	5960	Nonstore retailers	4 	T	767  
+60	5980	Fuel dealers	4 	T	768  
+60	5990	Retail stores, n.e.c.	4 	T	769  
+70	0000	Finance, insurance, and real estate	1 	T	770  
+70	6000	Depository institutions	3 	T	771  
+70	6010	Central reserve depositories	4 	T	772  
+70	6020	Commercial banks	4 	T	773  
+70	6030	Savings institutions	4 	T	774  
+70	6060	Credit unions	4 	T	775  
+70	6080	Foreign bank and branches and agencies	4 	T	776  
+70	6090	Functions closely related to banking	4 	T	777  
+70	6100	Nondepository institutions	3 	T	778  
+70	6110	Federal and federal-sponsored credit	4 	T	779  
+70	6140	Personal credit institutions	4 	T	780  
+70	6150	Business credit institutions	4 	T	781  
+70	6160	Mortgage bankers and brokers	4 	T	782  
+70	6200	Security and commodity brokers	3 	T	783  
+70	6210	Security brokers and dealers	4 	T	784  
+70	6220	Commodity contracts brokers, dealers	4 	T	785  
+70	6230	Security and commodity exchanges	4 	T	786  
+70	6280	Security and commodity services	4 	T	787  
+70	6300	Insurance carriers	3 	T	788  
+70	6310	Life insurance	4 	T	789  
+70	6320	Medical service and health insurance	4 	T	790  
+70	6330	Fire, marine, and casualty insurance	4 	T	791  
+70	6350	Surety insurance	4 	T	792  
+70	6360	Title insurance	4 	T	793  
+70	6370	Pension, health, and welfare funds	4 	T	794  
+70	6390	Insurance carriers, n.e.c.	4 	T	795  
+70	6400	Insurance agents, brokers, and service	3 	T	796  
+70	6500	Real estate	3 	T	797  
+70	6510	Real estate operators and lessors	4 	T	798  
+70	6530	Real estate agents and managers	4 	T	799  
+70	6540	Title abstract offices	4 	T	800  
+70	6550	Subdividers and developers	4 	T	801  
+70	6700	Holding and other investment offices	3 	T	802  
+70	6710	Holding offices	4 	T	803  
+70	6720	Investment offices	4 	T	804  
+70	6730	Trusts	4 	T	805  
+70	6790	Miscellaneous investing	4 	T	806  
+80	0000	Services	1 	T	807  
+80	7000	Hotels and other lodging places	3 	T	808  
+80	7010	Hotels and motels	4 	T	809  
+80	7020	Rooming and boarding houses	4 	T	810  
+80	7030	Camps and recreational vehicle parks	4 	T	811  
+80	7040	Membership-basis organization hotels	4 	T	812  
+80	7200	Personal services	3 	T	813  
+80	7210	Laundry, cleaning, and garment services	4 	T	814  
+80	7220	Photographic studios, portrait	4 	T	815  
+80	7230	Beauty shops	4 	T	816  
+80	7240	Barber shops	4 	T	817  
+80	7250	Shoe repair and shoeshine parlors	4 	T	818  
+80	7260	Funeral service and crematories	4 	T	819  
+80	7290	Miscellaneous personal services	4 	T	820  
+80	7300	Business services	3 	T	821  
+80	7310	Advertising	4 	T	822  
+80	7320	Credit reporting and collection	4 	T	823  
+80	7330	Mailing, reproduction, stenographic	4 	T	824  
+80	7340	Services to buildings	4 	T	825  
+80	7350	Miscellaneous equipment rental and leasi	4 	T	826  
+80	7360	Personnel supply services	4 	T	827  
+80	7370	Computer and data processing services	4 	T	828  
+80	7380	Miscellaneous business services	4 	T	829  
+80	7500	Auto repair, services, and parking	3 	T	830  
+80	7510	Automotive rentals, no drivers	4 	T	831  
+80	7520	Automobile parking	4 	T	832  
+80	7530	Automotive repair shops	4 	T	833  
+80	7540	Automotive services, except repair	4 	T	834  
+80	7600	Miscellaneous repair services	3 	T	835  
+80	7620	Electrical repair shops	4 	T	836  
+80	7630	Watch, clock, and jewelry repair	4 	T	837  
+80	7640	Reupholstery and furniture repair	4 	T	838  
+80	7690	Miscellaneous repair shops	4 	T	839  
+80	7800	Motion pictures	3 	T	840  
+80	7810	Motion picture production and services	4 	T	841  
+80	7820	Motion picture distribution and services	4 	T	842  
+80	7830	Motion picture theaters	4 	T	843  
+80	7840	Video tape rental	4 	T	844  
+80	7900	Amusement and recreation services	3 	T	845  
+80	7910	Dance studios, schools, and halls	4 	T	846  
+80	7920	Producers, orchestras, entertainers	4 	T	847  
+80	7930	Bowling centers	4 	T	848  
+80	7940	Commercial sports	4 	T	849  
+80	7990	Miscellaneous amusement, recreation serv	4 	T	850  
+80	8000	Health services	3 	T	851  
+80	8010	Offices and clinics of medical doctors	4 	T	852  
+80	8020	Offices and clinics of dentists	4 	T	853  
+80	8030	Offices of osteopathic physicians	4 	T	854  
+80	8040	Offices of other health practitioners	4 	T	855  
+80	8050	Nursing and personal care facilities	4 	T	856  
+80	8060	Hospitals	4 	T	857  
+80	8070	Medical and dental laboratories	4 	T	858  
+80	8080	Home health care services	4 	T	859  
+80	8090	Health and allied services, n.e.c.	4 	T	860  
+80	8100	Legal services	3 	T	861  
+80	8200	Educational services	3 	T	862  
+80	8210	Elementary and secondary schools	4 	T	863  
+80	8220	Colleges and universities	4 	T	864  
+80	8230	Libraries	4 	T	865  
+80	8240	Vocational schools	4 	T	866  
+80	8290	Schools and educational services, n.e.c.	4 	T	867  
+80	8300	Social services	3 	T	868  
+80	8320	Individual and family services	4 	T	869  
+80	8330	Job training and related services	4 	T	870  
+80	8350	Child day care services	4 	T	871  
+80	8360	Residential care	4 	T	872  
+80	8390	Social services, n.e.c.	4 	T	873  
+80	8400	Museums, botanical, zoological gardens	3 	T	874  
+80	8410	Museums and art galleries	4 	T	875  
+80	8420	Botanical and zoological gardens	4 	T	876  
+80	8600	Membership organizations	3 	T	877  
+80	8610	Business associations	4 	T	878  
+80	8620	Professional organizations	4 	T	879  
+80	8630	Labor organizations	4 	T	880  
+80	8640	Civic and social associations	4 	T	881  
+80	8650	Political organizations	4 	T	882  
+80	8660	Religious organizations	4 	T	883  
+80	8690	Membership organizations, n.e.c.	4 	T	884  
+80	8700	Engineering and management services	3 	T	885  
+80	8710	Engineering and architectural services	4 	T	886  
+80	8720	Accounting, auditing, and bookkeeping	4 	T	887  
+80	8730	Research and testing services	4 	T	888  
+80	8740	Management and public relations	4 	T	889  
+80	8800	Private households	3 	T	890  
+80	8810	Private households	4 	T	891  
+80	8900	Services, n.e.c.	3 	T	892  

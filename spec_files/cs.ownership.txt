@@ -1,0 +1,6 @@
+ownership_code	ownership_name
+0	All ownerships	
+1	Private industry	
+7	State government	
+8	Local government	
+9	State and local government combined	

@@ -1,0 +1,4 @@
+duration_code	duration_text	display_level	selectable	sort_sequence
+1	Percent change from same quarter a year ago	0	T	1	
+2	Percent change from previous quarter at annual rate	0	T	2	
+3	Index, base year = 100	0	T	3	

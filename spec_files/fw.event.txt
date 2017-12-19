@@ -1,0 +1,264 @@
+event_code	event_text	display_level	selectable	sort_sequence
+0000XX	All events and exposures	0	T	1	
+1111XX	Shooting by other person--intentional	4	T	5	
+1112XX	Stabbing, cutting, slashing, piercing	4	T	6	
+1113XX	Hitting, kicking, beating, shoving	4	T	7	
+1114XX	Strangulation by other person	4	T	8	
+1115XX	Bombing, arson	4	T	9	
+1118XX	Multiple violent acts by other person	4	T	12	
+111XXX	Homicides (Intentional injury by other person)	3	T	4	
+1121XX	Shooting--intentional self-harm	4	T	14	
+1122XX	Hanging, strangulation, asphyxiation--intentional self-harm	4	T	15	
+1123XX	Jumping from building or other structure--intentional self-harm	4	T	16	
+1124XX	Cutting, stabbing--intentional self-harm	4	T	17	
+1125XX	Drug overdose--intentional self-harm	4	T	18	
+1126XX	Inhalation of substance--intentional self-harm	4	T	19	
+112XXX	Suicides (Self-inflicted injury--intentional)	3	T	13	
+11XXXX	Intentional injury by person	2	T	3	
+1211XX	Shooting by other person--unintentional	4	T	22	
+1212XX	Injured by physical contact with other person in sporting event or physical training	4	T	23	
+1213XX	Injured by physical contact during horseplay	4	T	24	
+1214XX	Injured by physical contact with person while restraining, subduing--unintentional	4	T	25	
+121XXX	Injury by other person--unintentional or intent unknown	3	T	21	
+1221XX	Self-inflicted shooting--unintentional	4	T	29	
+1224XX	Drug overdose--intent unknown	4	T	32	
+122XXX	Self-inflicted injury--unintentional or intent unknown	3	T	28	
+12XXXX	Injury by person--unintentional or intent unknown	2	T	20	
+1311XX	Stings and venomous bites	4	T	35	
+1312XX	Nonvenomous insect bites	4	T	36	
+1313XX	Other animal bites, nonvenomous	4	T	37	
+131XXX	Bites and stings	3	T	34	
+1321XX	Trampled by or stepped on by animal	4	T	39	
+1322XX	Kicked by animal	4	T	40	
+1323XX	Mauled, clawed, or scratched by animal	4	T	41	
+1324XX	Gored or rammed by animal	4	T	42	
+132XXX	Struck by animal	3	T	38	
+1381XX	Bitten and struck by animal	4	T	44	
+138XXX	Multiple types of animal and insect incidents	3	T	43	
+13XXXX	Animal and insect related incidents	2	T	33	
+1XXXXX	Violence and other injuries by persons or animals	1	T	2	
+211XXX	Pedestrian struck by aircraft or propeller	3	T	47	
+2121XX	Aircraft crash during takeoff or landing--due to mechanical failure	4	T	49	
+2123XX	Aircraft crash during takeoff or landing--with ground vehicle	4	T	51	
+2124XX	Aircraft crash during takeoff or landing--into structure, object, or ground	4	T	52	
+212XXX	Aircraft crash during takeoff or landing	3	T	48	
+213XXX	Explosion or fire on aircraft	3	T	53	
+214XXX	Aircraft crash due to low-altitude entanglement	3	T	54	
+2151XX	Other in-flight crash due to mechanical failure	4	T	56	
+2152XX	Other in-flight crash between air vehicles	4	T	57	
+2153XX	Other in-flight crash into structure, object, or ground	4	T	58	
+215XXX	Other in-flight crash	3	T	55	
+216XXX	Parachuting incident	3	T	59	
+21XXXX	Aircraft incidents	2	T	46	
+2211XX	Collision between two rail vehicles	4	T	63	
+2212XX	Collision between rail and roadway vehicles	4	T	64	
+221XXX	Collision between rail vehicle and another vehicle	3	T	62	
+222XXX	Derailment	3	T	65	
+224XXX	Fall or jump from and struck by rail vehicle--transportation incident	3	T	67	
+227XXX	Pedestrian struck by rail vehicle--transportation incident	3	T	70	
+22XXXX	Rail vehicle incidents	2	T	61	
+2311XX	Animal transportation collision in roadway	4	T	73	
+2312XX	Animal transportation collision in nonroadway area	4	T	74	
+2313XX	Thrown, fell, or jumped from animal being ridden	4	T	75	
+2314XX	Thrown, tipped, or fell from animal-drawn vehicle	4	T	76	
+231XXX	Animal transportation incident	3	T	72	
+2321XX	Pedal cycle collision in roadway	4	T	79	
+2323XX	Fall from pedal cycle	4	T	81	
+232XXX	Pedal cycle incident	3	T	78	
+23XXXX	Animal and other non-motorized vehicle transportation incidents	2	T	71	
+2411XX	Pedestrian struck by vehicle propelled by another vehicle in work zone	4	T	85	
+2412XX	Pedestrian struck by forward-moving vehicle in work zone	4	T	86	
+2413XX	Pedestrian struck by vehicle backing up in work zone	4	T	87	
+241XXX	Pedestrian struck by vehicle in work zone	3	T	84	
+2421XX	Pedestrian struck by vehicle propelled by another vehicle in roadway	4	T	89	
+2422XX	Pedestrian struck by forward-moving vehicle in roadway	4	T	90	
+2423XX	Pedestrian struck by vehicle backing up in roadway	4	T	91	
+242XXX	Pedestrian struck by vehicle in roadway	3	T	88	
+2431XX	Pedestrian struck by vehicle propelled by another vehicle on side of road	4	T	93	
+2432XX	Pedestrian struck by forward-moving vehicle on side of road	4	T	94	
+2433XX	Pedestrian struck by vehicle backing up on side of road	4	T	95	
+243XXX	Pedestrian struck by vehicle on side of road	3	T	92	
+2441XX	Pedestrian struck by vehicle propelled by another vehicle in nonroadway area	4	T	97	
+2442XX	Pedestrian struck by forward-moving vehicle in nonroadway area	4	T	98	
+2443XX	Pedestrian struck by vehicle backing up in nonroadway area	4	T	99	
+244XXX	Pedestrian struck by vehicle in nonroadway area	3	T	96	
+24XXXX	Pedestrian vehicular incident	2	T	83	
+2521XX	Collision between water vehicles	4	T	103	
+2522XX	Collision between water vehicle and object	4	T	104	
+252XXX	Water vehicle collisions	3	T	102	
+253XXX	Explosion or fire on water vehicle	3	T	105	
+254XXX	Capsized or sinking water vehicle	3	T	106	
+255XXX	Fall or jump and struck by water vehicle	3	T	107	
+256XXX	Fall or jump from water vehicle	3	T	108	
+257XXX	Machinery or equipment incident on water vehicle	3	T	109	
+258XXX	Fall on water vehicle	3	T	110	
+25XXXX	Water vehicle incidents	2	T	100	
+2611XX	Roadway collision--moving in same direction	4	T	113	
+2612XX	Roadway collision--moving in opposite directions, oncoming	4	T	114	
+2613XX	Roadway collision--moving perpendicularly	4	T	115	
+2614XX	Roadway collision--moving and standing vehicle in roadway	4	T	116	
+2615XX	Roadway collision--moving and standing vehicle on side of roadway	4	T	117	
+261XXX	Roadway collision with other vehicle	3	T	112	
+2621XX	Vehicle struck object or animal in roadway	4	T	119	
+2622XX	Vehicle struck object or animal on side of roadway	4	T	120	
+2623XX	Vehicle struck by falling or flying object--roadway	4	T	121	
+262XXX	Roadway collision with object other than vehicle	3	T	118	
+2631XX	Jack-knifed or overturned, roadway	4	T	123	
+2632XX	Ran off roadway	4	T	124	
+2633XX	Struck by shifting load during transport, roadway	4	T	125	
+2634XX	Fall or jump from and struck by same vehicle in normal operation, roadway	4	T	126	
+2636XX	Fall or jump from vehicle in normal operation, roadway	4	T	128	
+263XXX	Roadway noncollision incident	3	T	122	
+26XXXX	Roadway incidents involving motorized land vehicle	2	T	111	
+2711XX	Moving in same direction, nonroadway	4	T	133	
+2713XX	Collision between a moving and standing vehicle, nonroadway	4	T	135	
+271XXX	Nonroadway collision with other vehicle	3	T	132	
+2721XX	Part of occupant?s body caught between vehicle and other object in nonroadway transport incident	4	T	137	
+272XXX	Nonroadway collision with object other than vehicle	3	T	136	
+2731XX	Jack-knifed or overturned, nonroadway	4	T	139	
+2732XX	Ran off driving surface, nonroadway	4	T	140	
+2733XX	Struck by shifting load during transport, nonroadway	4	T	141	
+2734XX	Fall or jump from and struck by same vehicle in normal operation, nonroadway	4	T	142	
+2736XX	Fall or jump from vehicle in normal operation, nonroadway	4	T	144	
+2738XX	Struck bump, hole, rough terrain on driving surface, nonroadway	4	T	146	
+273XXX	Nonroadway noncollision incident	3	T	138	
+27XXXX	Nonroadway incident involving motorized land vehicles	2	T	131	
+2XXXXX	Transportation incidents	1	T	45	
+3110XX	Collapsing building, structure, or structural element during fire	3	T	149	
+3120XX	Other structural fire without collapse	3	T	150	
+3130XX	Vehicle or machinery fire	3	T	151	
+3140XX	Ignition of clothing from controlled heat source	3	T	152	
+3150XX	Small-scale (limited) fire	3	T	153	
+3160XX	Forest or brush fire	3	T	154	
+3170XX	Ignition of vapors, gases, or liquids	3	T	155	
+31XXXX	Fires	2	T	148	
+3210XX	Dust explosion	3	T	157	
+3220XX	Explosion of nonpressurized vapors, gases, or liquids	3	T	158	
+3230XX	Explosion of pressure vessel, piping, or tire	3	T	159	
+3240XX	Demolition or blasting explosion	3	T	160	
+32XXXX	Explosions	2	T	156	
+3XXXXX	Fires and explosions	1	T	147	
+4121XX	Trip from stepping into a hole without fall	4	T	167	
+412XXX	Trip without fall	3	T	166	
+41XXXX	Slip or trip without fall	2	T	162	
+4211XX	Fall on same level due to tripping while climbing stairs, steps, or curbs	4	T	174	
+4212XX	Fall on same level due to tripping on uneven surface	4	T	175	
+4213XX	Fall on same level due to tripping over an object	4	T	176	
+4214XX	Fall on same level due to tripping over self	4	T	177	
+421XXX	Fall on same level due to tripping	3	T	173	
+422XXX	Fall on same level due to slipping	3	T	178	
+423XXX	Fall while sitting	3	T	179	
+4240XX	Fall onto or against object on same level, n.e.c.	3	T	180	
+42XXXX	Falls on same level	2	T	172	
+4311XX	Fall from collapsing structure or equipment less than 6 feet	4	T	183	
+4312XX	Fall from collapsing structure or equipment 6 to 10 feet	4	T	184	
+4313XX	Fall from collapsing structure or equipment 11 to 15 feet	4	T	185	
+4314XX	Fall from collapsing structure or equipment 16 to 20 feet	4	T	186	
+4315XX	Fall from collapsing structure or equipment 21 to 25 feet	4	T	187	
+4316XX	Fall from collapsing structure or equipment 26 to 30 feet	4	T	188	
+4317XX	Fall from collapsing structure or equipment more than 30 feet	4	T	189	
+431XXX	Fall from collapsing structure or equipment	3	T	182	
+4321XX	Fall through surface or existing opening less than 6 feet	4	T	191	
+4322XX	Fall through surface or existing opening 6 to 10 feet	4	T	192	
+4323XX	Fall through surface or existing opening 11 to 15 feet	4	T	193	
+4324XX	Fall through surface or existing opening 16 to 20 feet	4	T	194	
+4325XX	Fall through surface or existing opening 21 to 25 feet	4	T	195	
+4326XX	Fall through surface or existing opening 26 to 30 feet	4	T	196	
+4327XX	Fall through surface or existing opening more than 30 feet	4	T	197	
+432XXX	Fall through surface or existing opening	3	T	190	
+4331XX	Other fall to lower level less than 6 feet	4	T	199	
+4332XX	Other fall to lower level 6 to 10 feet	4	T	200	
+4333XX	Other fall to lower level 11 to 15 feet	4	T	201	
+4334XX	Other fall to lower level 16 to 20 feet	4	T	202	
+4335XX	Other fall to lower level 21 to 25 feet	4	T	203	
+4336XX	Other fall to lower level 26 to 30 feet	4	T	204	
+4337XX	Other fall to lower level more than 30 feet	4	T	205	
+433XXX	Other fall to lower level	3	T	198	
+43XXXX	Falls to lower level	2	T	181	
+4423XX	Other jump to lower level 11 to 15 feet	4	T	218	
+4425XX	Other jump to lower level 21 to 25 feet	4	T	220	
+4427XX	Other jump to lower level more than 30 feet	4	T	222	
+442XXX	Other jump to lower level	3	T	215	
+44XXXX	Jumps to lower level	2	T	206	
+45XXXX	Fall or jump curtailed by personal fall arrest system	2	T	223	
+4XXXXX	Falls, slips, trips	1	T	161	
+5111XX	Direct exposure to electricity, 220 volts or less	4	T	227	
+5112XX	Direct exposure to electricity, greater than 220 volts	4	T	228	
+511XXX	Direct exposure to electricity	3	T	226	
+5121XX	Indirect exposure to electricity, 220 volts or less	4	T	230	
+5122XX	Indirect exposure to electricity, greater than 220 volts	4	T	231	
+512XXX	Indirect exposure to electricity	3	T	229	
+51XXXX	Exposure to electricity	2	T	225	
+531XXX	Exposure to environmental heat	3	T	241	
+532XXX	Exposure to environmental cold	3	T	242	
+533XXX	Contact with hot objects or substances	3	T	243	
+53XXXX	Exposure to temperature extremes	2	T	240	
+551XXX	Nonmedical use of drugs or alcohol--unintentional overdose	3	T	249	
+5521XX	Inhalation of harmful substance--single episode	4	T	251	
+552XXX	Inhalation of harmful substance	3	T	250	
+5530XX	Ingestion of harmful substance	4	T	253	
+5543XX	Exposure through scratch or other open wound	4	T	257	
+5544XX	Exposure through intact skin, eyes, or other exposed tissue	4	T	258	
+5548XX	Multiple types of exposures through skin, eyes, or other exposed tissue	4	T	259	
+554XXX	Exposure to harmful substance through skin, eyes, or other exposed tissue	3	T	254	
+558XXX	Exposure to other harmful substance--multiple routes of exposure	3	T	260	
+55XXXX	Exposure to other harmful substances	2	T	248	
+561XXX	Drowning, submersion, n.e.c.	2	T	262	
+562XXX	Choking on object or substance	3	T	263	
+563XXX	Depletion of oxygen	3	T	264	
+56XXXX	Exposure to oxygen deficiency, n.e.c.	2	T	261	
+5XXXXX	Exposure to harmful substances or environments	1	T	224	
+6211XX	Caught between rolling powered vehicle and other object	4	T	269	
+6212XX	Struck or run over by rolling powered vehicle	4	T	270	
+6213XX	Struck by swinging part of powered vehicle	4	T	271	
+6214XX	Struck by falling part of powered vehicle still attached	4	T	272	
+6215XX	Struck by powered vehicle tipping over--nontransport	4	T	273	
+6216XX	Struck by other falling powered vehicle	4	T	274	
+621XXX	Struck by powered vehicle--nontransport	3	T	268	
+6221XX	Struck by rolling object or equipment being pushed by injured worker	4	T	276	
+6223XX	Struck by object or equipment rolling freely	4	T	278	
+622XXX	Struck by rolling object or equipment--other than powered vehicle	3	T	275	
+6231XX	Struck by object or equipment dropped by injured worker	4	T	280	
+6233XX	Struck by object falling from vehicle or machinery--other than vehicle part	4	T	282	
+623XXX	Struck by falling object or equipment--other than powered vehicle	3	T	279	
+6241XX	Struck by dislodged flying object, particle	4	T	284	
+6242XX	Struck by discharged object or substance	4	T	285	
+624XXX	Struck by discharged or flying object	3	T	283	
+6252XX	Injured by slipping or swinging object held by injured worker	4	T	289	
+625XXX	Injured by handheld object or equipment	3	T	287	
+6261XX	Struck by or caught in swinging door or gate	4	T	292	
+626XXX	Struck by swinging or slipping object, other than handheld	3	T	291	
+62XXXX	Struck by object or equipment	2	T	267	
+6311XX	Struck against moving part of machinery or equipment	4	T	295	
+631XXX	Struck against moving object or equipment	3	T	294	
+6322XX	Struck against stationary object or equipment while rising	4	T	299	
+632XXX	Struck against stationary object or equipment	3	T	297	
+63XXXX	Struck against object or equipment	2	T	293	
+6411XX	Caught in running equipment or machinery during maintenance, cleaning	4	T	302	
+6412XX	Caught in running equipment or machinery during regular operation	4	T	303	
+641XXX	Caught in running equipment or machinery	3	T	301	
+642XXX	Compressed or pinched by shifting objects or equipment	3	T	304	
+643XXX	Compressed or pinched between two stationary objects	3	T	305	
+644XXX	Entangled in other object or equipment	3	T	306	
+64XXXX	Caught in or compressed by equipment or objects	2	T	300	
+651XXX	Excavation or trenching cave-in	3	T	308	
+652XXX	Mine collapse or cave-in	3	T	309	
+653XXX	Other cave-in	3	T	310	
+654XXX	Landslide	3	T	311	
+655XXX	Struck, caught, or crushed in other collapsing structure or equipment	3	T	312	
+656XXX	Engulfment in other collapsing material	3	T	313	
+65XXXX	Struck, caught, or crushed in collapsing structure, equipment, or material	2	T	307	
+6XXXXX	Contact with objects and equipment	1	T	265	
+7111XX	Overexertion in lifting--single episode	4	T	325	
+711XXX	Overexertion in lifting, lowering	3	T	324	
+7121XX	Overexertion in pushing, pulling, or turning--single episode	4	T	330	
+712XXX	Overexertion in pushing, pulling, or turning	3	T	329	
+7131XX	Overexertion in holding, carrying, or wielding--single episode	4	T	333	
+713XXX	Overexertion in holding, carrying, or wielding	3	T	332	
+71XXXX	Overexertion involving outside sources	2	T	323	
+7311XX	Bending, crawling, reaching, twisting--single episode	4	T	349	
+731XXX	Bending, crawling, reaching, twisting, climbing, stepping	3	T	348	
+735XXX	Walking, without other incident	3	T	362	
+73XXXX	Other exertions or bodily reactions	2	T	347	
+78XXXX	Multiple types of overexertions and bodily reactions	2	T	374	
+7XXXXX	Overexertion and bodily reaction	1	T	322	

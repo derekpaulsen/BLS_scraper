@@ -1,0 +1,6 @@
+labor_force_code	labor_force_text
+E	employed
+L	civilian labor force
+P	civilian noninstitutional population
+R	unemployment rate
+U	unemployed

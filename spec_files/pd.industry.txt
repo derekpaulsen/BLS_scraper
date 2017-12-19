@@ -1,0 +1,953 @@
+industry_code	industry_name
+10__	Metal mining
+101_	Iron ores
+1011	Iron ores
+102_	Copper ores
+1021	Copper ores
+103_	Lead and zinc ores
+1031	Lead and zinc ores
+104_	Gold and silver ores
+1041	Gold ores
+1044	Silver ores
+105_	Bauxite and other aluminum ores
+1051	Bauxite and other aluminum ores
+106_	Ferroalloy ores
+1061	Ferroalloy ores
+108_	Metal mining services
+1081	Metal mining services
+109_	Miscellaneous metal ores
+1094	Uranium-radium-vanadium ores
+1099	Metal ores, n.e.c.
+11__	Anthracite mining
+1111	Anthracite
+12__	Coal mining
+121_	Bituminous coal and lignite
+1211	Bituminous coal and lignite
+1213	Bituminous coal and lignite mining services
+122_	Bituminous coal and lignite mining
+1221	Bituminous coal & lignite surface mining
+1222	Bituminous coal underground mining
+123_	Anthracite mining
+1231	Anthracite mining
+124_	Coal mining services
+1241	Coal mining services
+13__	Oil and gas extraction
+131_	Crude petroleum and natural gas
+1311	Crude petroleum and natural gas
+1312	Crude petroleum and natural gas
+132_	Natural Gas Liquids
+1321	Natural gas liquids
+1322	Natural gas liquids and natural gas residue
+133_	Crude petroleum, natural gas, and natural gas liquids
+1331	Crude petroleum, natural gas and natural gas liquids
+138_	Oil and gas field services
+1381	Drilling oil and gas wells
+1382	Oil and gas field exploration services
+1389	Oil and gas field services, n.e.c.
+14__	Mining and quarrying of non-metallic minerals, except fuels
+141_	Dimension Stone
+1411	Dimension stone
+142_	Crushed and broken stone, including riprap
+1422	Crushed and broken limestone
+1423	Crushed and broken granite, n.e.c.
+1429	Crushed and broken stone, n.e.c.
+144_	Sand and gravel
+1442	Construction sand and gravel
+1446	Industrial sand
+145_	Clay, ceramic, and refractory minerals
+1452	Bentonite
+1453	Fire clay
+1454	Fuller's earth
+1455	Kaolin and ball clay
+1459	Clay and related minerals, n. e. c
+147_	Chemical and fertilizer mineral mining
+1472	Barite
+1474	Potash, soda, and borate minerals
+1475	Phosphate rock
+1476	Rock salt
+1477	Sulfur
+1479	Chemical and fertilizer mineral mining, n.e.c.
+148_	Non-metallic minerals (except fuels) services
+1481	Nonmetallic minerals services (except fuels)
+149_	Miscellaneous nonmetallic minerals, except fuels
+1492	Gypsum mining
+1496	Talc, soapstone, and pyrophyllite
+1499	Miscellaneous nonmetallic minerals
+20__	Food and kindred products
+201_	Meat products
+2011	Meat packing plants
+2013	Sausages and other prepared meat products, made from purchased material
+2015	Poultry and egg processing
+2018	Poultry dressing, poultry and egg processing
+202_	Dairy products
+2021	Creamery butter
+2022	Natural and processed cheese
+2023	Dry, condensed, and evaporated milk products
+2024	Ice cream and frozen desserts
+2026	Fluid milk
+203_	Canned and preserved fruits and vegetables
+2032	Canned specialties
+2033	Canned fruits, vegetables, preserves, jams and jellies
+2034	Dried & dehydrated fruits, vegetables, & soup mixes
+2035	Pickled fruits and vegetables, vegetable sauces and seasonings, and salad dressings
+2037	Frozen fruits and vegetables
+2038	Frozen specialties, n.e.c.
+204_	Grain mill products
+2041	Flour and other grain mill products
+2043	Cereal breakfast foods
+2044	Rice milling
+2045	Prepared flour mixes and doughs
+2046	Wet corn milling
+2047	Dog and cat food
+2048	Prepared animal feeds, n.e.c.
+205_	Bakery products
+2051	Bread and other bakery products, except cookies and crackers
+2052	Cookies and crackers
+2053	Frozen bakery products, except bread
+206_	Sugar and confectionery products
+2061	Raw cane sugar mills
+2062	Cane sugar refining
+2063	Beet sugar processing
+2064	Candy and other confectionery products, and chewing gum
+2065	Confectionery products
+2066	Chocolate and cocoa products
+2067	Chewing gum and gum base
+2068	Salted and roasted nuts and seeds
+207_	Fats and oils
+2074	Cottonseed oil mill products
+2075	Soybean oil mill products
+2076	Vegetable oil mills, n.e.c.
+2077	Animal and marine fats and oils
+2079	Shortening, cooking oils, and margarine
+208_	Beverages
+2082	Malt beverages
+2083	Malt
+2084	Wines, brandy, and brandy spirits
+2085	Distilled and blended liquors
+2086	Bottled and canned soft drinks and carbonated waters
+2087	Flavoring extracts and flavoring syrups, n.e.c.
+209_	Miscellaneous food preparations and kindred products
+2091	Canned and cured fish and seafoods
+2092	Prepared fresh or frozen fish and seafoods
+2095	Coffee
+2096	Potato chips, corn chips, and similar snacks
+2097	Manufactured ice
+2098	Macaroni, spaghetti, vermicelli, and noodles
+2099	Food preparations, n.e.c.
+21__	Tobacco manufactures
+211_	Cigarettes
+2111	Cigarettes
+212_	Cigars
+2121	Cigars
+213_	Chewing and smoking tobacco and snuff
+2131	Chewing and smoking tobacco and snuff
+214_	Tobacco stemming and redrying
+2141	Tobacco stemming and redrying
+22__	Textile mill products
+221_	Cotton broadwoven fabric
+2211	Cotton broadwoven fabric
+222_	Synthetic fiber and silk broadwoven fabric
+2221	Manmade fiber and silk broadwoven fabric
+223_	Wool weaving and finishing
+2231	Wool weaving and finishing
+224_	Narrow fabric mills
+2241	Narrow fabric mills
+225_	Knitting mills
+2251	Women's hosiery, except socks
+2252	Hosiery, n.e.c.
+2253	Knit outerwear
+2254	Knit underwear and nightwear mills
+2257	Circular knit fabric mills
+2258	Lace and warp knit fabric mills
+2259	Knitting mills n.e.c.
+226_	Dyeing and finishing textiles, except wool fabrics and knit goods
+2261	Finished cotton broadwoven fabric
+2262	Finished synthetic fiber and silk broadwoven fabric
+2269	Finishers of textiles, n.e.c.
+227_	Floor covering mills
+2271	Woven carpets and rugs
+2272	Tufted carpets and rugs
+2273	Carpet and rugs
+2279	Carpets and rugs, n.e.c.
+228_	Yarn and thread mills
+2281	Spun yarn
+2282	Texturing, throwing, and winding mill products: cotton, manmade fibers, silk, and wool
+2283	Wool yarn
+2284	Thread mills
+229_	Miscellaneous textile goods
+2291	Felt goods, except woven felt and hats
+2292	Lace goods
+2293	Padding and upholstery filling
+2294	Processed textile waste
+2295	Coated fabrics, not rubberized
+2296	Tire cord and fabric
+2297	Nonwoven fabrics and related products
+2298	Cordage and twine
+2299	All other miscellaneous textile product mills
+23__	Apparel and other finished products made from fabrics and similar materials
+231_	Men's and boys' suits and coats
+2311	Men's and boys' suits and coats
+232_	Men's, youths' & boys' furnishings, work clothing & allied garments
+2321	Men's and boys' shirts, except work shirts
+2322	Men's and boys' underwear and nightwear
+2323	Men's and boys' neckwear
+2325	Men's and boys' separate trousers and slacks
+2326	Men's and boys' work clothing
+2327	Men's and boys' separate trousers
+2328	Men's and boys' work clothing
+2329	Men's and boys' clothing, n.e.c.
+233_	Women's, misses', and juniors' outerwear
+2331	Women's, misses', & juniors' blouses & shirts
+2335	Women's, misses', and juniors' dresses
+2337	Women's, misses', and juniors' suits and coats
+2339	Women's, misses', and juniors' outerwear, n.e.c.
+234_	Women's, misses', children's, and infants' undergarments
+2341	Women's and children's underwear and nightwear
+2342	Brassieres and allied garments
+235_	Hats, caps, and millinery
+2351	Millinery
+2352	Hats and caps, except millinery
+2353	Hats, caps, and millinery
+236_	Girls', children's, and infants' outerwear
+2361	Girls', children's, and infants' dresses, blouses, and shirts
+2363	Girls', children's, & infants' coats & suits
+2369	Girls', children's, & infants' outerwear, n.e.c.
+237_	Fur goods
+2371	Fur goods
+238_	Miscellaneous apparel and accessories
+2381	Fabric dress and work gloves
+2384	Robes and dressing gowns, except children's
+2385	Waterproof outer garments
+2386	Leather and sheep lined clothing
+2387	Apparel belts
+2389	Apparel and accessories, n.e.c.
+239_	Miscellaneous fabricated textile products
+2391	Curtains and draperies
+2392	House furnishings, n.e.c.
+2393	Textile bags
+2394	Canvas and related products
+2395	Pleating and Stitching
+2396	Automotive trimmings, apparel findings, and related products
+2397	Schiffli machine embroideries
+2399	Fabricated textile products, n.e.c.
+24__	Lumber and wood products, except furniture
+241_	Logging camps and logging contractors
+2411	Logging camps and logging contractors
+242_	Sawmills and planing mills
+2421	Sawmills and planing mills
+2426	Hardwood dimension and flooring
+2429	Special product sawmills, n.e.c.
+243_	Millwork, veneer, plywood, and structural wood members
+2431	Millwork
+2434	Wood kitchen cabinets
+2435	Hardwood veneer and plywood
+2436	Softwood plywood
+2439	Structural wood members, n.e.c.
+244_	Wood containers
+2441	Nailed wood boxes and shook
+2448	Wood pallets and skids
+2449	Wood containers, n.e.c.
+245_	Wood buildings and mobile homes
+2451	Mobile homes
+2452	Prefabricated wood buildings and components
+249_	Miscellaneous wood products
+2491	Wood preserving
+2492	Particleboard
+2493	Reconstituted Wood Products
+2499	Wood products, n.e.c.
+25__	Furniture and fixtures
+251_	Household furniture
+2511	Wood household furniture, except upholstered
+2512	Upholstered wood household furniture
+2514	Metal household furniture
+2515	Mattresses and bedsprings
+2517	Wood television, radio, phonograph and sewing machine cabinets
+2519	Household furniture, n.e.c.
+252_	Office furniture
+2521	Wood office furniture
+2522	Nonwood office furniture
+253_	Public building and related furniture
+2531	Public building and related furniture
+254_	Partitions, shelving, lockers, and office and store fixtures
+2541	Wood partitions and fixtures
+2542	Partitions and fixtures, except wood
+259_	Miscellaneous furniture and fixtures
+2591	Drapery hardware and blinds and shades
+2599	Furniture and fixtures, n.e.c.
+26__	Paper and allied products
+261_	Pulp mills
+2611	Pulp mills
+262_	Paper mill products except building paper
+2621	Paper mills
+263_	Paperboard mills
+2631	Paperboard mills
+264_	Miscellaneous converted paper and paperboard products, incl. 2673/9 in place of 2642/9
+2641	Paper coating and glazing
+2642	Envelopes
+2643	Bags, except textile bags
+2645	Die-cut paper and board
+2646	Pressed and molded pulp goods
+2647	Sanitary paper products
+2648	Stationery products
+2649	Converted paper products, n.e.c.
+265_	Paperboard containers and boxes
+2651	Folding paperboard boxes
+2652	Setup paperboard boxes
+2653	Corrugated and solid fiber boxes
+2654	Sanitary food containers
+2655	Fiber cans, drums, and similar products
+2656	Sanitary food containers
+2657	Folding paperboard boxes
+266_	Building paper and building board mills
+2661	Building paper and building board mills
+267_	Converted paper and paperboard products, except containers and boxes
+2671	Paper coated and laminated, packaging
+2672	Paper coated and laminated, n.e.c.
+2673	Plastics, foil and coated paper bags
+2674	Uncoated paper and multiwall bags
+2675	Die-cut paper and paperboard
+2676	Sanitary paper products
+2677	Envelopes
+2678	Stationery products
+2679	Converted paper and paperboard products, n.e.c.
+27__	Printing, publishing, and allied industries
+271_	Newspaper publishing
+2711	Newspaper publishing
+272_	Periodical publishing
+2721	Periodical publishing
+273_	Books
+2731	Book publishing
+2732	Book printing
+274_	Miscellaneous publishing
+2741	Miscellaneous publishing
+275_	Commercial printing
+2751	Commercial printing, letterpress
+2752	Commercial printing, lithographic
+2753	Engraving and plate printing
+2754	Commercial printing, gravure
+2759	Commerical printing, n.e.c.
+276_	Manifold business forms
+2761	Manifold business forms
+277_	Greeting card publishing
+2771	Greeting card publishing
+278_	Blankbooks, looseleaf binders, and bookbinding and related work
+2782	Blankbooks and looseleaf binders
+2789	Bookbinding and related work
+279_	Service industries for the printing trade
+2791	Typesetting
+2793	Photoengraving
+2794	Electrotyping and stereotyping
+2795	Lithographic platemaking services
+2796	Platemaking services
+28__	Chemicals and allied products
+281_	Industrial inorganic chemicals
+2812	Alkalies and chlorine
+2813	Industrial gases
+2816	Inorganic pigments
+2819	Industrial inorganic chemicals, n.e.c.
+282_	Plastic materials and synthetic resins, rubbers, and non-glass fibers
+2821	Plastic materials and resins
+2822	Synthetic rubber
+2823	Cellulosic manmade fibers
+2824	Noncellulosic manmade fibers
+283_	Drugs
+2831	Biological products
+2833	Medicinal chemicals and botanical products (in bulk)
+2834	Pharmaceutical preparations
+2835	In vitro and in vivo diagnostics
+2836	Biological products, except diagnostics
+283D	Pharmaceutical preparations, by OTC, RX, VET
+284_	Soap, detergents, and cleaning preparations, perfumes, cosmetics and other toilet preparations
+2841	Soaps and other detergents
+2842	Specialty cleaning, polishing, and sanitation preparations
+2843	Surface-active agents
+2844	Perfumes, cosmetics, and other toilet preparations
+285_	Paints and allied products
+2851	Paints and allied products
+286_	Industrial organic chemicals
+2861	Gum and wood chemicals
+2865	Cyclic crudes and intermediates
+2869	Industrial organic chemicals, n.e.c.
+287_	Agricultural chemicals
+2873	Nitrogenous fertilizers
+2874	Phosphatic fertilizers
+2875	Fertilizers, mixing only
+2879	Pesticides and other agricultural chemicals
+289_	Miscellaneous chemical products
+2891	Adhesives and sealants
+2892	Explosives
+2893	Printing ink
+2895	Carbon black
+2899	Chemicals and chemical preparations, n.e.c.
+29__	Petroleum refining and related products
+291_	Petroleum refining
+2911	Petroleum refining
+295_	Paving and roofing materials
+2951	Asphalt paving mixtures and blocks
+2952	Asphalt felts and coatings
+299_	Miscellaneous products of petroleum and coal
+2992	Lubricating oils and greases
+2999	Products of petroleum and coal, n.e.c.
+30__	Rubber and miscellaneous plastic products
+301_	Tires and inner tubes
+3011	Tires and inner tubes
+302_	Rubber and plastic footwear
+3021	Rubber and plastic footwear
+3031	Reclaimed rubber
+304_	Rubber and plastic hose and belting
+3041	Rubber and plastics hose and belting
+305_	Gaskets, packing, and sealing devices and rubber and plastics hose and belting
+3052	Rubber and plastics hose and belting
+3053	Gaskets, packing and sealing devices
+306_	Fabricated rubber products, n.e.c.
+3061	Molded, extruded and lathe cut mechanical rubber goods
+3069	Fabricated rubber products, n.e.c.
+307_	Miscellaneous plastic products
+3079	Miscellaneous plastic products
+308_	Miscellaneous plastic products
+3081	Unsupported plastics film and sheet
+3082	Unsupported plastics profile shapes, rods and tubes
+3083	Laminated plastics plate, sheet, and profile shapes
+3084	Plastics pipe
+3085	Plastic bottles
+3086	Plastic foam products
+3087	Custom compounding of purchased resins
+3088	Plastic plumbing fixtures
+3089	Plastics products, n.e.c.
+31__	Leather and leather products
+311_	Leather tanning and finishing
+3111	Leather tanning and finishing
+313_	Boot and shoe cut stock and findings
+3131	Boot and shoe cut stock and findings
+314_	Footwear, except rubber
+3142	House slippers
+3143	Men's footwear
+3144	Women's footwear
+3149	Footwear, except rubber, n.e.c.
+315_	Leather gloves and mittens
+3151	Leather gloves and mittens
+316_	Luggage
+3161	Luggage
+317_	Handbags and other personal leather goods
+3171	Women's and children's handbags and purses
+3172	Personal leather goods except women's handbags and purses
+319_	Leather goods, n.e.c.
+3199	Leather goods, n.e.c.
+32__	Stone, clay, glass, and concrete products
+321_	Flat glass
+3211	Flat glass
+322_	Glass and glassware, pressed or blown
+3221	Glass containers
+3229	Pressed and blown glass, n.e.c.
+323_	Products of purchased glass
+3231	Products of purchased glass
+324_	Hydraulic cement
+3241	Hydraulic cement
+325_	Structural clay products
+3251	Brick and structural clay tile
+3253	Ceramic wall and floor tile
+3255	Clay refractories
+3259	Structural clay products, n.e.c.
+326_	Pottery and related products
+3261	Vitreous plumbing fixtures
+3262	Vitreous china food utensils
+3264	Porcelain electrical supplies
+3268	Pottery products, n.e.c., including earthenware (semivitreous) table and kitchen
+327_	Concrete, gypsum, and plaster products
+3271	Concrete block and brick
+3272	Concrete products, except block and brick
+3273	Ready-mixed concrete
+3274	Lime
+3275	Gypsum products
+328_	Cut stone and stone products
+3281	Cut stone and stone products
+329_	Abrasives, asbestos, and miscellaneous nonmetallic mineral products
+3291	Abrasive products
+3292	Asbestos products
+3293	Gaskets, packing, and sealing devices
+3295	Minerals and earths ground or treated
+3296	Mineral wool
+3297	Nonclay refractories
+3299	Nonmetallic mineral products, n.e.c.
+33__	Primary metal industries
+331_	Blast furnaces, steel works, and rolling and finishing mills
+3312	Blast furnaces and steel mills
+3313	Electrometallurgical products
+3315	Steel wire and related products - mfpm
+3316	Cold finishing of steel shapes - mfpm
+3317	Steel pipe and tubes - mfpm
+332_	Iron and steel foundries
+3321	Gray iron foundries
+3322	Malleable iron foundries
+3324	Steel investment foundries
+3325	Steel foundries, n.e.c.
+333_	Primary smelting and refining of nonferrous metals
+3331	Primary copper
+3332	Primary smelted and refined lead
+3333	Primary zinc
+3334	Primary aluminum
+3339	Primary nonferrous metals, n.e.c.
+334_	Secondary nonferrous metals
+3341	Secondary smelting and refining of nonferrous metals
+335_	Rolling, drawing and extruding of nonferrous metals
+3351	Rolling, drawing and extruding of copper
+3353	Aluminum sheet, plate, foil and welded tube products
+3354	Aluminum extruded products
+3355	Aluminum rolling and drawing, n.e.c.
+3356	Rolling, drawing and extruding of nonferrous metals, except copper and aluminum
+3357	Nonferrous wiredrawing and insulating
+336_	Nonferrous foundries (castings)
+3361	Aluminum foundries
+3362	Brass, bronze and copper foundries
+3363	Aluminum die casting
+3364	Nonferrous die-castings, except aluminum
+3365	Aluminum foundries
+3366	Copper foundries (castings, except die)
+3369	Nonferrous castings, except aluminum and copper, and excluding die-castings
+339_	Miscellaneous primary metal products
+3398	Metal heat treating
+3399	Primary metal products, n.e.c.
+34__	Fabricated metal products, except machinery and transportation equipment
+341_	Metal cans and shipping containers
+3411	Metal cans
+3412	Metal shipping barrels, drums, kegs, and pails
+342_	Cutlery, hand tools, and general hardware
+3421	Cutlery
+3423	Hand and edge tools, except machine tools and handsaws
+3425	Hand saws and saw blades
+3429	Hardware, n.e.c.
+343_	Heating equipment, except electric and warm air; and plumbing fixtures
+3431	Metal sanitary ware
+3432	Plumbing fixture fittings and trim
+3433	Nonelectric heating equipment
+344_	Fabricated structural metal products
+3441	Fabricated structural metal
+3442	Metal doors, sash and trim
+3443	Fabricated plate work (boiler shops)
+3444	Sheet metal work
+3446	Architectural and ornamental metal work
+3448	Prefabricated metal buildings
+3449	Miscellaneous structural metal work
+345_	Screw machine products, and bolts, nuts, screws, rivets, and washers
+3451	Screw machine products
+3452	Bolts, nuts, screws, rivets, and washers
+346_	Metal forgings and stampings
+3462	Iron and steel forgings
+3463	Nonferrous forgings
+3465	Automotive stampings
+3466	Metal crowns and closures
+3469	Metal stampings, n.e.c.
+347_	Coating, engraving, and allied services
+3471	Metal plating and polishing
+3479	Metal coating and allied services
+348_	Ordnance and accessories, except vehicles and guided missiles
+3482	Small arms ammunition, 30mm and under
+3483	Ammunition, except for small arms
+3484	Small arms, 30 mm and under
+3489	Ordnance and accessories n.e.c.
+349_	Miscellaneous fabricated metal products
+3491	Industrial valves
+3492	Fluid power valves and hose fittings
+3493	Steel springs, except wire
+3494	Valves and pipe fittings, n.e.c.
+3495	Wire springs
+3496	Miscellaneous fabricated wire products
+3497	Metal foil and leaf
+3498	Fabricated pipe and fabricated pipe fittings
+3499	Fabricated metal products, n.e.c.
+35__	Machinery, except electrical
+351_	Engines and turbines
+3511	Turbines and turbine generator sets
+3519	Internal combustion engines, n.e.c.
+352_	Farm and garden machinery and equipment
+3523	Farm machinery and equipment
+3524	Lawn and garden equipment
+353_	Construction, mining, and materials handling machinery and equipment
+3531	Construction machinery
+3532	Mining machinery and equipment
+3533	Oil field and gas field machinery and equipment
+3534	Elevators and moving stairways
+3535	Conveyors and conveying equipment
+3536	Overhead traveling cranes, hoists, and monorail systems
+3537	Industrial trucks and tractors
+354_	Metalworking machinery and equipment
+3541	Machine tools, metal cutting types
+3542	Metal forming machine tools
+3543	Industrial patterns
+3544	Special tools, dies, jigs, fixtures and industrial molds
+3545	Machine tool accessories
+3546	Power driven hand tools
+3547	Rolling mill machinery
+3548	Gas and electric welding and soldering equipment
+3549	Metalworking machinery, not elsewhere classified
+355_	Special industry machinery, except metalworking machinery
+3551	Food products machinery
+3552	Textile machinery
+3553	Woodworking machinery
+3554	Paper industries machinery
+3555	Printing trades machinery
+3556	Food products machinery
+3559	Special industry machinery, n.e.c.
+356_	General industrial machinery and equipment
+3561	Pumps and pumping equipment
+3562	Ball and roller bearings
+3563	Air and gas compressors
+3564	Industrial and commercial fans and blowers and air purification equipment
+3565	Packing, packaging and bottling machinery
+3566	Speed changers, industrial high-speed drives, and gears
+3567	Industrial process furnaces and ovens
+3568	Power transmission equipment, n.e.c.
+3569	General industrial machinery, n.e.c.
+357_	Office, computing, and accounting machines
+3571	Electronic computers
+3572	Computer storage devices
+3574	Calculating and accounting machines
+3575	Computer terminals
+3576	Scales and balances, except laboratory
+3577	Computer peripheral equipment, n.e.c.
+3578	Calculating and accounting machines
+3579	Office machines, n.e.c.
+358_	Refrigeration and service industry machinery
+3581	Automatic merchandising machines
+3582	Commercial laundry equipment
+3585	Refrigeration and heating equipment
+3586	Measuring and dispensing pumps
+3589	Service industry machinery, n.e.c.
+359_	Miscellaneous machinery, except electrical
+3592	Carburetors, pistons, piston rings, and valves
+3593	Fluid power cylinders and actuators
+3594	Fluid power pumps and motors
+3596	Scales and balances, except laboratory
+3599	Machinery, except electrical, not elsewhere classified
+36__	Electrical and electronic machinery, equipment, and supplies
+361_	Electric transmission and distribution equipment
+3612	Power, distribution and specialty transformers
+3613	Switchgear and switchboard apparatus
+362_	Electrical industrial apparatus
+3621	Motors and generators
+3622	Industrial controls
+3623	Welding apparatus, electric
+3624	Carbon and graphite products
+3625	Relays and industrial controls
+3629	Electrical industrial apparatus, n.e.c.
+363_	Household appliances
+3631	Household cooking equipment and parts
+3632	Household refrigerators and home and farm freezers
+3633	Household laundry equipment
+3634	Electric housewares and fans
+3635	Household vacuum cleaners
+3636	Sewing machines
+3639	Household appliances, not elsewhere classified
+364_	Electric lighting and wiring equipment
+3641	Electric lamp bulbs and tubes
+3643	Current-carrying wiring devices
+3644	Noncurrent-carrying wiring devices
+3645	Residential lighting fixtures
+3646	Commercial lighting fixtures
+3647	Vehicular lighting equipment
+3648	Lighting equipment, n.e.c.
+365_	Radio and television receiving equipment, except communication types
+3651	Household audio & video equipment
+3652	Phonograph records and prerecorded audio tapes and disks
+366_	Communication equipment
+3661	Telephone & telegraph apparatus
+3662	Radio & television communication equipment
+3663	Radio and television broadcasting and communications equipment
+3669	Communications equipment, n.e.c.
+367_	Electronic components and accessories
+3671	Electron tubes, all types
+3672	Printed circuit boards
+3674	Semiconductors and related devices
+3675	Capacitors for electronic circuitry
+3676	Electronic resistors
+3677	Electronic coils, transformers, and other inductors
+3678	Electronic connector manufacturing
+3679	Electronic components, n.e.c.
+369_	Miscellaneous electrical machinery, equipment, and supplies
+3691	Storage Batteries
+3692	Primary batteries, dry and wet
+3693	X-ray and electromedical equipment
+3694	Electrical equipment for internal combustion engines
+3695	Magnetic and optical recording media
+3699	Electronic and electrical equipment and supplies, n.e.c.
+37__	Transportation equipment
+371_	Motor vehicles and motor vehicle equipment
+3711	Motor vehicles and passenger car bodies
+3713	Truck and bus bodies
+3714	Motor vehicle parts and accessories
+3715	Truck trailers
+3716	Motor homes built on purchased chassis
+372_	Aircraft and parts
+3721	Aircraft
+3724	Aircraft engines and engine parts
+3728	Aircraft parts and equipment, n.e.c.
+373_	Ship and boat building and repairing
+3731	Ship building and repairing
+3732	Boat building and repairing
+374_	Railroad equipment
+3743	Railroad equipment
+375_	Motorcycles, bicycles, and parts
+3751	Motorcycles, bicycles, and parts
+379_	Miscellaneous transportation equipment
+3792	Travel trailers and campers
+3799	Transportation equipment, n.e.c.
+38__	Measuring and controlling instruments; photographic, medical, optical goods; watches, clocks
+381_	Engineering and scientific instruments
+3811	Engineering and scientific instruments
+3812	Search, detection, navigation, and guidance systems and aeronautical and nautical nav syst
+382_	Measuring and controlling instruments
+3821	Laboratory apparatus and furniture
+3822	Automatic building, refrigeration and appliance controls
+3823	Industrial process control instruments
+3824	Fluid meters and counting devices
+3825	Electrical measuring and integrating instruments
+3826	Laboratory analytical instruments
+3827	Optical instruments and lenses
+3829	Measuring and controlling devices, not elsewhere classified
+383_	Optical and analytical instruments
+3832	Optical and analytical instruments
+384_	Surgical, medical, and dental instruments and supplies
+3841	Surgical and medical instruments and apparatus
+3842	Surgical, orthopedic and prosthetic appliances and supplies
+3843	Dental equipment and supplies
+3844	X-ray and other irradiation apparatus
+3845	Electromedical equipment
+385_	Opthalmic goods
+3851	Ophthalmic goods
+386_	Photographic equipment and supplies
+3861	Photographic equipment and supplies
+387_	Watches, clocks and watchcases
+3873	Watches, clocks, watchcases, and parts
+39__	Miscellaneous manufacturing industries
+391_	Jewelry, silverware, and plated ware
+3911	Jewelry, precious metal
+3914	Silverware, plated ware, and stainless steel ware
+3915	Jewelers' materials and lapidary work
+393_	Musical instruments
+3931	Musical instruments
+394_	Toys and amusement, sporting, and athletic goods
+3942	Dolls and stuffed toys
+3944	Games, toys, and children's vehicles, except dolls and bicycles
+3949	Sporting and athletic goods, n.e.c.
+395_	Pens, pencils, and other office and artists' materials
+3951	Pens, mechanical pencils, and parts
+3952	Lead pencils and art goods
+3953	Marking devices
+3955	Carbon paper and inked ribbons
+396_	Costume jewelry, costume novelties, buttons, and miscellaneous notions
+3961	Costume jewelry and costume novelties (except precious metals)
+3962	Artificial flowers
+3963	Buttons
+3964	Needles, pins, and fasteners
+3965	Fasteners, buttons, needles, and pins
+399_	Miscellaneous manufacturing industries
+3991	Brooms and brushes
+3993	Signs and advertising displays
+3995	Burial caskets
+3996	Hard surface floor coverings
+3999	Manufacturing industries, n.e.c.
+40__	Railroad transportation
+401_	Railroads
+4011	Railroads, line-haul operating
+42__	Motor freight transportation and warehousing
+421_	Trucking and courier services, except air
+4212	Local trucking without storage
+4213	Trucking, except local
+4214	Local trucking with storage
+4215	Courier services, except by air
+422_	Public warehousing and storage
+4221	Farm product warehousing and storage
+4222	Refrigerated warehousing and storage
+4225	General warehousing and storage
+43__	United States Postal Service
+4311	United States Postal Service
+44__	Water transportation
+441_	Deep sea foreign transportation of freight
+4412	Deep sea foreign transportation of freight
+442_	Deep sea domestic transportation of freight
+4424	Deep sea domestic transportation of freight
+443_	Freight transportation, Great Lakes-St Lawrence Seaway
+4432	Freight transportation on the Great Lakes/St. Lawrence Seaway
+444_	Water transportation of freight, n.e.c.
+4449	Water transportation of freight, n.e.c.
+4491	Marine cargo handling
+4492	Tugging and towing services
+45__	Transportation by air
+451_	Air transportation, scheduled and air courier services
+4511	Air transportation, certificated carriers
+4512	Air transportation, scheduled
+4513	Air courier services
+452_	Air transportation, nonscheduled
+4522	Air transportation, nonscheduled
+458_	Airports, flying fields, and airport terminal services
+4581	Airports, flying fields, and airport terminal services
+46__	Pipelines, except natural gas
+4612	Crude petroleum pipelines
+4613	Refined petroleum pipelines
+4724	Travel agencies
+4725	Tour operators
+473_	Arrangement of transportation of freight and cargo
+4731	Freight transportation arrangement
+48__	Communications
+481_	Telephone communications
+4812	Wireless telecommunications
+4813	Telephone communications, except radiotelephone
+483_	Radio and television broadcasting stations
+4832	Radio broadcasting
+4833	Television broadcasting stations
+484_	Cable and other pay television services
+4841	Cable and other pay television services
+4981	Electric power and natural gas utilities
+5093	Scrap and waste materials
+521_	Lumber and building materials dealers
+5211	Lumber and building materials dealers
+523_	Paint, glass, and wallpaper stores
+5231	Paint, glass, and wallpaper stores
+525_	Hardware stores
+5251	Hardware stores
+527_	Mobile home dealerships
+5271	Mobile home dealerships
+53__	General merchandise stores
+531_	Department stores
+5311	Department stores
+54__	Food stores
+541_	Grocery stores
+5411	Grocery stores
+542_	Meat and fish (seafood) markets
+5421	Meat and fish (seafood) markets
+543_	Fruit and vegetable markets
+5431	Fruit and vegetable markets
+544_	Candy, nut, and confectionery stores
+5441	Candy, nut, and confectionery stores
+546_	Retail bakeries
+5461	Retail bakeries
+549_	Miscellaneous food stores
+5499	Miscellaneous food stores
+55__	Automotive dealers and gasoline service stations
+551_	New car dealers
+5511	New car dealers
+553_	Auto and home supply stores
+5531	Auto and home supply stores
+554_	Gasoline service stations
+5541	Gasoline service stations
+555_	Boat dealers
+5551	Boat dealers
+556_	Recreational vehicle dealers
+5561	Recreational vehicle dealers
+56__	Apparel and accessory stores
+561_	Men's and boys' clothing and accessory stores
+5611	Men's clothing and accessory stores
+562_	Women's clothing stores
+5621	Women's clothing stores
+565_	Family clothing stores
+5651	Family clothing stores
+566_	Shoe stores
+5661	Shoe stores
+57__	Home furniture, furnishings, and equipment stores
+571_	Home furniture, furnishings, and equipment stores
+5712	Furniture stores
+5713	Floor covering stores
+5722	Household appliance stores
+573_	Radio, tv, consumer electronics, and music stores
+5731	Radio, tv, and electronics stores
+5734	Computer and computer software stores
+5735	Record and prerecorded tape stores
+59__	Miscellaneous retail
+591_	Drug stores and proprietary stores
+5912	Drug stores and proprietary stores
+592_	Liquor stores
+5921	Liquor stores
+594_	Miscellaneous shopping goods stores
+5941	Sporting goods stores
+5942	Book stores
+5943	Stationery stores
+5944	Jewelry stores
+5945	Hobby, toy, and game shops
+5946	Camera and photographic supply stores
+5947	Gift, novelty, and souvenir shops
+5948	Luggage and leather goods stores
+5949	Sewing, needlework, and piece goods
+596_	Nonstore retailers
+5961	Catalog and mail-order houses
+5962	Automatic merchandising machine operators
+598_	Fuel dealers
+599_	Retail stores, not elsewhere classified
+5992	Florists
+5995	Optical goods stores
+5999	Miscellaneous retail stores, n.e.c.
+621_	Security brokers, dealers, and investment bank companies
+6211	Security brokers, dealers, and investment banking companies
+6282	Investment advice
+631_	Life insurance carriers
+6311	Life insurance carriers
+632_	Accident, health, and medical insurance carriers
+6325	Accident, health, and medical insurance carriers
+633_	Property and casualty insurance
+6331	Property and casualty insurance
+6412	Insurance agencies and brokerages
+6512	Operators and lessors of nonresidential buildings
+653_	Real estate agents and managers
+6531	Real estate agents and managers
+701_	Hotels and motels
+7011	Hotels and motels
+7311	Advertising agencies
+734_	Services to dwellings and other public buildings
+7349	Building cleaning and maintenance services, n.e.c.
+736_	Personnel supply services
+7361	Employment agencies
+7363	Help supply services
+7372	Prepackaged software
+7374	Data processing services
+751_	Automotive rental and leasing, without drivers
+7513	Truck rental and leasing
+7514	Passenger car rental
+80__	Health services
+801_	Offices and clinics of doctors of medicine
+8011	Offices of physicians
+8053	Skilled and intermediate care facilities
+806_	Hospitals
+8062	General medical and surgical hospitals
+8063	Psychiatric hospitals
+8069	Specialty hospitals, except psychiatric
+8071	Medical laboratories
+808_	Home health care services
+8082	Home health care services
+81__	Legal services
+811_	Legal services
+8111	Legal services
+871_	Engineering, architectural, and surveying services
+8711	Engineering design, analysis, and consulting services
+8712	Architectural services
+872_	Accounting, auditing, and bookkeeping services
+8721	Accounting, auditing and bookkeeping
+9331	Premiums for property and casualty insurance
+9834	Pharmaceutical preparations
+ACR2	Crude processors
+ACR3	Crude processors
+ACRD	Crude processors
+AFIN	Finished processors
+APR2	Primary processors
+APRI	Primary processors
+ASEM	Semifinished processors
+BBLD	Non-residential buildings
+BCON	Inputs to construction industries
+BFD1	Final demand
+BFD2	Final demand
+BFIN	Finished processors
+BGFI	Capital investment
+BHVY	Other heavy construction
+BHWY	Highway and street construction
+BMNR	Non-residential
+BMRP	Maintenance and repair construction
+BMRS	Residential
+BNEW	New construction
+BPC2	Consumers
+BPCE	Consumers
+BPRI	Primary processors
+BRS1	Single-unit residential
+BRSM	Multi-unit residential
+BSEM	Semifinished processors
+BWAT	Water and sewer supply construction
+OMFG	Total manufacturing industries
+OMIN	Total mining industries
+WINE	Wine

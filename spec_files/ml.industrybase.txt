@@ -1,0 +1,2 @@
+N	Industry data from 1995 to present (NAICS)
+S	Industry data from 1995 to 2001 (SIC)

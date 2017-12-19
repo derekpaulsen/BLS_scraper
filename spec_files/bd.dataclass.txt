@@ -1,0 +1,9 @@
+dataclass_code	dataclass_name	display_level	selectable	sort_sequence
+01	Gross Job Gains	0	T	1	
+02	Expansions	1	T	2	
+03	Openings	1	T	3	
+04	Gross Job Losses	0	T	4	
+05	Contractions	1	T	5	
+06	Closings	1	T	6	
+07	Establishment Births	1	T	7	
+08	Establishment Deaths	1	T	8	

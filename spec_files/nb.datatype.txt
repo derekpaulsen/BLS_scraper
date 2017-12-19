@@ -1,0 +1,16 @@
+datatype_code	datatype_text	display_level	selectable	sort_sequence
+19	Percent participation (unduplicated totals)	0	T	19	
+20	Percent participation	0	T	20	
+21	10th percentile	0	T	21	
+22	25th percentile	0	T	22	
+23	Median	0	T	23	
+24	75th percentile	0	T	24	
+25	90th percentile	0	T	25	
+26	Percent participation across all workers	0	T	26	
+27	Establishments offering benefit	0	T	27	
+28	Number with access to benefit - occupation-level	0	T	28	
+29	Access to benefit - plan-level	0	T	29	
+30	Mean	0	T	30	
+31	Share of premiums	0	T	31	
+32	Take-up rate	0	T	32	
+33	Access to benefit - plan/occ-level	0	T	33	

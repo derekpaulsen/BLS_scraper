@@ -1,0 +1,2 @@
+estimate_code	estimate_text	display_level	selectable	sort_sequence
+02	mean hourly wages	1	T	2	

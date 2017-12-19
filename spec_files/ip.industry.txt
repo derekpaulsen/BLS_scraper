@@ -1,0 +1,847 @@
+industry_code	naics_code	industry_text	display_level	selectable	sort_sequence
+D11____	D11	Agriculture, forestry, fishing, and hunting	0	F	1	
+D21____	D21	Mining	0	F	44	
+D22____	D22	Utilities	0	F	57	
+D23____	D23	Construction	0	F	65	
+D31_33_	D31,32,33	Manufacturing	0	F	86	
+D42____	D42	Wholesale trade	0	F	313	
+D44_45_	D44,45	Retail trade	0	F	339	
+D48_49_	D48,49	Transportation and warehouseing	0	F	454	
+D512___	D512	Motion picture and sound recording industries	2	F	555	
+D517___	D517	Telecommunications	2	F	566	
+D51____	D51	Information	0	F	543	
+D52____	D52	Finance and insurance	0	F	585	
+D53____	D53	Real estate and rental and leasing	0	F	608	
+D54192_	D54192	Photographic Services	4	F	654	
+D54____	D54	Professional, scientific, and technical services	0	F	631	
+D55____	D55	Management of companies and enterprises	0	F	658	
+D5613__	D5613	Employment services	3	F	671	
+D5617__	D5617	Services to buildings and dwellings	3	F	679	
+D56____	D56	Administrative and support and waste management and remediation services	0	F	663	
+D61____	D61	Educational services	0	F	690	
+D62____	D62	Health care and social assistance	0	F	709	
+D71____	D71	Arts, entertainment, and recreation	0	F	756	
+D72____	D72	Accommodation and food services	0	F	782	
+D8122__	D8122	Death care services	3	F	816	
+D8129__	D8129	Other personal services	3	F	826	
+D81____	D81	Other services (except public administration)	0	F	802	
+D90____	D90	Government	0	F	845	
+N1111__	1111	Oilseed and grain farming	3	T	3	
+N11121_	11121	Vegetable and melon farming	4	T	5	
+N1112__	1112	Vegetable and melon farming	3	T	4	
+N1113__	1113	Fruit and tree nut farming	3	T	6	
+N1114__	1114	Greenhouse, nursery, and floriculture production	3	T	7	
+N1119__	1119	Other crop farming	3	T	8	
+N111___	111	Crop production	2	T	2	
+N1121__	1121	Cattle ranching and farming	3	T	10	
+N112210	112210	Hog and pig farming	5	T	13	
+N11221_	11221	Hog and pig farming	4	T	12	
+N1122__	1122	Hog and pig farming	3	T	11	
+N1123__	1123	Poultry and egg production	3	T	14	
+N1124__	1124	Sheep and goat farming	3	T	15	
+N11251_	11251	Aquaculture	4	T	17	
+N1125__	1125	Aquaculture	3	T	16	
+N1129__	1129	Other animal production	3	T	18	
+N112___	112	Animal production	2	T	9	
+N113110	113110	Timber tract operations	5	T	22	
+N11311_	11311	Timber tract operations	4	T	21	
+N1131__	1131	Timber tract operations	3	T	20	
+N113210	113210	Forest nurseries and gathering of forest products	5	T	25	
+N11321_	11321	Forest nurseries and gathering of forest products	4	T	24	
+N1132__	1132	Forest nurseries and gathering of forest products	3	T	23	
+N113310	113310	Logging	5	T	28	
+N11331_	11331	Logging	4	T	27	
+N1133__	1133	Logging	3	T	26	
+N113___	113	Forestry and logging	2	T	19	
+N11411_	11411	Fishing	4	T	31	
+N1141__	1141	Fishing	3	T	30	
+N114210	114210	Hunting and trapping	5	T	34	
+N11421_	11421	Hunting and trapping	4	T	33	
+N1142__	1142	Hunting and trapping	3	T	32	
+N114___	114	Fishing, hunting and trapping	2	T	29	
+N11511_	11511	Support activities for crop production	4	T	37	
+N1151__	1151	Support activities for crop production	3	T	36	
+N115210	115210	Support activities for animal production	5	T	40	
+N11521_	11521	Support activities for animal production	4	T	39	
+N1152__	1152	Support activities for animal production	3	T	38	
+N115310	115310	Support activities for forestry	5	T	43	
+N11531_	11531	Support activities for forestry	4	T	42	
+N1153__	1153	Support activities for forestry	3	T	41	
+N115___	115	Support activities for agriculture and forestry	2	T	35	
+N21111_	21111	Oil and gas extraction	4	T	48	
+N2111__	2111	Oil and gas extraction	3	T	47	
+N211___	211	Oil and gas extraction	2	T	46	
+N21211_	21211	Coal mining	4	T	51	
+N2121__	2121	Coal mining	3	T	50	
+N2122__	2122	Metal ore mining	3	T	52	
+N2123__	2123	Nonmetallic mineral mining and quarrying	3	T	53	
+N212___	212	Mining (except oil and gas)	2	T	49	
+N21311_	21311	Support activities for mining	4	T	56	
+N2131__	2131	Support activities for mining	3	T	55	
+N213___	213	Support activities for mining	2	T	54	
+N21____	21	Mining	1	T	45	
+N2211__	2211	Electric power generation, transmission and distribution	3	T	60	
+N221210	221210	Natural gas distribution	5	T	63	
+N22121_	22121	Natural gas distribution	4	T	62	
+N2212__	2212	Natural gas distribution	3	T	61	
+N2213__	2213	Water, sewage and other systems	3	T	64	
+N221___	221	Utilities	2	T	59	
+N22____	22	Utilities	1	T	58	
+N23611_	23611	Residential building construction	4	T	68	
+N2361__	2361	Residential building construction	3	T	67	
+N2362__	2362	Nonresidential building construction	3	T	69	
+N236___	236	Construction of buildings	2	T	66	
+N2371__	2371	Utility system construction	3	T	71	
+N237210	237210	Land subdivision	5	T	74	
+N23721_	23721	Land subdivision	4	T	73	
+N2372__	2372	Land subdivision	3	T	72	
+N237310	237310	Highway, street, and bridge construction	5	T	77	
+N23731_	23731	Highway, street, and bridge construction	4	T	76	
+N2373__	2373	Highway, street, and bridge construction	3	T	75	
+N237990	237990	Other heavy and civil engineering construction	5	T	80	
+N23799_	23799	Other heavy and civil engineering construction	4	T	79	
+N2379__	2379	Other heavy and civil engineering construction	3	T	78	
+N237___	237	Heavy and civil engineering construction	2	T	70	
+N2381__	2381	Building foundation and exterior contractors	3	T	82	
+N2382__	2382	Building equipment contractors	3	T	83	
+N2383__	2383	Building finishing contractors	3	T	84	
+N2389__	2389	Other specialty trade contractors	3	T	85	
+N238___	238	Specialty trade contractors	2	T	81	
+N31111_	31111	Animal food manufacturing	4	T	89	
+N3111__	3111	Animal food manufacturing	3	T	88	
+N3112__	3112	Grain and oilseed milling	3	T	90	
+N3113__	3113	Sugar and confectionery product manufacturing	3	T	91	
+N31141_	31141	Frozen food manufacturing	4	T	93	
+N31142_	31142	Fruit and vegetable canning, pickling, and drying	4	T	94	
+N3114__	3114	Fruit and vegetable preserving and specialty food manufacturing	3	T	92	
+N3115__	3115	Dairy product manufacturing	3	T	95	
+N311611	311611	Animal (except poultry) slaughtering	5	T	98	
+N311615	311615	Poultry processing	5	T	99	
+N31161_	31161	Animal slaughtering and processing	4	T	97	
+N3116__	3116	Animal slaughtering and processing	3	T	96	
+N311710	311710	Seafood product preparation and packaging	5	T	102	
+N31171_	31171	Seafood product preparation and packaging	4	T	101	
+N3117__	3117	Seafood product preparation and packaging	3	T	100	
+N311811	311811	Retail bakeries	5	T	105	
+N31181_	31181	Bread and bakery product manufacturing	4	T	104	
+N3118__	3118	Bakeries and tortilla manufacturing	3	T	103	
+N3119__	3119	Other food manufacturing	3	T	106	
+N311___	311	Food manufacturing	2	T	87	
+N3121__	3121	Beverage manufacturing	3	T	108	
+N312230	312230	Tobacco manufacturing	5	T	111	
+N31223_	31223	Tobacco manufacturing	4	T	110	
+N3122__	3122	Tobacco manufacturing	3	T	109	
+N312___	312	Beverage and tobacco product manufacturing	2	T	107	
+N313110	313110	Fiber, yarn, and thread mills	5	T	115	
+N31311_	31311	Fiber, yarn, and thread mills	4	T	114	
+N3131__	3131	Fiber, yarn, and thread mills	3	T	113	
+N3132__	3132	Fabric mills	3	T	116	
+N3133__	3133	Textile and fabric finishing and fabric coating mills	3	T	117	
+N313___	313	Textile mills	2	T	112	
+N3141__	3141	Textile furnishings mills	3	T	119	
+N3149__	3149	Other textile product mills	3	T	120	
+N314___	314	Textile product mills	2	T	118	
+N3151__	3151	Apparel knitting mills	3	T	122	
+N3152__	3152	Cut and sew apparel manufacturing	3	T	123	
+N315990	315990	Apparel accessories and other apparel manufacturing	5	T	126	
+N31599_	31599	Apparel accessories and other apparel manufacturing	4	T	125	
+N3159__	3159	Apparel accessories and other apparel manufacturing	3	T	124	
+N315___	315	Apparel manufacturing	2	T	121	
+N316110	316110	Leather and hide tanning and finishing	5	T	130	
+N31611_	31611	Leather and hide tanning and finishing	4	T	129	
+N3161__	3161	Leather and hide tanning and finishing	3	T	128	
+N316210	316210	Footwear manufacturing	5	T	133	
+N31621_	31621	Footwear manufacturing	4	T	132	
+N3162__	3162	Footwear manufacturing	3	T	131	
+N31699_	31699	Other leather and allied product manufacturing	4	T	135	
+N3169__	3169	Other leather and allied product manufacturing	3	T	134	
+N316___	316	Leather and allied product manufacturing	2	T	127	
+N32111_	32111	Sawmills and wood preservation	4	T	138	
+N3211__	3211	Sawmills and wood preservation	3	T	137	
+N32121_	32121	Veneer, plywood, and engineered wood product manufacturing	4	T	140	
+N3212__	3212	Veneer, plywood, and engineered wood product manufacturing	3	T	139	
+N321911	321911	Wood windows and doors	5	T	143	
+N32191_	32191	Millwork	4	T	142	
+N321920	321920	Wood container and pallet manufacturing	5	T	145	
+N32192_	32192	Wood container and pallet manufacturing	4	T	144	
+N32199_	32199	All other wood product manufacturing	4	T	146	
+N3219__	3219	Other wood product manufacturing	3	T	141	
+N321___	321	Wood product manufacturing	2	T	136	
+N3221__	3221	Pulp, paper, and paperboard mills	3	T	148	
+N322211	322211	Corrugated and solid fiber boxes	5	T	151	
+N32221_	32221	Paperboard container manufacturing	4	T	150	
+N322220	322220	Paper bags and coated and treated paper	5	T	153	
+N32222_	32222	Paper bags and coated and treated paper	4	T	152	
+N3222__	3222	Converted paper product manufacturing	3	T	149	
+N322___	322	Paper manufacturing	2	T	147	
+N3231__	3231	Printing and related support activities	3	T	155	
+N323___	323	Printing and related support activities	2	T	154	
+N324110	324110	Petroleum refineries	5	T	159	
+N32411_	32411	Petroleum refineries	4	T	158	
+N3241__	3241	Petroleum and coal products manufacturing	3	T	157	
+N324___	324	Petroleum and coal products manufacturing	2	T	156	
+N3251__	3251	Basic chemical manufacturing	3	T	161	
+N3252__	3252	Resin, synthetic rubber, and artificial synthetic fibers and filaments manufacturing	3	T	162	
+N3253__	3253	Pesticide, fertilizer, and other agricultural chemical manufacturing	3	T	163	
+N32541_	32541	Pharmaceutical and medicine manufacturing	4	T	165	
+N3254__	3254	Pharmaceutical and medicine manufacturing	3	T	164	
+N3255__	3255	Paint, coating, and adhesive manufacturing	3	T	166	
+N3256__	3256	Soap, cleaning compound, and toilet preparation manufacturing	3	T	167	
+N3259__	3259	Other chemical product and preparation manufacturing	3	T	168	
+N325___	325	Chemical manufacturing	2	T	160	
+N32611_	32611	Plastics packaging materials and unlaminated film and sheet manufacturing	4	T	171	
+N32612_	32612	Plastics pipe, pipe fitting, and unlaminated profile shape manufacturing	4	T	172	
+N32619_	32619	Other plastics product manufacturing	4	T	173	
+N3261__	3261	Plastics product manufacturing	3	T	170	
+N3262__	3262	Rubber product manufacturing	3	T	174	
+N326___	326	Plastics and rubber products manufacturing	2	T	169	
+N3271__	3271	Clay product and refractory manufacturing	3	T	176	
+N32721_	32721	Glass and glass product manufacturing	4	T	178	
+N3272__	3272	Glass and glass product manufacturing	3	T	177	
+N327320	327320	Ready-mix concrete manufacturing	5	T	181	
+N32732_	32732	Ready-mix concrete manufacturing	4	T	180	
+N3273__	3273	Cement and concrete product manufacturing	3	T	179	
+N3274__	3274	Lime and gypsum product manufacturing	3	T	182	
+N3279__	3279	Other nonmetallic mineral product manufacturing	3	T	183	
+N327___	327	Nonmetallic mineral product manufacturing	2	T	175	
+N331110	331110	Iron and steel mills and ferroalloy production	5	T	187	
+N33111_	33111	Iron and steel mills and ferroalloy production	4	T	186	
+N3311__	3311	Iron and steel mills and ferroalloy production	3	T	185	
+N3312__	3312	Steel product manufacturing from purchased steel	3	T	188	
+N33131_	33131	Alumina and aluminum production and processing	4	T	190	
+N3313__	3313	Alumina and aluminum production and processing	3	T	189	
+N3314__	3314	Nonferrous metal (except aluminum) production and processing	3	T	191	
+N3315__	3315	Foundries	3	T	192	
+N331___	331	Primary metal manufacturing	2	T	184	
+N33211_	33211	Forging and stamping	4	T	195	
+N3321__	3321	Forging and stamping	3	T	194	
+N33221_	33221	Cutlery and handtool manufacturing	4	T	197	
+N3322__	3322	Cutlery and handtool manufacturing	3	T	196	
+N332312	332312	Fabricated structural metals	5	T	200	
+N33231_	33231	Plate work and fabricated structural product manufacturing	4	T	199	
+N332321	332321	Metal windows and doors	5	T	202	
+N332322	332322	Sheet metal work	5	T	203	
+N332323	332323	Ornamental and architectural metal work	5	T	204	
+N33232_	33232	Ornamental and architectural metal products manufacturing	4	T	201	
+N3323__	3323	Architectural and structural metals manufacturing	3	T	198	
+N3324__	3324	Boiler, tank, and shipping container manufacturing	3	T	205	
+N332510	332510	Hardware manufacturing	5	T	208	
+N33251_	33251	Hardware manufacturing	4	T	207	
+N3325__	3325	Hardware manufacturing	3	T	206	
+N33261_	33261	Spring and wire product manufacturing	4	T	210	
+N3326__	3326	Spring and wire product manufacturing	3	T	209	
+N332710	332710	Machine shops	5	T	213	
+N33271_	33271	Machine shops	4	T	212	
+N33272_	33272	Turned product and screw, nut, and bolt manufacturing	4	T	214	
+N3327__	3327	Machine shops; turned product; and screw, nut, and bolt manufacturing	3	T	211	
+N332813	332813	Electroplating, plating, polishing, anodizing and coloring	5	T	217	
+N33281_	33281	Coating, engraving, heat treating, and allied activities	4	T	216	
+N3328__	3328	Coating, engraving, heat treating, and allied activities	3	T	215	
+N33291_	33291	Metal valve manufacturing	4	T	219	
+N33299_	33299	All other fabricated metal product manufacturing	4	T	220	
+N3329__	3329	Other fabricated metal product manufacturing	3	T	218	
+N332___	332	Fabricated metal product manufacturing	2	T	193	
+N333111	333111	Farm machinery and equipment manufacturing	5	T	223	
+N3331__	3331	Agriculture, construction, and mining machinery	3	T	222	
+N33324_	33324	Industrial machinery	4	T	225	
+N3332__	3332	Industrial machinery	3	T	224	
+N33331_	33331	Commercial and service industry machinery	4	T	227	
+N3333__	3333	Commercial and service industry machinery	3	T	226	
+N33341_	33341	Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing	4	T	229	
+N3334__	3334	Ventilation, heating, air-conditioning, and commercial refrigeration equipment manufacturing	3	T	228	
+N333514	333514	Special die and tool, die set, jig, and fixture manufacturing	5	T	232	
+N333517	333517	Machine tool manufacturing	5	T	233	
+N33351_	33351	Metalworking machinery manufacturing	4	T	231	
+N3335__	3335	Metalworking machinery manufacturing	3	T	230	
+N33361_	33361	Engine, turbine, and power transmission equipment manufacturing	4	T	235	
+N3336__	3336	Engine, turbine, and power transmission equipment manufacturing	3	T	234	
+N33391_	33391	Pump and compressor manufacturing	4	T	237	
+N33392_	33392	Material handling equipment manufacturing	4	T	238	
+N33399_	33399	All other general purpose machinery manufacturing	4	T	239	
+N3339__	3339	Other general purpose machinery manufacturing	3	T	236	
+N333___	333	Machinery manufacturing	2	T	221	
+N33411_	33411	Computer and peripheral equipment manufacturing	4	T	242	
+N3341__	3341	Computer and peripheral equipment manufacturing	3	T	241	
+N334220	334220	Radio and television broadcasting and wireless communications equipment manufacturing	5	T	245	
+N33422_	33422	Radio and television broadcasting and wireless communications equipment manufacturing	4	T	244	
+N3342__	3342	Communications equipment manufacturing	3	T	243	
+N334310	334310	Audio and video equipment manufacturing	5	T	248	
+N33431_	33431	Audio and video equipment manufacturing	4	T	247	
+N3343__	3343	Audio and video equipment manufacturing	3	T	246	
+N334413	334413	Semiconductor and related device manufacturing	5	T	251	
+N33441_	33441	Semiconductor and other electronic component manufacturing	4	T	250	
+N3344__	3344	Semiconductor and other electronic component manufacturing	3	T	249	
+N334513	334513	Industrial process variable instruments	5	T	254	
+N33451_	33451	Navigational, measuring, electromedical, and control instruments manufacturing	4	T	253	
+N3345__	3345	Navigational, measuring, electromedical, and control instruments manufacturing	3	T	252	
+N33461_	33461	Manufacturing and reproducing magnetic and optical media	4	T	256	
+N3346__	3346	Manufacturing and reproducing magnetic and optical media	3	T	255	
+N334___	334	Computer and electronic product manufacturing	2	T	240	
+N3351__	3351	Electric lighting equipment manufacturing	3	T	258	
+N3352__	3352	Household appliance manufacturing	3	T	259	
+N33531_	33531	Electrical equipment manufacturing	4	T	261	
+N3353__	3353	Electrical equipment manufacturing	3	T	260	
+N3359__	3359	Other electrical equipment and component manufacturing	3	T	262	
+N335___	335	Electrical equipment, appliance, and component manufacturing	2	T	257	
+N336111	336111	Automobile manufacturing	5	T	266	
+N336112	336112	Light truck and utility vehicle manufacturing	5	T	267	
+N33611_	33611	Automobile and light duty motor vehicle manufacturing	4	T	265	
+N336120	336120	Heavy duty truck manufacturing	5	T	269	
+N33612_	33612	Heavy duty truck manufacturing	4	T	268	
+N3361__	3361	Motor vehicle manufacturing	3	T	264	
+N336211	336211	Motor vehicle body manufacturing	5	T	272	
+N33621_	33621	Motor vehicle body and trailer manufacturing	4	T	271	
+N3362__	3362	Motor vehicle body and trailer manufacturing	3	T	270	
+N336310	336310	Motor vehicle gasoline engines and engine parts	5	T	275	
+N33631_	33631	Motor vehicle gasoline engines and engine parts	4	T	274	
+N336320	336320	Motor vehicle electrical and electronic equipment	5	T	277	
+N33632_	33632	Motor vehicle electrical and electronic equipment	4	T	276	
+N336350	336350	Motor vehicle transmission and power train parts manufacturing	5	T	279	
+N33635_	33635	Motor vehicle transmission and power train parts manufacturing	4	T	278	
+N336370	336370	Motor vehicle metal stamping	5	T	281	
+N33637_	33637	Motor vehicle metal stamping	4	T	280	
+N336390	336390	Other motor vehicle parts	5	T	283	
+N33639_	33639	Other motor vehicle parts	4	T	282	
+N3363__	3363	Motor vehicle parts manufacturing	3	T	273	
+N336411	336411	Aircraft manufacturing	5	T	286	
+N33641_	33641	Aerospace product and parts manufacturing	4	T	285	
+N3364__	3364	Aerospace product and parts manufacturing	3	T	284	
+N336510	336510	Railroad rolling stock manufacturing	5	T	289	
+N33651_	33651	Railroad rolling stock manufacturing	4	T	288	
+N3365__	3365	Railroad rolling stock manufacturing	3	T	287	
+N33661_	33661	Ship and boat building	4	T	291	
+N3366__	3366	Ship and boat building	3	T	290	
+N33699_	33699	Other transportation equipment manufacturing	4	T	293	
+N3369__	3369	Other transportation equipment manufacturing	3	T	292	
+N336___	336	Transportation equipment manufacturing	2	T	263	
+N337110	337110	Wood kitchen cabinet and countertop manufacturing	5	T	297	
+N33711_	33711	Wood kitchen cabinet and countertop manufacturing	4	T	296	
+N337121	337121	Upholstered household furniture manufacturing	5	T	298	
+N337122	337122	Nonupholstered wood household furniture manufacturing	5	T	299	
+N33712_	33712	Household and institutional furniture manufacturing	4	T	300	
+N3371__	3371	Household and institutional furniture and kitchen cabinet manufacturing	3	T	295	
+N337215	337215	Showcase, partition, shelving, and locker manufacturing	5	T	303	
+N33721_	33721	Office furniture (including fixtures) manufacturing	4	T	302	
+N3372__	3372	Office furniture (including fixtures) manufacturing	3	T	301	
+N3379__	3379	Other furniture related product manufacturing	3	T	304	
+N337___	337	Furniture and related product manufacturing	2	T	294	
+N339113	339113	Surgical appliance and supplies manufacturing	5	T	308	
+N339116	339116	Dental laboratories	5	T	309	
+N33911_	33911	Medical equipment and supplies manufacturing	4	T	307	
+N3391__	3391	Medical equipment and supplies manufacturing	3	T	306	
+N339950	339950	Sign manufacturing	5	T	312	
+N33995_	33995	Sign manufacturing	4	T	311	
+N3399__	3399	Other miscellaneous manufacturing	3	T	310	
+N339___	339	Miscellaneous manufacturing	2	T	305	
+N4231__	4231	Motor vehicle and motor vehicle parts and supplies merchant wholesalers	3	T	316	
+N4232__	4232	Furniture and home furnishing merchant wholesalers	3	T	317	
+N4233__	4233	Lumber and other construction materials merchant wholesalers	3	T	318	
+N4234__	4234	Professional and commercial equipment and supplies merchant wholesalers	3	T	319	
+N4235__	4235	Metal and mineral (except petroleum) merchant wholesalers	3	T	320	
+N4236__	4236	Electrical and electronic goods merchant wholesalers	3	T	321	
+N4237__	4237	Hardware, and plumbing and heating equipment and supplies merchant wholesalers	3	T	322	
+N4238__	4238	Machinery, equipment, and supplies merchant wholesalers	3	T	323	
+N4239__	4239	Miscellaneous durable goods merchant wholesalers	3	T	324	
+N423___	423	Merchant wholesalers, durable goods	2	T	315	
+N4241__	4241	Paper and paper product merchant wholesalers	3	T	326	
+N424210	424210	Drugs and druggists' sundries merchant wholesalers	5	T	329	
+N42421_	42421	Drugs and druggists' sundries merchant wholesalers	4	T	328	
+N4242__	4242	Drugs and druggists' sundries merchant wholesalers	3	T	327	
+N4243__	4243	Apparel, piece goods, and notions merchant wholesalers	3	T	330	
+N4244__	4244	Grocery and related product wholesalers	3	T	331	
+N4245__	4245	Farm product raw material merchant wholesalers	3	T	332	
+N4246__	4246	Chemical and allied products merchant wholesalers	3	T	333	
+N4247__	4247	Petroleum and petroleum products merchant wholesalers	3	T	334	
+N4248__	4248	Beer, wine, and distilled alcoholic beverage merchant wholesalers	3	T	335	
+N4249__	4249	Miscellaneous nondurable goods merchant wholesalers	3	T	336	
+N424___	424	Merchant wholesalers, nondurable goods	2	T	325	
+N4251__	4251	Wholesale electronic markets and agents and brokers	3	T	338	
+N425___	425	Wholesale electronic markets and agents and brokers	2	T	337	
+N42____	42	Wholesale trade	1	T	314	
+N441110	441110	New car dealers	5	T	344	
+N44111_	44111	New car dealers	4	T	343	
+N441120	441120	Used car dealers	5	T	346	
+N44112_	44112	Used car dealers	4	T	345	
+N4411__	4411	Automobile dealers	3	T	342	
+N4412__	4412	Other motor vehicle dealers	3	T	347	
+N441310	441310	Automotive parts and accessories stores	5	T	350	
+N44131_	44131	Automotive parts and accessories stores	4	T	349	
+N441320	441320	Tire dealers	5	T	352	
+N44132_	44132	Tire dealers	4	T	351	
+N4413__	4413	Automotive parts, accessories, and tire stores	3	T	348	
+N441___	441	Motor vehicle and parts dealers	2	T	341	
+N442110	442110	Furniture stores	5	T	356	
+N44211_	44211	Furniture stores	4	T	355	
+N4421__	4421	Furniture stores	3	T	354	
+N442210	442210	Floor covering stores	5	T	359	
+N44221_	44221	Floor covering stores	4	T	358	
+N44229_	44229	Other home furnishings stores	4	T	360	
+N4422__	4422	Home furnishings stores	3	T	357	
+N442___	442	Furniture and home furnishings stores	2	T	353	
+N443141	443141	Household appliance stores	5	T	364	
+N443142	443142	Electronics stores	5	T	365	
+N44314_	44314	Electronics and appliance stores	4	T	363	
+N4431__	4431	Electronics and appliance stores	3	T	362	
+N443___	443	Electronics and appliance stores	2	T	361	
+N444110	444110	Home centers	5	T	369	
+N44411_	44411	Home centers	4	T	368	
+N444130	444130	Hardware stores	5	T	371	
+N44413_	44413	Hardware stores	4	T	370	
+N4441__	4441	Building material and supplies dealers	3	T	367	
+N444210	444210	Outdoor power equipment stores	5	T	374	
+N44421_	44421	Outdoor power equipment stores	4	T	373	
+N444220	444220	Nursery, garden center, and farm supply stores	5	T	376	
+N44422_	44422	Nursery, garden center, and farm supply stores	4	T	375	
+N4442__	4442	Lawn and garden equipment and supplies stores	3	T	372	
+N444___	444	Building material and garden equipment and supplies dealers	2	T	366	
+N445110	445110	Supermarkets and other grocery (except convenience) stores	5	T	380	
+N44511_	44511	Supermarkets and other grocery (except convenience) stores	4	T	379	
+N445120	445120	Convenience stores	5	T	382	
+N44512_	44512	Convenience stores	4	T	381	
+N4451__	4451	Grocery stores	3	T	378	
+N4452__	4452	Specialty food stores	3	T	383	
+N445310	445310	Beer, wine, and liquor stores	5	T	386	
+N44531_	44531	Beer, wine, and liquor stores	4	T	385	
+N4453__	4453	Beer, wine, and liquor stores	3	T	384	
+N445___	445	Food and beverage stores	2	T	377	
+N446110	446110	Pharmacies and drug stores	5	T	390	
+N44611_	44611	Pharmacies and drug stores	4	T	389	
+N446120	446120	Cosmetics, beauty supplies, and perfume stores	5	T	392	
+N44612_	44612	Cosmetics, beauty supplies, and perfume stores	4	T	391	
+N446130	446130	Optical goods stores	5	T	394	
+N44613_	44613	Optical goods stores	4	T	393	
+N44619_	44619	Other health and personal care stores	4	T	395	
+N4461__	4461	Health and personal care stores	3	T	388	
+N446___	446	Health and personal care stores	2	T	387	
+N447110	447110	Gasoline stations with convenience stores	5	T	399	
+N44711_	44711	Gasoline stations with convenience stores	4	T	398	
+N447190	447190	Other gasoline stations	5	T	401	
+N44719_	44719	Other gasoline stations	4	T	400	
+N4471__	4471	Gasoline stations	3	T	397	
+N447___	447	Gasoline stations	2	T	396	
+N448110	448110	Men's clothing stores	5	T	405	
+N44811_	44811	Men's clothing stores	4	T	404	
+N448120	448120	Women's clothing stores	5	T	407	
+N44812_	44812	Women's clothing stores	4	T	406	
+N448140	448140	Family clothing stores	5	T	409	
+N44814_	44814	Family clothing stores	4	T	408	
+N448150	448150	Clothing accessories stores	5	T	411	
+N44815_	44815	Clothing accessories stores	4	T	410	
+N4481__	4481	Clothing stores	3	T	403	
+N448210	448210	Shoe stores	5	T	414	
+N44821_	44821	Shoe stores	4	T	413	
+N4482__	4482	Shoe stores	3	T	412	
+N4483__	4483	Jewelry, luggage, and leather goods stores	3	T	415	
+N448___	448	Clothing and clothing accessories stores	2	T	402	
+N44_45_	44,45	Retail trade	1	T	340	
+N451110	451110	Sporting goods stores	5	T	419	
+N45111_	45111	Sporting goods stores	4	T	418	
+N451120	451120	Hobby, toy, and game stores	5	T	421	
+N45112_	45112	Hobby, toy, and game stores	4	T	420	
+N4511__	4511	Sporting goods, hobby, and musical instrument stores	3	T	417	
+N45121_	45121	Book stores and news dealers	4	T	423	
+N4512__	4512	Book stores and news dealers	3	T	422	
+N451___	451	Sporting goods, hobby, book, and music stores	2	T	416	
+N45211_	45211	Department stores	4	T	426	
+N4521__	4521	Department stores	3	T	425	
+N4529__	4529	Other general merchandise stores	3	T	427	
+N452___	452	General merchandise stores	2	T	424	
+N453110	453110	Florists	5	T	431	
+N45311_	45311	Florists	4	T	430	
+N4531__	4531	Florists	3	T	429	
+N453210	453210	Office supplies and stationery stores	5	T	434	
+N45321_	45321	Office supplies and stationery stores	4	T	433	
+N453220	453220	Gift, novelty, and souvenir stores	5	T	436	
+N45322_	45322	Gift, novelty, and souvenir stores	4	T	435	
+N4532__	4532	Office supplies, stationery, and gift stores	3	T	432	
+N453310	453310	Used merchandise stores	5	T	439	
+N45331_	45331	Used merchandise stores	4	T	438	
+N4533__	4533	Used merchandise stores	3	T	437	
+N453910	453910	Pet and pet supplies stores	5	T	442	
+N45391_	45391	Pet and pet supplies stores	4	T	441	
+N4539__	4539	Other miscellaneous store retailers	3	T	440	
+N453___	453	Miscellaneous store retailers	2	T	428	
+N45411_	45411	Electronic shopping and mail-order houses	4	T	445	
+N4541__	4541	Electronic shopping and mail-order houses	3	T	444	
+N454210	454210	Vending machine operators	5	T	448	
+N45421_	45421	Vending machine operators	4	T	447	
+N4542__	4542	Vending machine operators	3	T	446	
+N454310	454310	Fuel dealers	5	T	451	
+N45431_	45431	Fuel dealers	4	T	450	
+N454390	454390	Other direct selling establishments	5	T	453	
+N45439_	45439	Other direct selling establishments	4	T	452	
+N4543__	4543	Direct selling establishments	3	T	449	
+N454___	454	Nonstore retailers	2	T	443	
+N48111_	48111	Scheduled air transportation	4	T	457	
+N4811__	4811	Scheduled air transportation	3	T	456	
+N48121_	48121	Nonscheduled air transportation	4	T	459	
+N4812__	4812	Nonscheduled air transportation	3	T	458	
+N481___	481	Air transportation	2	T	455	
+N482111	482111	Line-haul railroads	5	T	463	
+N48211_	48211	Rail transportation	4	T	462	
+N4821__	4821	Rail transportation	3	T	461	
+N482___	482	Rail transportation	2	T	460	
+N48311_	48311	Deep sea, coastal, and Great Lakes water transportation	4	T	466	
+N4831__	4831	Deep sea, coastal, and Great Lakes water transportation	3	T	465	
+N48321_	48321	Inland water transportation	4	T	468	
+N4832__	4832	Inland water transportation	3	T	467	
+N483___	483	Water transportation	2	T	464	
+N484110	484110	General freight trucking, local	5	T	472	
+N48411_	48411	General freight trucking, local	4	T	471	
+N48412_	48412	General freight trucking, long-distance	4	T	473	
+N4841__	4841	General freight trucking	3	T	470	
+N484210	484210	Used household and office goods moving	5	T	476	
+N48421_	48421	Used household and office goods moving	4	T	475	
+N484220	484220	Specialized freight (except used goods) trucking, local	5	T	478	
+N48422_	48422	Specialized freight (except used goods) trucking, local	4	T	477	
+N484230	484230	Specialized freight (except used goods) trucking, long-distance	5	T	480	
+N48423_	48423	Specialized freight (except used goods) trucking, long-distance	4	T	479	
+N4842__	4842	Specialized freight trucking	3	T	474	
+N484___	484	Truck transportation	2	T	469	
+N48511_	48511	Urban transit systems	4	T	483	
+N4851__	4851	Urban transit systems	3	T	482	
+N485210	485210	Interurban and rural bus transportation	5	T	486	
+N48521_	48521	Interurban and rural bus transportation	4	T	485	
+N4852__	4852	Interurban and rural bus transportation	3	T	484	
+N4853__	4853	Taxi and limousine service	3	T	487	
+N485410	485410	School and employee bus transportation	5	T	490	
+N48541_	48541	School and employee bus transportation	4	T	489	
+N4854__	4854	School and employee bus transportation	3	T	488	
+N485510	485510	Charter bus industry	5	T	493	
+N48551_	48551	Charter bus industry	4	T	492	
+N4855__	4855	Charter bus industry	3	T	491	
+N48599_	48599	Other transit and ground passenger transportation	4	T	495	
+N4859__	4859	Other transit and ground passenger transportation	3	T	494	
+N485___	485	Transit and ground passenger transportation	2	T	481	
+N486110	486110	Pipeline transportation of crude oil	5	T	499	
+N48611_	48611	Pipeline transportation of crude oil	4	T	498	
+N4861__	4861	Pipeline transportation of crude oil	3	T	497	
+N486210	486210	Pipeline transportation of natural gas	5	T	502	
+N48621_	48621	Pipeline transportation of natural gas	4	T	501	
+N4862__	4862	Pipeline transportation of natural gas	3	T	500	
+N4869__	4869	Other pipeline transportation	3	T	503	
+N486___	486	Pipeline transportation	2	T	496	
+N487110	487110	Scenic and sightseeing transportation, land	5	T	507	
+N48711_	48711	Scenic and sightseeing transportation, land	4	T	506	
+N4871__	4871	Scenic and sightseeing transportation, land	3	T	505	
+N487210	487210	Scenic and sightseeing transportation, water	5	T	510	
+N48721_	48721	Scenic and sightseeing transportation, water	4	T	509	
+N4872__	4872	Scenic and sightseeing transportation, water	3	T	508	
+N487990	487990	Scenic and sightseeing transportation, other	5	T	513	
+N48799_	48799	Scenic and sightseeing transportation, other	4	T	512	
+N4879__	4879	Scenic and sightseeing transportation, other	3	T	511	
+N487___	487	Scenic and sightseeing transportation	2	T	504	
+N4881__	4881	Support activities for air transportation	3	T	515	
+N488210	488210	Support activities for rail transportation	5	T	518	
+N48821_	48821	Support activities for rail transportation	4	T	517	
+N4882__	4882	Support activities for rail transportation	3	T	516	
+N4883__	4883	Support activities for water transportation	3	T	519	
+N4884__	4884	Support activities for road transportation	3	T	520	
+N488510	488510	Freight transportation arrangement	5	T	523	
+N48851_	48851	Freight transportation arrangement	4	T	522	
+N4885__	4885	Freight transportation arrangement	3	T	521	
+N48899_	48899	Other support activities for transportation	4	T	525	
+N4889__	4889	Other support activities for transportation	3	T	524	
+N488___	488	Support activities for transportation	2	T	514	
+N491110	491110	Postal service	5	T	529	
+N49111_	49111	Postal service	4	T	528	
+N4911__	4911	Postal service	3	T	527	
+N491___	491	Postal service	2	T	526	
+N492110	492110	Couriers and express delivery services	5	T	533	
+N49211_	49211	Couriers and express delivery services	4	T	532	
+N4921__	4921	Couriers and express delivery services	3	T	531	
+N492210	492210	Local messengers and local delivery	5	T	536	
+N49221_	49221	Local messengers and local delivery	4	T	535	
+N4922__	4922	Local messengers and local delivery	3	T	534	
+N492___	492	Couriers and messengers	2	T	530	
+N493110	493110	General warehousing and storage	5	T	540	
+N49311_	49311	General warehousing and storage	4	T	539	
+N493120	493120	Refrigerated warehousing and storage	5	T	542	
+N49312_	49312	Refrigerated warehousing and storage	4	T	541	
+N4931__	4931	Warehousing and storage	3	T	538	
+N493___	493	Warehousing and storage	2	T	537	
+N511110	511110	Newspaper publishers	5	T	547	
+N51111_	51111	Newspaper publishers	4	T	546	
+N511120	511120	Periodical publishers	5	T	549	
+N51112_	51112	Periodical publishers	4	T	548	
+N511130	511130	Book publishers	5	T	551	
+N51113_	51113	Book publishers	4	T	550	
+N5111__	5111	Newspaper, periodical, book, and directory publishers	3	T	545	
+N511210	511210	Software publishers	5	T	554	
+N51121_	51121	Software publishers	4	T	553	
+N5112__	5112	Software publishers	3	T	552	
+N511___	511	Publishing industries (except internet)	2	T	544	
+N51213_	51213	Motion picture and video exhibition	4	T	558	
+N5121__	5121	Motion picture and video industries	3	T	557	
+N5122__	5122	Sound recording industries	3	T	559	
+N512___	512	Motion picture and sound recording industries	2	T	556	
+N51511_	51511	Radio broadcasting	4	T	562	
+N5151__	5151	Radio and television broadcasting	3	T	561	
+N515210	515210	Cable and other subscription programming	5	T	565	
+N51521_	51521	Cable and other subscription programming	4	T	564	
+N5152__	5152	Cable and other subscription programming	3	T	563	
+N515___	515	Broadcasting (except internet)	2	T	560	
+N517110	517110	Wired telecommunications carriers	5	T	570	
+N51711_	51711	Wired telecommunications carriers	4	T	569	
+N5171__	5171	Wired telecommunications carriers	3	T	568	
+N517210	517210	Wireless telecommunications carriers (except satellite)	5	T	573	
+N51721_	51721	Wireless telecommunications carriers (except satellite)	4	T	572	
+N5172__	5172	Wireless telecommunications carriers (except satellite)	3	T	571	
+N517410	517410	Satellite telecommunications	5	T	576	
+N51741_	51741	Satellite telecommunications	4	T	575	
+N5174__	5174	Satellite telecommunications	3	T	574	
+N51791_	51791	Other telecommunications	4	T	578	
+N5179__	5179	Other telecommunications	3	T	577	
+N517___	517	Telecommunications	2	T	567	
+N518210	518210	Data processing, hosting, and related services	5	T	582	
+N51821_	51821	Data processing, hosting, and related services	4	T	581	
+N5182__	5182	Data processing, hosting, and related services	3	T	580	
+N518___	518	Data processing, hosting, and related services	2	T	579	
+N5191__	5191	Other information services	3	T	584	
+N519___	519	Other information services	2	T	583	
+N521110	521110	Monetary authorities-central bank	5	T	589	
+N52111_	52111	Monetary authorities-central bank	4	T	588	
+N5211__	5211	Monetary authorities-central bank	3	T	587	
+N521___	521	Monetary authorities-central bank	2	T	586	
+N522110	522110	Commercial banking	5	T	593	
+N52211_	52211	Commercial banking	4	T	592	
+N5221__	5221	Depository credit intermediation	3	T	591	
+N5222__	5222	Nondepository credit intermediation	3	T	594	
+N5223__	5223	Activities related to credit intermediation	3	T	595	
+N522___	522	Credit intermediation and related activities	2	T	590	
+N5231__	5231	Securities and commodity contracts intermediation and brokerage	3	T	597	
+N523210	523210	Securities and commodity exchanges	5	T	600	
+N52321_	52321	Securities and commodity exchanges	4	T	599	
+N5232__	5232	Securities and commodity exchanges	3	T	598	
+N5239__	5239	Other financial investment activities	3	T	601	
+N523___	523	Securities, commodity contracts, investments	2	T	596	
+N5241__	5241	Insurance carriers	3	T	603	
+N5242__	5242	Insurance agencies, brokerages, and related services	3	T	604	
+N524___	524	Insurance carriers and related activities	2	T	602	
+N5251__	5251	Insurance and employee benefit funds	3	T	606	
+N5259__	5259	Other investment pools and funds	3	T	607	
+N525___	525	Funds, trusts, and other financial vehicles	2	T	605	
+N5311__	5311	Lessors of real estate	3	T	610	
+N531210	531210	Offices of real estate agents and brokers	5	T	613	
+N53121_	53121	Offices of real estate agents and brokers	4	T	612	
+N5312__	5312	Offices of real estate agents and brokers	3	T	611	
+N5313__	5313	Activities related to real estate	3	T	614	
+N531___	531	Real estate	2	T	609	
+N532111	532111	Passenger car rental	5	T	617	
+N532120	532120	Truck, utility trailer, and rv (recreational vehicle) rental and leasing	5	T	619	
+N53212_	53212	Truck, utility trailer, and rv (recreational vehicle) rental and leasing	4	T	618	
+N5321__	5321	Automotive equipment rental and leasing	3	T	616	
+N532230	532230	Video tape and disc rental	5	T	622	
+N53223_	53223	Video tape and disc rental	4	T	621	
+N5322__	5322	Consumer goods rental	3	T	620	
+N532310	532310	General rental centers	5	T	625	
+N53231_	53231	General rental centers	4	T	624	
+N5323__	5323	General rental centers	3	T	623	
+N5324__	5324	Machinery and equipment rental and leasing	3	T	626	
+N532___	532	Rental and leasing services	2	T	615	
+N533110	533110	Lessors of nonfinancial intangible assets (except copyrighted works)	5	T	630	
+N53311_	53311	Lessors of nonfinancial intangible assets (except copyrighted works)	4	T	629	
+N5331__	5331	Lessors of nonfinancial intangible assets (except copyrighted works)	3	T	628	
+N533___	533	Lessors of nonfinancial intangible assets (except copyrighted works)	2	T	627	
+N5411__	5411	Legal services	3	T	634	
+N541211	541211	Offices of certified public accountants	5	T	637	
+N541213	541213	Tax preparation services	5	T	638	
+N541219	541219	Other accounting services	5	T	639	
+N54121_	54121	Accounting, tax preparation, bookkeeping, and payroll services	4	T	636	
+N5412__	5412	Accounting, tax preparation, bookkeeping, and payroll services	3	T	635	
+N541310	541310	Architectural services	5	T	642	
+N54131_	54131	Architectural services	4	T	641	
+N541330	541330	Engineering services	5	T	644	
+N54133_	54133	Engineering services	4	T	643	
+N5413__	5413	Architectural and engineering services	3	T	640	
+N5414__	5414	Specialized design services	3	T	645	
+N54151_	54151	Computer systems design and related services	4	T	647	
+N5415__	5415	Computer systems design and related services	3	T	646	
+N5416__	5416	Management and technical consulting services	3	T	648	
+N5417__	5417	Scientific research and development services	3	T	649	
+N541810	541810	Advertising agencies	5	T	652	
+N54181_	54181	Advertising agencies	4	T	651	
+N5418__	5418	Advertising and related services	3	T	650	
+N541921	541921	Photography studios, portrait	5	T	655	
+N541940	541940	Veterinary services	5	T	657	
+N54194_	54194	Veterinary services	4	T	656	
+N5419__	5419	Other professional and technical services	3	T	653	
+N541___	541	Professional, scientific, and technical services	2	T	633	
+N54____	54	Professional, scientific, and technical services	1	T	632	
+N55111_	55111	Management of companies and enterprises	4	T	662	
+N5511__	5511	Management of companies and enterprises	3	T	661	
+N551___	551	Management of companies and enterprises	2	T	660	
+N55____	55	Management of companies and enterprises	1	T	659	
+N561110	561110	Office administrative services	5	T	667	
+N56111_	56111	Office administrative services	4	T	666	
+N5611__	5611	Office administrative services	3	T	665	
+N561210	561210	Facilities support services	5	T	670	
+N56121_	56121	Facilities support services	4	T	669	
+N5612__	5612	Facilities support services	3	T	668	
+N56131_	56131	Employment placement agencies and executive search services	4	T	673	
+N5613__	5613	Employment services	3	T	672	
+N5614__	5614	Business support services	3	T	674	
+N561510	561510	Travel agencies	5	T	677	
+N56151_	56151	Travel agencies	4	T	676	
+N5615__	5615	Travel arrangement and reservation services	3	T	675	
+N5616__	5616	Investigation and security services	3	T	678	
+N561720	561720	Janitorial services	5	T	682	
+N56172_	56172	Janitorial services	4	T	681	
+N5617__	5617	Services to buildings and dwellings	3	T	680	
+N5619__	5619	Other support services	3	T	683	
+N561___	561	Administrative and support services	2	T	664	
+N56211_	56211	Waste collection	4	T	686	
+N5621__	5621	Waste collection	3	T	685	
+N56221_	56221	Waste treatment and disposal	4	T	688	
+N5622__	5622	Waste treatment and disposal	3	T	687	
+N5629__	5629	Remediation and other waste services	3	T	689	
+N562___	562	Waste management and remediation services	2	T	684	
+N611110	611110	Elementary and secondary schools	5	T	695	
+N61111_	61111	Elementary and secondary schools	4	T	694	
+N6111__	6111	Elementary and secondary schools	3	T	693	
+N611210	611210	Junior colleges	5	T	698	
+N61121_	61121	Junior colleges	4	T	697	
+N6112__	6112	Junior colleges	3	T	696	
+N611310	611310	Colleges, universities, and professional schools	5	T	701	
+N61131_	61131	Colleges, universities, and professional schools	4	T	700	
+N6113__	6113	Colleges, universities, and professional schools	3	T	699	
+N6114__	6114	Business, computer, and management training	3	T	702	
+N61151_	61151	Technical and trade schools	4	T	704	
+N6115__	6115	Technical and trade schools	3	T	703	
+N6116__	6116	Other schools and instruction	3	T	705	
+N611710	611710	Educational support services	5	T	708	
+N61171_	61171	Educational support services	4	T	707	
+N6117__	6117	Educational support services	3	T	706	
+N611___	611	Educational services	2	T	692	
+N61____	61	Educational services	1	T	691	
+N62111_	62111	Offices of physicians	4	T	712	
+N6211__	6211	Offices of physicians	3	T	711	
+N621210	621210	Offices of dentists	5	T	715	
+N62121_	62121	Offices of dentists	4	T	714	
+N6212__	6212	Offices of dentists	3	T	713	
+N6213__	6213	Offices of other health practitioners	3	T	716	
+N6214__	6214	Outpatient care centers	3	T	717	
+N621511	621511	Medical laboratories	5	T	720	
+N621512	621512	Diagnostic imaging centers	5	T	721	
+N62151_	62151	Medical and diagnostic laboratories	4	T	719	
+N6215__	6215	Medical and diagnostic laboratories	3	T	718	
+N621610	621610	Home health care services	5	T	724	
+N62161_	62161	Home health care services	4	T	723	
+N6216__	6216	Home health care services	3	T	722	
+N6219__	6219	Other ambulatory health care services	3	T	725	
+N621___	621	Ambulatory health care services	2	T	710	
+N622110	622110	General medical and surgical hospitals	5	T	729	
+N62211_	62211	General medical and surgical hospitals	4	T	728	
+N6221__	6221	General medical and surgical hospitals	3	T	727	
+N622210	622210	Psychiatric and substance abuse hospitals	5	T	732	
+N62221_	62221	Psychiatric and substance abuse hospitals	4	T	731	
+N6222__	6222	Psychiatric and substance abuse hospitals	3	T	730	
+N622310	622310	Specialty (except psychiatric and substance abuse) hospitals	5	T	735	
+N62231_	62231	Specialty (except psychiatric and substance abuse) hospitals	4	T	734	
+N6223__	6223	Specialty (except psychiatric and substance abuse) hospitals	3	T	733	
+N622A__	622A	Hospitals, except psychiatric and substance abuse hospitals	3	T	755	
+N622___	622	Hospitals	2	T	726	
+N623110	623110	Nursing care facilities	5	T	739	
+N62311_	62311	Nursing care facilities	4	T	738	
+N6231__	6231	Nursing care facilities	3	T	737	
+N6232__	6232	Residential mental health facilities	3	T	740	
+N62331_	62331	Community care facilities for the elderly	4	T	742	
+N6233__	6233	Community care facilities for the elderly	3	T	741	
+N623990	623990	Other residential care facilities	5	T	745	
+N62399_	62399	Other residential care facilities	4	T	744	
+N6239__	6239	Other residential care facilities	3	T	743	
+N623___	623	Nursing and residential care facilities	2	T	736	
+N6241__	6241	Individual and family services	3	T	747	
+N6242__	6242	Emergency and other relief services	3	T	748	
+N624310	624310	Vocational rehabilitation services	5	T	751	
+N62431_	62431	Vocational rehabilitation services	4	T	750	
+N6243__	6243	Vocational rehabilitation services	3	T	749	
+N624410	624410	Child day care services	5	T	754	
+N62441_	62441	Child day care services	4	T	753	
+N6244__	6244	Child day care services	3	T	752	
+N624___	624	Social assistance	2	T	746	
+N7111__	7111	Performing arts companies	3	T	758	
+N71121_	71121	Spectator sports	4	T	760	
+N7112__	7112	Spectator sports	3	T	759	
+N7113__	7113	Arts and sports promoters and agents and managers for public figures	3	T	761	
+N711410	711410	Agents and managers for artists, athletes, entertainers, and other public figures	5	T	764	
+N71141_	71141	Agents and managers for artists, athletes, entertainers, and other public figures	4	T	763	
+N7114__	7114	Agents and managers for artists, athletes, entertainers, and other public figures	3	T	762	
+N711510	711510	Independent artists, writers, and performers	5	T	767	
+N71151_	71151	Independent artists, writers, and performers	4	T	766	
+N7115__	7115	Independent artists, writers, and performers	3	T	765	
+N711___	711	Performing arts and spectator sports	2	T	757	
+N7121__	7121	Museums, historical sites, and similar institutions	3	T	769	
+N712___	712	Museums, historical sites, and similar institutions	2	T	768	
+N713110	713110	Amusement and theme parks	5	T	773	
+N71311_	71311	Amusement and theme parks	4	T	772	
+N7131__	7131	Amusement parks and arcades	3	T	771	
+N7132__	7132	Gambling industries	3	T	774	
+N713910	713910	Golf courses and country clubs	5	T	777	
+N71391_	71391	Golf courses and country clubs	4	T	776	
+N713940	713940	Fitness and recreational sports centers	5	T	779	
+N71394_	71394	Fitness and recreational sports centers	4	T	778	
+N713950	713950	Bowling centers	5	T	781	
+N71395_	71395	Bowling centers	4	T	780	
+N7139__	7139	Other amusement and recreation industries	3	T	775	
+N713___	713	Amusements, gambling, and recreation	2	T	770	
+N721110	721110	Hotels (except casino hotels) and motels	5	T	787	
+N72111_	72111	Hotels (except casino hotels) and motels	4	T	786	
+N7211__	7211	Traveler accommodation	3	T	785	
+N72121_	72121	RV (recreational vehicle) parks and recreational camps	4	T	789	
+N7212__	7212	RV (recreational vehicle) parks and recreational camps	3	T	788	
+N721310	721310	Rooming and boarding houses	5	T	792	
+N72131_	72131	Rooming and boarding houses	4	T	791	
+N7213__	7213	Rooming and boarding houses	3	T	790	
+N721___	721	Accommodation	2	T	784	
+N7223__	7223	Special food services	3	T	795	
+N722410	722410	Drinking places (alcoholic beverages)	5	T	798	
+N72241_	72241	Drinking places (alcoholic beverages)	4	T	797	
+N7224__	7224	Drinking places (alcoholic beverages)	3	T	796	
+N722511	722511	Full-service restaurants	5	T	794	
+N72251A	72251A	Limited-service eating places	5	T	801	
+N72251_	72251	Restaurants and other eating places	4	T	800	
+N7225__	7225	Restaurants and other eating places	3	T	799	
+N722___	722	Food services and drinking places	2	T	793	
+N72____	72	Accommodation and food services	1	T	783	
+N8111__	8111	Automotive repair and maintenance	3	T	804	
+N81121_	81121	Electronic and precision equipment repair and maintenance	4	T	806	
+N8112__	8112	Electronic and precision equipment repair and maintenance	3	T	805	
+N811310	811310	Commercial machinery repair and maintenance	5	T	809	
+N81131_	81131	Commercial machinery repair and maintenance	4	T	808	
+N8113__	8113	Commercial machinery repair and maintenance	3	T	807	
+N811420	811420	Reupholstery and furniture repair	5	T	812	
+N81142_	81142	Reupholstery and furniture repair	4	T	811	
+N8114__	8114	Household goods repair and maintenance	3	T	810	
+N811___	811	Repair and maintenance	2	T	803	
+N81211_	81211	Hair, nail, and skin care services	4	T	815	
+N8121__	8121	Personal care services	3	T	814	
+N812210	812210	Funeral homes and funeral services	5	T	819	
+N81221_	81221	Funeral homes and funeral services	4	T	818	
+N8122__	8122	Death care services	3	T	817	
+N812310	812310	Coin-operated laundries and drycleaners	5	T	822	
+N81231_	81231	Coin-operated laundries and drycleaners	4	T	821	
+N812320	812320	Drycleaning and laundry services (except coin-operated)	5	T	824	
+N81232_	81232	Drycleaning and laundry services (except coin-operated)	4	T	823	
+N81233_	81233	Linen and uniform supply	4	T	825	
+N8123__	8123	Drycleaning and laundry services	3	T	820	
+N81292_	81292	Photofinishing	4	T	828	
+N8129__	8129	Other personal services	3	T	827	
+N812___	812	Personal and laundry services	2	T	813	
+N813110	813110	Religious organizations	5	T	832	
+N81311_	81311	Religious organizations	4	T	831	
+N8131__	8131	Religious organizations	3	T	830	
+N81321_	81321	Grantmaking and giving services	4	T	834	
+N8132__	8132	Grantmaking and giving services	3	T	833	
+N81331_	81331	Social advocacy organizations	4	T	836	
+N8133__	8133	Social advocacy organizations	3	T	835	
+N813410	813410	Civic and social organizations	5	T	839	
+N81341_	81341	Civic and social organizations	4	T	838	
+N8134__	8134	Civic and social organizations	3	T	837	
+N8139__	8139	Professional and similar organizations	3	T	840	
+N813___	813	Membership associations and organizations	2	T	829	
+N814110	814110	Private households	5	T	844	
+N81411_	81411	Private households	4	T	843	
+N8141__	8141	Private households	3	T	842	
+N814___	814	Private households	2	T	841	
+N901___	901	Government (excluding postal service)	1	T	846	

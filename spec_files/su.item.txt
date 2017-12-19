@@ -1,0 +1,29 @@
+item_code	item_name	display_level	selectable	sort_sequence
+SA0	All items	0	T	1	
+SA0E	Energy	0	T	28	
+SA0L1E	All items less food and energy	0	T	27	
+SAA	Apparel	0	T	11	
+SAC	Commodities	0	T	24	
+SAD	Durables	1	T	25	
+SAE	Education and communication	0	T	19	
+SAE1	Education	1	T	20	
+SAE2	Communication	1	T	21	
+SAF	Food and beverages	0	T	2	
+SAF1	Food	1	T	3	
+SAF11	Food at home	2	T	4	
+SAF116	Alcoholic beverages	1	T	6	
+SAG	Other goods and services	0	T	22	
+SAH	Housing	0	T	7	
+SAH1	Shelter	1	T	8	
+SAH2	Fuels and utilities	1	T	9	
+SAH3	Household furnishings and operations	1	T	10	
+SAM	Medical care	0	T	15	
+SAM1	Medical care commodities	1	T	16	
+SAM2	Medical care services	1	T	17	
+SAN	Nondurables	1	T	26	
+SAR	Recreation	0	T	18	
+SAS	Services	0	T	23	
+SAT	Transportation	0	T	12	
+SAT1	Private transportation	1	T	13	
+SEFV	Food away from home	2	T	5	
+SETG	Public transportation	1	T	14	

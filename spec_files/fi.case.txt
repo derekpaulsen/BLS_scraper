@@ -1,0 +1,13 @@
+case_code	case_text
+0	Fatalities in all sectors	
+1	Fatalities by detailed private industry	
+6	Fatalities by detailed federal government industry	
+7	Fatalities by detailed state government industry	
+8	Fatalities by detailed local government industry	
+9	Fatalities by detailed government industry	
+E	Fatalities by detailed event or exposure	
+G	Fatalities by detailed government occupation	
+O	Fatalities by detailed occupation (all sectors)	
+P	Fatalities by detailed private occupation	
+S	Fatalities by primary source of injury	
+T	Fatalities by secondary source of injury	

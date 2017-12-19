@@ -1,0 +1,603 @@
+occupation_code	occupation_text	display_level	selectable	sort_sequence
+0000	All occupations	0 	T	00001
+0030	Legislators	4 	T	00004
+0040	Chief executives and general administrators, public administration	4 	T	00005
+0050	Administrators and officials, public administration	4 	T	00006
+0060	Administrators, protective services	4 	T	00007
+0070	Financial managers	4 	T	00008
+0080	Personnel and labor relations managers	4 	T	00009
+0090	Purchasing managers	4 	T	00010
+0130	Managers, marketing, advertising, and public relations	4 	T	00011
+0140	Administrators, education and related fields	4 	T	00012
+0150	Managers, medicine and health	4 	T	00013
+0160	Postmasters and mail superintendents	4 	T	00014
+0170	Managers, food serving and lodging establishments	4 	T	00015
+0180	Managers, properties and real estate	4 	T	00016
+0190	Funeral directors	4 	T	00017
+01XX	Executive, administrative, and managerial	2 	T	00003
+0210	Managers, service organizations, not elsewhere classified, n.e.c.	4 	T	00018
+0220	Managers and administrators, n.e.c.	4 	T	00019
+0230	Accountants and auditors	4 	T	00021
+023X	Management related occupations	3 	T	00020
+0240	Underwriters	4 	T	00022
+0250	Other financial officers	4 	T	00023
+0260	Management analysts	4 	T	00024
+0270	Personnel, training, and labor relations specialists	4 	T	00025
+0280	Purchasing agents and buyers, farm products	4 	T	00026
+0290	Buyers, wholesale and retail trade exc. farm products	4 	T	00027
+02XX	Professional specialty	2 	T	00033
+0330	Purchasing agents and buyers, n.e.c.	4 	T	00028
+0340	Business and promotion agents	4 	T	00029
+0350	Construction inspectors	4 	T	00030
+0360	Inspectors and compliance officers, exc. construction	4 	T	00031
+0370	Management related occupations, n.e.c.	4 	T	00032
+03XX	Technicians and related support occupations	2 	T	00154
+0430	Architects	4 	T	00035
+043X	Engineers, architects, and surveyors	3 	T	00034
+0440	Aerospace engineers	4 	T	00037
+044X	Engineers	3 	T	00036
+0450	Metallurgical and materials engineers	4 	T	00038
+0460	Mining engineers	4 	T	00039
+0470	Petroleum engineers	4 	T	00040
+0480	Chemical engineers	4 	T	00041
+0490	Nuclear engineers	4 	T	00042
+04XX	Sales occupations	2 	T	00180
+0530	Civil engineers	4 	T	00043
+0540	Agricultural engineers	4 	T	00044
+0550	Electrical and electronic engineers	4 	T	00045
+0560	Industrial engineers	4 	T	00046
+0570	Mechanical engineers	4 	T	00047
+0580	Marine and naval architects engineers	4 	T	00048
+0590	Engineers, n.e.c.	4 	T	00049
+05XX	Administrative support occupations, including clerical	2 	T	00207
+0630	Surveyors and mapping scientists	4 	T	00050
+0640	Computer systems analysts and scientists	4 	T	00052
+064X	Mathematical and computer scientists	3 	T	00051
+0650	Operations and systems researchers and analysts	4 	T	00053
+0660	Actuaries	4 	T	00054
+0670	Statisticians	4 	T	00055
+0680	Mathematical scientists, n.e.c.	4 	T	00056
+0690	Physicists and astronomers	4 	T	00058
+069X	Natural scientists	3 	T	00057
+0730	Chemists, exc. biochemists	4 	T	00059
+0740	Atmospheric and space scientists	4 	T	00060
+0750	Geologists and geodesists	4 	T	00061
+0760	Physical scientists, n.e.c.	4 	T	00062
+0770	Agricultural and food scientists	4 	T	00063
+0780	Biological and life scientists	4 	T	00064
+0790	Forestry and conservation scientists	4 	T	00065
+07XX	Protective service occupations	2 	F	00279
+0830	Medical scientists	4 	T	00066
+0840	Physicians	4 	T	00068
+084X	Health diagnosing occupations	3 	T	00067
+0850	Dentists	4 	T	00069
+0860	Veterinarians	4 	T	00070
+0870	Optometrists	4 	T	00071
+0880	Podiatrists	4 	T	00072
+0890	Health diagnosing practitioners, n.e.c.	4 	T	00073
+08XX	Service occupations, except protective service and household	2 	F	00294
+0950	Registered nurses	4 	T	00075
+095X	Health assessment and treating occupations	3 	T	00074
+0960	Pharmacists	4 	T	00076
+0970	Dietitians	4 	T	00077
+0980	Respiratory therapists	4 	T	00078
+0990	Occupational therapists	4 	T	00079
+1030	Physical therapists	4 	T	00080
+1040	Speech therapists	4 	T	00081
+1050	Therapists, n.e.c.	4 	T	00082
+1060	Physicians' assistants	4 	T	00083
+1130	Earth, environmental, and marine science teachers, postsecondary	4 	T	00085
+113X	Teachers, postsecondary	3 	T	00084
+1140	Biological science teachers, postsecondary	4 	T	00086
+1150	Chemistry teachers, postsecondary	4 	T	00087
+1160	Physics teachers, postsecondary	4 	T	00088
+1170	Natural science, n.e.c. teachers, postsecondary	4 	T	00089
+1180	Psychology teachers, postsecondary	4 	T	00090
+1190	Economics teachers, postsecondary	4 	T	00091
+11XX	Construction trades	2 	T	00388
+1230	History teachers, postsecondary	4 	T	00092
+1240	Political science teachers, postsecondary	4 	T	00093
+1250	Sociology teachers, postsecondary	4 	T	00094
+1260	Social science, n.e.c. teachers, postsecondary	4 	T	00095
+1270	Engineering teachers, postsecondary	4 	T	00096
+1280	Mathematical science teachers, postsecondary	4 	T	00097
+1290	Computer science teachers, postsecondary	4 	T	00098
+12XX	Extractive occupations	2 	T	00425
+1330	Medical science teachers, postsecondary	4 	T	00099
+1340	Health specialities teachers, postsecondary	4 	T	00100
+1350	Business, commerce, and marketing teachers, postsecondary	4 	T	00101
+1360	Agriculture and forestry teachers, postsecondary	4 	T	00102
+1370	Art, drama, and music teachers, postsecondary	4 	T	00103
+1380	Physical education teachers, postsecondary	4 	T	00104
+1390	Education teachers, postsecondary	4 	T	00105
+13XX	Precision production occupations	2 	T	00431
+1430	English teachers, postsecondary	4 	T	00106
+1440	Foreign language teachers, postsecondary	4 	T	00107
+1450	Law teachers, postsecondary	4 	T	00108
+1460	Social work teachers, postsecondary	4 	T	00109
+1470	Theology teachers, postsecondary	4 	T	00110
+1480	Trade and industrial teachers, postsecondary	4 	T	00111
+1490	Home economics teachers, postsecondary	4 	T	00112
+14XX	Machine operators, assemblers, and inspectors	2 	T	00477
+1530	Teachers, postsecondary, n.e.c.	4 	T	00113
+1540	Postsecondary teachers, subject not specified	4 	T	00114
+1550	Prekindergarten and kindergarten teachers, exc. postsecondary	4 	T	00116
+155X	Teachers, except postsecondary	3 	T	00115
+1560	Elementary school teachers, exc. postsecondary	4 	T	00117
+1570	Secondary school teachers, exc. postsecondary	4 	T	00118
+1580	Special education teachers, exc. postsecondary	4 	T	00119
+1590	Teachers, n.e.c.	4 	T	00120
+15XX	Fabricators, assemblers, and hand working occupations	2 	T	00534
+1630	Counselors, educational and vocational	4 	T	00121
+1640	Librarians	4 	T	00123
+164X	Librarians, archivists, and curators	3 	T	00122
+1650	Archivists and curators	4 	T	00124
+1660	Economists	4 	T	00126
+166X	Social scientists and urban planners	3 	F	00125
+1670	Psychologists	4 	T	00127
+1680	Sociologists	4 	T	00128
+1690	Social scientists, n.e.c.	4 	T	00129
+16XX	Production inspectors, testers, samplers, and weighers	2 	T	00543
+1730	Urban planners	4 	T	00130
+1740	Social workers	4 	T	00132
+174X	Social, recreation, and religious workers	3 	T	00131
+1750	Recreation workers	4 	T	00133
+1760	Clergy	4 	T	00134
+1770	Religious workers, n.e.c.	4 	T	00135
+1780	Lawyers	4 	T	00137
+178X	Lawyers and judges	3 	T	00136
+1790	Judges	4 	T	00138
+17XX	Transportation and material moving occupations	2 	T	00548
+1830	Authors	4 	T	00140
+183X	Writers, artists, entertainers, and athletes	3 	T	00139
+1840	Technical writers	4 	T	00141
+1850	Designers	4 	T	00142
+1860	Musicians and composers	4 	T	00143
+1870	Actors and directors	4 	T	00144
+1880	Painters, sculptors, craft-artists, and artist printmakers	4 	T	00145
+1890	Photographers	4 	T	00146
+18XX	Handlers, equipment cleaners, helpers, and laborers	2 	T	00578
+1930	Dancers	4 	T	00147
+1940	Artists, performers, and related workers, n.e.c.	4 	T	00148
+1950	Editors and reporters	4 	T	00149
+1970	Public relations specialists	4 	T	00150
+1980	Announcers	4 	T	00151
+1990	Athletes	4 	T	00152
+19XX	Private household occupations	2 	T	00273
+2030	Clinical laboratory technologists and technicians	4 	T	00156
+203X	Health technologists and technicians	3 	T	00155
+2040	Dental hygienists	4 	T	00157
+2050	Health record technologists and technicians	4 	T	00158
+2060	Radiologic technicians	4 	T	00159
+2070	Licensed practical nurses	4 	T	00160
+2080	Health technologists and technicians, n.e.c.	4 	T	00161
+20XX	Farming operators and managers	2 	T	00329
+2130	Electrical and electronic technicians	4 	T	00163
+213X	Engineering and related technologists and technicians	3 	T	00162
+2140	Industrial engineering technicians	4 	T	00164
+2150	Mechanical engineering technicians	4 	T	00165
+2160	Engineering technicians. n.e.c.	4 	T	00166
+2170	Drafting occupations	4 	T	00167
+2180	Surveying and mapping technicians	4 	T	00168
+21XX	Other agricultural and related occupations	2 	T	00334
+2230	Biological technicians	4 	T	00169
+2240	Chemical technicians	4 	T	00170
+2250	Science technicians, n.e.c.	4 	T	00171
+2260	Airplane pilots and navigators	4 	T	00173
+226X	Technicians, except health, engineering, and science	3 	T	00172
+2270	Air traffic controllers	4 	T	00174
+2280	Broadcast equipment operators	4 	T	00175
+2290	Computer programmers	4 	T	00176
+22XX	Forestry and logging occupations	2 	T	00347
+2330	Tool programmers, numerical control	4 	T	00177
+2340	Legal assistants	4 	T	00178
+2350	Technicians, n.e.c.	4 	T	00179
+23XX	Fishers, hunters, and trappers	2 	T	00350
+2430	Supervisors and proprietors, sales occupations	4 	T	00181
+24XX	Mechanics and repairers, except supervisors	2 	T	00356
+2530	Insurance sales occupations	4 	T	00183
+253X	Sales representatives, finance and business services	3 	T	00182
+2540	Real estate sales occupations	4 	T	00184
+2550	Securities and financial services sales occupations	4 	T	00185
+2560	Advertising and related sales occupations	4 	T	00186
+2570	Sales occupations, other business services	4 	T	00187
+2580	Sales engineers	4 	T	00189
+258X	Sales representatives, commodities except retail	3 	T	00188
+2590	Sales representatives, mining, manufacturing, and wholesale	4 	T	00190
+25XX	Supervisors, construction occupations	2 	T	00389
+2630	Sales workers, motor vehicles and boats	4 	T	00192
+263X	Sales workers, retail and personal services	3 	T	00191
+2640	Sales workers, apparel	4 	T	00193
+2650	Sales workers, shoes	4 	T	00194
+2660	Sales workers, furniture and home furnishings	4 	T	00195
+2670	Sales workers; radio, TV, hi-fi, and appliances	4 	T	00196
+2680	Sales workers, hardware and building supplies	4 	T	00197
+2690	Sales workers, parts	4 	T	00198
+26XX	Construction trades, except supervisors	2 	T	00396
+2740	Sales workers, other commodities	4 	T	00199
+2750	Sales counter clerks	4 	T	00200
+2760	Cashiers	4 	T	00201
+2770	Street and door-to-door sales workers	4 	T	00202
+2780	News vendors	4 	T	00203
+27XX	Machine operators and tenders, except precision	2 	T	00478
+2830	Demonstrators, promoters and models, sales	4 	T	00204
+2840	Auctioneers	4 	T	00205
+2850	Sales support occupations, n.e.c.	4 	T	00206
+28XX	Motor vehicle operators	2 	T	00549
+29XX	Transportation occupations, except motor vehicles	2 	T	00557
+3030	Supervisors, general office	4 	T	00209
+303X	Supervisors, administrative support occupations	3 	T	00208
+3040	Supervisors, computer equipment operators	4 	T	00210
+3050	Supervisors, financial records processing	4 	T	00211
+3060	Chief communications operators	4 	T	00212
+3070	Supervisors; distribution, scheduling, and adjusting clerks	4 	T	00213
+3080	Computer operators	4 	T	00214
+3090	Peripheral equipment operators	4 	T	00215
+30XX	Material moving equipment operators	2 	T	00568
+3130	Secretaries	4 	T	00217
+313X	Secretaries, stenographers, and typists	3 	T	00216
+3140	Stenographers	4 	T	00218
+3150	Typists	4 	T	00219
+3160	Interviewers	4 	T	00221
+316X	Information clerks	3 	T	00220
+3170	Hotel clerks	4 	T	00222
+3180	Transportation ticket and reservation agents	4 	T	00223
+3190	Receptionists	4 	T	00224
+31XX	Military occupations	2 	T	00597
+3230	Information clerks, n.e.c.	4 	T	00225
+3250	Classified-ad clerks	4 	T	00227
+325X	Records processing occupations, except financial	3 	T	00226
+3260	Correspondence clerks	4 	T	00228
+3270	Order clerks	4 	T	00229
+3280	Personnel clerks, exc. payroll and timekeeping	4 	T	00230
+3290	Library clerks	4 	T	00231
+3350	File clerks	4 	T	00232
+3360	Records clerks	4 	T	00233
+3370	Bookkeepers, accounting, and auditing clerks	4 	T	00235
+337X	Financial records processing occupations	3 	T	00234
+3380	Payroll and timekeeping clerks	4 	T	00236
+3390	Billing clerks	4 	T	00237
+3430	Cost and rate clerks	4 	T	00238
+3440	Billing, posting, and calculating machine operators	4 	T	00239
+3450	Duplicating machine operators	4 	T	00240
+3460	Mail preparing and paper handling machine operators	4 	T	00241
+3470	Office machine operators, n.e.c.	4 	T	00242
+3480	Telephone operators	4 	T	00243
+3530	Communications equipment operators, n.e.c.	4 	T	00244
+3540	Postal clerks, exc. mail carriers	4 	T	00246
+354X	Mail and message distributing occupations	3 	T	00245
+3550	Mail carriers, postal service	4 	T	00247
+3560	Mail clerks, exc. postal service	4 	T	00248
+3570	Messengers	4 	T	00249
+3590	Dispatchers	4 	T	00251
+359X	Material recording, scheduling, and distributing clerks	3 	T	00250
+3630	Production coordinators	4 	T	00252
+3640	Traffic, shipping, and receiving clerks	4 	T	00253
+3650	Stock and inventory clerks	4 	T	00254
+3660	Meter readers	4 	T	00255
+3680	Weighers, measurers, checkers and samplers	4 	T	00256
+3730	Expediters	4 	T	00257
+3740	Material recording, scheduling, and distributing clerks, n.e.c.	4 	T	00258
+3750	Insurance adjusters, examiners, and investigators	4 	T	00260
+375X	Adjusters and investigators	3 	T	00259
+3760	Investigators and adjusters, exc. insurance	4 	T	00261
+3770	Eligibility clerks, social welfare	4 	T	00262
+3780	Bill and account collectors	4 	T	00263
+3790	General office clerks	4 	T	00265
+379X	Miscellaneous administrative support	3 	T	00264
+3830	Bank tellers	4 	T	00266
+3840	Proofreaders	4 	T	00267
+3850	Data-entry keyers	4 	T	00268
+3860	Statistical clerks	4 	T	00269
+3870	Teachers' aides	4 	T	00270
+3890	Administrative support occupations, n.e.c.	4 	T	00271
+4030	Launderers and ironers	4 	T	00274
+4040	Cooks, private household	4 	T	00275
+4050	Housekeepers and butlers	4 	T	00276
+4060	Child care workers, private household	4 	T	00277
+4070	Private household cleaners and servants	4 	T	00278
+4130	Supervisors, firefighting and fire prevention occupations	4 	T	00281
+413X	Firefighting and fire prevention occupations, including supervisors	3 	T	00280
+4140	Supervisors, police and detectives	4 	T	00283
+414X	Police and detectives, including supervisors	3 	T	00282
+4150	Supervisors, guards	4 	T	00285
+415X	Guards, including supervisors	3 	T	00284
+4160	Fire inspection and fire prevention occupations	4 	T	00286
+4170	Firefighting occupations	4 	T	00287
+4180	Police and detectives, public service	4 	T	00288
+4230	Sheriffs, bailiffs, and other law enforcement officers	4 	T	00289
+4240	Correctional institution officers	4 	T	00290
+4250	Crossing guards	4 	T	00291
+4260	Guards and police, exc. public service	4 	T	00292
+4270	Protective service occupations, n.e.c.	4 	T	00293
+4330	Supervisors, food preparation and service occupations	4 	T	00296
+433X	Food preparation and service occupations	3 	T	00295
+4340	Bartenders	4 	T	00297
+4350	Waiters and waitresses	4 	T	00298
+4360	Cooks	4 	T	00299
+4380	Food counter, fountain and related occupations	4 	T	00300
+4390	Kitchen workers, food preparation	4 	T	00301
+4430	Waiters'/waitresses' assistants	4 	T	00302
+4440	Miscellaneous food preparation occupations	4 	T	00303
+4450	Dental assistants	4 	T	00305
+445X	Health service occupations	3 	T	00304
+4460	Health aides, exc. nursing0	4 	T	00306
+4470	Nursing aides, orderlies, and attendants	4 	T	00307
+4480	Supervisors, cleaning and building service workers	4 	T	00309
+448X	Cleaning and building service occupations, except household	3 	T	00308
+4490	Maids and housemen0	4 	T	00310
+4530	Janitors and cleaners	4 	T	00311
+4540	Elevator operators	4 	T	00312
+4550	Pest control occupations	4 	T	00313
+4560	Supervisors, personal service occupations	4 	T	00315
+456X	Personal service occupations	4 	T	00314
+4570	Barbers	4 	T	00316
+4580	Hairdressers and cosmetologists	4 	T	00317
+4590	Attendants, amusement and recreation facilities	4 	T	00318
+4610	Guides	4 	T	00319
+4620	Ushers	4 	T	00320
+4630	Public transportation attendants	4 	T	00321
+4640	Baggage porters and bellhops	4 	T	00322
+4650	Welfare service aides	4 	T	00323
+4660	Family child care providers	4 	T	00324
+4670	Early childhood teacher's assistants	4 	T	00325
+4680	Child care workers, n.e.c.	4 	T	00326
+4690	Personal service occupations, n.e.c.	4 	T	00327
+4730	Farmers, exc. horticultural	4 	T	00330
+4740	Horticultural specialty farmers	4 	T	00331
+4750	Managers, farms, exc. horticultural	4 	T	00332
+4760	Managers, horticultural specialty farms	4 	T	00333
+4770	Supervisors, farm workers	4 	T	00336
+477X	Farm occupations, except managerial	3 	T	00335
+4790	Farm workers	4 	T	00337
+4830	Marine life cultivation workers	4 	T	00338
+4840	Nursery workers	4 	T	00339
+4850	Supervisors, related agricultural occupations	4 	T	00341
+485X	Related agricultural occupations	3 	T	00340
+4860	Groundskeepers and gardeners, exc. farm	4 	T	00342
+4870	Animal caretakers, exc. farm	4 	T	00343
+4880	Graders and sorters, agricultural products	4 	T	00344
+4890	Inspectors, agricultural products	4 	T	00345
+4940	Supervisors, forestry, and logging workers	4 	T	00346
+4950	Forestry workers, exc. logging	4 	T	00348
+4960	Timber cutting and logging occupations	4 	T	00349
+4970	Captains and other officers, fishing vessels	4 	T	00352
+497X	Fishers, including vessel captains and officers	3 	T	00351
+4980	Fishers	4 	T	00353
+4990	Hunters and trappers	4 	T	00354
+5030	Supervisors, mechanics and repairers	4 	T	00357
+5050	Automobile mechanics	4 	T	00359
+505X	Vehicle and mobile equipment mechanics, repairers	3 	T	00358
+5060	Automobile mechanic apprentices	4 	T	00361
+506X	Automobile mechanics and apprentices	3 	T	00360
+5070	Bus, truck, and stationary engine mechanics	4 	T	00362
+5080	Aircraft engine mechanics	4 	T	00363
+5090	Small engine repairers	4 	T	00364
+5140	Automobile body and related repairers	4 	T	00365
+5150	Aircraft mechanics, exc. engine	4 	T	00366
+5160	Heavy equipment mechanics	4 	T	00367
+5170	Farm equipment mechanics	4 	T	00368
+5180	Industrial machinery repairers	4 	T	00369
+5190	Machinery maintenance occupations	4 	T	00370
+5230	Electronic repairers, communications and industrial equipment	4 	T	00372
+523X	Electrical and electronic equipment repairers	3 	T	00371
+5250	Data processing equipment repairers	4 	T	00373
+5260	Household appliance and power tool repairers	4 	T	00374
+5270	Telephone line installers and repairers	4 	T	00375
+5290	Telephone installers and repairers	4 	T	00376
+5330	Miscellaneous electrical and electronic equipment repairers	4 	T	00377
+5340	Heating, air conditioning, and refrigeration mechanics	4 	T	00378
+5350	Camera, watch, and musical instrument repairers	4 	T	00380
+535X	Miscellaneous mechanics and repairers	3 	T	00379
+5360	Locksmiths and safe repairers	4 	T	00381
+5380	Office machine repairers	4 	T	00382
+5390	Mechanical controls and valve repairers	4 	T	00383
+5430	Elevator installers and repairers	4 	T	00384
+5440	Millwrights	4 	T	00385
+5470	Specified mechanics and repairers, n.e.c.	4 	T	00386
+5490	Not specified mechanics and repairers	4 	T	00387
+5530	Supervisors, brickmasons, stonemasons, and tile setters	4 	T	00390
+5540	Supervisors, carpenters and related workers	4 	T	00391
+5550	Supervisors, electricians and power transmission installers	4 	T	00392
+5560	Supervisors; painters, paperhangers, and plasterers	4 	T	00393
+5570	Supervisors; plumbers, pipefitters, and steamfitters	4 	T	00394
+5580	Supervisors, n.e.c.	4 	T	00395
+5630	Brickmasons and stonemasons	4 	T	00398
+563X	Brickmasons, stonemasons, and apprentices	3 	T	00397
+5640	Brickmason and stonemason apprentices	4 	T	00399
+5650	Tile setters, hard and soft	4 	T	00400
+5660	Carpet installers	4 	T	00401
+5670	Carpenters	4 	T	00403
+567X	Carpenters and apprentices	3 	T	00402
+5690	Carpenter apprentices	4 	T	00404
+5730	Drywall installers	4 	T	00405
+5750	Electricians	4 	T	00407
+575X	Electricians and apprentices	3 	T	00406
+5760	Electrician apprentices	4 	T	00408
+5770	Electrical power installers and repairers	4 	T	00409
+5790	Painters, construction and maintenance	4 	T	00410
+5830	Paperhangers	4 	T	00411
+5840	Plasterers	4 	T	00412
+5850	Plumbers, pipefitters, and steamfitters	4 	T	00414
+585X	Plumbers, pipefitters, steamfitters, and apprentices	3 	T	00413
+5870	Plumber, pipefitter, and steamfitter apprentices	4 	T	00415
+5880	Concrete and terrazzo finishers	4 	T	00416
+5890	Glaziers	4 	T	00417
+5930	Insulation workers	4 	T	00418
+5940	Paving, surfacing, and tamping equipment operators	4 	T	00419
+5950	Roofers	4 	T	00420
+5960	Sheetmetal duct installers	4 	T	00421
+5970	Structural metal workers	4 	T	00422
+5980	Drillers, earth	4 	T	00423
+5990	Construction trades, n.e.c.	4 	T	00424
+6130	Supervisors, extractive occupations	4 	T	00426
+6140	Drillers, oil well	4 	T	00427
+6150	Explosives workers	4 	T	00428
+6160	Mining machine operators	4 	T	00429
+6170	Mining occupations, n.e.c.	4 	T	00430
+6280	Supervisors, production occupations	4 	T	00432
+6340	Tool and die makers	4 	T	00434
+634X	Precision metal working occupations	3 	T	00433
+6350	Tool and die maker apprentices	4 	T	00435
+6360	Precision assemblers, metal	4 	T	00436
+6370	Machinists	4 	T	00437
+6390	Machinist apprentices	4 	T	00438
+6430	Boilermakers	4 	T	00439
+6440	Precision grinders, filers, and tool sharpeners	4 	T	00440
+6450	Patternmakers and model makers, metal	4 	T	00441
+6460	Lay-out workers	4 	T	00442
+6470	Precious stones and metals workers	4 	T	00443
+6490	Engravers, metal	4 	T	00444
+6530	Sheet metal workers	4 	T	00445
+6540	Sheet metal worker apprentices	4 	T	00446
+6550	Miscellaneous precision metal workers	4 	T	00447
+6560	Patternmakers and model makers, wood	4 	T	00448
+6570	Cabinet makers and bench carpenters	4 	T	00449
+6580	Furniture and wood finishers	4 	T	00450
+6590	Miscellaneous precision woodworkers	4 	T	00451
+6660	Dressmakers	4 	T	00452
+6670	Tailors	4 	T	00453
+6680	Upholsterers	4 	T	00454
+6690	Shoe repairers	4 	T	00455
+6740	Miscellaneous precision apparel and fabric workers	4 	T	00456
+6750	Hand molders and shapers, exc. jewelers	4 	T	00457
+6760	Patternmakers, lay-out workers, and cutters	4 	T	00458
+6770	Optical goods workers	4 	T	00459
+6780	Dental laboratory and medical appliance technicians	4 	T	00460
+6790	Bookbinders	4 	T	00461
+6830	Electrical and electronic equipment assemblers	4 	T	00462
+6840	Miscellaneous precision workers, n.e.c.	4 	T	00463
+6860	Butchers and meat cutters	4 	T	00465
+686X	Precision food production occupations	3 	T	00464
+6870	Bakers	4 	T	00466
+6880	Food batchmakers	4 	T	00467
+6890	Inspectors, testers, and graders	4 	T	00469
+689X	Precision inspectors, testers, and related workers	3 	T	00468
+6930	Adjusters and calibrators	4 	T	00470
+6940	Water and sewage treatment plant operators	4 	T	00472
+694X	Plant and system operators	3 	T	00471
+6950	Power plant operators	4 	T	00473
+6960	Stationary engineers	4 	T	00474
+6990	Miscellaneous plant and system operators	4 	T	00475
+7030	Lathe and turning machine set-up operators	4 	T	00480
+703X	Metal working and plastic working machine operators	3 	T	00479
+7040	Lathe and turning machine operators	4 	T	00481
+7050	Milling and planing machine operators	4 	T	00482
+7060	Punching and stamping press machine operators	4 	T	00483
+7070	Rolling machine operators	4 	T	00484
+7080	Drilling and boring machine operators	4 	T	00485
+7090	Grinding, abrading, buffing, and polishing machine operators	4 	T	00486
+7130	Forging machine operators	4 	T	00487
+7140	Numerical control machine operators	4 	T	00488
+7150	Miscellaneous metal, plastic, stone, and glass working machine operators	4 	T	00489
+7170	Fabricating machine operators, n.e.c.	4 	T	00490
+7190	Molding and casting machine operators	4 	T	00492
+719X	Metal and plastic processing machine operators	3 	T	00491
+7230	Metal plating machine operators	4 	T	00493
+7240	Heat treating equipment operators	4 	T	00494
+7250	Miscellaneous metal and plastic processing machine operators	4 	T	00495
+7260	Wood lathe, routing, and planing machine operators	4 	T	00497
+726X	Woodworking machine operators	3 	T	00496
+7270	Sawing machine operators	4 	T	00498
+7280	Shaping and joining machine operators	4 	T	00499
+7290	Nailing and tacking machine operators	4 	T	00500
+7330	Miscellaneous woodworking machine operators	4 	T	00501
+7340	Printing press operators	4 	T	00503
+734X	Printing machine operators	3 	T	00502
+7350	Photoengravers and lithographers	4 	T	00504
+7360	Typesetters and compositors	4 	T	00505
+7370	Miscellaneous printing machine operators	4 	T	00506
+7380	Winding and twisting machine operators	4 	T	00508
+738X	Textile, apparel, and furnishings machine operators	3 	T	00507
+7390	Knitting, looping, taping, and weaving machine operators	4 	T	00509
+7430	Textile cutting machine operators	4 	T	00510
+7440	Textile sewing machine operators	4 	T	00511
+7450	Shoe machine operators	4 	T	00512
+7470	Pressing machine operators	4 	T	00513
+7480	Laundering and dry cleaning machine operators	4 	T	00514
+7490	Miscellaneous textile machine operators	4 	T	00515
+7530	Cementing and gluing machine operators	4 	T	00517
+753X	Machine operators, assorted materials	3 	T	00516
+7540	Packaging and filling machine operators	4 	T	00518
+7550	Extruding and forming machine operators	4 	T	00519
+7560	Mixing and blending machine operators	4 	T	00520
+7570	Separating, filtering, and clarifying machine operators	4 	T	00521
+7580	Compressing and compacting machine operators	4 	T	00522
+7590	Painting and paint spraying machine operators	4 	T	00523
+7630	Roasting and baking machine operators	4 	T	00524
+7640	Washing, cleaning, and pickling machine operators	4 	T	00525
+7650	Folding machine operators	4 	T	00526
+7660	Furnace, kiln, and oven operators, exc. food	4 	T	00527
+7680	Crushing and grinding machine operators	4 	T	00528
+7690	Slicing and cutting machine operators	4 	T	00529
+7730	Motion picture projectionists	4 	T	00530
+7740	Photographic process machine operators	4 	T	00531
+7770	Miscellaneous machine operators, n.e.c.	4 	T	00532
+7790	Machine operators, not specified	4 	T	00533
+7830	Welders and cutters	4 	T	00535
+7840	Solderers and brazers	4 	T	00536
+7850	Assemblers	4 	T	00537
+7860	Hand cutting and trimming occupations	4 	T	00538
+7870	Hand molding, casting, and forming occupations	4 	T	00539
+7890	Hand painting, coating, and decorating occupations	4 	T	00540
+7930	Hand engraving and printing occupations	4 	T	00541
+7950	Miscellaneous hand working occupations	4 	T	00542
+7960	Production inspectors, checkers, and examiners	4 	T	00544
+7970	Production testers	4 	T	00545
+7980	Production samplers and weighers	4 	T	00546
+7990	Graders and sorters, exc. agricultural	4 	T	00547
+8030	Supervisors, motor vehicle operators	4 	T	00550
+8040	Truck drivers	4 	T	00551
+8060	Driver-sales workers	4 	T	00552
+8080	Bus drivers	4 	T	00553
+8090	Taxicab drivers and chauffeurs	4 	T	00554
+8130	Parking lot attendants	4 	T	00555
+8140	Motor transportation occupations, n.e.c.	4 	T	00556
+8230	Railroad conductors and yardmasters	4 	T	00559
+823X	Rail transportation occupations	3 	T	00558
+8240	Locomotive operating occupations	4 	T	00560
+8250	Railroad brake, signal, and switch operators	4 	T	00561
+8260	Rail vehicle operators, n.e.c.	4 	T	00562
+8280	Ship captains and mates, exc. fishing boats	4 	T	00564
+828X	Water transportation occupations	3 	T	00563
+8290	Sailors and deckhands	4 	T	00565
+8330	Marine engineers	4 	T	00566
+8340	Bridge, lock, and lighthouse tenders	4 	T	00567
+8430	Supervisors, material moving equipment operators	4 	T	00569
+8440	Operating engineers	4 	T	00570
+8450	Longshore equipment operators	4 	T	00571
+8480	Hoist and winch operators	4 	T	00572
+8490	Crane and tower operators	4 	T	00573
+8530	Excavating and loading machine operators	4 	T	00574
+8550	Grader, dozer, and scraper operators	4 	T	00575
+8560	Industrial truck and tractor equipment operators	4 	T	00576
+8590	Miscellaneous material moving equipment operators	4 	T	00577
+8640	Supervisors, handlers, equipment cleaners, and laborers, n.e.c.	4 	T	00579
+8650	Helpers, mechanics and repairers	4 	T	00580
+8660	Helpers, construction trades	4 	T	00582
+866X	Helpers, construction and extractive occupations	3 	T	00581
+8670	Helpers, surveyor	4 	T	00583
+8680	Helpers, extractive occupations	4 	T	00584
+8690	Construction laborers	4 	T	00585
+8740	Production helpers	4 	T	00586
+8750	Garbage collectors	4 	T	00588
+875X	Freight, stock, and material handlers	3 	T	00587
+8760	Stevedores	4 	T	00589
+8770	Stock handlers and baggers	4 	T	00590
+8780	Machine feeders and offbearers	4 	T	00591
+8830	Freight, stock, and material handlers, n.e.c.	4 	T	00592
+8850	Garage and service station related occupations	4 	T	00593
+8870	Vehicle washers and equipment cleaners	4 	T	00594
+8880	Hand packers and packagers	4 	T	00595
+8890	Laborers, nonconstruction	4 	T	00596
+9030	Commissioned Officers and Warrant Officers	4 	T	00598
+9040	Non-commissioned Officers and Other Enlisted Personnel	4 	T	00599
+9050	Military occupation, rank not specified	4 	T	00600
+9090	Last worked 1984 or earlier	4 	T	00601
+9990	Nonclassifiable	1 	T	00602
+AAXX	Managerial and professional specialty	1 	T	00002
+BBXX	Technical, sales, and administrative support	1 	T	00153
+CCXX	Service occupations	1 	T	00272
+DDXX	Farming, forestry, and fishing	1 	T	00328
+EEXX	Precision production, craft, and repair	1 	T	00355
+FFXX	Operators, fabricators, and laborers	1 	T	00476

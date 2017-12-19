@@ -1,0 +1,6 @@
+type_code	type_name
+
+AP	All Private Industry	
+ML	Medium and Large Private Establishments	
+SL	State and local governments	
+SM	Small Private Establishments	

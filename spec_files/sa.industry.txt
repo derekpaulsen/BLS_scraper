@@ -1,0 +1,607 @@
+industry_code	industry_name
+
+000000	Total Non-Farm
+000015	Total Private
+000045	Goods Producing
+000055	Service Producing
+000060	*Total Nonmanufacturing
+000065	*Total Private Nonmanufacturing
+000066	*Constr.;Fin.; Ins., &R.E.; Govt.; Misc. Nonmfg.
+000069	*Other Nonmanufacturing
+000075	Private Service Producing
+100001	Mining
+100009	Other Mining
+110002	Metal Mining
+110026	*10, 12, 14
+110203	Copper Ores
+110403	Gold And Silver Ores
+112002	Coal Mining
+112056	*12, 14
+112203	Bituminous Coal And Lignite Mining
+112303	Anthracite Mining
+113002	Oil And Gas Extraction
+113026	Oil & Gas Extrcn & Nonmet Min, Ex Fuel
+113136	Crude Petrol., Nat. Gas, Nat. Gas Liq.
+113803	Oil And Gas Field Services
+114002	Nonmetallic Minerals, Except Fuels
+114754	Phosphate Rock
+200001	Construction
+200015	Construction & Mining
+215002	General Building Contractors
+215009	Other General Building Contractors
+215026	Gen. Bldg. Contractors & Heavy Construction
+215203	Residential Building Construction
+215236	Res. Bldg. Constr. & Operative Builders
+215403	Nonresidential Building Construction
+216002	Heavy Construction, Ex. Building
+216103	Highway And Street Construction
+216203	Heavy Construction, Except Highway
+217002	Special Trade Contractors
+217009	Other Special Trade Contractors
+217103	Plumbing, Heating, Air-Conditioning
+217203	Painting And Paper Hanging
+217303	Electrical Work
+217403	Masonry, Stonework, And Plastering
+217503	Carpentry And Floor Work
+217603	Roofing, Siding, And Sheet Metal Work
+217703	Concrete Work
+217903	Misc. Special Trade Contractors
+300001	Manufacturing
+300009	*(R)
+300016	Durable Goods
+300019	Other Durable Goods
+300036	*24, 25, 32 - 38
+300056	*33 - 38, 391, 394, 396
+300099	*(R)
+324002	Lumber And Wood Products
+324009	Other Lumber And Wood Products
+324026	Lumber & Wood Prods. Incl. Furniture
+324056	*24, 25, 26
+324066	*24, 32
+324076	*24, 26
+324103	Logging
+324136	Logging, Sawmills, And Planing Mills
+324203	Sawmills And Planing Mills
+324303	Millwork, Plywood & Structural Members
+324346	Hardwood & Softwood Veneer & Plywood
+324356	Milwk, Wd Kit Cabs, Stone, Wd Mfrs Nec
+324403	Wood Containers
+324503	Wood Buildings And Mobile Homes
+324514	Mobile Homes
+324903	Miscellaneous Wood Products
+325002	Furniture And Fixtures
+325009	Other Furniture And Fixtures
+325103	Household Furniture
+325114	Wood Household Furniture
+325124	Upholstered Household Furniture
+325136	Household And Office Furniture
+325156	Hshld., Office, & Public Bldg. Furn.
+325203	Office Furniture
+325303	Public Building & Related Furniture
+325403	Partitions And Fixtures
+332002	Stone, Clay, And Glass Products
+332009	Other Stone, Clay, And Glass Products
+332103	Flat Glass
+332136	*321, 322, 323
+332203	Glass And Glassware, Pressed Or Blown
+332214	Glass Containers
+332294	Pressed And Blown Glass, Nec
+332303	Products Of Purchased Glass
+332403	Cement, Hydraulic
+332436	*324, 325, 326
+332503	Structural Clay Products
+332603	Pottery And Related Products
+332703	Concrete, Gypsum, And Plaster Products
+332903	Misc. Nonmetallic Mineral Products
+333002	Primary Metal Industries
+333009	Other Primary Metal Industries
+333026	Prim. Metal Inds. & Fabr. Metal Prods.
+333056	*33 - 36
+333066	*33 - 37
+333076	*33 - 38
+333103	Blast Furnace And Basic Steel Products
+333109	Other Blast Furnace & Basic Stl. Prod.
+333124	Blast Furnaces And Steel Mills
+333136	*331, 332, 339
+333203	Iron And Steel Foundries
+333214	Gray And Ductile Iron Foundries
+333246	*3322, 3324
+333254	Steel Foundries, Nec
+333303	Primary Nonferrous Metals
+333336	Primary & Secondary Nonferrous Metals
+333346	*3334, 3341, 3353, 3354, 3355, 3361
+333356	Nonferrous Metals Processing
+333503	Nonferrous Rolling And Drawing
+333603	Nonferrous Foundries (Castings)
+334002	Fabricated Metal Products
+334009	Other Fabricated Metal Products
+334026	Fab. Met. Prod. & Indl. Mach. & Equip.
+334056	*34, 37
+334066	*34 - 37
+334103	Metal Cans And Shipping Containers
+334196	*341, 343 - 349, 33
+334203	Cutlery, Handtools, And Hardware
+334303	Plumbing And Heating, Except Electric
+334403	Fabricated Structural Metal Products
+334409	Other Fabricated Struct. Metal Prods.
+334414	Fabricated Structural Metal
+334434	Fabricated Plate Work (Boiler Shops)
+334503	Screw Machine Products, Bolts, Etc.
+334603	Metal Forgings And Stampings
+334609	Other Metal Forgings And Stampings
+334624	Iron And Steel Forgings
+334654	Automotive Stampings
+334703	Metal Services, Nec
+334736	*347, 348
+334803	Ordnance And Accessories, Nec
+334903	Misc. Fabricated Metal Products
+334909	Other Misc. Fabricated Metal Products
+334944	Valves And Pipe Fittings, Nec
+335002	Industrial Machinery And Equipment
+335009	Other Industrial Machinery And Equip.
+335026	Mach. & Electronic & Electric Equip.
+335056	*35, 36, 37
+335066	*35, 37
+335076	*35, 36, 38
+335103	Engines And Turbines
+335203	Farm And Garden Machinery
+335303	Construction And Related Machinery
+335309	Other Construction & Related Machinery
+335314	Construction Machinery
+335334	Oil And Gas Field Machinery
+335354	Conveyors And Conveying Equipment
+335403	Metalworking Machinery
+335503	Special Industry Machinery
+335603	General Industrial Machinery
+335609	Other General Industrial Machinery
+335614	Pumps And Pumping Equipment
+335624	Ball And Roller Bearings
+335634	Air And Gas Compressors
+335674	Industrial Furnaces And Ovens
+335703	Computer And Office Equipment
+335803	Refrigeration And Service Machinery
+335903	Industrial Machinery, Nec
+336002	Electronic & Other Electric Equipment
+336009	Other Electronic & Electric Equipment
+336026	*36, 37
+336056	*36, 38
+336103	Electric Distribution Equipment
+336124	Transformers, Except Electronic
+336134	Switchgear And Switchboard Apparatus
+336203	Electrical Industrial Apparatus
+336303	Household Appliances
+336403	Electric Lighting And Wiring Equipment
+336409	Other Elect. Lighting & Wiring Equip.
+336434	Current-Carrying Wiring Devices
+336503	Household Audio And Video Equipment
+336536	Aud, Vid, Comns Equip & Elec Compnts.
+336603	Communications Equipment
+336636	Commns. Equip & Electronic Components
+336703	Electronic Components And Accessories
+336709	Other Electronic Components & Access.
+336744	Semiconductors And Related Devices
+336903	Misc. Electrical Equipment & Supplies
+337002	Transportation Equipment
+337009	Other Transportation Equipment
+337026	*37, 38, 39
+337056	*37, 39
+337103	Motor Vehicles And Equipment
+337109	Other Motor Vehicles And Equipment
+337114	Motor Vehicles And Car Bodies
+337134	Truck and Bus Bodies
+337144	Motor Vehicle Parts And Accessories
+337164	Motor Homes
+337203	Aircraft And Parts
+337236	Aircraft, Guided Missiles, Space Veh.
+337303	Ship And Boat Building And Repairing
+337403	Railroad Equipment
+337603	Guided Missiles, Space Vehicles, Parts
+337903	Miscellaneous Transportation Equipment
+338002	Instruments And Related Products
+338009	Other Instruments & Related Products
+338026	Instruments And Misc. Mfg. Industries
+338103	Search And Navigation Equipment
+338136	Navigational, Meas., Control. Devices
+338203	Measuring And Controlling Devices
+338403	Medical Instruments And Supplies
+338503	Opthalmic Goods
+338603	Photographic Equipment And Supplies
+338703	Watches, Clocks, Watchcases & Parts
+339002	Miscellaneous Manufacturing Industries
+339009	Other Misc. Manufacturing Industries
+339103	Jewelry, Silverware, And Plated Ware
+339196	Jlry. Incl. Cstme., Slvwr., Pltd. Ware
+339403	Toys And Sporting Goods
+339503	Pens, Pencils, Office, & Art Supplies
+339603	Costume Jewelry And Notions
+400016	Nondurable Goods
+400019	Other Nondurable Goods
+400026	*20 - 23, 26 - 31, 39
+400056	*20 - 32, 393, 395, 399
+420002	Food And Kindred Products
+420009	Other Food & Kindred Products
+420103	Meat Products
+420114	Meat Packing Plants
+420134	Sausages And Other Prepared Meats
+420136	*201, 203
+420146	*2016, 2017
+420203	Dairy Products
+420209	Other Dairy Products
+420264	Fluid Milk
+420303	Preserved Fruits And Vegetables
+420309	Other Preserved Fruits & Vegetables
+420334	Canned Fruits And Vegetables
+420336	*203, 206
+420396	Canned, Cured, And Frozen Foods
+420403	Grain Mill Products
+420436	Grain Mill And Bakery Products
+420503	Bakery Products
+420514	Bread, Cake, And Related Products
+420524	Cookies And Crackers
+420603	Sugar And Confectionery Products
+420609	Other Sugar & Confectionery Products
+420646	Raw Cane Sugar & Canned Fruits & Vegtbles.
+420654	*2065
+420664	Chocolate And Cocoa Products
+420703	Fats And Oils
+420803	Beverages
+420824	Malt Beverages
+420854	Distilled And Blended Liquors
+420946	Canned, Cured, And Frozen Seafoods
+421002	Tobacco Products
+421009	Other Tobacco Products
+421103	Cigarettes
+421236	Cigars & Chewing & Smoking Tobacco
+421403	Tobacco Stemming And Redrying
+422002	Textile Mill Products
+422009	Other Textile Mill Products
+422026	Textile Mill Products & Apparel
+422056	Textiles, Apparel, & Leather Products
+422066	*22, 29, 31
+422103	Broadwoven Fabric Mills, Cotton
+422136	Brdwvn. Fabric Mills, Cotton & Manmade
+422156	Brdwvn. Fab. Mills, Cott., Manm., Wool
+422176	Broadwoven And Narrow Fabric Mills
+422203	Broadwoven Fabric Mills, Manmade
+422303	Broadwoven Fabric Mills, Wool
+422403	Narrow Fabric Mills
+422503	Knitting Mills
+422509	Other Knitting Mills
+422514	Women's Hosiery, Except Socks
+422524	Hosiery, Nec
+422534	Knit Outerwear Mills
+422544	Knit Underwear Mills
+422574	Weft Knit Fabric Mills
+422584	Lace & Warp Knit Fabric Mills
+422603	Textile Finishing, Except Wool
+422614	Finishing Plants, Cotton
+422624	Finishing Plants, Manmade
+422703	Carpets And Rugs
+422803	Yarn And Thread Mills
+422814	Yarn Spinning Mills
+422903	Miscellaneous Textile Goods
+423002	Apparel And Other Textile Products
+423009	Other Apparel And Textile Products
+423026	Apparel & Leather & Leather Products
+423103	Men's And Boys' Suits And Coats
+423136	Men's & Boys' Suits, Coats, & Furngs.
+423203	Men's And Boys' Furnishings
+423209	Other Men's & Boys' Furnishings
+423214	Men's And Boys' Shirts
+423274	*2327
+423303	Women's And Misses' Outerwear
+423314	Women's & Misses' Blouses & Shirts
+423336	Women's & Misses' Outer & Underwear
+423356	Women's & Children's Outer & Underwear
+423376	Women's & Children's Outerwear
+423403	Women's And Children's Undergarments
+423603	Girls' And Children's Outerwear
+423803	Miscellaneous Apparel And Accessories
+423903	Misc. Fabricated Textile Products
+424026	*24, 25
+426002	Paper And Allied Products
+426009	Other Paper And Allied Products
+426026	Paper & Printing & Publishing
+426103	Pulp Mills
+426156	Pulp, Paper, And Paperboard Mills
+426176	*261, 262, 263, 266
+426203	Paper Mills
+426236	Paper And Paperboard Mills
+426303	Paperboard Mills
+426403	*264
+426436	*264, 265
+426503	Paperboard Containers And Boxes
+426509	Other Paperboard Containers And Boxes
+426534	Corrugated And Solid Fiber Boxes
+426703	Misc. Converted Paper Products
+427002	Printing And Publishing
+427009	Other Printing And Publishing
+427103	Newspapers
+427136	Newspapers And Periodicals
+427156	Newsp., Prdcls., Books, & Misc. Publ.
+427203	Periodicals
+427303	Books
+427403	Miscellaneous Publishing
+427503	Commercial Printing
+427509	Other Commercial Printing
+427524	Commercial Printing, Lithographic
+427603	Manifold Business Forms
+427803	Blankbooks And Bookbinding
+427903	Printing Trade Services
+428002	Chemicals And Allied Products
+428009	Other Chemicals And Allied Products
+428026	Chemicals & Petroleum & Coal Products
+428056	*28, 30
+428103	Industrial Inorganic Chemicals
+428136	Industrial And Agricultural Chemicals
+428156	Indl. Inorg. & Agricultural Chemicals
+428203	Plastics Materials And Synthetics
+428246	Cellulosic And Organic Fibers
+428303	Drugs
+428403	Soap, Cleaners, And Toilet Goods
+428503	Paints And Allied Products
+428603	Industrial Organic Chemicals
+428703	Agricultural Chemicals
+428903	Miscellaneous Chemical Products
+429002	Petroleum And Coal Products
+429009	Other Petroleum And Coal Products
+429026	Petroleum, Coal, & Plastics Prods.
+429056	*29, 30, 31
+429103	Petroleum Refining
+430002	Rubber And Misc. Plastics Products
+430009	Other Rubber & Misc. Plastics Products
+430026	Rubber, Plastics And Leather Products
+430103	Tires And Inner Tubes
+430136	Tires, Inner Tubes, Fabr. Rub. Prods.
+430156	*301 - 304, 306
+430236	*302, 306
+430503	Hose & Belting & Gaskets & Packing
+430603	Fabricated Rubber Products, Nec
+430703	*307
+430803	Miscellaneous Plastics Products, Nec
+431002	Leather And Leather Products
+431009	Other Leather And Leather Products
+431103	Leather Tanning And Finishing
+431336	*313, 314
+431403	Footwear, Except Rubber
+431409	Other Footwear, Except Rubber
+431434	Men's Footwear, Except Athletic
+431444	Women's Footwear, Except Athletic
+431703	Handbags And Personal Leather Goods
+439002	*39
+439009	*(R)
+439103	*391
+439196	*391, 3961
+439403	*394
+439603	*396
+500001	Transportation And Public Utilities
+500009	Other Transportation & Public Utils.
+500016	Transportation
+500019	Other Transportation
+500036	Communications And Public Utilities
+540002	Railroad Transportation
+541002	Local And Interurban Passenger Transit
+541503	School Buses
+542002	Trucking And Warehousing
+542103	Trucking & Courier Services, Ex. Air
+544002	Water Transportation
+545002	Transportation By Air
+545103	Air Transportation, Scheduled
+546002	Pipelines, Except Natural Gas
+547002	Transportation Services
+547203	Passenger Transportation Arrangement
+548002	Communications
+548103	Telephone Communications
+548136	Telephone, Telegraph, & Related Commns
+548303	Radio And Television Broadcasting
+549002	Electric, Gas, And Sanitary Services
+549009	Other Elec., Gas, & Sanitary Services
+549103	Electric Services
+549203	Gas Production And Distribution
+549303	Combination Utility Services
+600001	Trade
+600011	Trade, Except Eating & Drinking Places
+600016	Wholesale Trade
+600036	Retail Trade
+600039	Other Retail Trade
+600046	Retail Trade, Ex. Eatg. & Drnkg. Plcs.
+650012	Wholesale Trade -- Durable Goods
+650103	Motor Vehicles, Parts, And Supplies
+650203	Furniture And Homefurnishings
+650303	Lumber And Construction Materials
+650403	Professional & Commercial Equipment
+650503	Metals And Minerals, Except Petroleum
+650603	Electrical Goods
+650703	Hardware, Plumbing & Heating Equipment
+650803	Machinery, Equipment, And Supplies
+650903	Miscellaneous Durable Goods
+651012	Wholesale Trade -- Nondurable Goods
+651103	Paper And Paper Products
+651203	Drugs, Proprietaries, And Sundries
+651403	Groceries And Related Products
+651414	Groceries, General Line
+651503	Farm-Product Raw Materials
+651603	Chemicals And Allied Products
+651703	Petroleum And Petroleum Products
+651714	Petroleum Bulk Stations & Terminals
+651803	Beer, Wine, And Distilled Beverages
+651903	Misc. Nondurable Goods
+652002	Building Materials & Garden Supplies
+652026	*52, 57, 59
+652103	Lumber And Other Building Materials
+652503	Hardware Stores
+653002	General Merchandise Stores
+653009	Other General Merchandise Stores
+653026	Gen. Mdse., Apparel, Accessory Stores
+653056	*53, 56, 57, 59
+653103	Department Stores
+653303	Variety Stores
+653903	Misc. General Merchandise Stores
+654002	Food Stores
+654103	Grocery Stores
+654603	Retail Bakeries
+655002	Automotive Dealers & Service Stations
+655103	New And Used Car Dealers
+655303	Auto And Home Supply Stores
+655403	Gasoline Service Stations
+656002	Apparel And Accessory Stores
+656203	Women's Clothing Stores
+656503	Family Clothing Stores
+656603	Shoe Stores
+657002	Furniture, Homefurn. & Equip. Stores
+657026	Furn. & Homefrn. Stores & Misc Retail
+657103	Furniture And Homefurnishings Stores
+658002	Eating And Drinking Places
+659002	Miscellaneous Retail
+659103	Drug Stores And Proprietary Stores
+659403	Miscellaneous Shopping Goods Stores
+659603	Nonstore Retailers
+659903	Retail Stores, Nec
+700001	Finance, Insurance, And Real Estate
+700009	Other Finance, Ins., And Real Estate
+700026	Finance
+700029	Other Finance
+700046	Insurance
+700076	Real Estate; Holding & Othr Invst Offs
+760002	Depository Institutions
+760009	Other Depository Institutions
+760026	Depository & Nondepository Instns.
+760066	*60, 63
+760076	60,61,62 Depos, Nondepos Insts; Sec & Com Brkrs
+760203	Commercial Banks
+760214	National Commercial Banks
+760234	*6023
+760254	*6025
+760303	Savings Institutions
+760603	Credit Unions
+761002	Nondepository Institutions
+761026	Nondepos. Instns. & Sec. & Com. Brkrs.
+761056	*61, 67
+761203	*612
+762002	Security And Commodity Brokers
+762103	Security Brokers And Dealers
+762803	Security And Commodity Services
+763002	Insurance Carriers
+763009	Other Insurance Carriers
+763103	Life Insurance
+763203	Medical Service And Health Insurance
+763303	Fire, Marine, And Casualty Insurance
+764002	Insurance Agents, Brokers, & Service
+765002	Real Estate
+766026	*66, 67
+767002	Holding And Other Investment Offices
+800001	Services
+800009	Other Services
+800015	*Services And Mining
+800019	*(R)
+800025	*Services, Mining, & Fin., Ins., & R.E.
+800029	*(R)
+870002	Hotels And Other Lodging Places
+870026	Hotels, Gambling, & Recrn. Services (SIC 70, 79)
+870056	*70, 72
+870066	*70, 72, 73, 75, 76, 78, 79, & 074, 075, 078
+870076	*70, 72, 73, 75, 76, 78, 79
+870103	Hotels And Motels
+870128	Casino Hotels
+870149	*Year-Round Hotels
+870236	*702, 703, 704
+872002	Personal Services
+872026	Personal And Business Services
+872056	*72, 73, 75, 76, 78, 79
+872103	Laundry, Cleaning, & Garment Services
+872303	Beauty Shops
+873002	Business Services
+873009	Other Business Services
+873026	73 & 87
+873103	Advertising
+873303	Mailing, Reproduction, Stenographic
+873403	Services To Buildings
+873503	Misc. Equipment Rental & Leasing
+873603	Personnel Supply Services
+873703	Computer And Data Processing Services
+873803	Miscellaneous Business Services
+875002	Auto Repair, Services, And Parking
+875026	Automotive & Misc. Repair Services
+875303	Automotive Repair Shops
+876002	Miscellaneous Repair Services
+878002	Motion Pictures
+878026	Amuse. & Recrn. Servs. Incl. Mo. Pics.
+878103	Motion Picture Production & Services
+879002	Amusement & Recreation Services
+879303	Bowling Centers
+879903	Misc. Amusement, Recreation Services
+879998	Ski Lifts
+880002	Health Services
+880009	Other Health Services
+880026	*80 - 84, 86, 89
+880103	Offices & Clinics Of Medical Doctors
+880136	Offices Of Mds. & Other Health Practnrs
+880203	Offices And Clinics Of Dentists
+880503	Nursing And Personal Care Facilities
+880536	Nursing & Personal Care Facils & Hospitals
+880556	Nursing Facils & Home Hlth Care Servs
+880603	Hospitals
+881002	Legal Services
+881026	Legal, Engineering & Mngmt. Services
+881056	Legal Services And Services, Nec
+881066	*81 - 84, 86, 89
+882002	Educational Services
+882026	*82, 84, 86
+882056	*82, 83, 86
+882066	*82, 83, 84, 86
+882103	Elementary And Secondary Schools
+882203	Colleges And Universities
+883002	Social Services
+883203	Individual And Family Services
+883303	Job Training And Related Services
+883503	Child Day Care Services
+883603	Residential Care
+883903	Social Services, Nec
+884002	Museums, Botanical, Zoological Gardens
+884026	*84, 86
+886002	Membership Organizations
+886009	Other Membership Organizations
+886103	Business Associations
+887002	Engineering & Management Services
+887103	Engineering & Architectural Services
+887203	Accounting, Auditing, & Bookkeeping
+887303	Research And Testing Services
+887403	Management And Public Relations
+889002	Services, Nec
+889103	*891
+889203	*892
+890746	Agricultural Services
+900001	Total Government
+908063	*Government Hospitals
+909009	Other Government
+910001	Total Federal Government
+911002	U. S. Department Of Defense
+911013	U. S. Air Force
+911023	U. S. Army
+911033	U. S. Navy
+914302	U. S. Postal Service
+918063	Federal Government Hospitals
+919009	Other Federal Government
+919513	Forest Service, National Parks, & Rel.
+920001	Total State Government
+920011	*District Of Columbia Government
+928002	State Government Health Services
+928063	State Government Hospitals
+928202	State Government Education
+928226	State Education and Social Services
+929009	Other State Government
+930001	Total Local Government
+934102	Local Government Public Transportation
+938063	Local Government Hospitals
+938202	Local Government Education
+938209	Other Local Government Education
+938213	Local Govt. Elem & Secondary Schools
+938224	Local Government Junior Colleges
+939009	Other Local Government
+939012	County Government (Non Educational)
+939022	City Government (Non Educational)
+939032	Special Districts (Non Educational)
+939133	Exec. & Legis. Offices Combined
+940001	Total State And Local Government
+948202	*State And Local Government Education
+949009	*Other State And Local Government

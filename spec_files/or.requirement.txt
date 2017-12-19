@@ -1,0 +1,5 @@
+requirement_code	requirement_text	display_level	selectable	sort_sequence
+C	Cognitive Requirement	0	T	1	
+E	Environmental Exposure	0	T	2	
+P	Physical Requirement	0	T	3	
+V	Specific Vocational Preparation	0	T	4	

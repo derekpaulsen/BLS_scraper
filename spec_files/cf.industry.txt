@@ -1,0 +1,1313 @@
+industry_code	industry_text	display_level	selectable	sort_sequence
+0000	All workers	0 	T	00001	
+0111	Cash grains, wheat	5 	T	00006	
+0112	Cash grains, rice	5 	T	00007	
+0115	Cash grains, corn	5 	T	00008	
+0116	Cash grains, soybeans	5 	T	00009	
+0119	Cash grains, n.e.c.	5 	T	00010	
+011X	Cash grains	4 	T	00005	
+0131	Cotton	5 	T	00012	
+0132	Tobacco	5 	T	00013	
+0133	Sugarcane and sugar beets	5 	T	00014	
+0134	Irish potatoes	5 	T	00015	
+0139	Field crops, except cash grains, n.e.c.	5 	T	00016	
+013X	Field crops, except cash grains	4 	T	00011	
+016X	Vegetables and melons	4 	T	00017	
+0171	Berry Crops	5 	T	00019	
+0172	Grapes	5 	T	00020	
+0173	Tree nuts	5 	T	00021	
+0174	Citrus fruits	5 	T	00022	
+0175	Deciduous tree fruits	5 	T	00023	
+0179	Fruits and tree nuts, n.e.c.	5 	T	00024	
+017X	Fruits and tree nuts	4 	T	00018	
+0181	Ornamental floriculture and nursery products	5 	T	00026	
+0182	Food crops grown under cover	5 	T	00027	
+018X	Horticultural specialties	4 	T	00025	
+019X	General farms, primarily crop	4 	T	00028	
+01XX	Agricultural production-crops	3 	T	00004	
+0211	Beef cattle feedlots	5 	T	00031	
+0212	Beef cattle, except feedlots	5 	T	00032	
+0213	Hogs	5 	T	00033	
+0214	Sheep and goats	5 	T	00034	
+0219	General livestock, except dairy and poultry	5 	T	00035	
+021X	Livestock, except dairy and poultry	4 	T	00030	
+024X	Dairy farms	4 	T	00036	
+0251	Broiler, fryer, and roaster chicken	5 	T	00038	
+0252	Chicken eggs	5 	T	00039	
+0253	Turkey and turkey eggs	5 	T	00040	
+0254	Poultry hatcheries	5 	T	00041	
+0259	Poultry and eggs, n.e.c.	5 	T	00042	
+025X	Poultry and eggs	4 	T	00037	
+0271	Fur bearing animals and rabbits	5 	T	00044	
+0272	Horses and other equines	5 	T	00045	
+0273	Animal aquaculture	5 	T	00046	
+0279	Animal specialties, n.e.c.	5 	T	00047	
+027X	Animal specialties	4 	T	00043	
+029X	General farms, primarily animal	4 	T	00048	
+02XX	Agricultural production - livestock	3 	T	00029	
+071X	Soil preparation services	4 	T	00050	
+0721	Crop planting, cultivating, and protecting	5 	T	00052	
+0722	Crop harvesting, primarily by machine	5 	T	00053	
+0723	Crop preparation services for market, except cotton ginning	5 	T	00054	
+0724	Cotton ginning	5 	T	00055	
+072X	Crop services	4 	T	00051	
+0741	Veterinary services for livestock	5 	T	00057	
+0742	Veterinary services for animal specialties	5 	T	00058	
+074X	Veterinary services	4 	T	00056	
+0751	Livestock services, except veterinary	5 	T	00060	
+0752	Animal specialty services, except veterinary	5 	T	00061	
+075X	Animal services, except veterinary	4 	T	00059	
+0761	Farm labor contractors and crew leaders	5 	T	00063	
+0762	Farm management services	5 	T	00064	
+076X	Farm labor and management services	4 	T	00062	
+0781	Landscape counseling and planning	5 	T	00066	
+0782	Lawn and garden services	5 	T	00067	
+0783	Ornamental shrub and tree services	5 	T	00068	
+078X	Landscape and horticultural services	4 	T	00065	
+07XX	Agricultural services	3 	T	00049	
+081X	Timber tracts	4 	T	00070	
+083X	Forest products	4 	T	00071	
+085X	Forestry services	4 	T	00072	
+08XX	Forestry	3 	T	00069	
+0912	Finfish	5 	T	00075	
+0913	Shellfish	5 	T	00076	
+0919	Miscellaneous marine products	5 	T	00077	
+091X	Commercial fishing	4 	T	00074	
+092X	Fish hatcheries and preserves	4 	T	00078	
+097X	Hunting, trapping, game propagation	4 	T	00079	
+09XX	Fishing, hunting, and trapping	3 	T	00073	
+101X	Iron ores	4 	T	00082	
+102X	Copper ores	4 	T	00083	
+103X	Lead and zinc ores	4 	T	00084	
+1041	Gold ores	5 	T	00086	
+1044	Silver ores	5 	T	00087	
+104X	Gold and silver ores	4 	T	00085	
+106X	Ferroalloy ores, except vanadium	4 	T	00088	
+108X	Metal mining services	4 	T	00089	
+1094	Uranium-radium-vanadium ores	5 	T	00091	
+1099	Miscellaneous metal ores, n.e.c.	5 	T	00092	
+109X	Miscellaneous metal ores	4 	T	00090	
+10XX	Metal mining	3 	T	00081	
+1221	Bituminous coal and lignite surface mining	5 	T	00095	
+1222	Bituminous coal underground mining	5 	T	00096	
+122X	Bituminous coal and lignite mining	4 	T	00094	
+123X	Anthracite mining	4 	T	00097	
+124X	Coal mining services	4 	T	00098	
+12XX	Coal mining	3 	T	00093	
+131X	Crude petroleum and natural gas	4 	T	00100	
+132X	Natural gas liquids	4 	T	00101	
+1381	Drilling oil and gas wells	5 	T	00103	
+1382	Oil and gas field exploration services	5 	T	00104	
+1389	Oil and gas field services, n.e.c.	5 	T	00105	
+138X	Oil and gas field services	4 	T	00102	
+13XX	Oil and gas extraction	3 	T	00099	
+141X	Dimension stone	4 	T	00107	
+1422	Crushed and broken limestone	5 	T	00109	
+1423	Crushed and broken granite	5 	T	00110	
+1429	Crushed and broken stone, n.e.c.	5 	T	00111	
+142X	Crushed and broken stone	4 	T	00108	
+1442	Construction sand and gravel	5 	T	00113	
+1446	Industrial sand	5 	T	00114	
+144X	Sand and gravel	4 	T	00112	
+1455	Kaolin and ball clay	5 	T	00116	
+1459	Clay, ceramic, and refractory minerals, n.e.c.	5 	T	00117	
+145X	Clay, ceramic, and refractory minerals	4 	T	00115	
+1474	Potash, soda, and borate minerals	5 	T	00119	
+1475	Phosphate rock	5 	T	00120	
+1479	Chemical and fertilizer mineral mining, n.e.c.	5 	T	00121	
+147X	Chemical and fertilizer minerals	4 	T	00118	
+148X	Nonmetallic minerals services	4 	T	00122	
+149X	Miscellaneous nonmetallic minerals	4 	T	00123	
+14XX	Nonmetallic minerals, except fuels	3 	T	00106	
+1521	Single-family homes	5 	T	00127	
+1522	Residential buildings, other than single-family	5 	T	00128	
+152X	Residential building construction	4 	T	00126	
+153X	Operative builders	4 	T	00129	
+1541	Industrial buildings and warehouses	5 	T	00131	
+1542	Nonresidential buildings, other than industrial buildings and warehouses	5 	T	00132	
+154X	Nonresidential building construction	4 	T	00130	
+15XX	General building contractors	3 	T	00125	
+161X	Highway and street construction	4 	T	00134	
+1622	Bridge, tunnel, and elevated highway construction	5 	T	00136	
+1623	Water, sewer, pipeline, and communications and power line construction	5 	T	00137	
+1629	Heavy construction, n.e.c.	5 	T	00138	
+162X	Heavy construction, except highway	4 	T	00135	
+16XX	Heavy construction, except building	3 	T	00133	
+171X	Plumbing, heating, air-conditioning	4 	T	00140	
+172X	Painting and paper hanging	4 	T	00141	
+173X	Electrical work	4 	T	00142	
+1741	Masonry, stonesetting, and other stone work	5 	T	00144	
+1742	Plastering, drywall, acoustical, and insulation work	5 	T	00145	
+1743	Terrazzo, tile, marble, and mosaic work	5 	T	00146	
+174X	Masonry, stonework, and plastering	4 	T	00143	
+1751	Carpentry work	5 	T	00148	
+1752	Floor laying and other floor work, n.e.c.	5 	T	00149	
+175X	Carpentry and floor work	4 	T	00147	
+176X	Roofing, siding, and sheet metal work	4 	T	00150	
+177X	Concrete work	4 	T	00151	
+178X	Water well drilling	4 	T	00152	
+1791	Structural steel erection	5 	T	00154	
+1793	Glass and glazing work	5 	T	00155	
+1794	Excavation work	5 	T	00156	
+1795	Wrecking and demolition work	5 	T	00157	
+1796	Installation or erection of building equipment, n.e.c.	5 	T	00158	
+1799	Special trade contractors, n.e.c.	5 	T	00159	
+179X	Miscellaneous special trade contractors	4 	T	00153	
+17XX	Special trade contractors	3 	T	00139	
+2011	Meat packing plants	5 	T	00163	
+2013	Sausages and other prepared meats	5 	T	00164	
+2015	Poultry slaughtering and processing	5 	T	00165	
+201X	Meat products	4 	T	00162	
+2021	Creamery butter	5 	T	00167	
+2022	Cheese, natural and processed	5 	T	00168	
+2023	Dry, condensed, evaporatedproducts	5 	T	00169	
+2024	Ice cream and frozen desserts	5 	T	00170	
+2026	Fluid milk	5 	T	00171	
+202X	Dairy products	4 	T	00166	
+2032	Canned specialties	5 	T	00173	
+2033	Canned fruits, vegetables, preserves, jams, and jellies	5 	T	00174	
+2034	Dried and dehydrated fruits, vegetables and soup mixes	5 	T	00175	
+2035	Pickled fruits and vegetables, vegetable sauces and seasonings, and salad dressings	5 	T	00176	
+2037	Frozen fruits, fruit juices, and vegetables	5 	T	00177	
+2038	Frozen specialties, n.e.c.	5 	T	00178	
+203X	Preserved fruits and vegetables	4 	T	00172	
+2041	Flour and other grain mill products	5 	T	00180	
+2043	Cereal breakfast foods	5 	T	00181	
+2044	Rice milling	5 	T	00182	
+2045	Prepared flour mixes and doughs	5 	T	00183	
+2046	Wet corn milling	5 	T	00184	
+2047	Dog and cat food	5 	T	00185	
+2048	Prepared feeds, n.e.c.	5 	T	00186	
+204X	Grain mill products	4 	T	00179	
+2051	Bread and other bakery products, except cookies and crackers	5 	T	00188	
+2052	Cookies and crackers	5 	T	00189	
+2053	Frozen bakery products, except bread	5 	T	00190	
+205X	Bakery products	4 	T	00187	
+2061	Cane sugar, except refining	5 	T	00192	
+2062	Cane sugar refining	5 	T	00193	
+2063	Beet sugar	5 	T	00194	
+2064	Candy and other confectionery products	5 	T	00195	
+2066	Chocolate and cocoa products	5 	T	00196	
+2067	Chewing gum	5 	T	00197	
+2068	Salted and roasted nuts and seeds	5 	T	00198	
+206X	Sugar and confectionery products	4 	T	00191	
+2074	Cottonseed oil mills	5 	T	00200	
+2075	Soybean oil mills	5 	T	00201	
+2076	Vegetable oil mills, except corn, cottonseed, and soybean	5 	T	00202	
+2077	Animal and marine fats and oils	5 	T	00203	
+2079	Shortening, table oils, margarine, and other edible fats and oils, n.e.c.	5 	T	00204	
+207X	Fats and oils	4 	T	00199	
+2082	Malt beverages	5 	T	00206	
+2083	Malt	5 	T	00207	
+2084	Wines, brandy, and brandy spirits	5 	T	00208	
+2085	Distilled and blended liquors	5 	T	00209	
+2086	Bottled and canned soft drinks and carbonated water	5 	T	00210	
+2087	Flavoring extracts and flavoring syrups, n.e.c.	5 	T	00211	
+208X	Beverages	4 	T	00205	
+2091	Canned and cured fish and seafoods	5 	T	00213	
+2092	Fresh or frozen prepared fish	5 	T	00214	
+2095	Roasted coffee	5 	T	00215	
+2096	Potato chips and similar snacks	5 	T	00216	
+2097	Manufactured ice	5 	T	00217	
+2098	Macaroni and spaghetti	5 	T	00218	
+2099	Food preparations, n.e.c.	5 	T	00219	
+209X	Miscellaneous food and kindred products	4 	T	00212	
+20XX	Food and kindred products	3 	T	00161	
+211X	Cigarettes	4 	T	00221	
+212X	Cigars	4 	T	00222	
+213X	Chewing and smoking tobacco	4 	T	00223	
+214X	Tobacco stemming and redrying	4 	T	00224	
+21XX	Tobacco products	3 	T	00220	
+221X	Broadwoven fabric mills, cotton	4 	T	00226	
+222X	Broadwoven fabric mills, manmade	4 	T	00227	
+223X	Broadwoven fabric mills, wool	4 	T	00228	
+224X	Narrow fabric mills	4 	T	00229	
+2251	Women?s full-length and knee-length hosiery, except socks	5 	T	00231	
+2252	Hosiery, n.e.c.	5 	T	00232	
+2253	Knit outerwear mills	5 	T	00233	
+2254	Knit underwear and nightwear mills	5 	T	00234	
+2257	Weft knit fabric mills	5 	T	00235	
+2258	Lace and warp knit fabric mills	5 	T	00236	
+2259	Knitting mills, n.e.c.	5 	T	00237	
+225X	Knitting mills	4 	T	00230	
+2261	Finishers of broadwoven fabrics of cotton	5 	T	00239	
+2262	Finishers of broadwoven fabrics of manmade fiber and silk	5 	T	00240	
+2269	Finishers of textiles, n.e.c.	5 	T	00241	
+226X	Textile finishing, except wool	4 	T	00238	
+227X	Carpets and rugs	4 	T	00242	
+2281	Yarn spinning mills	5 	T	00244	
+2282	Yarn texturing, throwing, winding mills	5 	T	00245	
+2284	Thread mills	5 	T	00246	
+228X	Yarn and thread mills	4 	T	00243	
+2295	Coated fabrics, not rubberized	5 	T	00248	
+2296	Tire cord and fabrics	5 	T	00249	
+2297	Nonwoven fabrics	5 	T	00250	
+2298	Cordage and twine	5 	T	00251	
+2299	Textile Goods, n.e.c.	5 	T	00252	
+229X	Miscellaneous textile goods	4 	T	00247	
+22XX	Textile mill products	3 	T	00225	
+231X	Men's and boys' suits and coats	4 	T	00254	
+2321	Men's and boys' shirts, except work shirts	5 	T	00256	
+2322	Men's and boys' underwear and nightwear	5 	T	00257	
+2323	Men's and boys' neckwear	5 	T	00258	
+2325	Men's and boys' trousers and slacks	5 	T	00259	
+2326	Men's and boys' work clothing	5 	T	00260	
+2329	Men's and boys' clothing, n.e.c.	5 	T	00261	
+232X	Men's and boys' furnishings	4 	T	00255	
+2331	Women's, misses', and juniors' blouses and shirts	5 	T	00263	
+2335	Women's, misses', and juniors' dresses	5 	T	00264	
+2337	Women's, misses', and juniors' suits, skirts, and coats	5 	T	00265	
+2339	Women's, misses', and juniors' outerwear, n.e.c.	5 	T	00266	
+233X	Women's and misses' outerwear	4 	T	00262	
+2341	Women's, misses', children's, and infants' underwear and nNightwear	5 	T	00268	
+2342	Brassieres, girdles, and allied garments	5 	T	00269	
+234X	Women's and children's undergarments	4 	T	00267	
+235X	Hats, caps, and millinery	4 	T	00270	
+2361	Girls', children's, and infants' dresses, blouses, and shirts	5 	T	00272	
+2369	Girls', children's, and infants' outerwear, n.e.c.	5 	T	00273	
+236X	Girls' and children's outerwear	4 	T	00271	
+237X	Fur goods	4 	T	00274	
+2381	Dress and work gloves, except knit and all-leather	5 	T	00276	
+2384	Robes and dressing gowns	5 	T	00277	
+2385	Waterproof outerwear	5 	T	00278	
+2386	Leather and sheep-lined clothing	5 	T	00279	
+2387	Apparel belts	5 	T	00280	
+2389	Apparel and accessories, n.e.c.	5 	T	00281	
+238X	Miscellaneous apparel and accessories	4 	T	00275	
+2391	Curtains and draperies	5 	T	00283	
+2392	Housefurnishings, except curtains and draperies	5 	T	00284	
+2393	Textile bags	5 	T	00285	
+2394	Canvas and related products	5 	T	00286	
+2395	Pleating, decorative and novelty stitching, and tucking for the trade	5 	T	00287	
+2396	Automotive trimmings, apparel findings, and related products	5 	T	00288	
+2397	Schiffli machine embroideries	5 	T	00289	
+2399	Fabricated textile products, n.e.c.	5 	T	00290	
+239X	Miscellaneous fabricated textile products	4 	T	00282	
+23XX	Apparel and other textile products	3 	T	00253	
+241X	Logging	4 	T	00292	
+2421	Sawmills and planing mills, general	5 	T	00294	
+2426	Hardwood dimension and flooring mills	5 	T	00295	
+2429	Special product sawmills, n.e.c.	5 	T	00296	
+242X	Sawmills and planing mills	4 	T	00293	
+2431	Millwork	5 	T	00298	
+2434	Wood kitchen cabinets	5 	T	00299	
+2435	Hardwood veneer and plywood	5 	T	00300	
+2436	Softwood veneer and plywood	5 	T	00301	
+2439	Structural Wood Members, n.e.c.	5 	T	00302	
+243X	Millwork, plywood and structural members	4 	T	00297	
+2441	Nailed and lock corner wood boxes and shook	5 	T	00304	
+2448	Wood pallets and skids	5 	T	00305	
+2449	Wood containers, n.e.c.	5 	T	00306	
+244X	Wood containers	4 	T	00303	
+2451	Mobile homes	5 	T	00308	
+2452	Prefabricated wood buildings	5 	T	00309	
+245X	Wood buildings and mobile homes	4 	T	00307	
+2491	Wood preserving	5 	T	00311	
+2493	Reconstituted wood products	5 	T	00312	
+2499	Wood products, n.e.c.	5 	T	00313	
+249X	Miscellaneous wood products	4 	T	00310	
+24XX	Lumber and wood products	3 	T	00291	
+2511	Wood household furniture	5 	T	00316	
+2512	Upholstered household furniture	5 	T	00317	
+2514	Metal household furniture	5 	T	00318	
+2515	Mattresses and bedsprings	5 	T	00319	
+2517	Wood television and radio cabinets	5 	T	00320	
+2519	Household furniture, n.e.c.	5 	T	00321	
+251X	Household furniture	4 	T	00315	
+2521	Wood office furniture	5 	T	00323	
+2522	Office furniture, except wood	5 	T	00324	
+252X	Office furniture	4 	T	00322	
+253X	Public building and related furniture	4 	T	00325	
+2541	Wood partitions and fixtures	5 	T	00327	
+2542	Partitions and fixtures, except wood	5 	T	00328	
+254X	Partitions and fixtures	4 	T	00326	
+2591	Drapery hardware and blinds and shades	5 	T	00330	
+2599	Furniture and fixtures, n.e.c.	5 	T	00331	
+259X	Miscellaneous furniture and fixtures	4 	T	00329	
+25XX	Furniture and fixtures	3 	T	00314	
+261X	Pulp mills	4 	T	00333	
+262X	Paper mills	4 	T	00334	
+263X	Paperboard mills	4 	T	00335	
+2652	Setup paperboard boxes	5 	T	00337	
+2653	Corrugated and solid fiber boxes	5 	T	00338	
+2655	Fiber cans, drums and similar products	5 	T	00339	
+2656	Sanitary food containers	5 	T	00340	
+2657	Folding paperboard boxes	5 	T	00341	
+265X	Paperboard containers and boxes	4 	T	00336	
+2671	Paper coated and laminated, packaging	5 	T	00343	
+2672	Paper coated and laminated, n.e.c.	5 	T	00344	
+2673	Bags: plastics, laminated, and coated	5 	T	00345	
+2674	Bags: uncoated paper and multiwall	5 	T	00346	
+2675	Die-cut paper and board	5 	T	00347	
+2676	Sanitary paper products	5 	T	00348	
+2677	Envelopes	5 	T	00349	
+2678	Stationery products	5 	T	00350	
+2679	Converted paper products, n.e.c.	5 	T	00351	
+267X	Miscellaneous converted paper products	4 	T	00342	
+26XX	Paper and allied products	3 	T	00332	
+271X	Newspapers	4 	T	00353	
+272X	Periodicals	4 	T	00354	
+2731	Book publishing	5 	T	00356	
+2732	Book printing	5 	T	00357	
+273X	Books	4 	T	00355	
+274X	Miscellaneous publishing	4 	T	00358	
+2752	Commercial printing, lithographic	5 	T	00360	
+2754	Commercial printing, gravure	5 	T	00361	
+2759	Commercial printing, n.e.c.	5 	T	00362	
+275X	Commercial printing	4 	T	00359	
+276X	Manifold business forms	4 	T	00363	
+277X	Greeting cards	4 	T	00364	
+2782	Blankbooks and looseleaf binders	5 	T	00366	
+2789	Bookbinding and related work	5 	T	00367	
+278X	Blankbooks and bookbinding	4 	T	00365	
+2791	Typesetting	5 	T	00369	
+2796	Platemaking services	5 	T	00370	
+279X	Printing trade services	4 	T	00368	
+27XX	Printing and publishing	3 	T	00352	
+2812	Alkalies and chlorine	5 	T	00373	
+2813	Industrial gases	5 	T	00374	
+2816	Inorganic pigments	5 	T	00375	
+2819	Industrial inorganic chemicals, n.e.c.	5 	T	00376	
+281X	Industrial inorganic chemicals	4 	T	00372	
+2821	Plastics materials and resins	5 	T	00378	
+2822	Synthetic rubber	5 	T	00379	
+2823	Cellulosic manmade fibers	5 	T	00380	
+2824	Organic fibers, noncellulosic	5 	T	00381	
+282X	Plastics materials and synthetics	4 	T	00377	
+2833	Medicinals and botanicals	5 	T	00383	
+2834	Pharmaceutical preparations	5 	T	00384	
+2835	Diagnostic substances	5 	T	00385	
+2836	Biological products except diagnostic	5 	T	00386	
+283X	Drugs	4 	T	00382	
+2841	Soap and other detergents	5 	T	00388	
+2842	Polishes and sanitation goods	5 	T	00389	
+2843	Surface active agents	5 	T	00390	
+2844	Toilet preparations	5 	T	00391	
+284X	Soap, cleaners, and toilet goods	4 	T	00387	
+285X	Paints and allied products	4 	T	00392	
+2861	Gum and wood chemicals	5 	T	00394	
+2865	Cyclic crudes and intermediates	5 	T	00395	
+2869	Industrial organic chemicals, n.e.c.	5 	T	00396	
+286X	Industrial organic chemicals	4 	T	00393	
+2873	Nitrogenous fertilizers	5 	T	00398	
+2874	Phosphatic fertilizers	5 	T	00399	
+2875	Fertilizers, mixing only	5 	T	00400	
+2879	Agricultural chemicals, n.e.c.	5 	T	00401	
+287X	Agricultural chemicals	4 	T	00397	
+2891	Adhesives and sealants	5 	T	00403	
+2892	Explosives	5 	T	00404	
+2893	Printing ink	5 	T	00405	
+2895	Carbon black	5 	T	00406	
+2899	Chemical preparations, n.e.c.	5 	T	00407	
+289X	Miscellaneous chemical products	4 	T	00402	
+28XX	Chemicals and allied products	3 	T	00371	
+291X	Petroleum refining	4 	T	00409	
+2951	Asphalt paving mixtures and blocks	5 	T	00411	
+2952	Asphalt felts and coatings	5 	T	00412	
+295X	Asphalt paving and roofing materials	4 	T	00410	
+2992	Lubricating oils and greases	5 	T	00414	
+2999	Petroleum and coal products, n.e.c.	5 	T	00415	
+299X	Miscellaneous petroleum and coal products	4 	T	00413	
+29XX	Petroleum and coal products	3 	T	00408	
+301X	Tires and inner tubes	4 	T	00417	
+302X	Rubber and plastics footwear	4 	T	00418	
+3052	Rubber and plastics hose and belting	5 	T	00420	
+3053	Gaskets, packing and sealing devices	5 	T	00421	
+305X	Hose and belting and gaskets and packing	4 	T	00419	
+3061	Mechanical rubber goods	5 	T	00423	
+3069	Fabricated rubber products, n.e.c.	5 	T	00424	
+306X	Fabricated rubber products, n.e.c.	4 	T	00422	
+3081	Unsupported plastics film and sheet	5 	T	00426	
+3082	Unsupported plastics profile shapes	5 	T	00427	
+3083	Laminated plastics plate and sheet	5 	T	00428	
+3084	Plastics pipe	5 	T	00429	
+3085	Plastics bottles	5 	T	00430	
+3086	Plastics foam products	5 	T	00431	
+3087	Custom compound purchased resins	5 	T	00432	
+3088	Plastics plumbing fixtures	5 	T	00433	
+3089	Plastics products, n.e.c.	5 	T	00434	
+308X	Miscellaneous plastics products, n.e.c.	4 	T	00425	
+30XX	Rubber and miscellaneous plastics products	3 	T	00416	
+311X	Leather tanning and finishing	4 	T	00436	
+313X	Footwear cut stock	4 	T	00437	
+3142	House slippers	5 	T	00439	
+3143	Men's footwear, except athletic	5 	T	00440	
+3144	Women's footwear, except athletic	5 	T	00441	
+3149	Footwear, except rubber, n.e.c.	5 	T	00442	
+314X	Footwear, except rubber	4 	T	00438	
+315X	Leather gloves and mittens	4 	T	00443	
+316X	Luggage	4 	T	00444	
+3171	Women's handbags and purses	5 	T	00446	
+3172	Personal leather goods, n.e.c.	5 	T	00447	
+317X	Handbags and personal leather goods	4 	T	00445	
+319X	Leather goods, n.e.c.	4 	T	00448	
+31XX	Leather and leather products	3 	T	00435	
+321X	Flat glass	4 	T	00450	
+3221	Glass containers	5 	T	00452	
+3229	Pressed and blown glass, n.e.c.	5 	T	00453	
+322X	Glass and glassware, pressed or blown	4 	T	00451	
+323X	Products of purchased glass	4 	T	00454	
+324X	Cement, hydraulic	4 	T	00455	
+3251	Brick and structural clay tile	5 	T	00457	
+3253	Ceramic wall and floor tile	5 	T	00458	
+3255	Clay refractories	5 	T	00459	
+3259	Structural clay products, n.e.c.	5 	T	00460	
+325X	Structural clay products	4 	T	00456	
+3261	Vitreous plumbing fixtures	5 	T	00462	
+3262	Vitreous china table and kitchenware	5 	T	00463	
+3263	Semivitreous table and kitchenware	5 	T	00464	
+3264	Porcelain electrical supplies	5 	T	00465	
+3269	Pottery products, n.e.c.	5 	T	00466	
+326X	Pottery and related products	4 	T	00461	
+3271	Concrete block and brick	5 	T	00468	
+3272	Concrete products, n.e.c.	5 	T	00469	
+3273	Ready-mixed concrete	5 	T	00470	
+3274	Lime	5 	T	00471	
+3275	Gypsum products	5 	T	00472	
+327X	Concrete, gypsum, and plaster products	4 	T	00467	
+328X	Cut stone and stone products	4 	T	00473	
+3291	Abrasive products	5 	T	00475	
+3292	Asbestos products	5 	T	00476	
+3295	Minerals, ground or treated	5 	T	00477	
+3296	Mineral wool	5 	T	00478	
+3297	Nonclay refractories	5 	T	00479	
+3299	Nonmetallic mineral products, n.e.c.	5 	T	00480	
+329X	Miscellaneous nonmetallic mineral products	4 	T	00474	
+32XX	Stone, clay, and glass products	3 	T	00449	
+3312	Blast furnaces and steel mills	5 	T	00483	
+3313	Electrometallurgical products	5 	T	00484	
+3315	Steel wire and related products	5 	T	00485	
+3316	Cold finishing of steel shapes	5 	T	00486	
+3317	Steel pipe and tubes	5 	T	00487	
+331X	Blast furnace and basic steel products	4 	T	00482	
+3321	Gray and ductile iron foundries	5 	T	00489	
+3322	Malleable iron foundries	5 	T	00490	
+3324	Steel investment foundries	5 	T	00491	
+3325	Steel foundries, n.e.c.	5 	T	00492	
+332X	Iron and steel foundries	4 	T	00488	
+3331	Primary copper	5 	T	00494	
+3334	Primary aluminum	5 	T	00495	
+3339	Primary nonferrous metals, n.e.c.	5 	T	00496	
+333X	Primary nonferrous metals	4 	T	00493	
+334X	Secondary nonferrous metals	4 	T	00497	
+3351	Copper rolling and drawing	5 	T	00499	
+3353	Aluminum sheet, plate, and foil	5 	T	00500	
+3354	Aluminum extruded products	5 	T	00501	
+3355	Aluminum rolling and drawing, n.e.c.	5 	T	00502	
+3356	Nonferrous rolling and drawing, n.e.c.	5 	T	00503	
+3357	Nonferrous wiredrawing and insulating	5 	T	00504	
+335X	Nonferrous rolling and drawing	4 	T	00498	
+3363	Aluminum die-castings	5 	T	00506	
+3364	Nonferrous die-casting except aluminum	5 	T	00507	
+3365	Aluminum foundries	5 	T	00508	
+3366	Copper foundries	5 	T	00509	
+3369	Nonferrous foundries, n.e.c.	5 	T	00510	
+336X	Nonferrous foundries (castings)	4 	T	00505	
+3398	Metal heat treating	5 	T	00512	
+3399	Primary metal products, n.e.c.	5 	T	00513	
+339X	Miscellaneous primary metal products	4 	T	00511	
+33XX	Primary metal industries	3 	T	00481	
+3411	Metal cans	5 	T	00516	
+3412	Metal barrels, drums, and pails	5 	T	00517	
+341X	Metal cans and shipping containers	4 	T	00515	
+3421	Cutlery	5 	T	00519	
+3423	Hand and edge tools, n.e.c.	5 	T	00520	
+3425	Saw blades and handsaws	5 	T	00521	
+3429	Hardware, n.e.c.	5 	T	00522	
+342X	Cutlery, handtools, and hardware	4 	T	00518	
+3431	Metal sanitary ware	5 	T	00524	
+3432	Plumbing fixture fittings and trim	5 	T	00525	
+3433	Heating equipment, except electric	5 	T	00526	
+343X	Plumbing and heating, except electric	4 	T	00523	
+3441	Fabricated structural metal	5 	T	00528	
+3442	Metal doors, sash, and trim	5 	T	00529	
+3443	Fabricated plate work (boiler shops)	5 	T	00530	
+3444	Sheet metal work	5 	T	00531	
+3446	Architectural metal work	5 	T	00532	
+3448	Prefabricated metal buildings	5 	T	00533	
+3449	Miscellaneous metal work	5 	T	00534	
+344X	Fabricated structural metal products	4 	T	00527	
+3451	Screw machine products	5 	T	00536	
+3452	Bolts, nuts, rivets, and washers	5 	T	00537	
+345X	Screw machine products, bolts, etc.	4 	T	00535	
+3462	Iron and steel forgings	5 	T	00539	
+3463	Nonferrous forgings	5 	T	00540	
+3465	Automotive stampings	5 	T	00541	
+3466	Crowns and closures	5 	T	00542	
+3469	Metal stampings, n.e.c.	5 	T	00543	
+346X	Metal forgings and stampings	4 	T	00538	
+3471	Plating and polishing	5 	T	00545	
+3479	Metal coating and allied services	5 	T	00546	
+347X	Metal services, n.e.c.	4 	T	00544	
+3482	Small arms ammunition	5 	T	00548	
+3483	Ammunition, except for small arms, n.e.c.	5 	T	00549	
+3484	Small arms	5 	T	00550	
+3489	Ordnance and accessories, n.e.c.	5 	T	00551	
+348X	Ordnance and accessories, n.e.c.	4 	T	00547	
+3491	Industrial valves	5 	T	00553	
+3492	Fluid power valves and hose fittings	5 	T	00554	
+3493	Steel springs, except wire	5 	T	00555	
+3494	Valves and pipe fittings, n.e.c.	5 	T	00556	
+3495	Wire springs	5 	T	00557	
+3496	Miscellaneous fabricated wire products	5 	T	00558	
+3497	Metal foil and leaf	5 	T	00559	
+3498	Fabricated pipe and fittings	5 	T	00560	
+3499	Fabricated metal products, n.e.c.	5 	T	00561	
+349X	Miscellaneous fabricated metal products	4 	T	00552	
+34XX	Fabricated metal products	3 	T	00514	
+3511	Turbines and turbine generator sets	5 	T	00564	
+3519	Internal combustion engines, n.e.c.	5 	T	00565	
+351X	Engines and turbines	4 	T	00563	
+3523	Farm machinery and equipment	5 	T	00567	
+3524	Lawn and garden equipment	5 	T	00568	
+352X	Farm and garden machinery	4 	T	00566	
+3531	Construction machinery	5 	T	00570	
+3532	Mining machinery	5 	T	00571	
+3533	Oil and gas field machinery	5 	T	00572	
+3534	Elevators and moving stairways	5 	T	00573	
+3535	Conveyors and conveying equipment	5 	T	00574	
+3536	Hoists, cranes, and monorails	5 	T	00575	
+3537	Industrial trucks and tractors	5 	T	00576	
+353X	Construction and related machinery	4 	T	00569	
+3541	Machine tools, metal cutting types	5 	T	00578	
+3542	Machine tools, metal forming types	5 	T	00579	
+3543	Industrial patterns	5 	T	00580	
+3544	Special dies, tools, jigs and fixtures	5 	T	00581	
+3545	Machine tool accessories	5 	T	00582	
+3546	Power-driven handtools	5 	T	00583	
+3547	Rolling mill machinery	5 	T	00584	
+3548	Welding apparatus	5 	T	00585	
+3549	Metalworking machinery, n.e.c.	5 	T	00586	
+354X	Metalworking machinery	4 	T	00577	
+3552	Textile machinery	5 	T	00588	
+3553	Woodworking machinery	5 	T	00589	
+3554	Paper industries machinery	5 	T	00590	
+3555	Printing trades machinery	5 	T	00591	
+3556	Food products machinery	5 	T	00592	
+3559	Special industry machinery, n.e.c.	5 	T	00593	
+355X	Special industry machinery	4 	T	00587	
+3561	Pumps and pumping equipment	5 	T	00595	
+3562	Ball and roller bearings	5 	T	00596	
+3563	Air and gas compressors	5 	T	00597	
+3564	Blowers and fans	5 	T	00598	
+3565	Packaging machinery	5 	T	00599	
+3566	Speed changers, drives, and gears	5 	T	00600	
+3567	Industrial furnaces and ovens	5 	T	00601	
+3568	Power transmission equipment, n.e.c.	5 	T	00602	
+3569	General industrial machinery, n.e.c.	5 	T	00603	
+356X	General industrial machinery	4 	T	00594	
+3571	Electronic computers	5 	T	00605	
+3572	Computer storage devices	5 	T	00606	
+3575	Computer terminals	5 	T	00607	
+3577	Computer peripheral equipment, n.e.c.	5 	T	00608	
+3578	Calculating and accounting equipment	5 	T	00609	
+3579	Office machines, n.e.c.	5 	T	00610	
+357X	Computer and office equipment	4 	T	00604	
+3581	Automatic vending machines	5 	T	00612	
+3582	Commercial laundry equipment	5 	T	00613	
+3585	Refrigeration and heating equipment	5 	T	00614	
+3586	Measuring and dispensing pumps	5 	T	00615	
+3589	Service industry machinery, n.e.c.	5 	T	00616	
+358X	Refrigeration and service machinery	4 	T	00611	
+3592	Carburetors, pistons, rings, valves	5 	T	00618	
+3593	Fluid power cylinders and actuators	5 	T	00619	
+3594	Fluid power pumps and motors	5 	T	00620	
+3596	Scales and balances, except laboratory	5 	T	00621	
+3599	Industrial machinery, n.e.c.	5 	T	00622	
+359X	Industrial machinery, n.e.c.	4 	T	00617	
+35XX	Industrial machinery and equipment	3 	T	00562	
+3612	Transformers, except electronic	5 	T	00625	
+3613	Switchgear and switchboard apparatus	5 	T	00626	
+361X	Electric distribution equipment	4 	T	00624	
+3621	Motors and generators	5 	T	00628	
+3624	Carbon and graphite products	5 	T	00629	
+3625	Relays and industrial controls	5 	T	00630	
+3629	Electrical industrial apparatus, n.e.c.	5 	T	00631	
+362X	Electrical industrial apparatus	4 	T	00627	
+3631	Household cooking equipment	5 	T	00633	
+3632	Household refrigerators and freezers	5 	T	00634	
+3633	Household laundry equipment	5 	T	00635	
+3634	Electric housewares and fans	5 	T	00636	
+3635	Household vacuum cleaners	5 	T	00637	
+3639	Household appliances, n.e.c.	5 	T	00638	
+363X	Household appliances	4 	T	00632	
+3641	Electric lamps	5 	T	00640	
+3643	Current-carrying wiring devices	5 	T	00641	
+3644	Noncurrent-carrying wiring devices	5 	T	00642	
+3645	Residential lighting fixtures	5 	T	00643	
+3646	Commercial lighting fixtures	5 	T	00644	
+3647	Vehicular lighting equipment	5 	T	00645	
+3648	Lighting equipment, n.e.c.	5 	T	00646	
+364X	Electric lighting and wiring equipment	4 	T	00639	
+3651	Household audio and video equipment	5 	T	00648	
+3652	Prerecorded records and tapes	5 	T	00649	
+365X	Household audio and video equipment	4 	T	00647	
+3661	Telephone and telegraph apparatus	5 	T	00651	
+3663	Radio and TV communications equipment	5 	T	00652	
+3669	Communications equipment, n.e.c.	5 	T	00653	
+366X	Communications equipment	4 	T	00650	
+3671	Electron tubes	5 	T	00655	
+3672	Printed circuit boards	5 	T	00656	
+3674	Semiconductors and related devices	5 	T	00657	
+3675	Electronic capacitors	5 	T	00658	
+3676	Electronic resistors	5 	T	00659	
+3677	Electronic coils and transformers	5 	T	00660	
+3678	Electronic connectors	5 	T	00661	
+3679	Electronic components, n.e.c.	5 	T	00662	
+367X	Electronic components and accessories	4 	T	00654	
+3691	Storage batteries	5 	T	00664	
+3692	Primary batteries, dry and wet	5 	T	00665	
+3694	Engine electrical equipment	5 	T	00666	
+3695	Magnetic and optical recording media	5 	T	00667	
+3699	Electrical equipment and supplies, n.e.c.	5 	T	00668	
+369X	Miscellaneous electrical equipment and supplies	4 	T	00663	
+36XX	Electronic and other electric equipment	3 	T	00623	
+3711	Motor vehicles and car bodies	5 	T	00671	
+3713	Truck and bus bodies	5 	T	00672	
+3714	Motor vehicle parts and accessories	5 	T	00673	
+3715	Truck trailers	5 	T	00674	
+3716	Motor homes	5 	T	00675	
+371X	Motor vehicles and equipment	4 	T	00670	
+3721	Aircraft	5 	T	00677	
+3724	Aircraft engines and engine parts	5 	T	00678	
+3728	Aircraft parts and equipment, n.e.c.	5 	T	00679	
+372X	Aircraft and parts	4 	T	00676	
+3731	Ship building and repairing	5 	T	00681	
+3732	Boat building and repairing	5 	T	00682	
+373X	Ship and boat building and repairing	4 	T	00680	
+3743	Railroad equipment	5 	T	00684	
+374X	Railroad equipment	4 	T	00683	
+3751	Motorcycles, bicycles, and parts	5 	T	00686	
+375X	Motorcycles, bicycles, and parts	4 	T	00685	
+3761	Guided missiles and space vehicles	5 	T	00688	
+3764	Space propulsion units and parts	5 	T	00689	
+3769	Space vehicle equipment, n.e.c.	5 	T	00690	
+376X	Guided missiles, space vehicles, parts	4 	T	00687	
+3792	Travel trailers and campers	5 	T	00692	
+3795	Tanks and tank components	5 	T	00693	
+3799	Transportation equipment, n.e.c.	5 	T	00694	
+379X	Miscellaneous transportation equipment	4 	T	00691	
+37XX	Transportation equipment	3 	T	00669	
+3812	Search and navigation equipment	5 	T	00697	
+381X	Search and navigation equipment	4 	T	00696	
+3821	Laboratory apparatus and furniture	5 	T	00699	
+3822	Environmental controls	5 	T	00700	
+3823	Process control instruments	5 	T	00701	
+3824	Fluid meters and counting devices	5 	T	00702	
+3825	Instruments to measure electricity	5 	T	00703	
+3826	Analytical instruments	5 	T	00704	
+3827	Optical instruments and lenses	5 	T	00705	
+3829	Measuring and controlling devices, n.e.c.	5 	T	00706	
+382X	Measuring and controlling devices	4 	T	00698	
+3841	Surgical and medical instruments	5 	T	00708	
+3842	Surgical appliances and supplies	5 	T	00709	
+3843	Dental equipment and supplies	5 	T	00710	
+3844	X-ray apparatus and tubes	5 	T	00711	
+3845	Electromedical equipment	5 	T	00712	
+384X	Medical instruments and supplies	4 	T	00707	
+385X	Ophthalmic goods	4 	T	00713	
+386X	Photographic equipment and supplies	4 	T	00714	
+387X	Watches, clocks, watchcases and parts	4 	T	00715	
+38XX	Instruments and related products	3 	T	00695	
+3911	Jewelry, precious metal	5 	T	00718	
+3914	Silverware and plated ware	5 	T	00719	
+3915	Jewelers', materials and lapidary work	5 	T	00720	
+391X	Jewelry, silverware, and plated ware	4 	T	00717	
+393X	Musical instruments	4 	T	00721	
+3942	Dolls and stuffed toys	5 	T	00723	
+3944	Games, toys, and children's vehicles	5 	T	00724	
+3949	Sporting and athletic goods, n.e.c.	5 	T	00725	
+394X	Toys and sporting goods	4 	T	00722	
+3951	Pens and mechanical pencils	5 	T	00727	
+3952	Lead pencils and art goods	5 	T	00728	
+3953	Marking devices	5 	T	00729	
+3955	Carbon paper and inked ribbons	5 	T	00730	
+395X	Pens, pencils, office, and art supplies	4 	T	00726	
+3961	Costume jewelry	5 	T	00732	
+3965	Fasteners, buttons, needles, and pins	5 	T	00733	
+396X	Costume jewelry and notions	4 	T	00731	
+3991	Brooms and brushes	5 	T	00735	
+3993	Signs and advertising specialities	5 	T	00736	
+3995	Burial caskets	5 	T	00737	
+3996	Hard surface floor coverings, n.e.c.	5 	T	00738	
+3999	Manufacturing industries, n.e.c.	5 	T	00739	
+399X	Miscellaneous manufactures	4 	T	00734	
+39XX	Miscellaneous manufacturing industries	3 	T	00716	
+4011	Railroads, Line-Haul Operating	5 	T	00743	
+4013	Railroad Switching and Terminal Establishments	5 	T	00744	
+401X	Railroads	4 	T	00742	
+40XX	Railroad transportation	3 	T	00741	
+4111	Local and Suburban Transit	5 	T	00747	
+4119	Local Passenger Transportation, n.e.c.	5 	T	00748	
+411X	Local and suburban transportation	4 	T	00746	
+412X	Taxicabs	4 	T	00749	
+413X	Intercity and rural bus transportation	4 	T	00750	
+4141	Local Charter Bus Service	5 	T	00752	
+4142	Bus Charter Services, Except Local	5 	T	00753	
+414X	Bus charter service	4 	T	00751	
+415X	School buses	4 	T	00754	
+417X	Bus terminal and service facilities	4 	T	00755	
+41XX	Local and interurban passenger transit	3 	T	00745	
+4212	Local trucking without storage	5 	T	00758	
+4213	Trucking, except local	5 	T	00759	
+4214	Local trucking with storage	5 	T	00760	
+4215	Courier services, except air	5 	T	00761	
+421X	Trucking and courier services, except air	4 	T	00757	
+4221	Farm product warehousing and storage	5 	T	00763	
+4222	Refrigerated warehousing and storage	5 	T	00764	
+4225	General warehousing and storage	5 	T	00765	
+4226	Special warehousing and storage, n.e.c.	5 	T	00766	
+422X	Public warehousing and storage	4 	T	00762	
+423X	Trucking terminal facilities	4 	T	00767	
+42XX	Trucking and warehousing	3 	T	00756	
+43XX	United States Postal Service	3 	T	00768	
+441X	Deep sea foreign transportation of freight	4 	T	00770	
+442X	Deep sea domestic transportation of freight	4 	T	00771	
+443X	Freight transportation on the Great Lakes	4 	T	00772	
+444X	Water transportation of freight, n.e.c.	4 	T	00773	
+4481	Deep sea transportation of passengers, except by ferry	5 	T	00775	
+4482	Ferries	5 	T	00776	
+4489	Water Transportation of Passengers, n.e.c.	5 	T	00777	
+448X	Water transportation of passengers	4 	T	00774	
+4491	Marine cargo handling	5 	T	00779	
+4492	Towing and tugboat services	5 	T	00780	
+4493	Marinas	5 	T	00781	
+4499	Water Transportation Services, n.e.c.	5 	T	00782	
+449X	Water transportation services	4 	T	00778	
+44XX	Water transportation	3 	T	00769	
+4512	Air transportation, scheduled	5 	T	00785	
+4513	Air courier services	5 	T	00786	
+451X	Air transportation, scheduled and air courier services	4 	T	00784	
+452X	Air transportation, nonscheduled	4 	T	00787	
+4581	Airports, Flying Fields, and Airport Terminal Services (aircraft upholstery repair)	5 	T	00789	
+458X	Airports, flying fields, and services	4 	T	00788	
+45XX	Transportation by air	3 	T	00783	
+4612	Crude Petroleum Pipelines	5 	T	00792	
+4613	Refined Petroleum Pipelines	5 	T	00793	
+4619	Pipelines, n.e.c.	5 	T	00794	
+461X	Pipelines, except natural gas	4 	T	00791	
+46XX	Pipelines, except natural gas	3 	T	00790	
+4724	Travel Agencies	5 	T	00797	
+4725	Tour Operators	5 	T	00798	
+4729	Arrangement of Passenger Transportation, n.e.c.	5 	T	00799	
+472X	Passenger transportation arrangement	4 	T	00796	
+473X	Freight transportation arrangement	4 	T	00800	
+474X	Rental of railroad cars	4 	T	00801	
+4783	Packing and Crating	5 	T	00803	
+4785	Fixed Facilities and Inspection and Weighing Services for Motor Vehicle Transportation	5 	T	00804	
+4789	Transportation Services, n.e.c.	5 	T	00805	
+478X	Miscellaneous transportation services	4 	T	00802	
+47XX	Transportation services	3 	T	00795	
+4812	Radiotelephone communications	5 	T	00808	
+4813	Telephone communications, except radiotelephone	5 	T	00809	
+481X	Telephone communications	4 	T	00807	
+482X	Telegraph and other communications	4 	T	00810	
+4832	Radio Broadcasting Stations	5 	T	00812	
+4833	Television Broadcasting Stations	5 	T	00813	
+483X	Radio and television broadcasting	4 	T	00811	
+484X	Cable and other pay television services	4 	T	00814	
+489X	Communication services, n.e.c.	4 	T	00815	
+48XX	Communications	3 	T	00806	
+491X	Electric services	4 	T	00817	
+4922	Natural Gas Transmission	5 	T	00819	
+4923	Natural Gas Transmission and Distribution	5 	T	00820	
+4924	Natural Gas Distribution	5 	T	00821	
+4925	Mixed, Manufactured, or Liquefied Petroleum Gas Production and/or Distribution	5 	T	00822	
+492X	Gas production and distribution	4 	T	00818	
+4931	Electric and other services combined	5 	T	00824	
+4932	Gas and other services combined	5 	T	00825	
+4939	Combination Utilities, n.e.c.	5 	T	00826	
+493X	Combination utility services	4 	T	00823	
+494X	Water supply	4 	T	00827	
+4952	Sewerage systems	5 	T	00829	
+4953	Refuse systems	5 	T	00830	
+4959	Sanitary Services, n.e.c.	5 	T	00831	
+495X	Sanitary services	4 	T	00828	
+496X	Steam and air-conditioning supply	4 	T	00832	
+497X	Irrigation systems	4 	T	00833	
+49XX	Electric, gas, and sanitary services	3 	T	00816	
+5012	Automobile and other motor vehicles	5 	T	00837	
+5013	Motor vehicle supplies and new parts	5 	T	00838	
+5014	Tires and tubes	5 	T	00839	
+5015	Motor Vehicle Parts, Used	5 	T	00840	
+501X	Motor vehicles, parts, and supplies	4 	T	00836	
+5021	Furniture	5 	T	00842	
+5023	Homefurnishings	5 	T	00843	
+502X	Furniture and homefurnishings	4 	T	00841	
+5031	Lumber, Plywood, Millwork, and Wood Panels	5 	T	00845	
+5032	Brick, Stone, and Related Construction Materials	5 	T	00846	
+5033	Roofing, Siding, and Insulation Materials	5 	T	00847	
+5039	Construction Materials, n.e.c.	5 	T	00848	
+503X	Lumber and construction materials	4 	T	00844	
+5043	Photographic Equipment and Supplies	5 	T	00850	
+5044	Office Equipment	5 	T	00851	
+5045	Computers and Computer Peripheral Equipment and Software	5 	T	00852	
+5046	Commercial Equipment, n.e.c.	5 	T	00853	
+5047	Medical, Dental, and Hospital Equipment and Supplies	5 	T	00854	
+5048	Ophthalmic Goods	5 	T	00855	
+5049	Professional Equipment and Supplies, n.e.c.	5 	T	00856	
+504X	Professional and commercial equipment	4 	T	00849	
+5051	Metals Service Centers and Offices	5 	T	00858	
+5052	Coal and Other Minerals and Ores	5 	T	00859	
+505X	Metals and minerals, except petroleum	4 	T	00857	
+5063	Electrical Apparatus and Equipment, Wiring Supplies, and Construction Materials	5 	T	00861	
+5064	Electrical Appliances, Television and Radio Sets	5 	T	00862	
+5065	Electronic Parts and Equipment, n.e.c.	5 	T	00863	
+506X	Electrical goods	4 	T	00860	
+5072	Hardware	5 	T	00865	
+5074	Plumbing and Heating Equipment and Supplies	5 	T	00866	
+5075	Warm Air Heating and Air-Conditioning Equipment and Supplies	5 	T	00867	
+5078	Refrigeration Equipment and Supplies	5 	T	00868	
+507X	Hardware, plumbing and heating equipment	4 	T	00864	
+5082	Construction and Mining (Except Petroleum) Machinery and Equipment	5 	T	00870	
+5083	Farm and Garden Machinery and Equipment	5 	T	00871	
+5084	Industrial Machinery and Equipment	5 	T	00872	
+5085	Industrial Supplies	5 	T	00873	
+5087	Service Establishment Equipment and Supplies	5 	T	00874	
+5088	Transportation Equipment and Supplies, Except Motor Vehicles	5 	T	00875	
+508X	Machinery, equipment, and supplies	4 	T	00869	
+5091	Sporting and recreational goods and supplies	5 	T	00877	
+5092	Toys and hobby goods and supplies	5 	T	00878	
+5093	Scrap and waste materials	5 	T	00879	
+5094	Jewelry, watches, precious stones, and precious metals	5 	T	00880	
+5099	Miscellaneous durable goods, n.e.c.	5 	T	00881	
+509X	Miscellaneous durable goods	4 	T	00876	
+50XX	Wholesale trade--durable goods	3 	T	00835	
+5111	Printing and Writing Paper	5 	T	00884	
+5112	Stationery and Office Supplies	5 	T	00885	
+5113	Industrial and Personal Service Paper	5 	T	00886	
+511X	Paper and paper products	4 	T	00883	
+512X	Drugs, proprietaries, and sundries	4 	T	00887	
+5131	Piece Goods, Notions, and Other Dry Goods	5 	T	00889	
+5136	Men's and Boys' Clothing and Furnishings	5 	T	00890	
+5137	Women's, Children's, and Infants' Clothing and Accessories	5 	T	00891	
+5139	Footwear	5 	T	00892	
+513X	Apparel, piece goods, and notions	4 	T	00888	
+5142	Package frozen foods	5 	T	00894	
+5143	Dairy products, except dried or canned	5 	T	00895	
+5144	Poultry and poultry products	5 	T	00896	
+5145	Confectionery	5 	T	00897	
+5146	Fish and seafoods	5 	T	00898	
+5147	Meats and meat products	5 	T	00899	
+5148	Fresh fruits and vegetables	5 	T	00900	
+5149	Groceries and related products, n.e.c.	5 	T	00901	
+514X	Groceries and related products	4 	T	00893	
+5153	Grain and Field Beans	5 	T	00903	
+5154	Livestock	5 	T	00904	
+5159	Farm-Product Raw Materials, n.e.c.	5 	T	00905	
+515X	Farm-product raw materials	4 	T	00902	
+5162	Plastics Materials and Basic Forms and Shapes	5 	T	00907	
+5169	Chemicals and Allied Products, n.e.c.	5 	T	00908	
+516X	Chemicals and allied products	4 	T	00906	
+5171	Petroleum bulk stations and terminals	5 	T	00910	
+5172	Petroleum products wholesalers, except bulk stations and terminals	5 	T	00911	
+517X	Petroleum and petroleum products	4 	T	00909	
+5181	Beer and Ale	5 	T	00913	
+5182	Wine and Distilled Alcoholic Beverages	5 	T	00914	
+518X	Beer, wine, and distilled beverages	4 	T	00912	
+5191	Farm Supplies	5 	T	00916	
+5192	Books, Periodicals, and Newspapers	5 	T	00917	
+5193	Flowers, Nursery Stock, and Florists' Supplies	5 	T	00918	
+5194	Tobacco and Tobacco Products	5 	T	00919	
+5198	Paints, Varnishes, and Supplies	5 	T	00920	
+5199	Nondurable Goods, n.e.c.	5 	T	00921	
+519X	Miscellaneous nondurable goods	4 	T	00915	
+51XX	Wholesale trade--nondurable goods	3 	T	00882	
+521X	Lumber and other building materials	4 	T	00924	
+523X	Paint, glass, and wallpaper stores	4 	T	00925	
+525X	Hardware stores	4 	T	00926	
+526X	Retail nurseries and garden stores	4 	T	00927	
+527X	Mobile home dealers	4 	T	00928	
+52XX	Building materials and garden supplies	3 	T	00923	
+531X	Department stores	4 	T	00930	
+533X	Variety stores	4 	T	00931	
+539X	Miscellaneous general merchandise stores	4 	T	00932	
+53XX	General merchandise stores	3 	T	00929	
+541X	Grocery stores	4 	T	00934	
+542X	Meat and fish markets	4 	T	00935	
+543X	Fruit and vegetable markets	4 	T	00936	
+544X	Candy, nut, and confectionery stores	4 	T	00937	
+545X	Dairy products stores	4 	T	00938	
+546X	Retail bakeries	4 	T	00939	
+549X	Miscellaneous food stores	4 	T	00940	
+54XX	Food stores	3 	T	00933	
+551X	New and used car dealers	4 	T	00942	
+552X	Used car dealers	4 	T	00943	
+553X	Auto and home supply stores	4 	T	00944	
+554X	Gasoline service stations	4 	T	00945	
+555X	Boat dealers	4 	T	00946	
+556X	Recreational vehicle dealers	4 	T	00947	
+557X	Motorcycle dealers	4 	T	00948	
+559X	Automotive dealers, n.e.c.	4 	T	00949	
+55XX	Automotive dealers and service stations	3 	T	00941	
+561X	Men's and boys' clothing stores	4 	T	00951	
+562X	Women's clothing stores	4 	T	00952	
+563X	Women's accessory and specialty stores	4 	T	00953	
+564X	Children's and infants' wear stores	4 	T	00954	
+565X	Family clothing stores	4 	T	00955	
+566X	Shoe stores	4 	T	00956	
+569X	Miscellaneous apparel and accessory stores	4 	T	00957	
+56XX	Apparel and accessory stores	3 	T	00950	
+5712	Furniture Stores	5 	T	00960	
+5713	Floor Coverings Stores	5 	T	00961	
+5714	Drapery, Curtain, and Upholstery Stores	5 	T	00962	
+5719	Miscellaneous Homefurnishings	5 	T	00963	
+571X	Furniture and homefurnishings stores	4 	T	00959	
+572X	Household appliance stores	4 	T	00964	
+5731	Radio, Television, and Consumer Electronics Stores	5 	T	00966	
+5734	Computer and Computer Software Stores	5 	T	00967	
+5735	Record and Prerecorded Tape Stores	5 	T	00968	
+5736	Musical Instruments Stores	5 	T	00969	
+573X	Radio, television, and computer stores	4 	T	00965	
+57XX	Furniture and homefurnishings stores	3 	T	00958	
+5812	Eating places	5 	T	00971	
+5813	Drinking places	5 	T	00972	
+58XX	Eating and drinking places	3 	T	00970	
+591X	Drug stores and proprietary stores	4 	T	00974	
+592X	Liquor stores	4 	T	00975	
+593X	Used merchandise stores	4 	T	00976	
+5941	Sporting goods stores and bicycle shops	5 	T	00978	
+5942	Book stores	5 	T	00979	
+5943	Stationary stores	5 	T	00980	
+5944	Jewelry stores	5 	T	00981	
+5945	Hobby, toy, and game shops	5 	T	00982	
+5946	Camera and photographic supply stores	5 	T	00983	
+5947	Gift, novelty, and souvenir shops	5 	T	00984	
+5948	Luggage and leather goods stores	5 	T	00985	
+5949	Sewing, needlework, and piece goods stores	5 	T	00986	
+594X	Miscellaneous shopping goods stores	4 	T	00977	
+5961	Catalog and mail-order houses	5 	T	00988	
+5962	Automatic merchandising machine operators	5 	T	00989	
+5963	Direct selling establishments	5 	T	00990	
+596X	Nonstore retailers	4 	T	00987	
+5983	Fuel oil dealers	5 	T	00992	
+5984	Liquefied petroleum gas dealers	5 	T	00993	
+5989	Fuel dealers, n.e.c.	5 	T	00994	
+598X	Fuel dealers	4 	T	00991	
+5992	Florists	5 	T	00996	
+5993	Tobacco stores and stands	5 	T	00997	
+5994	News dealers and newsstands	5 	T	00998	
+5995	Optical goods stores	5 	T	00999	
+5999	Miscellaneous Retail Stores, n.e.c.	5 	T	01000	
+599X	Retail stores, n.e.c.	4 	T	00995	
+59XX	Miscellaneous retail	3 	T	00973	
+6011	Federal Reserve Banks	5 	T	01004	
+6019	Central Reserve Depository Institutions, n.e.c.	5 	T	01005	
+601X	Central reserve depositories	4 	T	01003	
+6021	National Commercial Banks	5 	T	01007	
+6022	State Commercial Banks	5 	T	01008	
+6029	Commercial Banks, n.e.c.	5 	T	01009	
+602X	Commercial banks	4 	T	01006	
+6035	Savings Institutions, Federally Chartered	5 	T	01011	
+6036	Savings Institutions, Not Federally Chartered	5 	T	01012	
+603X	Savings institutions	4 	T	01010	
+6061	Credit Unions, Federally Chartered	5 	T	01014	
+6062	Credit Unions, Not Federally Chartered	5 	T	01015	
+606X	Credit unions	4 	T	01013	
+6081	Branches and Agencies of Foreign Banks	5 	T	01017	
+6082	Foreign Trade and International Banking Institutions	5 	T	01018	
+608X	Foreign bank and branches and agencies	4 	T	01016	
+6091	Nondeposit Trust Facilities	5 	T	01020	
+6099	Functions Related to Depository Banking, n.e.c.	5 	T	01021	
+609X	Functions closely related to banking	4 	T	01019	
+60XX	Depository institutions	3 	T	01002	
+611X	Federal and federal-sponsored credit	4 	T	01023	
+614X	Personal credit institutions	4 	T	01024	
+6153	Short-Term Business Credit Institutions, Except Agricultural	5 	T	01026	
+6159	Miscellaneous Business Credit Institutions	5 	T	01027	
+615X	Business credit institutions	4 	T	01025	
+6162	Mortgage Bankers and Loan Correspondents	5 	T	01029	
+6163	Loan Brokers	5 	T	01030	
+616X	Mortgage bankers and brokers	4 	T	01028	
+61XX	Nondepository institutions	3 	T	01022	
+621X	Security brokers and dealers	4 	T	01032	
+622X	Commodity contracts brokers, dealers	4 	T	01033	
+623X	Security and commodity exchanges	4 	T	01034	
+6282	Investment Advice	5 	T	01036	
+6289	Services Allied With the Exchange of Securities or Commodities,  n.e.c.	5 	T	01037	
+628X	Security and commodity services	4 	T	01035	
+62XX	Security and commodity brokers	3 	T	01031	
+631X	Life insurance	4 	T	01039	
+6321	Accident and Health Insurance	5 	T	01041	
+6324	Hospital and Medical Service Plans	5 	T	01042	
+632X	Medical service and health insurance	4 	T	01040	
+633X	Fire, marine, and casualty insurance	4 	T	01043	
+635X	Surety insurance	4 	T	01044	
+636X	Title insurance	4 	T	01045	
+637X	Pension, health, and welfare funds	4 	T	01046	
+639X	Insurance carriers, n.e.c.	4 	T	01047	
+63XX	Insurance carriers	3 	T	01038	
+64XX	Insurance agents, brokers, and service	3 	T	01048	
+6512	Operators of nonresidential buildings	5 	T	01051	
+6513	Operators of apartment buildings	5 	T	01052	
+6514	Operators of dwellings other than apartment buildings	5 	T	01053	
+6515	Operators of residential mobile home sites	5 	T	01054	
+6517	Lessors of railroad property	5 	T	01055	
+6519	Lessors of Real Property, n.e.c.	5 	T	01056	
+651X	Real estate operators and lessors	4 	T	01050	
+653X	Real estate agents and managers	4 	T	01057	
+654X	Title abstract offices	4 	T	01058	
+6552	Land Subdividers and Developers, Except Cemeteries	5 	T	01060	
+6553	Cemetery Subdividers and Developers	5 	T	01061	
+655X	Subdividers and developers	4 	T	01059	
+65XX	Real estate	3 	T	01049	
+6712	Offices of Bank Holding Companies	5 	T	01064	
+6719	Offices of Holding Companies, n.e.c.	5 	T	01065	
+671X	Holding offices	4 	T	01063	
+6722	Management Investment Offices, Open-End	5 	T	01067	
+6726	Unit Investment Trusts, Face-Amount Certificate Offices, and Closed-End Management Investment Office	5 	T	01068	
+672X	Investment offices	4 	T	01066	
+6732	Educational, Religious, and Charitable Trusts	5 	T	01070	
+6733	Trust, Except Educational, Religious, and Charitable	5 	T	01071	
+673X	Trusts	4 	T	01069	
+6792	Oil Royalty Traders	5 	T	01073	
+6794	Patent Owners and Lessors	5 	T	01074	
+6798	Real Estate Investment Trusts	5 	T	01075	
+6799	Investors, n.e.c.	5 	T	01076	
+679X	Miscellaneous investing	4 	T	01072	
+67XX	Holding and other investment offices	3 	T	01062	
+701X	Hotels and motels	4 	T	01079	
+702X	Rooming and boarding houses	4 	T	01080	
+7032	Sporting and Recreational Camps	5 	T	01082	
+7033	Recreational Vehicle Parks and Campgrounds	5 	T	01083	
+703X	Camps and recreational vehicle parks	4 	T	01081	
+704X	Membership-basis organization hotels	4 	T	01084	
+70XX	Hotels and other lodging places	3 	T	01078	
+7211	Power Laundries, Family and Commercial	5 	T	01087	
+7212	Garment Pressing, and Agents for Laundries and Drycleaners	5 	T	01088	
+7213	Linen Supply	5 	T	01089	
+7215	Coin-Operated Laundry and Drycleaning	5 	T	01090	
+7216	Drycleaning Plants, Except Rug Cleaning	5 	T	01091	
+7217	Carpet and Upholstery Cleaning	5 	T	01092	
+7218	Industrial Launderers	5 	T	01093	
+7219	Laundry and Garment Services, n.e.c.	5 	T	01094	
+721X	Laundry, cleaning, and garment services	4 	T	01086	
+722X	Photographic studios, portrait	4 	T	01095	
+723X	Beauty shops	4 	T	01096	
+724X	Barber shops	4 	T	01097	
+725X	Shoe repair and shoeshine parlors	4 	T	01098	
+726X	Funeral service and crematories	4 	T	01099	
+7291	Tax Return Preparation Services	5 	T	01101	
+7299	Miscellaneous Personal Services, n.e.c.	5 	T	01102	
+729X	Miscellaneous personal services	4 	T	01100	
+72XX	Personal services	3 	T	01085	
+7311	Advertising Agencies	5 	T	01105	
+7312	Outdoor Advertising Services	5 	T	01106	
+7313	Radio, Television, and Publishers' Advertising Representatives	5 	T	01107	
+7319	Advertising, n.e.c.	5 	T	01108	
+731X	Advertising	4 	T	01104	
+7322	Adjustment and Collection Services	5 	T	01110	
+7323	Credit Reporting Services	5 	T	01111	
+732X	Credit reporting and collection	4 	T	01109	
+7331	Direct Mail Advertising Services	5 	T	01113	
+7334	Photocopying and Duplicating Services	5 	T	01114	
+7335	Commercial Photography	5 	T	01115	
+7336	Commercial Art and Graphic Design	5 	T	01116	
+7338	Secretarial and Court Reporting	5 	T	01117	
+733X	Mailing, reproduction, stenographic	4 	T	01112	
+7342	Disinfecting and pest control services	5 	T	01119	
+7349	Building cleaning and maintenance services, n.e.c.	5 	T	01120	
+734X	Services to buildings	4 	T	01118	
+7352	Medical equipment rental and leasing	5 	T	01122	
+7353	Heavy construction equipment rental and leasing	5 	T	01123	
+7359	Equipment Rental and Leasing, n.e.c.	5 	T	01124	
+735X	Miscellaneous equipment rental and leasing	4 	T	01121	
+7361	Employment agencies	5 	T	01126	
+7363	Help supply services	5 	T	01127	
+736X	Personnel supply services	4 	T	01125	
+7371	Computer Programming Services	5 	T	01129	
+7372	Prepackaged Software	5 	T	01130	
+7373	Computer Integrated Systems Design	5 	T	01131	
+7374	Computer Processing and Data Preparation and Processing Services	5 	T	01132	
+7375	Information Retrieval Services	5 	T	01133	
+7376	Computer Facilities Management Services	5 	T	01134	
+7377	Computer Rental and Leasing	5 	T	01135	
+7378	Computer Maintenance and Repair	5 	T	01136	
+7379	Computer Related Services, n.e.c.	5 	T	01137	
+737X	Computer and data processing services	4 	T	01128	
+7381	Detective, guard, and armored car services	5 	T	01139	
+7382	Security systems services	5 	T	01140	
+7383	News syndicates	5 	T	01141	
+7384	Photofinishing laboratories	5 	T	01142	
+7389	Business Services, n.e.c.	5 	T	01143	
+738X	Miscellaneous business services	4 	T	01138	
+73XX	Business services	3 	T	01103	
+7513	Truck Rental and Leasing Without Drivers	5 	T	01146	
+7514	Passenger Car Rental	5 	T	01147	
+7515	Passenger Car Leasing	5 	T	01148	
+7519	Utility Trailers and Recreational Vehicle Rental	5 	T	01149	
+751X	Automotive rentals, no drivers	4 	T	01145	
+752X	Automobile Parking	4 	T	01150	
+7532	Top, Body, and Upholstery Repair Shops and Paint Shops	5 	T	01152	
+7533	Automotive Exhaust System Repair Shops	5 	T	01153	
+7534	Tire retreading and repair shops	5 	T	01154	
+7536	Automotive glass replacement shops	5 	T	01155	
+7537	Automotive transmission repair shops	5 	T	01156	
+7538	General automotive repair shops	5 	T	01157	
+7539	Automotive repair shops, n.e.c.	5 	T	01158	
+753X	Automotive Repair Shops	4 	T	01151	
+7542	Carwashes	5 	T	01160	
+7549	Automotive services, except repairand carwashes	5 	T	01161	
+754X	Automotive services, except repair	4 	T	01159	
+75XX	Auto repair, services, and parking	3 	T	01144	
+7622	Radio and Television Repair Shops	5 	T	01164	
+7623	Refrigeration and Air-Conditioning Service and Repair Shops	5 	T	01165	
+7629	Electrical and Electronic Repair Shops, n.e.c.	5 	T	01166	
+762X	Electrical repair shops	4 	T	01163	
+763X	Watch, clock, and jewelry repair	4 	T	01167	
+764X	Reupholstery and furniture repair	4 	T	01168	
+7692	Welding Repair	5 	T	01170	
+7694	Armature Rewinding Shops	5 	T	01171	
+7699	Repair Services, n.e.c.	5 	T	01172	
+769X	Miscellaneous repair shops	4 	T	01169	
+76XX	Miscellaneous repair services	3 	T	01162	
+7812	Motion Picture and Video Tape Production	5 	T	01175	
+7819	Services Allied to Motion Picture Production	5 	T	01176	
+781X	Motion picture production and services	4 	T	01174	
+7822	Motion Picture and Video Tape Distribution	5 	T	01178	
+7829	Services Allied to Motion Picture Distribution	5 	T	01179	
+782X	Motion picture distribution and services	4 	T	01177	
+7832	Motion Picture Theaters, Except Drive-In	5 	T	01181	
+7833	Drive-In Motion Picture Theaters	5 	T	01182	
+783X	Motion picture theaters	4 	T	01180	
+784X	Video tape rental	4 	T	01183	
+78XX	Motion pictures	3 	T	01173	
+791X	Dance studios, schools, and halls	4 	T	01185	
+7922	Theatrical Producers (Except Motion Picture) and Miscellaneous Theatrical Services	5 	T	01187	
+7929	Bands, Orchestras, Actors, and Entertainment Groups	5 	T	01188	
+792X	Producers, orchestras, entertainers	4 	T	01186	
+793X	Bowling centers	4 	T	01189	
+7941	Professional sports clubs and promoters	5 	T	01191	
+7948	Racing, including track operation	5 	T	01192	
+794X	Commercial sports	4 	T	01190	
+7991	Physical fitness facilities	5 	T	01194	
+7992	Public golf courses	5 	T	01195	
+7993	Coin-operated amusement devices	5 	T	01196	
+7996	Amusement parks	5 	T	01197	
+7997	Membership sports and recreation clubs	5 	T	01198	
+7999	Amusement and Recreation Services, n.e.c.	5 	T	01199	
+799X	Miscellaneous amusement, recreation services	4 	T	01193	
+79XX	Amusement and recreation services	3 	T	01184	
+801X	Offices and clinics of medical doctors	4 	T	01201	
+802X	Offices and clinics of dentists	4 	T	01202	
+803X	Offices of osteopathic physicians	4 	T	01203	
+8041	Offices and Clinics of Chiropractors	5 	T	01205	
+8042	Offices and Clinics of Optometrists	5 	T	01206	
+8043	Offices and Clinics of Podiatrists	5 	T	01207	
+8049	Offices and Clinics of Health Practitioners, n.e.c.	5 	T	01208	
+804X	Offices of other health practitioners	4 	T	01204	
+8051	Skilled Nursing Care Facilities	5 	T	01210	
+8052	Intermediate Care Facilities	5 	T	01211	
+8059	Nursing and Personal Care Facilities, n.e.c.	5 	T	01212	
+805X	Nursing and personal care facilities	4 	T	01209	
+8062	General medical and surgical hospitals	5 	T	01214	
+8063	Psychiatric hospitals	5 	T	01215	
+8069	Specialty Hospitals, Except Psychiatric	5 	T	01216	
+806X	Hospitals	4 	T	01213	
+8071	Medical Laboratories	5 	T	01218	
+8072	Dental Laboratories	5 	T	01219	
+807X	Medical and dental laboratories	4 	T	01217	
+808X	Home health care services	4 	T	01220	
+8092	Kidney Dialysis Centers	5 	T	01222	
+8093	Specialty Outpatient Facilities, n.e.c.	5 	T	01223	
+8099	Health and Allied Services, n.e.c.	5 	T	01224	
+809X	Health and allied services, n.e.c.	4 	T	01221	
+80XX	Health services	3 	T	01200	
+81XX	Legal services	3 	T	01225	
+821X	Elementary and secondary schools	4 	T	01227	
+8221	Colleges, Universities, and Professional Schools	5 	T	01229	
+8222	Junior Colleges and Technical Institutes	5 	T	01230	
+822X	Colleges and universities	4 	T	01228	
+823X	Libraries	4 	T	01231	
+8243	Data Processing Schools	5 	T	01233	
+8244	Business and Secretarial Schools	5 	T	01234	
+8249	Vocational Schools, n.e.c.	5 	T	01235	
+824X	Vocational schools	4 	T	01232	
+829X	Schools and educational services, n.e.c.	4 	T	01236	
+82XX	Educational services	3 	T	01226	
+832X	Individual and family services	4 	T	01238	
+833X	Job training and related services	4 	T	01239	
+835X	Child day care services	4 	T	01240	
+836X	Residential care	4 	T	01241	
+839X	Social services, n.e.c.	4 	T	01242	
+83XX	Social services	3 	T	01237	
+841X	Museums and art galleries	4 	T	01244	
+842X	Botanical and zoological gardens	4 	T	01245	
+84XX	Museums, botanical, zoological gardens	3 	T	01243	
+861X	Business associations	4 	T	01247	
+862X	Professional organizations	4 	T	01248	
+863X	Labor organizations	4 	T	01249	
+864X	Civic and social associations	4 	T	01250	
+865X	Political organizations	4 	T	01251	
+866X	Religious organizations	4 	T	01252	
+869X	Membership organizations, n.e.c.	4 	T	01253	
+86XX	Membership organizations	3 	T	01246	
+8711	Engineering services	5 	T	01256	
+8712	Architectural services	5 	T	01257	
+8713	Surveying services	5 	T	01258	
+871X	Engineering and architectural services	4 	T	01255	
+872X	Accounting, auditing, and bookkeeping	4 	T	01259	
+8731	Commercial Physical and Biological Research	5 	T	01261	
+8732	Commercial Economic, Sociological, and Educational Research	5 	T	01262	
+8733	Noncommercial Research Organizations	5 	T	01263	
+8734	Testing Laboratories	5 	T	01264	
+873X	Research and testing services	4 	T	01260	
+8741	Management Services	5 	T	01266	
+8742	Management Consulting Services	5 	T	01267	
+8743	Public Relations Services	5 	T	01268	
+8744	Facilities Support Management Services	5 	T	01269	
+8748	Business Consulting Services, n.e.c.	5 	T	01270	
+874X	Management and public relations	4 	T	01265	
+87XX	Engineering and management services	3 	T	01254	
+88XX	Private households	3 	T	01271	
+89XX	Services, n.e.c.	3 	T	01272	
+911X	Executive offices	4 	T	01275	
+912X	Legislative bodies	4 	T	01276	
+9131	Executive and Legislative Office, Combined	5 	T	01278	
+913X	Executive and legislative combined	4 	T	01277	
+9199	General Government, n.e.c.	5 	T	01280	
+919X	General Government, n.e.c.	4 	T	01279	
+91XX	Executive, legislative, and general	3 	T	01274	
+921X	Courts	4 	T	01282	
+9221	Police protection	5 	T	01284	
+9222	Legal counsel and prosecution	5 	T	01285	
+9223	Correctional institutions	5 	T	01286	
+9224	Fire protection	5 	T	01287	
+9229	Public Order and Safety, n.e.c.	5 	T	01288	
+922X	Public order and safety	4 	T	01283	
+92XX	Justice, public order, and safety	3 	T	01281	
+93XX	Finance, taxation, and monetary policy	3 	T	01289	
+941X	Administration of Educational Programs	4 	T	01291	
+943X	Administration of Public Health Programs	4 	T	01292	
+944X	Administration of Social, Human Resource and Income Maintenance Programs	4 	T	01293	
+945X	Administration of Veterans' Affairs, Except Health and Insurance	4 	T	01294	
+94XX	Administration of human resources	3 	T	01290	
+9511	Air and Water Resource and Solid Waste Management	5 	T	01297	
+9512	Land, Mineral, Wildlife, and Forest Conservation	5 	T	01298	
+951X	Administration of Environmental Quality Programs	4 	T	01296	
+9531	Administration of Housing Programs	5 	T	01300	
+9532	Administration of Urban Planning and Community and Rural Development	5 	T	01301	
+953X	Administration of Housing and Urban Development Programs	4 	T	01299	
+95XX	Environmental quality and housing	3 	T	01295	
+961X	Administration of General Economic Programs	4 	T	01303	
+962X	Regulation and Administration of Transportation Programs	4 	T	01304	
+963X	Regulation and Administration of Communications, Electric, Gas, and Other Utilities	4 	T	01305	
+964X	Regulation of Agricultural Marketing and Commodities	4 	T	01306	
+965X	Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors	4 	T	01307	
+966X	Space Research and Technology	4 	T	01308	
+96XX	Administration of Economic Programs	3 	T	01302	
+971X	National security	4 	T	01310	
+972X	International Affairs	4 	T	01311	
+97XX	National security and international affairs	3 	T	01309	
+9999	Nonclassifiable Establishments	5 	T	01312	
+M050	Agricultural production	2 	T	00003	
+M090	Agriculture, forestry, and fishing	2 	T	00002	
+M100	Mining	2 	T	00080	
+M200	Construction	2 	T	00124	
+M300	Manufacturing	2 	T	00160	
+M400	Transportation, communications, electric, gas, and sanitary services	2 	T	00740	
+M500	Wholesale trade	2 	T	00834	
+M600	Retail trade	2 	T	00922	
+M700	Finance, insurance, and real estate	2 	T	01001	
+M800	Services	2 	T	01077	
+M900	Public administration	2 	T	01273	

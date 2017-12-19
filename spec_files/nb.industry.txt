@@ -1,0 +1,31 @@
+industry_code	industry_text	display_level	selectable	sort_sequence
+000000	All workers	0	T	1	
+220000	Utilities	3	T	1231	
+230000	Construction	2	T	149	
+300000	Manufacturing	2	T	195	
+400000	Trade, transportation, and utilities	2	T	898	
+412000	Retail trade	4	T	994	
+420000	Wholesale trade	4	T	900	
+430000	Transportation and warehousing	3	T	1120	
+510000	Information	2	T	1248	
+520000	Finance and insurance	3	T	1312	
+520A00	Financial activities	2	T	1311	
+522000	Credit intermediation	4	T	1316	
+524000	Insurance carriers	4	T	1351	
+530000	Real estate and rental and leasing	3	T	1376	
+540000	Professional, scientific, and technical services	3	T	1417	
+540A00	Professional and business services	2	T	1416	
+560000	Administrative and support and waste management and remediation services	3	T	1489	
+600000	Education and health services	2	T	1557	
+610000	Educational services	3	T	1558	
+611100	Elementary and secondary schools	5	T	1563	
+612000	Junior colleges, colleges, universities, and professional schools	5	T	1561	
+620000	Health care and social assistance	3	T	1589	
+622000	Hospitals	4	T	1625	
+700000	Leisure and hospitality	2	T	1660	
+720000	Accommodation and food services	3	T	1700	
+810000	Other services (except public administration)	2	T	1728	
+920000	Public administration	2	T	1809	
+DISCON	Discontinued codes	0	F	1855	
+G00000	Goods producing	1	T	2	
+S00000	Service providing	1	T	897	

@@ -1,0 +1,1068 @@
+series_code	seasonal	index	series_name	footnote_codes	begin_year	begin_period	end_year	end_period
+EIUCOASEANTOT                 	U	CO	ASEAN-All Industries	8         	2003	M12	2017	M09
+EIUCOASEANZ31                 	U	CO	ASEAN-Manufacturing, part 1	          	2012	M06	2017	M09
+EIUCOASEANZ311                	U	CO	ASEAN-Food manufacturing	          	2012	M06	2017	M09
+EIUCOASEANZ315                	U	CO	ASEAN-Apparel manufacturing	          	2012	M06	2017	M09
+EIUCOASEANZ33                 	U	CO	ASEAN-Manufacturing, part 3	          	2012	M06	2017	M09
+EIUCOASEANZ334                	U	CO	ASEAN-Computer and electronic product manufacturing	          	2012	M06	2017	M09
+EIUCOASEANZ337                	U	CO	ASEAN-Furniture and related product manufacturing	          	2012	M06	2017	M09
+EIUCOASEANZ339                	U	CO	ASEAN-Miscellaneous manufacturing	          	2012	M06	2017	M09
+EIUCOASNRETOT                 	U	CO	Asia Near East-All Industries	9         	2003	M12	2017	M09
+EIUCOCANMANU                  	U	CO	Canada-Manufacturing	          	1990	M12	2017	M09
+EIUCOCANNONM                  	U	CO	Canada-Nonmanufacturing	          	1990	M12	2017	M09
+EIUCOCANTOT                   	U	CO	Canada-All Industries	          	1990	M12	2017	M09
+EIUCOCANZ21                   	U	CO	Canada-Mining	          	2012	M06	2017	M09
+EIUCOCANZ31                   	U	CO	Canada-Manufacturing, part 1	          	2012	M06	2017	M09
+EIUCOCANZ311                  	U	CO	Canada-Food manufacturing	          	2012	M06	2017	M09
+EIUCOCANZ32                   	U	CO	Canada-Manufacturing, part 2	          	2012	M06	2017	M09
+EIUCOCANZ321                  	U	CO	Canada-Wood product manufacturing	          	2012	M06	2017	M09
+EIUCOCANZ3211                 	U	CO	Canada-Sawmills and wood preservation	          	2012	M06	2017	M09
+EIUCOCANZ322                  	U	CO	Canada-Paper manufacturing	          	2012	M06	2017	M09
+EIUCOCANZ3221                 	U	CO	Canada-Pulp, paper, and paperboard mills	          	2012	M06	2017	M09
+EIUCOCANZ325                  	U	CO	Canada-Chemical manufacturing	          	2012	M06	2017	M09
+EIUCOCANZ33                   	U	CO	Canada-Manufacturing, part 3	          	2012	M06	2017	M09
+EIUCOCANZ333                  	U	CO	Canada-Machinery manufacturing	          	2012	M06	2017	M09
+EIUCOCANZ334                  	U	CO	Canada-Computer and electronic product manufacturing	          	2012	M06	2017	M09
+EIUCOCHNTOT                   	U	CO	China-All Industries	          	2003	M12	2017	M09
+EIUCOCHNZ31                   	U	CO	China-Manufacturing, part 1	          	2012	M06	2017	M09
+EIUCOCHNZ314                  	U	CO	China-Textile product mills	          	2012	M06	2017	M09
+EIUCOCHNZ3141                 	U	CO	China-Textile furnishings mills	          	2012	M06	2017	M09
+EIUCOCHNZ315                  	U	CO	China-Apparel manufacturing	          	2012	M06	2017	M09
+EIUCOCHNZ3152                 	U	CO	China-Cut and sew apparel manufacturing	          	2012	M06	2017	M09
+EIUCOCHNZ316                  	U	CO	China-Leather and allied product manufacturing	          	2012	M06	2017	M09
+EIUCOCHNZ3162                 	U	CO	China-Footwear manufacturing	          	2012	M06	2017	M09
+EIUCOCHNZ32                   	U	CO	China-Manufacturing, part 2	          	2012	M06	2017	M09
+EIUCOCHNZ325                  	U	CO	China-Chemical manufacturing	          	2012	M06	2017	M09
+EIUCOCHNZ326                  	U	CO	China-Plastics and rubber products manufacturing	          	2012	M06	2017	M09
+EIUCOCHNZ3261                 	U	CO	China-Plastics product manufacturing	          	2012	M06	2017	M09
+EIUCOCHNZ327                  	U	CO	China-Nonmetallic mineral product manufacturing	          	2012	M06	2017	M09
+EIUCOCHNZ33                   	U	CO	China-Manufacturing, part 3	          	2012	M06	2017	M09
+EIUCOCHNZ332                  	U	CO	China-Fabricated metal product manufacturing	          	2012	M06	2017	M09
+EIUCOCHNZ3322                 	U	CO	China-Cutlery and handtool manufacturing	          	2012	M06	2017	M09
+EIUCOCHNZ333                  	U	CO	China-Machinery manufacturing	          	2012	M06	2017	M09
+EIUCOCHNZ334                  	U	CO	China-Computer and electronic product manufacturing	          	2012	M06	2017	M09
+EIUCOCHNZ3342                 	U	CO	China-Communications equipment manufacturing	          	2012	M06	2017	M09
+EIUCOCHNZ3343                 	U	CO	China-Audio and video equipment manufacturing	          	2012	M06	2017	M09
+EIUCOCHNZ3344                 	U	CO	China-Semiconductor and other electronic component manufacturing	          	2012	M06	2017	M09
+EIUCOCHNZ3345                 	U	CO	China-Navigational, measuring, electromedical, and control instruments	          	2012	M06	2017	M09
+EIUCOCHNZ335                  	U	CO	China-Electrical equipment, appliance, and component manufacturing	          	2012	M06	2017	M09
+EIUCOCHNZ3351                 	U	CO	China-Electric lighting equipment manufacturing	          	2012	M06	2017	M09
+EIUCOCHNZ3352                 	U	CO	China-Household appliance manufacturing	          	2012	M06	2017	M09
+EIUCOCHNZ3359                 	U	CO	China-Other electrical equipment and component manufacturing	          	2012	M06	2017	M09
+EIUCOCHNZ337                  	U	CO	China-Furniture and related product manufacturing	          	2012	M06	2017	M09
+EIUCOCHNZ3371                 	U	CO	China-Household and institutional furniture and kitchen cabinet manufacturing	          	2012	M06	2017	M09
+EIUCOCHNZ339                  	U	CO	China-Miscellaneous manufacturing	          	2012	M06	2017	M09
+EIUCOCHNZ3399                 	U	CO	China-Other miscellaneous manufacturing	          	2012	M06	2017	M09
+EIUCOEECMANU                  	U	CO	European Union-Manufacturing	          	1990	M12	2017	M09
+EIUCOEECTOT                   	U	CO	European Union-All Industries	4         	1990	M12	2017	M09
+EIUCOEECZ31                   	U	CO	European Union-Manufacturing, part 1	          	2012	M06	2017	M09
+EIUCOEECZ311                  	U	CO	European Union-Food manufacturing	          	2012	M06	2017	M09
+EIUCOEECZ312                  	U	CO	European Union-Beverage and tobacco product manufacturing	          	2012	M06	2017	M09
+EIUCOEECZ32                   	U	CO	European Union-Manufacturing, part 2	          	2012	M06	2017	M09
+EIUCOEECZ325                  	U	CO	European Union-Chemical manufacturing	          	2012	M06	2017	M09
+EIUCOEECZ3254                 	U	CO	European Union-Pharmaceutical and medicine manufacturing	          	2012	M06	2017	M09
+EIUCOEECZ326                  	U	CO	European Union-Plastics and rubber products manufacturing	          	2012	M06	2017	M09
+EIUCOEECZ327                  	U	CO	European Union-Nonmetallic mineral product manufacturing	          	2012	M06	2017	M09
+EIUCOEECZ33                   	U	CO	European Union-Manufacturing, part 3	          	2012	M06	2017	M09
+EIUCOEECZ331                  	U	CO	European Union-Primary metal manufacturing	          	2012	M06	2017	M09
+EIUCOEECZ332                  	U	CO	European Union-Fabricated metal product manufacturing	          	2012	M06	2017	M09
+EIUCOEECZ3329                 	U	CO	European Union-Other fabricated metal product manufacturing	          	2012	M06	2017	M09
+EIUCOEECZ333                  	U	CO	European Union-Machinery manufacturing	          	2012	M06	2017	M09
+EIUCOEECZ3331                 	U	CO	European Union-Agriculture, construction, and mining machinery manufacturing	          	2012	M06	2017	M09
+EIUCOEECZ3332                 	U	CO	European Union-Industrial machinery manufacturing	          	2012	M06	2017	M09
+EIUCOEECZ3336                 	U	CO	European Union-Engine, turbine, and power transmission equipment manufacturing	          	2012	M06	2017	M09
+EIUCOEECZ3339                 	U	CO	European Union-Other general purpose machinery manufacturing	          	2012	M06	2017	M09
+EIUCOEECZ334                  	U	CO	European Union-Computer and electronic product manufacturing	          	2012	M06	2017	M09
+EIUCOEECZ335                  	U	CO	European Union-Electrical equipment, appliance, and component manufacturing	          	2012	M06	2017	M09
+EIUCOEECZ336                  	U	CO	European Union-Transportation equipment manufacturing	          	2015	M12	2017	M09
+EIUCOEECZ339                  	U	CO	European Union-Miscellaneous manufacturing	          	2012	M06	2017	M09
+EIUCOFRNTOT                   	U	CO	France-All Industries	          	2003	M12	2017	M09
+EIUCOGERTOT                   	U	CO	Germany-All Industries	          	2003	M12	2017	M09
+EIUCOGERZ33                   	U	CO	Germany-Manufacturing, part 3	          	2012	M06	2017	M09
+EIUCOGERZ333                  	U	CO	Germany-Machinery manufacturing	          	2012	M06	2017	M09
+EIUCOGERZ334                  	U	CO	Germany-Computer and electronic product manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSMANU                	U	CO	Industrialized Countries-Manufacturing	          	1990	M12	2017	M09
+EIUCOINDUSNONM                	U	CO	Industrialized Countries-Nonmanufacturing	          	1990	M12	2017	M09
+EIUCOINDUSTOT                 	U	CO	Industrialized Countries-All Industries	2         	1990	M12	2017	M09
+EIUCOINDUSZ21                 	U	CO	Industrialized Countries-Mining	          	2012	M06	2017	M09
+EIUCOINDUSZ31                 	U	CO	Industrialized Countries-Manufacturing, part 1	          	2012	M06	2017	M09
+EIUCOINDUSZ311                	U	CO	Industrialized Countries-Food manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ3116               	U	CO	Industrialized Countries-Animal slaughtering and processing	          	2012	M06	2017	M09
+EIUCOINDUSZ312                	U	CO	Industrialized Countries-Beverage and tobacco product manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ32                 	U	CO	Industrialized Countries-Manufacturing, part 2	          	2012	M06	2017	M09
+EIUCOINDUSZ321                	U	CO	Industrialized Countries-Wood product manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ3211               	U	CO	Industrialized Countries-Sawmills and wood preservation	          	2012	M06	2017	M09
+EIUCOINDUSZ322                	U	CO	Industrialized Countries-Paper manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ3221               	U	CO	Industrialized Countries-Pulp, paper, and paperboard mills	          	2012	M06	2017	M09
+EIUCOINDUSZ325                	U	CO	Industrialized Countries-Chemical manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ3251               	U	CO	Industrialized Countries-Basic chemical manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ3254               	U	CO	Industrialized Countries-Pharmaceutical and medicine manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ3256               	U	CO	Industrialized Countries-Soap, cleaning compound, and toilet preparation manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ326                	U	CO	Industrialized Countries-Plastics and rubber products manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ3262               	U	CO	Industrialized Countries-Rubber product manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ327                	U	CO	Industrialized Countries-Nonmetallic mineral product manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ33                 	U	CO	Industrialized Countries-Manufacturing, part 3	          	2012	M06	2017	M09
+EIUCOINDUSZ331                	U	CO	Industrialized Countries-Primary metal manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ3314               	U	CO	Industrialized Countries-Nonferrous metal (except aluminum) production and processing	          	2012	M06	2017	M09
+EIUCOINDUSZ332                	U	CO	Industrialized Countries-Fabricated metal product manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ3329               	U	CO	Industrialized Countries-Other fabricated metal product manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ333                	U	CO	Industrialized Countries-Machinery manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ3331               	U	CO	Industrialized Countries-Agriculture, construction, and mining machinery manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ3332               	U	CO	Industrialized Countries-Industrial machinery manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ3335               	U	CO	Industrialized Countries-Metalworking machinery manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ3339               	U	CO	Industrialized Countries-Other general purpose machinery manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ334                	U	CO	Industrialized Countries-Computer and electronic product manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ3341               	U	CO	Industrialized Countries-Computer and peripheral equipment manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ3342               	U	CO	Industrialized Countries-Communications equipment manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ3344               	U	CO	Industrialized Countries-Semiconductor and other electronic component manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ335                	U	CO	Industrialized Countries-Electrical equipment, appliance, and component manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ3359               	U	CO	Industrialized Countries-Other electrical equipment and component manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ336                	U	CO	Industrialized Countries-Transportation equipment manufacturing	          	2015	M12	2017	M09
+EIUCOINDUSZ3361               	U	CO	Industrialized Countries-Motor vehicle manufacturing	          	2015	M12	2017	M09
+EIUCOINDUSZ3363               	U	CO	Industrialized Countries-Motor vehicle parts manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ3364               	U	CO	Industrialized Countries-Aerospace product and parts manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ339                	U	CO	Industrialized Countries-Miscellaneous manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ3391               	U	CO	Industrialized Countries-Medical equipment and supplies manufacturing	          	2012	M06	2017	M09
+EIUCOINDUSZ3399               	U	CO	Industrialized Countries-Other miscellaneous manufacturing	          	2012	M06	2017	M09
+EIUCOJPNTOT                   	U	CO	Japan-All Industries	          	1990	M12	2017	M09
+EIUCOJPNZ32                   	U	CO	Japan-Manufacturing, part 2	          	2012	M06	2017	M09
+EIUCOJPNZ325                  	U	CO	Japan-Chemical manufacturing	          	2012	M06	2017	M09
+EIUCOJPNZ33                   	U	CO	Japan-Manufacturing, part 3	          	2012	M06	2017	M09
+EIUCOJPNZ332                  	U	CO	Japan-Fabricated metal product manufacturing	          	2012	M06	2017	M09
+EIUCOJPNZ333                  	U	CO	Japan-Machinery manufacturing	          	2012	M06	2017	M09
+EIUCOJPNZ334                  	U	CO	Japan-Computer and electronic product manufacturing	          	2012	M06	2017	M09
+EIUCOJPNZ3344                 	U	CO	Japan-Semiconductor and other electronic component manufacturing	          	2012	M06	2017	M09
+EIUCOJPNZ335                  	U	CO	Japan-Electrical equipment, appliance, and component manufacturing	          	2012	M06	2017	M09
+EIUCOJPNZ336                  	U	CO	Japan-Transportation equipment manufacturing	          	2013	M12	2017	M09
+EIUCOLATMANU                  	U	CO	Latin America-Manufacturing	          	1997	M12	2017	M09
+EIUCOLATNONM                  	U	CO	Latin America-Nonmanufacturing	          	1997	M12	2017	M09
+EIUCOLATTOT                   	U	CO	Latin America-All Industries	5         	1997	M12	2017	M09
+EIUCOLATZ11                   	U	CO	Latin America-Agriculture, forestry, fishing and hunting	          	2012	M06	2017	M09
+EIUCOLATZ111                  	U	CO	Latin America-Crop production	          	2012	M06	2017	M09
+EIUCOLATZ1113                 	U	CO	Latin America-Fruit and tree nut farming	          	2012	M06	2017	M09
+EIUCOLATZ31                   	U	CO	Latin America-Manufacturing, part 1	          	2012	M06	2017	M09
+EIUCOLATZ315                  	U	CO	Latin America-Apparel manufacturing	          	2012	M06	2017	M09
+EIUCOLATZ3152                 	U	CO	Latin America-Cut and sew apparel manufacturing	          	2012	M06	2017	M09
+EIUCOLATZ32                   	U	CO	Latin America-Manufacturing, part 2	          	2012	M06	2017	M09
+EIUCOLATZ325                  	U	CO	Latin America-Chemical manufacturing	          	2012	M06	2017	M09
+EIUCOLATZ33                   	U	CO	Latin America-Manufacturing, part 3	          	2012	M06	2017	M09
+EIUCOLATZ331                  	U	CO	Latin America-Primary metal manufacturing	          	2012	M06	2017	M09
+EIUCOLATZ3314                 	U	CO	Latin America-Nonferrous metal (except aluminum) production and processing	          	2012	M06	2017	M09
+EIUCOLATZ332                  	U	CO	Latin America-Fabricated metal product manufacturing	          	2012	M06	2017	M09
+EIUCOLATZ333                  	U	CO	Latin America-Machinery manufacturing	          	2012	M06	2017	M09
+EIUCOLATZ334                  	U	CO	Latin America-Computer and electronic product manufacturing	          	2012	M06	2017	M09
+EIUCOLATZ335                  	U	CO	Latin America-Electrical equipment, appliance, and component manufacturing	          	2012	M06	2017	M09
+EIUCOMEXMANU                  	U	CO	Mexico-Manufacturing	          	2008	M12	2017	M09
+EIUCOMEXNONM                  	U	CO	Mexico-Nonmanufacturing	          	2008	M12	2017	M09
+EIUCOMEXTOT                   	U	CO	Mexico-All Industries	          	2003	M12	2017	M09
+EIUCOMEXZ31                   	U	CO	Mexico-Manufacturing, part 1	          	2012	M06	2017	M09
+EIUCOMEXZ315                  	U	CO	Mexico-Apparel manufacturing	          	2012	M06	2017	M09
+EIUCOMEXZ32                   	U	CO	Mexico-Manufacturing, part 2	          	2012	M06	2017	M09
+EIUCOMEXZ33                   	U	CO	Mexico-Manufacturing, part 3	          	2012	M06	2017	M09
+EIUCOMEXZ332                  	U	CO	Mexico-Fabricated metal product manufacturing	          	2012	M06	2017	M09
+EIUCOMEXZ333                  	U	CO	Mexico-Machinery manufacturing	          	2012	M06	2017	M09
+EIUCOMEXZ334                  	U	CO	Mexico-Computer and electronic product manufacturing	          	2012	M06	2017	M09
+EIUCOMEXZ335                  	U	CO	Mexico-Electrical equipment, appliance, and component manufacturing	          	2012	M06	2017	M09
+EIUCOOASTOT                   	U	CO	Asian NICs-All Industries	7         	1990	M12	2017	M09
+EIUCOOASZ32                   	U	CO	Asian NICs-Manufacturing, part 2	          	2012	M06	2017	M09
+EIUCOOASZ33                   	U	CO	Asian NICs-Manufacturing, part 3	          	2012	M06	2017	M09
+EIUCOOASZ332                  	U	CO	Asian NICs-Fabricated metal product manufacturing	          	2012	M06	2017	M09
+EIUCOOASZ333                  	U	CO	Asian NICs-Machinery manufacturing	          	2012	M06	2017	M09
+EIUCOOASZ334                  	U	CO	Asian NICs-Computer and electronic product manufacturing	          	2012	M06	2017	M09
+EIUCOOASZ3341                 	U	CO	Asian NICs-Computer and peripheral equipment manufacturing	          	2012	M06	2017	M09
+EIUCOOASZ3344                 	U	CO	Asian NICs-Semiconductor and other electronic component manufacturing	          	2012	M06	2017	M09
+EIUCOOASZ335                  	U	CO	Asian NICs-Electrical equipment, appliance, and component manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERMANU                	U	CO	Other Countries-Manufacturing	          	1990	M12	2017	M09
+EIUCOOTHERNONM                	U	CO	Other Countries-Nonmanufacturing	          	1990	M12	2017	M09
+EIUCOOTHERTOT                 	U	CO	Other Countries-All Industries	3         	1990	M12	2017	M09
+EIUCOOTHERZ11                 	U	CO	Other Countries-Agriculture, forestry, fishing and hunting	          	2012	M06	2017	M09
+EIUCOOTHERZ111                	U	CO	Other Countries-Crop production	          	2012	M06	2017	M09
+EIUCOOTHERZ1113               	U	CO	Other Countries-Fruit and tree nut farming	          	2012	M06	2017	M09
+EIUCOOTHERZ31                 	U	CO	Other Countries-Manufacturing, part 1	          	2012	M06	2017	M09
+EIUCOOTHERZ3113               	U	CO	Other Countries-Sugar and confectionery product manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ3117               	U	CO	Other Countries-Seafood product preparation and packaging	          	2012	M06	2017	M09
+EIUCOOTHERZ312                	U	CO	Other Countries-Beverage and tobacco product manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ314                	U	CO	Other Countries-Textile product mills	          	2012	M06	2017	M09
+EIUCOOTHERZ3141               	U	CO	Other Countries-Textile furnishings mills	          	2012	M06	2017	M09
+EIUCOOTHERZ3149               	U	CO	Other Countries-Other textile product mills	          	2012	M06	2017	M09
+EIUCOOTHERZ315                	U	CO	Other Countries-Apparel manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ3152               	U	CO	Other Countries-Cut and sew apparel manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ316                	U	CO	Other Countries-Leather and allied product manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ3162               	U	CO	Other Countries-Footwear manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ32                 	U	CO	Other Countries-Manufacturing, part 2	          	2012	M06	2017	M09
+EIUCOOTHERZ321                	U	CO	Other Countries-Wood product manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ3222               	U	CO	Other Countries-Converted paper product manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ325                	U	CO	Other Countries-Chemical manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ3252               	U	CO	Other Countries-Resin, synthetic rubber, and artificial synthetic fibers and filaments	          	2012	M06	2017	M09
+EIUCOOTHERZ326                	U	CO	Other Countries-Plastics and rubber products manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ327                	U	CO	Other Countries-Nonmetallic mineral product manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ3271               	U	CO	Other Countries-Clay product and refractory manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ33                 	U	CO	Other Countries-Manufacturing, part 3	          	2012	M06	2017	M09
+EIUCOOTHERZ331                	U	CO	Other Countries-Primary metal manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ3311               	U	CO	Other Countries-Iron and steel mills and ferroalloy manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ332                	U	CO	Other Countries-Fabricated metal product manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ3322               	U	CO	Other Countries-Cutlery and handtool manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ3325               	U	CO	Other Countries-Hardware manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ333                	U	CO	Other Countries-Machinery manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ3331               	U	CO	Other Countries-Agriculture, construction, and mining machinery manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ3333               	U	CO	Other Countries-Commercial and service industry machinery manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ3336               	U	CO	Other Countries-Engine, turbine, and power transmission equipment manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ334                	U	CO	Other Countries-Computer and electronic product manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ3342               	U	CO	Other Countries-Communications equipment manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ3343               	U	CO	Other Countries-Audio and video equipment manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ3344               	U	CO	Other Countries-Semiconductor and other electronic component manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ335                	U	CO	Other Countries-Electrical equipment, appliance, and component manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ3351               	U	CO	Other Countries-Electric lighting equipment manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ3352               	U	CO	Other Countries-Household appliance manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ3359               	U	CO	Other Countries-Other electrical equipment and component manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ336                	U	CO	Other Countries-Transportation equipment manufacturing	          	2015	M12	2017	M09
+EIUCOOTHERZ337                	U	CO	Other Countries-Furniture and related product manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ3371               	U	CO	Other Countries-Household and institutional furniture and kitchen cabinet manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ3372               	U	CO	Other Countries-Office furniture (including fixtures) manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ339                	U	CO	Other Countries-Miscellaneous manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ3391               	U	CO	Other Countries-Medical equipment and supplies manufacturing	          	2012	M06	2017	M09
+EIUCOOTHERZ3399               	U	CO	Other Countries-Other miscellaneous manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMTOT                  	U	CO	Pacific Rim-All Industries	6         	2003	M12	2017	M09
+EIUCOPRIMZ31                  	U	CO	Pacific Rim-Manufacturing, part 1	          	2012	M06	2017	M09
+EIUCOPRIMZ3117                	U	CO	Pacific Rim-Seafood product preparation and packaging	          	2012	M06	2017	M09
+EIUCOPRIMZ314                 	U	CO	Pacific Rim-Textile product mills	          	2012	M06	2017	M09
+EIUCOPRIMZ315                 	U	CO	Pacific Rim-Apparel manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ3152                	U	CO	Pacific Rim-Cut and sew apparel manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ3159                	U	CO	Pacific Rim-Apparel accessories and other apparel manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ316                 	U	CO	Pacific Rim-Leather and allied product manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ3162                	U	CO	Pacific Rim-Footwear manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ32                  	U	CO	Pacific Rim-Manufacturing, part 2	          	2012	M06	2017	M09
+EIUCOPRIMZ321                 	U	CO	Pacific Rim-Wood product manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ322                 	U	CO	Pacific Rim-Paper manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ325                 	U	CO	Pacific Rim-Chemical manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ3251                	U	CO	Pacific Rim-Basic chemical manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ3252                	U	CO	Pacific Rim-Resin, synthetic rubber, and artificial synthetic fibers and filaments	          	2012	M06	2017	M09
+EIUCOPRIMZ326                 	U	CO	Pacific Rim-Plastics and rubber products manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ3261                	U	CO	Pacific Rim-Plastics product manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ327                 	U	CO	Pacific Rim-Nonmetallic mineral product manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ33                  	U	CO	Pacific Rim-Manufacturing, part 3	          	2012	M06	2017	M09
+EIUCOPRIMZ331                 	U	CO	Pacific Rim-Primary metal manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ332                 	U	CO	Pacific Rim-Fabricated metal product manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ3322                	U	CO	Pacific Rim-Cutlery and handtool manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ333                 	U	CO	Pacific Rim-Machinery manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ3333                	U	CO	Pacific Rim-Commercial and service industry machinery manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ3335                	U	CO	Pacific Rim-Metalworking machinery manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ334                 	U	CO	Pacific Rim-Computer and electronic product manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ3343                	U	CO	Pacific Rim-Audio and video equipment manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ3344                	U	CO	Pacific Rim-Semiconductor and other electronic component manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ3345                	U	CO	Pacific Rim-Navigational, measuring, electromedical, and control instruments	          	2012	M06	2017	M09
+EIUCOPRIMZ335                 	U	CO	Pacific Rim-Electrical equipment, appliance, and component manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ3351                	U	CO	Pacific Rim-Electric lighting equipment manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ3352                	U	CO	Pacific Rim-Household appliance manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ3359                	U	CO	Pacific Rim-Other electrical equipment and component manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ337                 	U	CO	Pacific Rim-Furniture and related product manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ3371                	U	CO	Pacific Rim-Household and institutional furniture and kitchen cabinet manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ3372                	U	CO	Pacific Rim-Office furniture (including fixtures) manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ339                 	U	CO	Pacific Rim-Miscellaneous manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ3391                	U	CO	Pacific Rim-Medical equipment and supplies manufacturing	          	2012	M06	2017	M09
+EIUCOPRIMZ3399                	U	CO	Pacific Rim-Other miscellaneous manufacturing	          	2012	M06	2017	M09
+EIUCOUKTOT                    	U	CO	United Kingdom-All Industries	          	2003	M12	2017	M09
+EIUCOUKZ33                    	U	CO	United Kingdom-Manufacturing, part 3	          	2012	M06	2017	M09
+EIUCOUKZ333                   	U	CO	United Kingdom-Machinery manufacturing	          	2012	M06	2017	M09
+EIUCOUKZ334                   	U	CO	United Kingdom-Computer and electronic product manufacturing	          	2012	M06	2017	M09
+EIUIC131                      	U	IC	Inbound Air Freight	          	1990	M09	2017	M09
+EIUIC1311                     	U	IC	Inbound Air Freight-Europe	          	2003	M12	2017	M09
+EIUIC1312                     	U	IC	Inbound Air Freight-Asia	          	1990	M09	2017	M09
+EIUID02                       	U	ID	Meat & edible meat offal	          	2006	M12	2017	M09
+EIUID0203                     	U	ID	Meat of swine (pork), fresh, chilled or frozen	          	2010	M12	2017	M09
+EIUID03                       	U	ID	Fish and crustaceans, mollusks and aquatic invertebrates	          	2016	M12	2017	M09
+EIUID08                       	U	ID	Edible fruit and nuts; peel of citrus fruit or melons	          	1992	M12	2017	M09
+EIUID0802                     	U	ID	Nuts nesoi, fresh or  dried	          	2015	M12	2017	M09
+EIUID10                       	U	ID	Cereals	          	1992	M12	2017	M09
+EIUID1001                     	U	ID	Wheat and meslin	          	1992	M12	2017	M09
+EIUID1005                     	U	ID	Corn (maize)	          	1992	M12	2017	M09
+EIUID12                       	U	ID	Oilseeds and misc. grains, seeds, fruits, plants, straw and fodder	          	1992	M12	2017	M09
+EIUID1201                     	U	ID	Soybeans, whether or not broken	          	2001	M12	2017	M09
+EIUID20                       	U	ID	Preparations of vegetables, fruit, nuts or other parts of plants	          	2009	M12	2017	M09
+EIUID22                       	U	ID	Beverages, spirits, and vinegar	          	2008	M12	2017	M09
+EIUID23                       	U	ID	Residues and waste from the food industries; prepared animal feed	          	1992	M12	2017	M09
+EIUID26                       	U	ID	Ores, slag and ash	          	2012	M12	2017	M09
+EIUID27                       	U	ID	Mineral fuels, oils and residuals, bituminous substances and mineral waxes	          	1992	M12	2017	M09
+EIUID2701                     	U	ID	Coal, briquettes and similar solid fuels manufactured from coal	          	2007	M12	2017	M09
+EIUID2710                     	U	ID	Petroleum oils & oils from bituminous minerals (excl crude) & products, nes	          	1992	M12	2017	M09
+EIUID2711                     	U	ID	Petroleum gases and other gaseous hydrocarbons	          	2014	M12	2017	M09
+EIUID28                       	U	ID	Inorganic chemicals	          	1992	M12	2017	M09
+EIUID29                       	U	ID	Organic chemicals	          	1992	M12	2017	M09
+EIUID2937                     	U	ID	Hormones, natural or synthetic;  and other steroids	          	2016	M12	2017	M09
+EIUID30                       	U	ID	Pharmaceutical products	          	1992	M12	2017	M09
+EIUID3002                     	U	ID	Human and animal blood, prepared;  other blood frctns	          	2014	M12	2017	M09
+EIUID3004                     	U	ID	Medicaments	          	1992	M12	2017	M09
+EIUID31                       	U	ID	Fertilizers	          	2016	M12	2017	M09
+EIUID32                       	U	ID	Tanning or dyeing extracts, dyes, paints varnish, putty, & inks	          	2015	M12	2017	M09
+EIUID33                       	U	ID	Essential oils and resinoids; perfumery cosmetic or toilet preparations	          	1992	M12	2017	M09
+EIUID34                       	U	ID	Soap; lubricants; waxes, polishing or scouring products; candles, pastes	          	1992	M12	2017	M09
+EIUID38                       	U	ID	Miscellaneous chemical products	          	1992	M12	2017	M09
+EIUID3822                     	U	ID	Composite diagnostic or laboratory reagents	          	2001	M12	2017	M09
+EIUID3824                     	U	ID	Binders made for foundry molds or cores	          	2016	M12	2017	M09
+EIUID39                       	U	ID	Plastics and articles thereof	          	1992	M12	2017	M09
+EIUID3901                     	U	ID	Polymers of ethylene, in primary forms	          	1992	M12	2017	M09
+EIUID3926                     	U	ID	Articles of plastics, polymers, and resins, nes.	          	2014	M12	2017	M09
+EIUID40                       	U	ID	Rubber and articles thereof	          	1992	M12	2017	M09
+EIUID4011                     	U	ID	New pneumatic tires of  rubber	          	2013	M12	2017	M09
+EIUID47                       	U	ID	Woodpulp and recovered paper	          	1992	M12	2017	M09
+EIUID48                       	U	ID	Paper and paperboard; articles of paper pulp, paper or paperboard	          	1992	M12	2017	M09
+EIUID49                       	U	ID	Printed material	          	2014	M12	2017	M09
+EIUID52                       	U	ID	Cotton, including yarns and woven fabrics thereof	          	1992	M12	2017	M09
+EIUID68                       	U	ID	Articles of stone, plaster, cement, asbestos, or mica	          	2015	M12	2017	M09
+EIUID70                       	U	ID	Glass and glassware	          	1992	M12	2017	M09
+EIUID7102                     	U	ID	Diamonds, whether or not worked, but not mounted or set	          	2013	M12	2017	M09
+EIUID7108                     	U	ID	Gold (including gold plated with platinum), unwrought	          	2001	M12	2017	M09
+EIUID7112                     	U	ID	Waste and scrap of precious  metals	          	2010	M12	2017	M09
+EIUID72                       	U	ID	Iron and steel	          	1992	M12	2017	M09
+EIUID7318                     	U	ID	Screws, bolts, nuts, screw hooks, rivets, cotters, washers	          	2016	M12	2017	M09
+EIUID74                       	U	ID	Copper and articles thereof	          	1992	M12	2017	M09
+EIUID76                       	U	ID	Aluminum and articles thereof	          	1992	M12	2017	M09
+EIUID7606                     	U	ID	Aluminum plates, sheets and strip, over 0.2 mm thick	          	2012	M12	2017	M09
+EIUID82                       	U	ID	Tools, implements, cutlery, spoons and forks, of base metal	          	2015	M12	2017	M09
+EIUID83                       	U	ID	Miscellaneous articles of base metal	          	1992	M12	2017	M09
+EIUID84                       	U	ID	Machinery and mechanical appliances; parts thereof	          	1992	M12	2017	M09
+EIUID8407                     	U	ID	Spark-ignition internal combustion piston engines	          	2013	M12	2017	M09
+EIUID8413                     	U	ID	Pumps for liquids; liquid elevators; parts thereof	          	1992	M12	2017	M09
+EIUID8414                     	U	ID	Air or vacuum pumps, compressors and fans; vent & recycling hoods; parts	          	1992	M12	2017	M09
+EIUID8421                     	U	ID	Centrifuges & filtering/purifying machinery and parts	          	1992	M12	2017	M09
+EIUID8429                     	U	ID	Self-propelled earth-moving, tamping, & road roller machines	          	2012	M12	2017	M09
+EIUID8431                     	U	ID	Parts for materials handling & construction machines	          	1992	M12	2017	M09
+EIUID8443                     	U	ID	Printing mach., machines ancilliary to printing; parts thereof	          	2013	M12	2017	M09
+EIUID8471                     	U	ID	Computer equipment	          	1992	M12	2017	M09
+EIUID8479                     	U	ID	Machines & appliances having individual functions, n.e.s.o.i.; parts thereof	          	1992	M12	2017	M09
+EIUID8481                     	U	ID	Taps, cocks, valves & similar appliances; parts thereof	          	1992	M12	2017	M09
+EIUID8483                     	U	ID	Parts for transmitting  power	          	2016	M12	2017	M09
+EIUID85                       	U	ID	Electrical machinery and equipment and parts and accessories thereof	          	1992	M12	2017	M09
+EIUID8517                     	U	ID	Electrical apparatus for line telephony or line telegraphy; videophones; parts	          	1992	M12	2017	M09
+EIUID8536                     	U	ID	Electrical circuit switching, protecting or connection app of 1000 volts or less	          	1992	M12	2017	M09
+EIUID8537                     	U	ID	Electric control or distribution  equipment	          	2016	M12	2017	M09
+EIUID8542                     	U	ID	Electronic integrated circuits and micro assemblies; parts thereof	          	1992	M12	2017	M09
+EIUID87                       	U	ID	Motor vehicles and their parts	          	1992	M12	2017	M09
+EIUID8701                     	U	ID	Tractors other than work  trucks	          	2016	M12	2017	M09
+EIUID8703                     	U	ID	Automobiles and other motor vehicles inc minivans, 4-dr specialty vehicles	          	1992	M12	2017	M09
+EIUID8704                     	U	ID	Motor vehicles for the transport of goods	          	1993	M12	2017	M09
+EIUID8708                     	U	ID	Parts and access of tractors, buses automobiles, trucks, spec. vehicles	          	1992	M12	2017	M09
+EIUID8803                     	U	ID	Parts, nesoi, of civil aircraft and spacecraft (exc. military)	          	1994	M12	2017	M09
+EIUID9018                     	U	ID	Instruments/appliances used in medical surgical, dental, veternarian sciences	          	1992	M12	2017	M09
+EIUID9021                     	U	ID	Hearing aids; artificial body parts; and orthopedic app.	          	2001	M12	2017	M09
+EIUID9027                     	U	ID	Instruments and apparatus for physical or chemical analysis	          	1992	M12	2017	M09
+EIUID9030                     	U	ID	Oscilloscopes, spectrum analyzers etc., and parts	          	2016	M12	2017	M09
+EIUID9031                     	U	ID	Measuring or checking instruments, and appliances n.e.s.	          	2001	M12	2017	M09
+EIUID9032                     	U	ID	Automatic regulating or controlling instrs. & parts	          	2016	M12	2017	M09
+EIUID94                       	U	ID	Furniture; stuffed furnishings; lamps and lighting fittings nesoi;	          	1992	M12	2017	M09
+EIUID9401                     	U	ID	Seats other than barber, dental and similar chairs	          	2011	M12	2017	M09
+EIUID95                       	U	ID	Toys, games and sports equipment; parts and accessories thereof	          	1992	M12	2017	M09
+EIUIDI                        	U	ID	Live animals; animal products	          	1992	M12	2017	M09
+EIUIDII                       	U	ID	Vegetable products	          	1992	M12	2017	M09
+EIUIDIV                       	U	ID	Prepared foodstuffs, beverages,and tobacco	          	1992	M12	2017	M09
+EIUIDIX                       	U	ID	Wood, wood charcoal, cork, straw, baskets and wickerwork	          	2014	M12	2017	M09
+EIUIDV                        	U	ID	Mineral products	          	1992	M12	2017	M09
+EIUIDVI                       	U	ID	Products of the chemical or allied industries	          	1992	M12	2017	M09
+EIUIDVII                      	U	ID	Plastics and articles thereof; rubber and articles thereof	          	1992	M12	2017	M09
+EIUIDVIII                     	U	ID	Raw hides, skins, leather, furskins, travel goods, etc.	          	1992	M12	2017	M09
+EIUIDX                        	U	ID	Woodpulp, recovered paper, and  paper products	          	1992	M12	2017	M09
+EIUIDXI                       	U	ID	Textile and textile articles	          	1992	M12	2017	M09
+EIUIDXIII                     	U	ID	Stone, plaster, cement, asbestos, ceramics, glass etc.	          	1992	M12	2017	M09
+EIUIDXIV                      	U	ID	Pearls, stones, precious metals, imitation jewelry, and coins	          	1992	M12	2017	M09
+EIUIDXV                       	U	ID	Base metals and  articles of base metals	          	1992	M12	2017	M09
+EIUIDXVI                      	U	ID	Machinery, electrical equipment, TV image and sound recorders, parts, etc.	          	1992	M12	2017	M09
+EIUIDXVII                     	U	ID	Vehicles, aircraft, vessels and associated transport equipment	          	1992	M12	2017	M09
+EIUIDXVIII                    	U	ID	Optical, photo, measuring, medical & musical instruments; & timepieces	          	1992	M12	2017	M09
+EIUIDXX                       	U	ID	Miscellaneous manufactured articles	          	1992	M12	2017	M09
+EIUIH142                      	U	IH	Export Air Passenger Fares	          	1986	M09	2017	M09
+EIUIH1421                     	U	IH	Export Air Passenger Fares-Europe	          	1994	M03	2017	M09
+EIUIH14211                    	U	IH	Export Air Passenger Fares-United Kingdom	          	2002	M12	2017	M09
+EIUIH14212                    	U	IH	Export Air Passenger Fares-Other Europe	          	2002	M12	2017	M09
+EIUIH1422                     	U	IH	Export Air Passenger Fares-Asia	          	1994	M03	2017	M09
+EIUIH14221                    	U	IH	Export Air Passenger Fares-Japan	          	1994	M03	2017	M09
+EIUIH14222                    	U	IH	Export Air Passenger Fares-Other Asia	          	2009	M12	2017	M09
+EIUIH1424                     	U	IH	Export Air Passenger Fares-Latin America/Caribbean	          	1986	M09	2017	M09
+EIUIH14243                    	U	IH	Export Air Passenger Fares-Central/South America	          	2009	M12	2017	M09
+EIUIH231                      	U	IH	Export Air Freight	          	1996	M12	2017	M09
+EIUIH2311                     	U	IH	Export Air Freight-Europe	          	2006	M12	2017	M09
+EIUIH2312                     	U	IH	Export Air Freight-Asia	          	2011	M12	2017	M09
+EIUIP02                       	U	IP	Meat and edible meat offal	          	1992	M12	2017	M09
+EIUIP03                       	U	IP	Fish and crustaceans, molluscs and other aquatic invertebrates	          	1992	M12	2017	M09
+EIUIP0304                     	U	IP	Fish fillets and other fish meat, fresh, chilled, frzn,	          	2008	M12	2017	M09
+EIUIP0306                     	U	IP	Crustaceans, live, fresh, chilled, etc; in shell or not; cooked or uncooked	          	1992	M12	2017	M09
+EIUIP07                       	U	IP	Edible vegetables, roots, and tubers	          	1992	M12	2017	M09
+EIUIP08                       	U	IP	Edible fruit and nuts; peel of citrus fruit or melons	          	1992	M12	2017	M09
+EIUIP09                       	U	IP	Coffee, tea, mate and spices	          	1992	M12	2017	M09
+EIUIP0901                     	U	IP	Coffee, roasted or unroasted, decaf; coffee husks and skins	          	2007	M12	2017	M09
+EIUIP16                       	U	IP	Edible preps of meat, of fish, or of aquatic invertebrates	          	2004	M12	2017	M09
+EIUIP17                       	U	IP	Sugars and sugar  confectionary	          	2012	M12	2017	M09
+EIUIP18                       	U	IP	Cocoa and cocoa preparations	          	2009	M12	2017	M09
+EIUIP20                       	U	IP	Preparations of vegetables, fruit, nuts, or other parts of plants	          	1992	M12	2017	M09
+EIUIP22                       	U	IP	Beverages, spirits, and vinegar	          	1992	M12	2017	M09
+EIUIP2203                     	U	IP	Beer, ale, porter, stout and the like	          	2006	M12	2017	M09
+EIUIP2204                     	U	IP	Wine of fresh grapes, including fortified wine	          	2005	M12	2017	M09
+EIUIP2208                     	U	IP	Ethyl alcohol undenatured less  than 80% alcohol	          	2001	M12	2017	M09
+EIUIP27                       	U	IP	Mineral fuels, oils and residuals, bituminous substances and mineral waxes	          	1992	M12	2017	M09
+EIUIP2709                     	U	IP	Petroleum oils and oils from bituminous minerals, crude	          	1992	M12	2017	M09
+EIUIP2710                     	U	IP	Petroleum oils (not crude), bituminous oils, & products thereof, nesoi	          	1992	M12	2017	M09
+EIUIP2711                     	U	IP	Petroleum gases and other gaseous hydrocarbons	          	1992	M12	2017	M09
+EIUIP28                       	U	IP	Inorganic chemicals	          	1992	M12	2017	M09
+EIUIP29                       	U	IP	Organic chemicals	          	1992	M12	2017	M09
+EIUIP2933                     	U	IP	Heterocyclic compounds with nitrogen hetero-atoms only	          	2016	M12	2017	M09
+EIUIP2934                     	U	IP	Nucleic acids and their salts, other heterocyclic compounds	          	2009	M12	2017	M09
+EIUIP30                       	U	IP	Pharmaceutical products	          	1992	M12	2017	M09
+EIUIP3002                     	U	IP	Human and animal blood, prep; antisera & other blood fractions	          	2014	M12	2017	M09
+EIUIP3004                     	U	IP	Medicaments (except vaccines, band.,  pharmaceuticals)	          	2001	M12	2017	M09
+EIUIP31                       	U	IP	Fertilizers	          	2009	M12	2017	M09
+EIUIP32                       	U	IP	Tanning extracts; dye, pigments, varnish, paints & putty	          	2011	M12	2017	M09
+EIUIP33                       	U	IP	Essential oils and resinoids	          	2016	M12	2017	M09
+EIUIP38                       	U	IP	Miscellaneous chemical products	          	1996	M12	2017	M09
+EIUIP39                       	U	IP	Plastics and articles thereof	          	1992	M12	2017	M09
+EIUIP3923                     	U	IP	Articles for the conveyance or packing of goods, of plastics	          	2003	M12	2017	M09
+EIUIP3924                     	U	IP	Tableware, kitchenware, other articles of plastics	          	2009	M12	2017	M09
+EIUIP3926                     	U	IP	Articles of plastic, polymers & resins of heading 3901 to 3914, nesoi	          	1992	M12	2017	M09
+EIUIP40                       	U	IP	Rubber and articles thereof	          	1992	M12	2017	M09
+EIUIP4011                     	U	IP	New pneumatic tires of rubber	          	2004	M12	2017	M09
+EIUIP4016                     	U	IP	Articles nesoi, of unhardened vulcanized rubber	          	2014	M12	2017	M09
+EIUIP42                       	U	IP	Articles of leather; travel goods, bags, etc. of various materials	          	1992	M12	2017	M09
+EIUIP4202                     	U	IP	Travel goods and handbags	          	2015	M12	2017	M09
+EIUIP44                       	U	IP	Wood and articles of wood; wood charcoal	          	2014	M12	2017	M09
+EIUIP4407                     	U	IP	Wood sawn or chipped lengthwise, sliced or peeled	          	2013	M12	2017	M09
+EIUIP48                       	U	IP	Paper and paperboard; articles of paper pulp, paper or paperboard	          	1992	M12	2017	M09
+EIUIP49                       	U	IP	Printed matter	          	2015	M12	2017	M09
+EIUIP61                       	U	IP	Articles of apparel and clothing accessories, knitted or crocheted	          	1992	M12	2017	M09
+EIUIP6110                     	U	IP	Knitted sweaters, pullovers, sweatshirts vests and similar art.	          	2015	M12	2017	M09
+EIUIP62                       	U	IP	Articles of apparel and clothing accessories, not knitted or crocheted	          	1992	M12	2017	M09
+EIUIP6203                     	U	IP	Men's or boy's suits, ensembles, suit-type jackets, blazers & trousers	          	1992	M12	2017	M09
+EIUIP6205                     	U	IP	Men's or boys' shirts, not knitted or crocheted	          	2012	M12	2017	M09
+EIUIP63                       	U	IP	Made-up or worn textile articles	          	1992	M12	2017	M09
+EIUIP64                       	U	IP	Footwear and  parts of such articles	          	1992	M12	2017	M09
+EIUIP6402                     	U	IP	Footwear, with outer soles and uppers of rubber or plastics	          	2016	M12	2017	M09
+EIUIP6403                     	U	IP	Footwear with uppers of leathers	          	1992	M12	2017	M09
+EIUIP68                       	U	IP	Articles of stone, plaster, cement, asbestos, or mica	          	2015	M12	2017	M09
+EIUIP69                       	U	IP	Ceramic products	          	1992	M12	2017	M09
+EIUIP70                       	U	IP	Glass and glassware	          	1992	M12	2017	M09
+EIUIP7102                     	U	IP	Diamonds, whether or not worked, but not mounted or set	          	1992	M12	2017	M09
+EIUIP7106                     	U	IP	Silver unwrought, semi-mfg or powder	          	2012	M12	2017	M09
+EIUIP7108                     	U	IP	Gold (incl plated with platinum), unwrght, semi-mfg or pwdr	          	1996	M12	2017	M09
+EIUIP7110                     	U	IP	Platinum, unwrought, semi-mfg or powder	          	2001	M12	2017	M09
+EIUIP7113                     	U	IP	Jewelry of precious metal	          	2012	M12	2017	M09
+EIUIP72                       	U	IP	Iron and steel	          	1992	M12	2017	M09
+EIUIP73                       	U	IP	Articles of iron or steel	          	1992	M12	2017	M09
+EIUIP7318                     	U	IP	Screws, bolts, nuts, rivets, cotters, washers, etc.	          	2011	M12	2017	M09
+EIUIP7326                     	U	IP	Articles of iron or steel,  nesoi	          	2012	M12	2017	M09
+EIUIP74                       	U	IP	Copper and articles thereof	          	1992	M12	2017	M09
+EIUIP76                       	U	IP	Aluminum and articles thereof	          	1992	M12	2017	M09
+EIUIP7601                     	U	IP	Aluminum, unwrought	          	1996	M12	2017	M09
+EIUIP82                       	U	IP	Tools, implements, cutlery, spoons and forks, of base metal; parts thereof	          	1992	M12	2017	M09
+EIUIP83                       	U	IP	Miscellaneous articles of base metal	          	1992	M12	2017	M09
+EIUIP84                       	U	IP	Machinery and mechanical appliances; parts thereof	          	1992	M12	2017	M09
+EIUIP8407                     	U	IP	Spark-ignition internal combustion piston engines	          	2004	M12	2017	M09
+EIUIP8408                     	U	IP	Diesel & semi-diesel internal combustion  piston engines	          	2011	M12	2017	M09
+EIUIP8409                     	U	IP	Parts for spark-ignition and diesel internal combustion piston engines	          	1992	M12	2017	M09
+EIUIP8411                     	U	IP	Turbojets, turbopropellers and other gas turbines, and parts thereof	          	1997	M12	2017	M09
+EIUIP8412                     	U	IP	Engines & motors, nesoi, & parts thereof	          	2012	M12	2017	M09
+EIUIP8413                     	U	IP	Pumps for liquids; liquid elevators; parts thereof	          	1992	M12	2017	M09
+EIUIP8414                     	U	IP	Air or vacuum pumps, compressors and fans; vent & recycling hoods; parts	          	1992	M12	2017	M09
+EIUIP8415                     	U	IP	Air conditioning machines and parts thereof	          	2014	M12	2017	M09
+EIUIP8418                     	U	IP	Refrigerators, freezers, heat pumps; and parts	          	2006	M12	2017	M09
+EIUIP8429                     	U	IP	Self-propelled earth-moving, tamping, & road roller machines	          	2012	M12	2017	M09
+EIUIP8431                     	U	IP	Parts for materials handling & construction machines	          	1992	M12	2017	M09
+EIUIP8443                     	U	IP	Printing machinery, machines ancillary to printing; & parts	          	2012	M12	2017	M09
+EIUIP8467                     	U	IP	Powered hand tools, nonelectric, and parts thereof	          	2016	M12	2017	M09
+EIUIP8471                     	U	IP	Computer equipment	          	1992	M12	2017	M09
+EIUIP8473                     	U	IP	Parts and accessories, n.e.s.o.i., for computers and other office machines	          	1992	M12	2017	M09
+EIUIP8479                     	U	IP	Machines & appliances having functions n.e.s.; parts thereof	          	2016	M12	2017	M09
+EIUIP8481                     	U	IP	Taps, cocks, valves & similar appliances; parts thereof	          	1992	M12	2017	M09
+EIUIP8483                     	U	IP	Parts for transmitting power (clutches, shafts, gears & boxes, pulleys, etc)	          	1992	M12	2017	M09
+EIUIP8486                     	U	IP	Machines used for manufacture of semiconductor wafers	          	2012	M12	2017	M09
+EIUIP85                       	U	IP	Electrical machinery and equip, sound and TV recorders & reproducers, parts	          	1992	M12	2017	M09
+EIUIP8501                     	U	IP	Electric motors and generators (excludes  generating sets)	          	1992	M12	2017	M09
+EIUIP8504                     	U	IP	Electrical transformers, inductors & static converters (rectifiers); parts	          	1992	M12	2017	M09
+EIUIP8507                     	U	IP	Electric storage batteries, and parts thereof	          	2013	M12	2017	M09
+EIUIP8511                     	U	IP	IC engine ignition or starting equip;  generators; & parts	          	2013	M12	2017	M09
+EIUIP8512                     	U	IP	Vehicular electric lighting equipment, and defrosters;	          	2014	M12	2017	M09
+EIUIP8516                     	U	IP	Electrothermic domestic appliances; water & space heaters; resistors	          	1992	M12	2017	M09
+EIUIP8517                     	U	IP	Electrical apparatus for line telephony or line telegraphy; videophones; parts	          	1992	M12	2017	M09
+EIUIP8518                     	U	IP	Microphones & stands; audio/sound amps; speakers; & headphones	          	2012	M12	2017	M09
+EIUIP8523                     	U	IP	Prepared unrecorded media for sound or similar recording	          	2004	M12	2017	M09
+EIUIP8525                     	U	IP	Radio & TV transmission apparatus; video  cameras & camera recorders; TV cameras	          	1992	M12	2017	M09
+EIUIP8527                     	U	IP	Radio receivers whether or not w/ clock,  player or recorder in the same housing	          	1992	M12	2017	M09
+EIUIP8528                     	U	IP	TV reception apparatus; video monitors & video projectors	          	1992	M12	2017	M09
+EIUIP8536                     	U	IP	Electrical circuit switching, protecting or connection app. of 1000 volts or less	          	1992	M12	2017	M09
+EIUIP8537                     	U	IP	Electric control or distribution equipment	          	2015	M12	2017	M09
+EIUIP8541                     	U	IP	Semiconductor devices; L.E.D.s; mounted piezoelectric crystals; parts thereof	          	1992	M12	2017	M09
+EIUIP8542                     	U	IP	Electronic integrated circuits and micro assemblies; parts thereof	          	1992	M12	2017	M09
+EIUIP8543                     	U	IP	Electrical machines & apparatus, func. n.e.s.o.i.; parts	          	2014	M12	2017	M09
+EIUIP8544                     	U	IP	Insulated  conductors	          	2010	M12	2017	M09
+EIUIP87                       	U	IP	Motor vehicles and their parts	          	1992	M12	2017	M09
+EIUIP8703                     	U	IP	Motor vehicles designed to transport people	          	1992	M12	2017	M09
+EIUIP8704                     	U	IP	Motor vehicles for the transport of goods	          	2013	M12	2017	M09
+EIUIP8708                     	U	IP	Parts of tractors, buses, automobiles, trucks, spec. vehicles	          	1996	M12	2017	M09
+EIUIP88                       	U	IP	Aircraft, spacecraft, and parts thereof	          	2002	M12	2017	M09
+EIUIP8803                     	U	IP	Parts, nesoi, of civil aircraft and spacecraft	          	2012	M12	2017	M09
+EIUIP90                       	U	IP	Optical, photographic, measuring and medical instruments	          	1992	M12	2017	M09
+EIUIP9018                     	U	IP	Instruments/appliances used in medical, surgical, dental, veterinarian sciences	          	1992	M12	2017	M09
+EIUIP9021                     	U	IP	Orthopedic appliances; artificial body parts; hearing aids, etc	          	2003	M12	2017	M09
+EIUIP9022                     	U	IP	X-ray radiotherapy & radiography  apparatus  & X-ray tubes	          	2016	M12	2017	M09
+EIUIP9027                     	U	IP	Instruments and apparatus for physical or chemical analysis	          	2006	M12	2017	M09
+EIUIP9031                     	U	IP	Measuring instruments, appliances, and machines, nesoi	          	2013	M12	2017	M09
+EIUIP9032                     	U	IP	Automatic regulating or controlling instruments and parts	          	2011	M12	2017	M09
+EIUIP91                       	U	IP	Clocks and watches and parts thereof	          	1992	M12	2017	M09
+EIUIP9102                     	U	IP	Watches including stop watches	          	2016	M12	2017	M09
+EIUIP94                       	U	IP	Furniture & stuffed furnishings; lamps &  lighting fittings, nesoi; prefab bldgs	          	1992	M12	2017	M09
+EIUIP9401                     	U	IP	Seats other than barber, dental and similar chairs	          	2001	M12	2017	M09
+EIUIP9403                     	U	IP	Furniture other than seats, nesoi	          	2001	M12	2017	M09
+EIUIP9405                     	U	IP	Lamps, lighting fixtures, & illuminated signs and parts thereof	          	1992	M12	2017	M09
+EIUIP95                       	U	IP	Toys, games and sports equipment; parts and accessories thereof	          	1992	M12	2017	M09
+EIUIP9503                     	U	IP	Toys nesoi; models; puzzles; parts and accessories thereof	          	1992	M12	2017	M09
+EIUIP9506                     	U	IP	Articles & equipment for sports nesoi; parts & accessories thereof	          	1992	M12	2017	M09
+EIUIP96                       	U	IP	Miscellaneous manufactured articles	          	1992	M12	2017	M09
+EIUIPI                        	U	IP	Live animals; animal products	          	1992	M12	2017	M09
+EIUIPII                       	U	IP	Vegetable products	          	1992	M12	2017	M09
+EIUIPIII                      	U	IP	Animal or vegetable fats and oils	          	2009	M12	2017	M09
+EIUIPIV                       	U	IP	Prepared foodstuffs,  beverages, and tobacco	          	1992	M12	2017	M09
+EIUIPIX                       	U	IP	Wood, wood charcoal, cork, straw, basketware and wickerwork	          	1992	M12	2017	M09
+EIUIPV                        	U	IP	Mineral products	          	1992	M12	2017	M09
+EIUIPVI                       	U	IP	Products of the chemical or allied industries	          	1992	M12	2017	M09
+EIUIPVII                      	U	IP	Plastics and articles thereof; rubber and articles thereof	          	1992	M12	2017	M09
+EIUIPVIII                     	U	IP	Raw hides, skins, leather, furskins, travel goods, etc	          	1992	M12	2017	M09
+EIUIPX                        	U	IP	Woodpulp, recovered paper, and paper products	          	1992	M12	2017	M09
+EIUIPXI                       	U	IP	Textile and textile articles	          	1992	M12	2017	M09
+EIUIPXII                      	U	IP	Headgear, umbrellas, artificial flowers, etc.	          	1992	M12	2017	M09
+EIUIPXIII                     	U	IP	Stone, plaster, cement, asbestos, ceramics, glass etc.	          	1992	M12	2017	M09
+EIUIPXIV                      	U	IP	Pearls, stones, precious metals, imitation jewelry, and coins	          	1992	M12	2017	M09
+EIUIPXV                       	U	IP	Base metals and  articles of base metals	          	1992	M12	2017	M09
+EIUIPXVI                      	U	IP	Machinery, electrical equipment, TV image and sound recorders, parts, etc.	          	1992	M12	2017	M09
+EIUIPXVII                     	U	IP	Vehicles, aircraft, vessels and associated transport equipment	          	1992	M12	2017	M09
+EIUIPXVIII                    	U	IP	Optical, photo, measuring, medical & musical instruments; & timepieces	          	1992	M12	2017	M09
+EIUIPXX                       	U	IP	Miscellaneous manufactured articles	          	1992	M12	2017	M09
+EIUIQ                         	U	IQ	All commodities	          	1983	M09	2017	M09
+EIUIQ0                        	U	IQ	Foods, feeds, & beverages	          	1983	M09	2017	M09
+EIUIQ00                       	U	IQ	Agricultural foods, feeds & beverages, excluding distilled beverages	          	1983	M03	2017	M09
+EIUIQ000                      	U	IQ	Wheat and rice	          	1984	M12	2017	M09
+EIUIQ00000                    	U	IQ	Wheat	          	1980	M12	2017	M09
+EIUIQ001                      	U	IQ	Soybeans & other oil seeds	          	1984	M12	2017	M09
+EIUIQ00100                    	U	IQ	Soybeans and soybean by-products,  prior to the extraction of oil	          	1980	M12	2017	M09
+EIUIQ002                      	U	IQ	Feedstuff	          	1984	M12	2017	M09
+EIUIQ00200                    	U	IQ	Corn	          	1984	M12	2017	M09
+EIUIQ00210                    	U	IQ	Other feedgrains	          	2010	M12	2017	M09
+EIUIQ00220                    	U	IQ	Other animal feeds, n.e.s.	          	1983	M03	2017	M09
+EIUIQ003                      	U	IQ	Other agricultural foods	          	1984	M12	2017	M09
+EIUIQ00300                    	U	IQ	Meat, poultry & other edible animal products	          	2006	M12	2017	M09
+EIUIQ00320                    	U	IQ	Fruit and fruit preparations, including fruit juices	          	1984	M12	2017	M09
+EIUIQ00330                    	U	IQ	Vegetables and vegetable preparations and juices	          	1984	M12	2017	M09
+EIUIQ00340                    	U	IQ	Nuts & preparations	          	2014	M12	2017	M09
+EIUIQ00350                    	U	IQ	Bakery & confectionery products	          	2016	M12	2017	M09
+EIUIQ00360                    	U	IQ	Other foods and food preparations (lard,soft bev, spices), n.e.s.	          	1984	M12	2017	M09
+EIUIQ01                       	U	IQ	Nonagricultural foods (fish, distilled beverages)	          	1983	M09	2017	M09
+EIUIQ01000                    	U	IQ	Fish and shellfish	          	2016	M12	2017	M09
+EIUIQ1                        	U	IQ	Industrial supplies & materials	          	1983	M09	2017	M09
+EIUIQ10                       	U	IQ	Agricultural industrial supplies & materials	          	1983	M09	2017	M09
+EIUIQ100                      	U	IQ	Cotton, incl linters-raw	          	2005	M12	2017	M09
+EIUIQ101                      	U	IQ	Other agricultural materials	          	1983	M09	2017	M09
+EIUIQ10150                    	U	IQ	Other agricultural materials-manufactured	          	2010	M12	2017	M09
+EIUIQ11                       	U	IQ	Fuels & lubricants	          	1983	M09	2017	M09
+EIUIQ110                      	U	IQ	Coals & related fuels	          	2007	M12	2017	M09
+EIUIQ11010                    	U	IQ	Metallurgical grade coal	          	2008	M12	2017	M09
+EIUIQ11020                    	U	IQ	Other coal & related fuels	          	2012	M12	2017	M09
+EIUIQ111                      	U	IQ	Petroleum & petroleum products	          	1984	M12	2017	M09
+EIUIQ11110                    	U	IQ	Fuel oil	          	1984	M03	2017	M09
+EIUIQ11120                    	U	IQ	Other petroleum products	          	1983	M09	2017	M09
+EIUIQ112                      	U	IQ	Gas-natural	          	2014	M12	2017	M09
+EIUIQ12                       	U	IQ	Nonagricultural supplies & materials excluding fuels & building materials	          	1984	M12	2017	M09
+EIUIQ121                      	U	IQ	Iron and steel products	          	1996	M12	2017	M09
+EIUIQ12100                    	U	IQ	Iron & steel mill products	          	1996	M12	2017	M09
+EIUIQ122                      	U	IQ	Nonferrous & other metals	          	1981	M09	2017	M09
+EIUIQ12200                    	U	IQ	Aluminum & alumina	          	1981	M09	2017	M09
+EIUIQ12210                    	U	IQ	Copper	          	2008	M12	2017	M09
+EIUIQ12260                    	U	IQ	Nonmonetary gold	          	1984	M12	2017	M09
+EIUIQ12270                    	U	IQ	Other precious metals	          	2001	M12	2017	M09
+EIUIQ12290                    	U	IQ	Other nonferrous metals	          	1996	M12	2017	M09
+EIUIQ123                      	U	IQ	Finished metal shapes	          	1980	M12	2017	M09
+EIUIQ124                      	U	IQ	Paper & paper base stocks	          	1984	M12	2017	M09
+EIUIQ12420                    	U	IQ	Woodpulp and recovered paper	          	1983	M09	2017	M09
+EIUIQ12430                    	U	IQ	Linerboard, newsprint, and other  paper/paperboard	          	1980	M12	2017	M09
+EIUIQ125                      	U	IQ	Chemicals, excluding medicinals	          	1983	M03	2017	M09
+EIUIQ12500                    	U	IQ	Plastic materials	          	1983	M09	2017	M09
+EIUIQ12510                    	U	IQ	Fertilizers, pesticides, & insecticides	          	2012	M12	2017	M09
+EIUIQ12530                    	U	IQ	Industrial inorganic chemicals	          	1987	M12	2017	M09
+EIUIQ12540                    	U	IQ	Industrial organic chemicals	          	1984	M12	2017	M09
+EIUIQ12550                    	U	IQ	Other chemicals, excluding medicinals	          	1984	M12	2017	M09
+EIUIQ126                      	U	IQ	Industrial textile fibers, yarn, and fabric	          	2008	M12	2017	M09
+EIUIQ12620                    	U	IQ	Manmade cloth and thread  & cordage	          	2012	M12	2017	M09
+EIUIQ127                      	U	IQ	Other nonagricultural industrial supplies and materials	          	1984	M12	2017	M09
+EIUIQ12700                    	U	IQ	Synthetic rubber-primary	          	2008	M12	2017	M09
+EIUIQ12750                    	U	IQ	Industrial rubber  products	          	2013	M12	2017	M09
+EIUIQ12760                    	U	IQ	Mineral supplies-manufactured	          	1985	M09	2017	M09
+EIUIQ12770                    	U	IQ	Other goods manufactured and unmanufactured	          	1987	M12	2017	M09
+EIUIQ13                       	U	IQ	Selected building materials	          	1984	M12	2017	M09
+EIUIQ131                      	U	IQ	Lumber & other wood supplies	          	1984	M12	2017	M09
+EIUIQ13100                    	U	IQ	Logs, lumber, plywood and veneers	          	1992	M12	2017	M09
+EIUIQ13210                    	U	IQ	Other building materials, exclude wood and glass	          	2016	M12	2017	M09
+EIUIQ1DUR                     	U	IQ	Industrial supplies & materials, durable	          	1989	M06	2017	M09
+EIUIQ1NONDUR                  	U	IQ	Industrial supplies & materials, nondurable	          	1989	M06	2017	M09
+EIUIQ2                        	U	IQ	Capital goods	          	1978	M12	2017	M09
+EIUIQ20                       	U	IQ	Electrical generating equipment	          	1980	M12	2017	M09
+EIUIQ20000                    	U	IQ	Generators, transformers  & access	          	2012	M12	2017	M09
+EIUIQ20005                    	U	IQ	Electric apparatus and parts, n.e.s.	          	1980	M12	2017	M09
+EIUIQ21                       	U	IQ	Nonelectrical machinery	          	1980	M12	2017	M09
+EIUIQ210                      	U	IQ	Oil drilling, mining, and construction machinery, and equipment	          	1984	M12	2017	M09
+EIUIQ21000                    	U	IQ	Drilling & oil field equip.	          	1980	M12	2017	M09
+EIUIQ21030                    	U	IQ	Excavating, paving & construction machinery	          	1980	M12	2017	M09
+EIUIQ211                      	U	IQ	Industrial and service machinery	          	1980	M12	2017	M09
+EIUIQ21100                    	U	IQ	Industrial engines, pumps, & compressors	          	1982	M06	2017	M09
+EIUIQ21120                    	U	IQ	Metal working machine tools and rolling mill machines	          	1980	M12	2017	M09
+EIUIQ21140                    	U	IQ	Machinery for working wood, glass, rubber & like materials	          	2015	M12	2017	M09
+EIUIQ21160                    	U	IQ	Measuring, testing & control instruments	          	1980	M12	2017	M09
+EIUIQ21170                    	U	IQ	Materials handling equipment	          	1980	M12	2017	M09
+EIUIQ21180                    	U	IQ	Other industrial machinery	          	1984	M12	2017	M09
+EIUIQ21190                    	U	IQ	Photo and other service industry machines	          	1984	M12	2017	M09
+EIUIQ212                      	U	IQ	Agricultural machinery and  equipment	          	2016	M12	2017	M09
+EIUIQ213                      	U	IQ	Computers, peripherals, and  semiconductors	          	1980	M12	2017	M09
+EIUIQ21300                    	U	IQ	Computers	          	1980	M12	2017	M09
+EIUIQ21301                    	U	IQ	Computer peripherals, accessories and parts	          	1984	M12	2017	M09
+EIUIQ21320                    	U	IQ	Semiconductors	          	1984	M12	2017	M09
+EIUIQ213COM                   	U	IQ	Computers, peripherals, accessories and parts (excludes end use 21320)	          	1984	M12	2017	M09
+EIUIQ214                      	U	IQ	Telecommunications equipment	          	1980	M12	2017	M09
+EIUIQ216                      	U	IQ	Scientific and medical machinery	          	1984	M12	2017	M09
+EIUIQ21600                    	U	IQ	Laboratory testing & control instruments	          	1980	M12	2017	M09
+EIUIQ21610                    	U	IQ	Other scientific, medical and hospital equipment	          	1980	M12	2017	M09
+EIUIQ21EXCOM                  	U	IQ	Non-electrical machinery excluding computers, peripherals & semiconductors	          	1984	M12	2017	M09
+EIUIQ22                       	U	IQ	Transportation equipment excluding motor vehicles	          	2001	M12	2017	M09
+EIUIQ22010                    	U	IQ	Parts for civilian aircraft	          	1980	M12	2017	M09
+EIUIQ22020                    	U	IQ	Engines for civilian aircraft	          	2002	M12	2017	M09
+EIUIQ2EXCOM                   	U	IQ	Capital goods, excluding computers peripherals & semiconductors	          	1984	M12	2017	M09
+EIUIQ3                        	U	IQ	Automotive vehicles, parts & engines	          	1980	M03	2017	M09
+EIUIQ300                      	U	IQ	Passenger cars, new and used	          	1981	M03	2017	M09
+EIUIQ301                      	U	IQ	Vehicles designed to transport goods	          	1993	M12	2017	M09
+EIUIQ302                      	U	IQ	Parts, engines, bodies & chassis	          	1980	M12	2017	M09
+EIUIQ30200                    	U	IQ	Engines and engine parts for automotive vehicles	          	1992	M12	2017	M09
+EIUIQ30220                    	U	IQ	Automotive tires  & tubes	          	2013	M12	2017	M09
+EIUIQ30230                    	U	IQ	Nonengine parts & accessories	          	1984	M12	2017	M09
+EIUIQ4                        	U	IQ	Consumer goods, excluding automotives	          	1983	M09	2017	M09
+EIUIQ40                       	U	IQ	Nondurables, manufactured	          	1983	M09	2017	M09
+EIUIQ400                      	U	IQ	Apparel, footwear, and household  goods	          	2016	M12	2017	M09
+EIUIQ40000                    	U	IQ	Textile apparel and  footwear	          	2016	M12	2017	M09
+EIUIQ401                      	U	IQ	Other consumer nondurables	          	1983	M09	2017	M09
+EIUIQ40100                    	U	IQ	Medicinal, dental, and pharmaceutical preparatory materials	          	1985	M12	2017	M09
+EIUIQ40110                    	U	IQ	Books, magazines & other printed material	          	2014	M12	2017	M09
+EIUIQ40120                    	U	IQ	Toiletries & cosmetics	          	1998	M12	2017	M09
+EIUIQ40140                    	U	IQ	Other products (notions & writing articles)	          	1985	M03	2017	M09
+EIUIQ41                       	U	IQ	Durables, manufactured	          	1983	M09	2017	M09
+EIUIQ410                      	U	IQ	Household goods	          	1984	M12	2017	M09
+EIUIQ41000                    	U	IQ	Furniture and household items	          	2007	M12	2017	M09
+EIUIQ41030                    	U	IQ	Household and kitchen appliances	          	1984	M12	2017	M09
+EIUIQ41050                    	U	IQ	Miscellaneous household goods	          	1996	M12	2017	M09
+EIUIQ411                      	U	IQ	Recreational equip & materials	          	1984	M12	2017	M09
+EIUIQ41110                    	U	IQ	Pleasure boats and parts including motors	          	2007	M12	2017	M09
+EIUIQ41120                    	U	IQ	Toys, shooting and sporting goods	          	1987	M12	2017	M09
+EIUIQ412                      	U	IQ	Home entertainment equipment	          	2009	M12	2017	M09
+EIUIQAG                       	U	IQ	Agricultural commodities	          	1985	M03	2017	M09
+EIUIQEXAG                     	U	IQ	Nonagricultural commodities	          	1985	M03	2017	M09
+EIUIQEXCOM                    	U	IQ	All commodities,excluding computers,  & semiconductors	          	2001	M12	2017	M09
+EIUIQEXFDFLS                  	U	IQ	All exports excluding food and fuels	          	2010	M12	2017	M09
+EIUIQNAISMHY                  	U	IQ	Nonagricultural industrial supplies & materials	          	1989	M09	2017	M09
+EIUIR                         	U	IR	All commodities	          	1982	M09	2017	M09
+EIUIR0                        	U	IR	Foods, feeds, & beverages	          	1977	M09	2017	M09
+EIUIR00                       	U	IR	Agricultural foods, feeds & beverages, excluding distilled beverages	          	1984	M12	2017	M09
+EIUIR000                      	U	IR	Green coffee, cocoa beans, sugar	          	1982	M03	2017	M09
+EIUIR00000                    	U	IR	Green coffee	          	2007	M12	2017	M09
+EIUIR001                      	U	IR	Other agricultural foods	          	1984	M12	2017	M09
+EIUIR00100                    	U	IR	Meat, poultry & other edible animal products	          	1980	M12	2017	M09
+EIUIR00120                    	U	IR	Fruit and fruit preparations including frozen juices	          	1980	M12	2017	M09
+EIUIR00130                    	U	IR	Vegetables and vegetable preparations	          	1980	M12	2017	M09
+EIUIR00150                    	U	IR	Food oils & oilseeds	          	2007	M12	2017	M09
+EIUIR00160                    	U	IR	Bakery & confectionery products	          	1996	M12	2017	M09
+EIUIR00180                    	U	IR	Other animal & vegetable preparations & products	          	2015	M12	2017	M09
+EIUIR00190                    	U	IR	Wine, beer, & related products	          	1984	M12	2017	M09
+EIUIR002                      	U	IR	Feedstuff and  foodgrains	          	2013	M12	2017	M09
+EIUIR01                       	U	IR	Nonagricultural foods (fish, distilled beverages)	          	1984	M12	2017	M09
+EIUIR01000                    	U	IR	Fish & shellfish	          	1980	M12	2017	M09
+EIUIR01010                    	U	IR	Distilled alcoholic beverages	          	1984	M12	2017	M09
+EIUIR1                        	U	IR	Industrial supplies & materials	          	1984	M12	2017	M09
+EIUIR10                       	U	IR	Fuels & lubricants	          	1984	M12	2017	M09
+EIUIR100                      	U	IR	Petroleum & petroleum products	          	1982	M06	2017	M09
+EIUIR10000                    	U	IR	Crude	          	1980	M12	2017	M09
+EIUIR10010                    	U	IR	Fuel oil	          	1986	M12	2017	M09
+EIUIR10020                    	U	IR	Other petroleum products	          	1986	M12	2017	M09
+EIUIR101                      	U	IR	Fuels, n.e.s.-coals & gas	          	1981	M09	2017	M09
+EIUIR10110                    	U	IR	Gas-natural	          	1981	M09	2017	M09
+EIUIR10110NG                  	U	IR	Gaseous natural gas	          	2001	M12	2017	M09
+EIUIR11                       	U	IR	Paper & paper base stocks	          	1980	M12	2017	M09
+EIUIR110                      	U	IR	Woodpulp	          	2009	M12	2017	M09
+EIUIR111                      	U	IR	Newsprint & other paper products	          	1980	M12	2017	M09
+EIUIR11110                    	U	IR	Coated and uncoated paper/paperboard	          	1980	M12	2017	M09
+EIUIR12                       	U	IR	Materials associated with nondurable supplies & materials	          	1984	M03	2017	M09
+EIUIR120                      	U	IR	Agricultural products used for industrial supplies and materials	          	1984	M12	2017	M09
+EIUIR12070                    	U	IR	Other agricultural products (tobacco, waxes, nonfood oils)	          	1984	M12	2017	M09
+EIUIR121                      	U	IR	Textile supplies & related materials	          	1984	M12	2017	M09
+EIUIR12135                    	U	IR	Synthetic cloth, fabric, and thread	          	1996	M12	2017	M09
+EIUIR12150                    	U	IR	Finished textile industrial supplies	          	2011	M12	2017	M09
+EIUIR125                      	U	IR	Chemicals, excluding medicinals	          	1984	M12	2017	M09
+EIUIR12500                    	U	IR	Plastic materials	          	1984	M12	2017	M09
+EIUIR12510                    	U	IR	Fertilizers, pesticides & insecticides	          	2007	M12	2017	M09
+EIUIR12530                    	U	IR	Industrial inorganic  chemicals	          	2016	M12	2017	M09
+EIUIR12540                    	U	IR	Industrial organic  chemicals	          	2012	M12	2017	M09
+EIUIR12550                    	U	IR	Other chemicals (coloring agents)	          	1992	M12	2017	M09
+EIUIR13                       	U	IR	Selected building materials	          	1980	M12	2017	M09
+EIUIR130                      	U	IR	Lumber and other unfinished building materials	          	1980	M12	2017	M09
+EIUIR13000                    	U	IR	Lumber & wood in the rough	          	1980	M12	2017	M09
+EIUIR13020                    	U	IR	Stone, sand, cement and lime	          	2001	M12	2017	M09
+EIUIR131                      	U	IR	Building materials, finished	          	1980	M12	2017	M09
+EIUIR13110                    	U	IR	Other finished building materials	          	1996	M12	2017	M09
+EIUIR13120                    	U	IR	Nontextile floor & wall coverings; mach. parts of china	          	2007	M12	2017	M09
+EIUIR14                       	U	IR	Unfinished metals related to durable goods	          	1981	M12	2017	M09
+EIUIR140                      	U	IR	Steelmaking & ferroalloying matls	          	1984	M12	2017	M09
+EIUIR141                      	U	IR	Iron & steel mill products	          	1980	M12	2017	M09
+EIUIR142                      	U	IR	Major nonferrous metals-crude	          	1981	M12	2017	M09
+EIUIR14200                    	U	IR	Bauxite, alumina, aluminum, and products thereof	          	1986	M09	2017	M09
+EIUIR14240                    	U	IR	Nickel	          	2007	M12	2017	M09
+EIUIR14250                    	U	IR	Tin	          	2010	M12	2017	M09
+EIUIR14260                    	U	IR	Zinc	          	2008	M12	2017	M09
+EIUIR14270                    	U	IR	Nonmonetary gold	          	1992	M12	2017	M09
+EIUIR14280                    	U	IR	Other precious metals	          	1981	M12	2017	M09
+EIUIR15                       	U	IR	Finished metals related to durable goods	          	1980	M12	2017	M09
+EIUIR150                      	U	IR	Iron & steel products, except advanced manufacturing	          	1980	M12	2017	M09
+EIUIR151                      	U	IR	Iron & steel advanced manufacturing	          	1980	M12	2017	M09
+EIUIR152                      	U	IR	Finished metals shapes and advanced manufacturing	          	1984	M06	2017	M09
+EIUIR16                       	U	IR	Nonmetals related to durable goods	          	1984	M12	2017	M09
+EIUIR160                      	U	IR	Unfinished, nonmetals asso. with durable goods output	          	2011	M12	2017	M09
+EIUIR161                      	U	IR	Finished nonmetals (boxes, belting, glass, etc.)	          	1984	M12	2017	M09
+EIUIR16120                    	U	IR	Other finished nonmetals (boxes, belting, glass, etc.)	          	1987	M12	2017	M09
+EIUIR1DUR                     	U	IR	Industrial supplies & materials, durable	          	1989	M06	2017	M09
+EIUIR1EXFUEL                  	U	IR	Industrial supplies & materials excluding fuels	          	2001	M12	2017	M09
+EIUIR1EXPET                   	U	IR	Industrial supplies & materials excluding petroleum	          	1982	M09	2017	M09
+EIUIR1NONDUR                  	U	IR	Industrial supplies & materials nondurable excluding petroleum	          	1989	M06	2017	M09
+EIUIR2                        	U	IR	Capital goods	          	1979	M12	2017	M09
+EIUIR20                       	U	IR	Electric generating equipment	          	1979	M03	2017	M09
+EIUIR20000                    	U	IR	Generators, transformers & access	          	1984	M12	2017	M09
+EIUIR20005                    	U	IR	Electric apparatus & parts, n.e.s.	          	1984	M12	2017	M09
+EIUIR21                       	U	IR	Nonelectrical machinery	          	1979	M06	2017	M09
+EIUIR210                      	U	IR	Oil drilling, mining, and construction machinery and equipment	          	1984	M12	2017	M09
+EIUIR21030                    	U	IR	Excavating, paving & construction machinery	          	1984	M12	2017	M09
+EIUIR211                      	U	IR	Industrial and service machinery	          	1984	M12	2017	M09
+EIUIR21100                    	U	IR	Industrial engines, pumps, & compressors	          	1987	M12	2017	M09
+EIUIR21120                    	U	IR	Metal working machine tools and rolling mills	          	1979	M12	2017	M09
+EIUIR21160                    	U	IR	Measuring, testing & control instruments	          	1984	M12	2017	M09
+EIUIR21170                    	U	IR	Materials handling equipment	          	1996	M12	2017	M09
+EIUIR21180                    	U	IR	Other industrial machines	          	1984	M12	2017	M09
+EIUIR21190                    	U	IR	Photo & other service industry machinery	          	1984	M12	2017	M09
+EIUIR213                      	U	IR	Computers, peripherals and semiconductors	          	1984	M12	2017	M09
+EIUIR21300                    	U	IR	Computers	          	1994	M12	2017	M09
+EIUIR21301                    	U	IR	Computer accessories, peripherals, and parts	          	1984	M12	2017	M09
+EIUIR21320                    	U	IR	Semiconductors	          	1984	M12	2017	M09
+EIUIR213COM                   	U	IR	Computers, peripherals, accessories and parts (excludes end use 21320)	          	1984	M12	2017	M09
+EIUIR214                      	U	IR	Telecommunications equipment	          	1984	M12	2017	M09
+EIUIR215                      	U	IR	Business machinery and equipment, except computers	          	1984	M12	2017	M09
+EIUIR216                      	U	IR	Scientific and medical machinery	          	1984	M12	2017	M09
+EIUIR21600                    	U	IR	Laboratory testing and control instruments	          	2016	M12	2017	M09
+EIUIR21610                    	U	IR	Other scientific, medical, and hospital equipment	          	1992	M12	2017	M09
+EIUIR21EXCOM                  	U	IR	Non-electrical machinery excluding comp., peripherals & semiconductors	          	1984	M12	2017	M09
+EIUIR22                       	U	IR	Transportation equipment excluding motor vehicles	          	2001	M12	2017	M09
+EIUIR22010                    	U	IR	Parts for civilian  aircraft	          	2012	M12	2017	M09
+EIUIR22020                    	U	IR	Engines for civilian aircraft	          	1998	M12	2017	M09
+EIUIR2EXCOM                   	U	IR	Capital goods, excluding computers, peripherals & semiconductors	          	1984	M12	2017	M09
+EIUIR3                        	U	IR	Automotive vehicles, parts & engines	          	1981	M06	2017	M09
+EIUIR300                      	U	IR	Passenger cars, new and used	          	1981	M06	2017	M09
+EIUIR301                      	U	IR	Vehicles designed to transport  goods	          	2013	M12	2017	M09
+EIUIR302                      	U	IR	Parts, engines, bodies and chassis	          	1992	M12	2017	M09
+EIUIR30200                    	U	IR	Engines and engine parts for automotive vehicles	          	2004	M12	2017	M09
+EIUIR30220                    	U	IR	Automotive tires & tubes	          	2004	M12	2017	M09
+EIUIR30230                    	U	IR	Non-engine parts & accessories	          	2003	M12	2017	M09
+EIUIR302NAPT                  	U	IR	Automotive Parts & Accessories (Incl. Engines & Parts), Excluding Canadian	          	1982	M12	2017	M09
+EIUIR4                        	U	IR	Consumer goods, excluding automotives	          	1982	M06	2017	M09
+EIUIR40                       	U	IR	Nondurables, manufactured	          	1980	M12	2017	M09
+EIUIR400                      	U	IR	Apparel, footwear, and household goods	          	1984	M12	2017	M09
+EIUIR40000                    	U	IR	Cotton apparel and household goods	          	1980	M12	2017	M09
+EIUIR40020                    	U	IR	Apparel and household goods for other textiles	          	1980	M12	2017	M09
+EIUIR40030                    	U	IR	Nontextile apparel and household goods	          	1984	M12	2017	M09
+EIUIR40040                    	U	IR	Footwear of leather, rubber, or other materials	          	1984	M12	2017	M09
+EIUIR40050                    	U	IR	Sporting/camping apparel and footwear	          	1996	M12	2017	M09
+EIUIR401                      	U	IR	Other consumer nondurables	          	1984	M12	2017	M09
+EIUIR40100                    	U	IR	Medicinal, dental and pharmaceutical preparatory materials	          	1992	M12	2017	M09
+EIUIR40110                    	U	IR	Books, magazines and other printed materials	          	2016	M12	2017	M09
+EIUIR40140                    	U	IR	Other products (notions, writing  supplies, tobacco products, etc)	          	1984	M12	2017	M09
+EIUIR41                       	U	IR	Durables, manufactured	          	1979	M09	2017	M09
+EIUIR410                      	U	IR	Household goods	          	1984	M12	2017	M09
+EIUIR41000                    	U	IR	Furniture, household items	          	1980	M03	2017	M09
+EIUIR41010                    	U	IR	Glassware and ceramics	          	2007	M12	2017	M09
+EIUIR41020                    	U	IR	Cookware, chinaware, cutlery for the house and garden	          	1980	M06	2017	M09
+EIUIR41030                    	U	IR	Household and kitchen appliances	          	1984	M12	2017	M09
+EIUIR41050                    	U	IR	Other Household Goods, nes	          	1984	M12	2017	M09
+EIUIR411                      	U	IR	Recreational equipment and materials	          	1984	M12	2017	M09
+EIUIR41100                    	U	IR	Motorcycles & parts	          	2001	M12	2017	M09
+EIUIR41120                    	U	IR	Toys, shooting & sporting goods	          	1981	M03	2017	M09
+EIUIR41130                    	U	IR	Photo & optical  equipment	          	2011	M12	2017	M09
+EIUIR41140                    	U	IR	Musical instruments and parts	          	2010	M12	2017	M09
+EIUIR412                      	U	IR	Home entertainment equipment	          	1984	M12	2017	M09
+EIUIR41200                    	U	IR	Television and video receivers	          	1984	M12	2017	M09
+EIUIR41210                    	U	IR	Radios, phonographs, and tape decks	          	2012	M12	2017	M09
+EIUIR413                      	U	IR	Coins, gems, jewelry, and collectibles	          	1984	M12	2017	M09
+EIUIR41310                    	U	IR	Jewelry (watches, rings, etc)	          	1987	M12	2017	M09
+EIUIR42                       	U	IR	Nonmanufactured consumer goods	          	1984	M12	2017	M09
+EIUIR421                      	U	IR	Unmanufactured consumer durables	          	1992	M12	2017	M09
+EIUIR42100                    	U	IR	Gem diamonds-uncut or unset	          	2007	M12	2017	M09
+EIUIREXFDFLS                  	U	IR	All imports excluding food and fuels	          	2010	M12	2017	M09
+EIUIREXFUELCOM                	U	IR	All commodities, excluding computers, semiconductors & fuels	          	2003	M03	2017	M09
+EIUIREXFUELS                  	U	IR	All imports excluding fuels	          	2001	M12	2017	M09
+EIUIREXPET                    	U	IR	All imports excluding petroleum	          	1985	M03	2017	M09
+EIUIREXPETCOM                 	U	IR	All commodities, excluding computers semiconductors, & petrol	          	2001	M12	2017	M09
+EIUIS231                      	U	IS	Outbound Air Freight	          	1992	M09	2017	M09
+EIUIS2311                     	U	IS	Outbound Air Freight-Europe	          	2003	M12	2017	M09
+EIUIS2312                     	U	IS	Outbound Air Freight-Asia	          	1992	M09	2017	M09
+EIUIV131                      	U	IV	Import Air Freight	          	1990	M09	2017	M09
+EIUIV1311                     	U	IV	Import Air Freight-Europe	          	2003	M12	2017	M09
+EIUIV1312                     	U	IV	Import Air Freight-Asia	          	1990	M09	2017	M09
+EIUIV142                      	U	IV	Import Air Passenger Fares	          	1988	M03	2017	M09
+EIUIV1421                     	U	IV	Import Air Passenger Fares-Europe	          	1996	M12	2017	M09
+EIUIV14211                    	U	IV	Import Air Passenger Fares-United Kingdom	          	2002	M12	2017	M09
+EIUIV14212                    	U	IV	Import Air Passenger Fares-Other Europe	          	2002	M12	2017	M09
+EIUIV1422                     	U	IV	Import Air Passenger Fares-Asia	          	1996	M12	2017	M09
+EIUIV1424                     	U	IV	Import Air Passenger Fares-Latin America/Caribbean	          	1988	M03	2017	M09
+EIUIY11                       	U	IY	Agriculture, forestry, fishing and hunting	          	2005	M12	2017	M09
+EIUIY111                      	U	IY	Crop production	          	2005	M12	2017	M09
+EIUIY1111                     	U	IY	Oilseed and grain farming	          	2005	M12	2017	M09
+EIUIY11111                    	U	IY	Soybean farming	          	2005	M12	2017	M09
+EIUIY11114                    	U	IY	Wheat farming	          	2005	M12	2017	M09
+EIUIY11115                    	U	IY	Corn farming	          	2005	M12	2017	M09
+EIUIY1113                     	U	IY	Fruit and tree nut farming	          	2006	M12	2017	M09
+EIUIY11133                    	U	IY	Noncitrus fruit and tree nut farming	          	2007	M12	2017	M09
+EIUIY1119                     	U	IY	Other crop farming	          	2005	M12	2017	M09
+EIUIY11192                    	U	IY	Cotton farming	          	2007	M12	2017	M09
+EIUIY21                       	U	IY	Mining	          	2005	M12	2017	M09
+EIUIY212                      	U	IY	Mining (except oil and gas)	          	2005	M12	2017	M09
+EIUIY2121                     	U	IY	Coal mining	          	2007	M12	2017	M09
+EIUIY2122                     	U	IY	Metal ore mining	          	2012	M12	2017	M09
+EIUIY21223                    	U	IY	Copper, nickel, lead, and zinc  mining	          	2015	M12	2017	M09
+EIUIY31                       	U	IY	Manufacturing, part 1	          	2005	M12	2017	M09
+EIUIY311                      	U	IY	Food manufacturing	          	2005	M12	2017	M09
+EIUIY3112                     	U	IY	Grain and oilseed milling	          	2005	M12	2017	M09
+EIUIY31122                    	U	IY	Starch and vegetable fats and oils manufacturing	          	2005	M12	2017	M09
+EIUIY3114                     	U	IY	Fruit and vegetable preserving and specialty food manufacturing	          	2005	M12	2017	M09
+EIUIY31142                    	U	IY	Fruit and vegetable canning, pickling, and drying	          	2009	M12	2017	M09
+EIUIY3116                     	U	IY	Animal slaughtering and processing	          	2005	M12	2017	M09
+EIUIY3119                     	U	IY	Other food manufacturing	          	2014	M12	2017	M09
+EIUIY312                      	U	IY	Beverage and tobacco product manufacturing	          	2005	M12	2017	M09
+EIUIY3121                     	U	IY	Beverage manufacturing	          	2009	M12	2017	M09
+EIUIY313                      	U	IY	Textile mills	          	2016	M12	2017	M09
+EIUIY316                      	U	IY	Leather and allied product  manufacturing	          	2016	M12	2017	M09
+EIUIY32                       	U	IY	Manufacturing, part 2	          	2005	M12	2017	M09
+EIUIY322                      	U	IY	Paper manufacturing	          	2005	M12	2017	M09
+EIUIY3221                     	U	IY	Pulp, paper, and paperboard mills	          	2005	M12	2017	M09
+EIUIY32212                    	U	IY	Paper mills	          	2005	M12	2017	M09
+EIUIY3222                     	U	IY	Converted paper product manufacturing	          	2014	M12	2017	M09
+EIUIY32222                    	U	IY	Paper bag and coated and treated paper manufacturing	          	2015	M12	2017	M09
+EIUIY324                      	U	IY	Petroleum and coal products manufacturing	          	2005	M12	2017	M09
+EIUIY325                      	U	IY	Chemical manufacturing	          	2005	M12	2017	M09
+EIUIY3251                     	U	IY	Basic chemical manufacturing	          	2005	M12	2017	M09
+EIUIY3252                     	U	IY	Resin, synthetic rubber, and artificial synthetic fibers and filaments	          	2005	M12	2017	M09
+EIUIY32521                    	U	IY	Resin and synthetic rubber manufacturing	          	2014	M12	2017	M09
+EIUIY3253                     	U	IY	Pesticide, fertilizer, and other agri. chemical manufacturing	          	2012	M12	2017	M09
+EIUIY32531                    	U	IY	Fertilizer manufacturing	          	2016	M12	2017	M09
+EIUIY3254                     	U	IY	Pharmaceutical and medicine manufacturing	          	2005	M12	2017	M09
+EIUIY3255                     	U	IY	Paint, coating, and adhesive manufacturing	          	2012	M12	2017	M09
+EIUIY3256                     	U	IY	Soap, cleaning compound, and toilet preparation manufacturing	          	2005	M12	2017	M09
+EIUIY32561                    	U	IY	Soap and cleaning compound manufacturing	          	2005	M12	2017	M09
+EIUIY32562                    	U	IY	Toilet preparation manufacturing	          	2005	M12	2017	M09
+EIUIY3259                     	U	IY	Other chemical product and preparation manufacturing	          	2005	M12	2017	M09
+EIUIY32599                    	U	IY	All other chemical product and preparation manufacturing	          	2005	M12	2017	M09
+EIUIY326                      	U	IY	Plastics and rubber products manufacturing	          	2005	M12	2017	M09
+EIUIY3261                     	U	IY	Plastics product manufacturing	          	2005	M12	2017	M09
+EIUIY32619                    	U	IY	Other plastics product manufacturing	          	2005	M12	2017	M09
+EIUIY3262                     	U	IY	Rubber product manufacturing	          	2006	M12	2017	M09
+EIUIY32621                    	U	IY	Tire manufacturing	          	2006	M12	2017	M09
+EIUIY327                      	U	IY	Nonmetallic mineral product manufacturing	          	2005	M12	2017	M09
+EIUIY3272                     	U	IY	Glass and glass product manufacturing	          	2005	M12	2017	M09
+EIUIY33                       	U	IY	Manufacturing, part 3	          	2005	M12	2017	M09
+EIUIY331                      	U	IY	Primary metal manufacturing	          	2005	M12	2017	M09
+EIUIY3313                     	U	IY	Alumina and aluminum production and processing	          	2009	M12	2017	M09
+EIUIY3314                     	U	IY	Nonferrous metal (except aluminum) production and processing	          	2005	M12	2017	M09
+EIUIY33141                    	U	IY	Nonferrous metal (except aluminum) smelting and refining	          	2005	M12	2017	M09
+EIUIY33149                    	U	IY	Nonferrous metal (except copper and aluminum) rolling, drawing, extruding,	          	2005	M12	2017	M09
+EIUIY332                      	U	IY	Fabricated metal product manufacturing	          	2005	M12	2017	M09
+EIUIY3327                     	U	IY	Machine shops; turned product; and screw nut & bolt manufacturing	          	2016	M12	2017	M09
+EIUIY3329                     	U	IY	Other fabricated metal product manufacturing	          	2005	M12	2017	M09
+EIUIY33291                    	U	IY	Metal valve manufacturing	          	2005	M12	2017	M09
+EIUIY333                      	U	IY	Machinery manufacturing	          	2005	M12	2017	M09
+EIUIY3331                     	U	IY	Agriculture, construction, and mining machinery manufacturing	          	2005	M12	2017	M09
+EIUIY33312                    	U	IY	Construction machinery manufacturing	          	2005	M12	2017	M09
+EIUIY33313                    	U	IY	Mining and oil and gas field machinery manufacturing	          	2005	M12	2017	M09
+EIUIY3332                     	U	IY	Industrial machinery manufacturing	          	2007	M12	2017	M09
+EIUIY3333                     	U	IY	Commercial and service industry machinery manufacturing	          	2005	M12	2017	M09
+EIUIY3335                     	U	IY	Metalworking machinery manufacturing	          	2005	M12	2017	M09
+EIUIY3336                     	U	IY	Engine, turbine, and power transmission equipment manufacturing	          	2005	M12	2017	M09
+EIUIY3339                     	U	IY	Other general purpose machinery manufacturing	          	2005	M12	2017	M09
+EIUIY33391                    	U	IY	Pump and compressor manufacturing	          	2005	M12	2017	M09
+EIUIY33392                    	U	IY	Material handling equipment manufacturing	          	2005	M12	2017	M09
+EIUIY33399                    	U	IY	All other general purpose machinery manufacturing	          	2005	M12	2017	M09
+EIUIY334                      	U	IY	Computer and electronic product manufacturing	          	2005	M12	2017	M09
+EIUIY3341                     	U	IY	Computer and peripheral equipment manufacturing	          	2005	M12	2017	M09
+EIUIY3342                     	U	IY	Communications equipment manufacturing	          	2005	M12	2017	M09
+EIUIY33422                    	U	IY	Radio and TV broadcasting and wireless equipment	          	2009	M12	2017	M09
+EIUIY3343                     	U	IY	Audio and video equipment manufacturing	          	2005	M12	2017	M09
+EIUIY3344                     	U	IY	Semiconductor and other electronic component manufacturing	          	2005	M12	2017	M09
+EIUIY3345                     	U	IY	Navigational, measuring, electromedical, and control instruments	          	2005	M12	2017	M09
+EIUIY335                      	U	IY	Electrical equipment, appliance, and component manufacturing	          	2005	M12	2017	M09
+EIUIY3352                     	U	IY	Household appliance manufacturing	          	2005	M12	2017	M09
+EIUIY3353                     	U	IY	Electrical equipment manufacturing	          	2005	M12	2017	M09
+EIUIY33592                    	U	IY	Communication and energy wire and cable manufacturing	          	2016	M12	2017	M09
+EIUIY33599                    	U	IY	All other electrical equipment and component manufacturing	          	2005	M12	2017	M09
+EIUIY336                      	U	IY	Transportation equipment manufacturing	          	2005	M12	2017	M09
+EIUIY3361                     	U	IY	Motor vehicle manufacturing	          	2005	M12	2017	M09
+EIUIY33611                    	U	IY	Automobile and light duty motor vehicle manufacturing	          	2005	M12	2017	M09
+EIUIY33612                    	U	IY	Heavy duty truck manufacturing	          	2005	M12	2017	M09
+EIUIY3362                     	U	IY	Motor vehicle body and trailer manufacturing	          	2013	M12	2017	M09
+EIUIY3363                     	U	IY	Motor vehicle parts manufacturing	          	2005	M12	2017	M09
+EIUIY33631                    	U	IY	Motor vehicle gasoline engine and engine parts manu.	          	2013	M12	2017	M09
+EIUIY33632                    	U	IY	Motor vehicle electrical and electronic equipment manufacturing	          	2008	M12	2017	M09
+EIUIY33633                    	U	IY	Motor vehicle steering and suspension components manufacturing	          	2016	M12	2017	M09
+EIUIY33635                    	U	IY	Motor vehicle transmission and power train parts manu.	          	2015	M12	2017	M09
+EIUIY33639                    	U	IY	Other motor vehicle parts manufacturing	          	2005	M12	2017	M09
+EIUIY3364                     	U	IY	Aerospace product and parts manufacturing	          	2005	M12	2017	M09
+EIUIY337                      	U	IY	Furniture and related product manufacturing	          	2011	M12	2017	M09
+EIUIY339                      	U	IY	Miscellaneous manufacturing	          	2005	M12	2017	M09
+EIUIY3391                     	U	IY	Medical equipment and supplies manufacturing	          	2005	M12	2017	M09
+EIUIY3399                     	U	IY	Other miscellaneous  manufacturing	          	2013	M12	2017	M09
+EIUIY33991                    	U	IY	Jewelry and silverware  manufacturing	          	2013	M12	2017	M09
+EIUIY33999                    	U	IY	All other miscellaneous manufacturing	          	2005	M12	2017	M09
+EIUIYMANU                     	U	IY	Manufacturing	          	2005	M12	2017	M09
+EIUIYNONMANU                  	U	IY	Nonmanufacturing	          	2005	M12	2017	M09
+EIUIZ11                       	U	IZ	Agriculture, forestry, fishing and hunting	          	2005	M12	2017	M09
+EIUIZ111                      	U	IZ	Crop production	          	2005	M12	2017	M09
+EIUIZ1113                     	U	IZ	Fruit and tree nut farming	          	2005	M12	2017	M09
+EIUIZ112                      	U	IZ	Animal production	          	2014	M12	2017	M09
+EIUIZ21                       	U	IZ	Mining	          	2005	M12	2017	M09
+EIUIZ211                      	U	IZ	Oil and gas extraction	          	2005	M12	2017	M09
+EIUIZ212                      	U	IZ	Mining (except oil and gas)	          	2006	M12	2017	M09
+EIUIZ31                       	U	IZ	Manufacturing, part 1	          	2005	M12	2017	M09
+EIUIZ311                      	U	IZ	Food manufacturing	          	2005	M12	2017	M09
+EIUIZ3112                     	U	IZ	Grain and oilseed milling	          	2005	M12	2017	M09
+EIUIZ31122                    	U	IZ	Starch and vegetable fats and oils manufacturing	          	2005	M12	2017	M09
+EIUIZ3113                     	U	IZ	Sugar and confectionery product manufacturing	          	2005	M12	2017	M09
+EIUIZ3114                     	U	IZ	Fruit and vegetable preserving and specialty food manufacturing	          	2005	M12	2017	M09
+EIUIZ3116                     	U	IZ	Animal slaughtering and processing	          	2005	M12	2017	M09
+EIUIZ3117                     	U	IZ	Seafood product preparation and packaging	          	2005	M12	2017	M09
+EIUIZ3119                     	U	IZ	Other food manufacturing	          	2005	M12	2017	M09
+EIUIZ312                      	U	IZ	Beverage and tobacco product manufacturing	          	2005	M12	2017	M09
+EIUIZ3121                     	U	IZ	Beverage manufacturing	          	2009	M12	2017	M09
+EIUIZ31212                    	U	IZ	Breweries	          	2006	M12	2017	M09
+EIUIZ31213                    	U	IZ	Wineries	          	2005	M12	2017	M09
+EIUIZ31214                    	U	IZ	Distilleries	          	2005	M12	2017	M09
+EIUIZ313                      	U	IZ	Textile mills	          	2011	M12	2017	M09
+EIUIZ3132                     	U	IZ	Fabric mills	          	2005	M12	2017	M09
+EIUIZ314                      	U	IZ	Textile product mills	          	2005	M12	2017	M09
+EIUIZ3141                     	U	IZ	Textile furnishings mills	          	2005	M12	2017	M09
+EIUIZ31412                    	U	IZ	Curtain and linen mills	          	2005	M12	2017	M09
+EIUIZ3149                     	U	IZ	Other textile product mills	          	2006	M12	2017	M09
+EIUIZ31499                    	U	IZ	All other textile product  mills	          	2012	M12	2017	M09
+EIUIZ315                      	U	IZ	Apparel manufacturing	          	2005	M12	2017	M09
+EIUIZ3152                     	U	IZ	Cut and sew apparel manufacturing	          	2009	M12	2017	M09
+EIUIZ31522                    	U	IZ	Men's and boys' cut and sew apparel manufacturing	          	2005	M12	2017	M09
+EIUIZ31524                    	U	IZ	Womens and girls cut and sown apparel manufacturing	          	2013	M12	2017	M09
+EIUIZ3159                     	U	IZ	Apparel accessories and other apparel manufacturing	          	2005	M12	2017	M09
+EIUIZ316                      	U	IZ	Leather and allied product manufacturing	          	2005	M12	2017	M09
+EIUIZ3162                     	U	IZ	Footwear manufacturing	          	2005	M12	2017	M09
+EIUIZ3169                     	U	IZ	Other leather and allied product manufacturing	          	2015	M12	2017	M09
+EIUIZ32                       	U	IZ	Manufacturing, part 2	          	2005	M12	2017	M09
+EIUIZ321                      	U	IZ	Wood product manufacturing	          	2005	M12	2017	M09
+EIUIZ3211                     	U	IZ	Sawmills and wood preservation	          	2005	M12	2017	M09
+EIUIZ3212                     	U	IZ	Veneer, plywood, and engineered wood product manufacturing	          	2005	M12	2017	M09
+EIUIZ3219                     	U	IZ	Other wood product manufacturing	          	2005	M12	2017	M09
+EIUIZ322                      	U	IZ	Paper manufacturing	          	2005	M12	2017	M09
+EIUIZ3221                     	U	IZ	Pulp, paper, and paperboard mills	          	2005	M12	2017	M09
+EIUIZ32212                    	U	IZ	Paper mills	          	2005	M12	2017	M09
+EIUIZ3222                     	U	IZ	Converted paper product manufacturing	          	2005	M12	2017	M09
+EIUIZ32222                    	U	IZ	Paper bag and coated and treated paper manufacturing	          	2006	M12	2017	M09
+EIUIZ323                      	U	IZ	Printing and related support  activities	          	2016	M12	2017	M09
+EIUIZ324                      	U	IZ	Petroleum and coal products manufacturing	          	2005	M12	2017	M09
+EIUIZ325                      	U	IZ	Chemical manufacturing	          	2005	M12	2017	M09
+EIUIZ3251                     	U	IZ	Basic chemical manufacturing	          	2005	M12	2017	M09
+EIUIZ32518                    	U	IZ	Other basic inorganic chemical manufacturing	          	2008	M12	2017	M09
+EIUIZ32519                    	U	IZ	Other basic organic chemical manufacturing	          	2005	M12	2017	M09
+EIUIZ3252                     	U	IZ	Resin, synthetic rubber, and artificial synthetic fibers and filaments	          	2005	M12	2017	M09
+EIUIZ32521                    	U	IZ	Resin and synthetic rubber manufacturing	          	2005	M12	2017	M09
+EIUIZ3253                     	U	IZ	Pesticide, fertilizer, other agricult. chemical manufacturing	          	2007	M12	2017	M09
+EIUIZ32531                    	U	IZ	Fertilizer manufacturing	          	2008	M12	2017	M09
+EIUIZ3254                     	U	IZ	Pharmaceutical and medicine manufacturing	          	2005	M12	2017	M09
+EIUIZ3256                     	U	IZ	Soap, cleaning compound, and toilet preparation manufacturing	          	2005	M12	2017	M09
+EIUIZ32562                    	U	IZ	Toilet preparation  manufacturing	          	2016	M12	2017	M09
+EIUIZ3259                     	U	IZ	Other chemical product and preparation manufacturing	          	2006	M12	2017	M09
+EIUIZ32599                    	U	IZ	All other chemical product and prep. manufacturing	          	2016	M12	2017	M09
+EIUIZ326                      	U	IZ	Plastics and rubber products manufacturing	          	2005	M12	2017	M09
+EIUIZ3261                     	U	IZ	Plastics product manufacturing	          	2005	M12	2017	M09
+EIUIZ32619                    	U	IZ	Other plastics product manufacturing	          	2005	M12	2017	M09
+EIUIZ3262                     	U	IZ	Rubber product manufacturing	          	2005	M12	2017	M09
+EIUIZ32621                    	U	IZ	Tire manufacturing	          	2005	M12	2017	M09
+EIUIZ327                      	U	IZ	Nonmetallic mineral product manufacturing	          	2005	M12	2017	M09
+EIUIZ3271                     	U	IZ	Clay product and refractory manufacturing	          	2005	M12	2017	M09
+EIUIZ32711                    	U	IZ	Pottery, ceramics, and plumbing fixture manufacturing	          	2014	M12	2017	M09
+EIUIZ3279                     	U	IZ	Other nonmetallic mineral product manufacturing	          	2005	M12	2017	M09
+EIUIZ32799                    	U	IZ	All other nonmetallic mineral product manufacturing	          	2005	M12	2017	M09
+EIUIZ33                       	U	IZ	Manufacturing, part 3	          	2005	M12	2017	M09
+EIUIZ331                      	U	IZ	Primary metal manufacturing	          	2005	M12	2017	M09
+EIUIZ3311                     	U	IZ	Iron and steel mills and ferroalloy manufacturing	          	2005	M12	2017	M09
+EIUIZ3313                     	U	IZ	Alumina and aluminum production and processing	          	2005	M12	2017	M09
+EIUIZ3314                     	U	IZ	Nonferrous metal (except aluminum) production and processing	          	2005	M12	2017	M09
+EIUIZ33141                    	U	IZ	Nonferrous metal (except aluminum) smelting and refining	          	2005	M12	2017	M09
+EIUIZ33149                    	U	IZ	Nonferr. metal (except copper and alum.) rolling, drawing, extruding, & alloying	          	2005	M12	2017	M09
+EIUIZ332                      	U	IZ	Fabricated metal product manufacturing	          	2005	M12	2017	M09
+EIUIZ3322                     	U	IZ	Cutlery and handtool manufacturing	          	2005	M12	2017	M09
+EIUIZ3325                     	U	IZ	Hardware manufacturing	          	2005	M12	2017	M09
+EIUIZ3327                     	U	IZ	Machine shops; and screw, nut, and bolt manufacturing	          	2012	M12	2017	M09
+EIUIZ3329                     	U	IZ	Other fabricated metal product manufacturing	          	2005	M12	2017	M09
+EIUIZ33291                    	U	IZ	Metal valve manufacturing	          	2005	M12	2017	M09
+EIUIZ33299                    	U	IZ	All other fabricated metal product manufacturing	          	2005	M12	2017	M09
+EIUIZ333                      	U	IZ	Machinery manufacturing	          	2005	M12	2017	M09
+EIUIZ3331                     	U	IZ	Agriculture, construction, and mining machinery manufacturing	          	2005	M12	2017	M09
+EIUIZ33311                    	U	IZ	Agricultural implement  manufacturing	          	2016	M12	2017	M09
+EIUIZ33312                    	U	IZ	Construction machinery manufacturing	          	2005	M12	2017	M09
+EIUIZ3332                     	U	IZ	Industrial machinery manufacturing	          	2005	M12	2017	M09
+EIUIZ33324                    	U	IZ	Industrial machinery      manufacturing	          	2013	M12	2017	M09
+EIUIZ3333                     	U	IZ	Commercial and service industry machinery manufacturing	          	2005	M12	2017	M09
+EIUIZ3334                     	U	IZ	Ventilation, heating, air-conditioning, and commercial refrigeration equipment	          	2005	M12	2017	M09
+EIUIZ3335                     	U	IZ	Metalworking machinery manufacturing	          	2005	M12	2017	M09
+EIUIZ3336                     	U	IZ	Engine, turbine, and power transmission equipment manufacturing	          	2005	M12	2017	M09
+EIUIZ3339                     	U	IZ	Other general purpose machinery manufacturing	          	2005	M12	2017	M09
+EIUIZ33391                    	U	IZ	Pump and compressor  manufacturing	          	2013	M12	2017	M09
+EIUIZ33392                    	U	IZ	Material handling equipment manufacturing	          	2005	M12	2017	M09
+EIUIZ33399                    	U	IZ	All other general purpose machinery manufacturing	          	2005	M12	2017	M09
+EIUIZ334                      	U	IZ	Computer and electronic product manufacturing	          	2005	M12	2017	M09
+EIUIZ3341                     	U	IZ	Computer and peripheral equipment manufacturing	          	2005	M12	2017	M09
+EIUIZ3342                     	U	IZ	Communications equipment manufacturing	          	2005	M12	2017	M09
+EIUIZ3343                     	U	IZ	Audio and video equipment manufacturing	          	2005	M12	2017	M09
+EIUIZ3344                     	U	IZ	Semiconductor and other electronic component manufacturing	          	2005	M12	2017	M09
+EIUIZ3345                     	U	IZ	Navigational, measuring, electromedical, and control instruments	          	2005	M12	2017	M09
+EIUIZ3346                     	U	IZ	Manufacturing and reproducing magnetic and optical media	          	2005	M12	2017	M09
+EIUIZ335                      	U	IZ	Electrical equipment, appliance, and component manufacturing	          	2005	M12	2017	M09
+EIUIZ3351                     	U	IZ	Electric lighting equipment manufacturing	          	2005	M12	2017	M09
+EIUIZ33512                    	U	IZ	Lighting fixture manufacturing	          	2005	M12	2017	M09
+EIUIZ3352                     	U	IZ	Household appliance manufacturing	          	2005	M12	2017	M09
+EIUIZ33521                    	U	IZ	Small electrical appliance manufacturing	          	2005	M12	2017	M09
+EIUIZ33522                    	U	IZ	Major household appliance manufacturing	          	2005	M12	2017	M09
+EIUIZ3359                     	U	IZ	Other electrical equipment and component manufacturing	          	2005	M12	2017	M09
+EIUIZ33591                    	U	IZ	Battery manufacturing	          	2009	M12	2017	M09
+EIUIZ33592                    	U	IZ	Communication and energy wire and cable manufacturing	          	2016	M12	2017	M09
+EIUIZ33593                    	U	IZ	Wiring device  manufacturing	          	2013	M12	2017	M09
+EIUIZ33599                    	U	IZ	All other electrical equipment and component manufacturing	          	2005	M12	2017	M09
+EIUIZ336                      	U	IZ	Transportation equipment manufacturing	          	2005	M12	2017	M09
+EIUIZ3361                     	U	IZ	Motor vehicle manufacturing	          	2005	M12	2017	M09
+EIUIZ33611                    	U	IZ	Automobile and light duty motor vehicle manufacturing	          	2005	M12	2017	M09
+EIUIZ33612                    	U	IZ	Heavy duty truck manufacturing	          	2015	M12	2017	M09
+EIUIZ3363                     	U	IZ	Motor vehicle parts manufacturing	          	2005	M12	2017	M09
+EIUIZ33631                    	U	IZ	Motor vehicle gasoline engine and engine parts manufacturing	          	2005	M12	2017	M09
+EIUIZ33632                    	U	IZ	Motor vehicle electrical and electronic equipment manufacturing	          	2005	M12	2017	M09
+EIUIZ33633                    	U	IZ	Motor vehicle steering and suspension components manufacturing	          	2016	M12	2017	M09
+EIUIZ33634                    	U	IZ	Motor vehicle brake system manufacturing	          	2005	M12	2017	M09
+EIUIZ33635                    	U	IZ	Motor vehicle transmission and power train parts manufacturing	          	2005	M12	2017	M09
+EIUIZ33636                    	U	IZ	Motor vehicle seating and interior trim manufacturing	          	2012	M12	2017	M09
+EIUIZ33639                    	U	IZ	Other motor vehicle parts manufacturing	          	2005	M12	2017	M09
+EIUIZ3364                     	U	IZ	Aerospace product and parts manufacturing	          	2005	M12	2017	M09
+EIUIZ3369                     	U	IZ	Other transportation equipment manufacturing	          	2005	M12	2017	M09
+EIUIZ337                      	U	IZ	Furniture and related product manufacturing	          	2005	M12	2017	M09
+EIUIZ3371                     	U	IZ	Household and institutional furniture and kitchen cabinet manufacturing	          	2005	M12	2017	M09
+EIUIZ3372                     	U	IZ	Office furniture (including fixtures) manufacturing	          	2005	M12	2017	M09
+EIUIZ339                      	U	IZ	Miscellaneous manufacturing	          	2005	M12	2017	M09
+EIUIZ3391                     	U	IZ	Medical equipment and supplies manufacturing	          	2005	M12	2017	M09
+EIUIZ3399                     	U	IZ	Other miscellaneous manufacturing	          	2005	M12	2017	M09
+EIUIZ33991                    	U	IZ	Jewelry and silverware manufacturing	          	2005	M12	2017	M09
+EIUIZ33992                    	U	IZ	Sporting and athletic goods manufacturing	          	2005	M12	2017	M09
+EIUIZ33993                    	U	IZ	Doll, toy, and game manufacturing	          	2005	M12	2017	M09
+EIUIZ33999                    	U	IZ	All other miscellaneous manufacturing	          	2005	M12	2017	M09
+EIUIZMANU                     	U	IZ	Manufacturing	          	2005	M12	2017	M09
+EIUIZNONMANU                  	U	IZ	Nonmanufacturing	          	2005	M12	2017	M09

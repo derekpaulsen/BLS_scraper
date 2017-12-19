@@ -1,0 +1,11 @@
+subcell_code	subcell_text	display_level	selectable	sort_sequence
+00	All workers	1	T	2	
+23	Union	1	T	6	
+24	Nonunion	1	T	7	
+25	Full-time	1	T	3	
+26	Part-time	1	T	4	
+27	Time-based pay	1	T	9	
+28	Incentive-based pay	1	T	10	
+AD	Bargaining Status	0	F	5	
+AE	Work Status	0	F	1	
+AF	Time and Incentive Status	0	F	8	

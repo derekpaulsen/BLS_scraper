@@ -1,0 +1,79 @@
+0000	16+;
+0020	White, 16+;
+0062	men, 16+;
+0064	men, 16-19;
+0077	men, White, 16+;
+0084	women, 16+;
+0086	women, 16-19;
+0099	women, White, 16+;
+0251	Hispanic orgin, 16+;
+0271	Hispanic orgin, 16-19;
+0328	Black, 16+;
+0329	Black, 16-19;
+0379	White, 16-19;
+0542	men, Hispanic orgin, 16+;
+2336	16+, executive, adminstrative, and managerial;
+2337	16+, professional specialty;
+2344	16+, technicians and related support;
+2347	16+, sales;
+2352	16+, adminstrative support, including clerical;
+2357	16+, service occupations;
+2365	16+, precision production, craft, and repair;
+2369	16+, machine operators, assemblers, and inspectors
+2370	16+, transportation and material moving;
+2372	16+, handlers, equipment cleaners, helpers, and la
+2374	16+, farming, forestry, and fishing
+2444	Hispanic orgin, 16+, executive, adminstrative, and
+2445	Hispanic orgin, 16+, professional specialty;
+2452	Hispanic orgin, 16+, technicians and related suppo
+2460	Hispanic orgin, 16+, adminstrative support, includ
+2465	Hispanic orgin, 16+, service occupations;
+2473	Hispanic orgin, 16+, precision production, craft,
+2477	Hispanic orgin, 16+, machine operators, assemblers
+2478	Hispanic orgin, 16+, transportation and material m
+2480	Hispanic orgin, 16+, handlers, equipment cleaners,
+2482	Hispanic orgin, 16+, farming, forestry, and fishin
+2516	Black, 16+, executive, adminstrative, and manageri
+2517	Black, 16+, professional specialty;
+2524	Black, 16+, technicians and related support;
+2527	Black, 16+, sales;
+2532	Black, 16+, adminstrative support, including cleri
+2537	Black, 16+, service occupations;
+2545	Black, 16+, precision production, craft, and repai
+2549	Black, 16+, machine operators, assemblers, and ins
+2550	Black, 16+, transportation and material moving;
+2552	Black, 16+, handlers, equipment cleaners, helpers,
+2554	Black, 16+, farming, forestry, and fishing
+2581	White, 16+, executive, adminstrative, and manageri
+2582	White, 16+, professional specialty;
+2589	White, 16+, technicians and related support;
+2592	White, 16+, sales;
+2597	White, 16+, adminstrative support, including cleri
+2602	White, 16+, service occupations;
+2610	White, 16+, precision production, craft, and repai
+2614	White, 16+, machine operators, assemblers, and ins
+2615	White, 16+, transportation and material moving;
+2617	White, 16+, handlers, equipment cleaners, helpers,
+2619	White, 16+, farming, forestry, and fishing
+2646	men, 16+, executive, adminstrative, and managerial
+2647	men, 16+, professional specialty;
+2654	men, 16+, technicians and related support;
+2657	men, 16+, sales;
+2662	men, 16+, adminstrative support, including clerica
+2667	men, 16+, service occupations;
+2675	men, 16+, precision production, craft, and repair;
+2679	men, 16+, machine operators, assemblers, and inspe
+2680	men, 16+, transportation and material moving;
+2682	men, 16+, handlers, equipment cleaners, helpers, a
+2684	men, 16+, farming, forestry, and fishing
+2711	women, 16+, executive, adminstrative, and manageri
+2712	women, 16+, professional specialty;
+2719	women, 16+, technicians and related support;
+2722	women, 16+, sales;
+2727	women, 16+, adminstrative support, including cleri
+2732	women, 16+, service occupations;
+2740	women, 16+, precision production, craft, and repai
+2744	women, 16+, machine operators, assemblers, and ins
+2745	women, 16+, transportation and material moving;
+2747	women, 16+, handlers, equipment cleaners, helpers,
+2749	women, 16+, farming, forestry, and fishing

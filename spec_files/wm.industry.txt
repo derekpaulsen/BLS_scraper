@@ -1,0 +1,2 @@
+industry_code	industry_text	display_level	selectable	sort_sequence
+000000	All industries	0	T	1	

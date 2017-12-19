@@ -1,0 +1,21 @@
+sector_code	sector_text
+A	Agriculture, Forestry, Fishing and Hunting	
+B	Mining	
+C	Utilities	
+D	Construction	
+E	Manufacturing	
+G	Wholesale Trade	
+H	Retail Trade	
+I	Transportation and Warehousing	
+J	Information	
+K	Finance and Insurance	
+L	Real Estate and Rental and Leasing	
+M	Professional, Scientific, and Technical Services	
+O	Management of Companies and Enterprises	
+P	Administrative and Support and Waste Management and Remediation Services	
+Q	Educational Services	
+R	Health Care and Social Assistance	
+S	Arts, Entertainment, and Recreation	
+T	Accommodation and Food Services	
+U	Other Services (except Public Administration)	
+W	Government	

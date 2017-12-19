@@ -1,0 +1,57 @@
+0000	U.S. City Average
+0100	Northeast Region
+0200	North Central Region
+0300	Southern Region
+0400	Western Region
+A000	City size - A
+A100	Northeast A Size
+A101	New York-Northern N.J.-Long Island, NY-N
+A102	Philadelphia-Wilmington-Trenton, PA-NJ-D
+A103	Boston-Lawrence-Salem, MA-NH
+A104	Pittsburgh-Beaver Valley, PA
+A105	Buffalo-Niagara Falls, NY
+A200	North Central A Size
+A207	Chicago-Gary-Lake County, IL-IN-WI
+A208	Detroit-Ann Arbor, MI
+A209	St. Louis-East St. Louis, MO-IL
+A210	Cleveland-Akron-Lorain, OH
+A211	Minneapolis-St. Paul, MN-WI
+A212	Milwaukee, WI
+A213	Cincinnati-Hamilton, OH-KY-IN
+A214	Kansas City, MO-KS
+A300	South A Size
+A311	Washington-Baltimore DC-MD-VA-WV
+A315	Washington, DC-MD-VA
+A316	Dallas-Fort Worth, TX
+A317	Baltimore, MD
+A318	Houston-Galveston-Brazoria TX
+A319	Atlanta, GA
+A320	Miami-Ft. Lauderdale, FL
+A321	Tampa, FL
+A322	New Orleans, LA
+A400	West A Size
+A421	Los Angeles-Anaheim-Riverside, CA
+A422	San Francisco-Oakland-San Jose, CA
+A423	Seattle-Tacoma, WA
+A424	San Diego, CA
+A425	Portland-Vancouver, OR-WA
+A426	Honolulu, HI
+A427	Anchorage, AK
+A433	Denver-Boulder, CO
+B000	City size - B
+B100	Northeast B Size
+B200	North Central B Size
+B300	South B Size
+C000	City size - C
+C100	Northeast C Size
+C200	North Central C Size
+C300	South C Size
+C400	West C Size
+D000	City size - D
+D200	North Central D Size
+D300	South D Size
+X000	City size - B/C
+X100	Northeast B/C Size
+X200	North Central B/C Size
+X300	South B/C Size
+X400	West B/C Size

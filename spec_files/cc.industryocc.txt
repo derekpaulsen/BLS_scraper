@@ -1,0 +1,183 @@
+industryocc_code	industryocc_title	display_level	selectable	sort_sequence            
+
+000001	Occupational group	0 	F	1    
+000002	Industry	0 	F	39   
+000003	Region	0 	F	87   
+000004	Union/Nonunion	0 	F	92   
+000006	Metropolitan/Nonmetropolitan	0 	F	107  
+000008	Aerospace	0 	F	110  
+000009	Full-time/Part-time	0 	F	131  
+000010	Establishment size	0 	F	161  
+002000	1-99 workers	0 	T	162  
+004000	100 or more workers	0 	T	167  
+006000	100-499 workers	2 	T	172  
+008000	500 or more workers	2 	T	177  
+012000	1-99 workers, goods producing	1 	T	163  
+014000	100 or more workers, goods producing	1 	T	168  
+016000	100-499 workers, goods producing	3 	T	173  
+018000	500 or more workers, goods producing	3 	T	178  
+022000	1-99 workers, service producing	1 	T	164  
+024000	100 or more workers, service producing	1 	T	169  
+026000	100-499 workers, service producing	3 	T	174  
+028000	500 or more workers, service producing	3 	T	179  
+032000	1-99 workers, white collar	1 	T	165  
+034000	100 or more workers, white collar	1 	T	170  
+036000	100-499 workers, white collar	3 	T	175  
+038000	500 or more workers, white collar	3 	T	180  
+042000	1-99 workers, blue collar	1 	T	166  
+044000	100 or more workers, blue collar	1 	T	171  
+046000	100-499 workers, blue collar	3 	T	176  
+048000	500 or more workers, blue collar	3 	T	181  
+100000	All workers	0 	T	2    
+101000	Production and nonsupervisory occupations	3 	T	21   
+106000	Civilian workers, excluding sales	2 	T	3    
+107000	Civilian white collar workers, excluding sales	3 	T	6    
+110000	White collar workers	1 	T	5    
+111000	Executive, administrative, and managerial	2 	T	13   
+112000	Professional specialty and technical occupations	2 	T	8    
+113000	Sales workers	2 	T	17   
+114000	Administrative support, including clerical workers	2 	T	18   
+115000	Professional specialty occupations	3 	T	9    
+116000	Nurses	4 	T	10   
+117000	Teachers	4 	T	11   
+118000	Technical	3 	T	12   
+120000	Blue collar occupations	1 	T	19   
+121000	Precision production, craft, and repair occupation	2 	T	20   
+122000	Machine operators, assemblers, and inspectors	2 	T	22   
+123000	Transportation and material moving occupations	2 	T	23   
+124000	Handlers, equipment cleaners, helpers, and laborer	2 	T	37   
+130000	Service occupations	1 	T	38   
+131000	Private industry workers, excluding sales	2 	T	4    
+132000	Private industry white collar workers, excluding s	3 	T	7    
+137000	Wholesale and retail trade occupations, excluding	3 	T	14   
+138000	Finance, insurance, and real estate occupations, e	3 	T	16   
+140000	Wholesale trade occupations, excluding sales	4 	T	15   
+151000	White collar occupations, transportation equipment	3 	T	24   
+152000	Professional and technical occupations, transporta	4 	T	29   
+153000	Executive, administrative, and managerial occupati	4 	T	30   
+154000	Blue collar occupations, transportation equipment	3 	T	31   
+155000	Service occupations, transportation equipment	3 	T	36   
+161000	White collar occupations, aicraft manufacturing	4 	T	25   
+164000	Blue collar occupations, aircraft manufacturing	4 	T	32   
+171000	White collar occupations, transportation and publi	3 	T	26   
+174000	Blue collar occupations, transportation and public	3 	T	33   
+181000	White collar occupations, communications	4 	T	27   
+184000	Blue collar occupations, communications	4 	T	34   
+191000	White collar occupations, utilities	4 	T	28   
+194000	Blue collar occupations, utilities	4 	T	35   
+200000	Goods producing industries	0 	T	40   
+201000	Goods producing, excluding sales	2 	T	41   
+202000	Goods producing, white collar occupations	1 	T	42   
+203000	Goods producing, white collar occupations, excludi	3 	T	43   
+204000	Goods producing, blue collar occupations	1 	T	44   
+206000	Goods producing, service occupations	1 	T	45   
+210000	Service producing industries	0 	T	53   
+211000	Service producing, excluding sales	2 	T	54   
+212000	Service producing, white collar occupations	1 	T	55   
+213000	Service producing, white collar occupations, exclu	3 	T	56   
+214000	Service producing, blue collar occupations	1 	T	57   
+216000	Service producing, service occupations	1 	T	58   
+220000	Nonmanufacturing	0 	T	82   
+221000	Nonmanufacturing, white collar occupations	1 	T	83   
+222000	Nonmanufacturing, white collar occupations, exclud	3 	T	84   
+223000	Nonmanufacturing, blue collar occupations	1 	T	85   
+225000	Nonmanufacturing, service occupations	1 	T	86   
+230000	Construction	4 	T	46   
+237000	Manufacturing, transportation equipment	6 	T	49   
+238000	Manufacturing, aircraft	6 	T	50   
+240000	Manufacturing	4 	T	47   
+241000	Manufacturing, durable goods	6 	T	51   
+242000	Manufacturing, nondurables	6 	T	52   
+243000	Manufacturing, white collar occupations	5 	T	48   
+250000	Transportation and public utilities	4 	T	59   
+251000	Transportation	6 	T	60   
+252000	Public utilities	6 	T	61   
+253000	Communications	6 	T	62   
+254000	Electric, gas, and sanitation	6 	T	63   
+260000	Wholesale and retail trade	4 	T	64   
+261000	Wholesale trade	5 	T	65   
+262000	Retail trade	5 	T	66   
+263000	General merchandise stores	7 	T	67   
+264000	Food stores	7 	T	68   
+270000	Finance, insurance, and real estate	4 	T	69   
+271000	Banking	6 	T	70   
+272000	Insurance	6 	T	71   
+273000	Insurance, excluding sales	7 	T	72   
+280000	Services	4 	T	73   
+281000	Schools	6 	T	76   
+282000	Elementary and secondary schools	7 	T	79   
+284000	Health services	6 	T	74   
+285000	Hospitals	7 	T	75   
+286000	Nursing homes	7 	T	77   
+289000	Educational services	6 	T	78   
+290000	Public administration	4 	T	81   
+299000	Higher education	7 	T	80   
+310000	Northeast	1 	T	88   
+320000	South	1 	T	89   
+330000	Midwest	1 	T	90   
+340000	West	1 	T	91   
+400000	Union workers	0 	T	93   
+402000	Union, blue collar	1 	T	94   
+406000	Union, manufacturing, blue collar	3 	T	96   
+410000	Union, manufacturing	2 	T	95   
+420000	Union, nonmanufacturing	2 	T	97   
+430000	Union, goods producing	2 	T	98   
+440000	Union, service producing	2 	T	99   
+500000	Nonunion workers	0 	T	100  
+502000	Nonunion, blue collar	1 	T	101  
+506000	Nonunion, manufacturing, blue collar	3 	T	103  
+510000	Nonunion, manufacturing	2 	T	102  
+520000	Nonunion, nonmanufacturing	2 	T	104  
+530000	Nonunion, goods producing	2 	T	105  
+540000	Nonunion, service producing	2 	T	106  
+600000	Metropolitan areas	0 	T	108  
+700000	Nonmetropolitan areas	0 	T	109  
+800000	Aircraft engine parts	1 	T	111  
+801000	White collar	2 	T	112  
+802000	Professional, technical, and specialty	2 	T	113  
+805000	Managers	2 	T	114  
+806000	Clerical	2 	T	115  
+807000	Blue collar	2 	T	116  
+808000	Craft	2 	T	117  
+809000	Operatives	2 	T	118  
+810000	Aircraft	1 	T	119  
+811000	White collar	2 	T	120  
+812000	Blue collar	2 	T	121  
+820000	Engines	1 	T	122  
+821000	White collar	2 	T	123  
+822000	Blue collar	2 	T	124  
+830000	Parts	1 	T	125  
+831000	White collar	2 	T	126  
+832000	Blue collar	2 	T	127  
+840000	Guided missiles	1 	T	128  
+841000	White collar	2 	T	129  
+842000	Blue collar	2 	T	130  
+910000	All full-time workers	0 	T	132  
+911000	Full-time, white collar	1 	T	133  
+912000	Full-time, sales	2 	T	134  
+913000	Full-time, administrative	2 	T	135  
+914000	Full-time, blue collar	1 	T	136  
+915000	Full-time, service	1 	T	137  
+921000	Full-time, goods producing	1 	T	138  
+922000	Full-time, construction	2 	T	139  
+923000	Full-time, manufacturing	2 	T	140  
+924000	Full-time, service producing	1 	T	141  
+925000	Full-time, transportation	2 	T	142  
+926000	Full-time, wholesale trade	2 	T	143  
+927000	Full-time, retail trade	2 	T	144  
+928000	Full-time, finance, insurance, and real estate	2 	T	145  
+929000	Full-time, services	2 	T	146  
+950000	All part-time workers	0 	T	147  
+951000	Part-time, white collar	1 	T	148  
+952000	Part-time, sales	2 	T	149  
+953000	Part-time, administrative	2 	T	150  
+954000	Part-time, blue collar	1 	T	151  
+955000	Part-time, service	1 	T	152  
+961000	Part-time, goods producing	1 	T	153  
+963000	Part-time, manufacturing	2 	T	154  
+964000	Part-time, service producing	1 	T	155  
+965000	Part-time, transportation	2 	T	156  
+966000	Part-time, wholesale trade	2 	T	157  
+967000	Part-time, retail trade	2 	T	158  
+968000	Part-time, finance, insurance, and real estate	2 	T	159  
+969000	Part-time, services	2 	T	160  

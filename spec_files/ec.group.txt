@@ -1,0 +1,112 @@
+group_code      group_name
+000     All workers
+101     Production and non-supervisory occupations
+106     All workers, excluding sales occupations
+107     White-collar occupations, excluding sales occupations
+110     White-collar occupations
+111     Executive, administrative, and managerial occupations
+112     Professional, specialty, and technical occupations
+113     Sales occupations
+114     Administrative support, including clerical, occupations
+120     Blue-collar occupations
+121     Precision, production, craft, and repair occupations
+122     Machine operators, assemblers, and inspectors occupations
+123     Transportation and material moving occupations
+124     Handlers, equipment cleaners, helpers, and laborers occupations
+130     Service occupations
+131     All workers, excluding sales occupations
+132     White-collar occupations, excluding sales occupations
+137     Wholesale and retail trade; excluding sales occupations
+138     Finance, insurance, and real estate; excluding sales occupations
+140     Wholesale trade; excluding sales occupations
+200     Goods-producing industries
+201     Goods-producing industries; excluding sales occupations
+202     Goods-producing industries; White-collar occupations
+203     Goods-producing industries; White-collar occupations,excluding sales occupations
+204     Goods-producing industries; Blue-collar occupations
+206     Goods-producing industries; Service occupations
+210     Service-producing industries
+211     Service-producing industries; excluding sales occupations
+212     Service-producing industries; White-collar occupations
+213     Service-producing industries; White-collar occupations,excluding sales occupations
+214     Service-producing industries; Blue-collar occupations
+216     Service-producing industries; Service occupations
+220     Non-manufacturing industries
+221     Non-manufacturing industries; White-collar occupations
+222     Non-manufacturing industries; White-collar occupations,excluding sales occupations
+223     Non-manufacturing industries; Blue-collar occupations
+225     Non-manufacturing industries; Service occupations
+230     Construction
+240     Manufacturing
+241     Manufacturing - durable goods
+242     Manufacturing - non-durable goods
+243     Manufacturing; White-collar occupations
+244     Manufacturing; White-collar occupations, excludingsales occupations
+245     Manufacturing; Blue-collar occupations
+247     Manufacturing; Service occupations
+250     Transportation and Public Utilities
+251     Transportation
+252     Public utilities
+253     Communications
+254     Electric, gas, and sanitary services
+260     Wholesale and retail trade
+261     Wholesale trade
+262     Retail trade
+263     General merchandise stores
+264     Food stores
+270     Finance, insurance, and real estate
+271     Banking, savings and loan, and other credit agencies
+272     Insurance carriers, agents, brokers, and service
+273     Insurance, excluding sales occupations
+280     Services industries
+281     Schools
+282     Elementary and secondary schools
+283     Services industries, excluding schools
+284     Health services
+285     Hospitals
+286     Nursing and personal care facilities
+287     Business services
+289     Educational services
+290     Public administration
+299     Colleges and universities
+310     Northeast region
+320     South region
+330     Midwest region
+340     West region
+400     Union
+402     Union; Blue-collar occupations
+406     Union; Manufacturing; Blue-collar occupations
+410     Union; Manufacturing
+420     Union; Non-manufacturing industries
+430     Union; Goods-producing industries
+440     Union; Service-producing industries
+500     Non-union
+502     Non-union; Blue-collar occupations
+506     Non-union; Manufacturing; Blue-collar occupations
+510     Non-union; Manufacturing
+520     Non-union; Non-manufacturing
+530     Non-union; Goods-producing industries
+540     Non-union; Service-producing industries
+600     Metropolitan areas
+700     Non-metropolitan areas
+800     Aircraft and parts manufacturing (SIC 372)
+801     Aircraft and parts manufacturing (SIC 372); White-collar occupations
+802     Aircraft and parts manufacturing (SIC 372);Professional, specialty, and technical occupations
+805     Aircraft and parts manufacturing (SIC 372); Executive,administrative, and managerial occupations
+806     Aircraft and parts manufacturing (SIC 372);Administrative support, including clerical, occupations
+807     Aircraft and parts manufacturing (SIC 372); Blue-collar occupations
+808     Aircraft and parts manufacturing (SIC 372); Precision,production, craft, and repair occupations
+809     Aircraft and parts manufacturing (SIC 372); Machine operators, assemblers, and inspectors cupations
+810     Aircraft manufacturing (SIC 3721)
+811     Aircraft manufacturing (SIC 3721); White-collar occupations
+812     Aircraft manufacturing (SIC 3721); Blue-collar occupations
+820     Aircraft engines and engine parts (SIC 3724)
+821     Aircraft engines and engine parts (SIC 3724); White-collar occupations
+822     Aircraft engines and engine parts (SIC 3724); Blue-collar occupations
+830     Aircraft parts and equipment, NEC (SIC 3728)
+831     Aircraft parts and equipment, NEC (SIC 3728); White-collar occupations
+832     Aircraft parts and equipment, NEC (SIC 3728); Blue-collar occupations
+840     Guided missiles and space vehicles manufacturing (SIC 3761)
+841     Guided missiles and space vehicles manufacturing (SIC 3761); White-collar occupations
+842     Guided missiles and space vehicles manufacturing (SIC 3761); Blue-collar occupations
+.

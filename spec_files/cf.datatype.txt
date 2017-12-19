@@ -1,0 +1,2 @@
+code	text
+8   	Fatal injuries (count)

@@ -1,0 +1,188 @@
+occupation_code	soc_code	occupation_text	display_level	selectable	sort_sequence
+000	00000000	All Workers	0	T	1	
+003	11102100	General and Operations Managers	1	T	5	
+007	11202100	Marketing Managers	1	T	9	
+008	11202200	Sales Managers	1	T	10	
+010	11301100	Administrative Services Managers	1	T	12	
+011	11302100	Computer and Information Systems Managers	1	T	13	
+012	11303100	Financial Managers	1	T	14	
+013	11303101	Treasurers and Controllers	1	T	15	
+014	11303102	Financial Managers, Branch or Department	1	T	16	
+015	11305100	Industrial Production Managers	1	T	17	
+028	11312100	Human Resources Managers	1	T	30	
+034	11902100	Construction Managers	1	T	36	
+036	11903200	Education Administrators, Elementary and Secondary School	1	T	38	
+037	11903300	Education Administrators, Postsecondary	1	T	39	
+041	11904100	Architectural and Engineering Managers	1	T	43	
+047	11911100	Medical and Health Services Managers	1	T	49	
+053	11915100	Social and Community Service Managers	1	T	55	
+055	11919900	Managers, All Other	1	T	57	
+05A	51906100	Inspectors, Testers, Sorters, Samplers, and Weighers	1	T	1026	
+068	13102300	Purchasing Agents, Except Wholesale, Retail, and Farm Products	1	T	71	
+071	13103102	Insurance Adjusters, Examiners, and Investigators	1	T	74	
+081	13107100	Human Resources Specialists	1	T	84	
+087	13111100	Management Analysts	1	T	90	
+092	13116100	Market Research Analysts and Marketing Specialists	1	T	95	
+093	13119900	Business Operations Specialists, All Other	1	T	96	
+100	13201100	Accountants and Auditors	1	T	103	
+101	13201101	Accountants	1	T	104	
+108	13205100	Financial Analysts	1	T	111	
+114	13207200	Loan Officers	1	T	117	
+123	15112100	Computer Systems Analysts	1	T	127	
+127	15113200	Software Developers, Applications	1	T	131	
+128	15113300	Software Developers, Systems Software	1	T	132	
+131	15114200	Network and Computer Systems Administrators	1	T	135	
+134	15115100	Computer User Support Specialists	1	T	138	
+135	15115200	Computer Network Support Specialists	1	T	139	
+13A	51911100	Packaging and Filling Machine Operators and Tenders	1	T	1034	
+184	17214100	Mechanical Engineers	1	T	189	
+27P	11000000	Management Occupations	0	T	2	
+28P	13000000	Business and Financial Operations Occupations	0	T	67	
+29P	15000000	Computer and Mathematical Occupations	0	T	125	
+30A	51919800	Helpers--Production Workers	1	T	1051	
+30P	17000000	Architecture and Engineering Occupations	0	T	161	
+310	21101200	Educational, Guidance, School, and Vocational Counselors	1	T	317	
+315	21102100	Child, Family, and School Social Workers	1	T	322	
+316	21102200	Healthcare Social Workers	1	T	323	
+31A	51919900	Production Workers, All Other	1	T	1052	
+31P	19000000	Life, Physical, and Social Science Occupations	0	T	242	
+321	21109300	Social and Human Service Assistants	1	T	328	
+327	23101100	Lawyers	1	T	335	
+32P	21000000	Community and Social Service Occupations	0	T	315	
+33P	23000000	Legal Occupations	0	T	334	
+34P	25000000	Education, Training, and Library Occupations	0	T	344	
+356	25107100	Health Specialties Teachers, Postsecondary	1	T	365	
+35P	27000000	Arts, Design, Entertainment, Sports, and Media Occupations	0	T	411	
+365	25112300	English Language and Literature Teachers, Postsecondary	1	T	374	
+36P	29000000	Healthcare Practitioners and Technical Occupations	0	T	464	
+375	25201200	Kindergarten Teachers, Except Special Education	1	T	384	
+376	25202100	Elementary School Teachers, Except Special Education	1	T	385	
+377	25202200	Middle School Teachers, Except Special and Career/Technical Education	1	T	386	
+379	25203100	Secondary School Teachers, Except Special and Career/Technical Education	1	T	388	
+37P	31000000	Healthcare Support Occupations	0	T	557	
+389	25309900	Teachers and Instructors, All Other	1	T	398	
+38P	33000000	Protective Service Occupations	0	T	577	
+394	25402100	Librarians	1	T	403	
+39P	35000000	Food Preparation and Serving Related Occupations	0	T	614	
+400	25904100	Teacher Assistants	1	T	409	
+40P	37000000	Building and Grounds Cleaning and Maintenance Occupations	0	T	634	
+41P	39000000	Personal Care and Service Occupations	0	T	645	
+42P	41000000	Sales and Related Occupations	0	T	681	
+43P	43000000	Office and Administrative Support Occupations	0	T	709	
+44A	53302200	Bus Drivers, School or Special Client	1	T	1066	
+45A	53303100	Driver/Sales Workers	1	T	1067	
+45P	47000000	Construction and Extraction Occupations	0	T	804	
+462	29105100	Pharmacists	1	T	473	
+46A	53303200	Heavy and Tractor-Trailer Truck Drivers	1	T	1068	
+46P	49000000	Installation, Maintenance, and Repair Occupations	0	T	872	
+47A	53303300	Light Truck or Delivery Services Drivers	1	T	1069	
+47P	51000000	Production Occupations	0	T	931	
+488	29112300	Physical Therapists	1	T	499	
+48P	53000000	Transportation and Material Moving Occupations	0	T	1054	
+493	29112600	Respiratory Therapists	1	T	504	
+498	29114100	Registered Nurses	1	T	509	
+501	29114103	Critical Care Nurses	1	T	512	
+502	29114104	Clinical Nurse Specialists	1	T	513	
+511	29201100	Medical and Clinical Laboratory Technologists	1	T	522	
+515	29201200	Medical and Clinical Laboratory Technicians	1	T	526	
+520	29203400	Radiologic Technologists	1	T	531	
+522	29204100	Emergency Medical Technicians and Paramedics	1	T	533	
+524	29205200	Pharmacy Technicians	1	T	535	
+530	29206100	Licensed Practical and Licensed Vocational Nurses	1	T	541	
+531	29207100	Medical Records and Health Information Technicians	1	T	542	
+546	31101100	Home Health Aides	1	T	558	
+548	31101400	Nursing Assistants	1	T	560	
+555	31909100	Dental Assistants	1	T	567	
+556	31909200	Medical Assistants	1	T	568	
+579	33301200	Correctional Officers and Jailers	1	T	592	
+589	33305101	Police Patrol Officers	1	T	602	
+595	33903200	Security Guards	1	T	608	
+602	35101200	First-Line Supervisors of Food Preparation and Serving Workers	1	T	616	
+603	35201100	Cooks, Fast Food	1	T	617	
+604	35201200	Cooks, Institution and Cafeteria	1	T	618	
+606	35201400	Cooks, Restaurant	1	T	620	
+607	35201500	Cooks, Short Order	1	T	621	
+609	35202100	Food Preparation Workers	1	T	623	
+610	35301100	Bartenders	1	T	624	
+611	35302100	Combined Food Preparation and Serving Workers, Including Fast Food	1	T	625	
+612	35302200	Counter Attendants, Cafeteria, Food Concession, and Coffee Shop	1	T	626	
+614	35303100	Waiters and Waitresses	1	T	628	
+615	35304100	Food Servers, Nonrestaurant	1	T	629	
+616	35901100	Dining Room and Cafeteria Attendants and Bartender Helpers	1	T	630	
+617	35902100	Dishwashers	1	T	631	
+618	35903100	Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop	1	T	632	
+620	37101100	First-Line Supervisors of Housekeeping and Janitorial Workers	1	T	635	
+622	37201100	Janitors and Cleaners, Except Maids and Housekeeping Cleaners	1	T	637	
+623	37201200	Maids and Housekeeping Cleaners	1	T	638	
+626	37301100	Landscaping and Groundskeeping Workers	1	T	641	
+658	39901100	Childcare Workers	1	T	674	
+660	39902100	Personal Care Aides	1	T	676	
+662	39903200	Recreation Workers	1	T	678	
+665	41101100	First-Line Supervisors of Retail Sales Workers	1	T	682	
+667	41201100	Cashiers	1	T	684	
+670	41202200	Parts Salespersons	1	T	687	
+671	41203100	Retail Salespersons	1	T	688	
+673	41302100	Insurance Sales Agents	1	T	690	
+676	41303102	Sales Agents, Financial Services	1	T	693	
+679	41309900	Sales Representatives, Services, All Other	1	T	696	
+681	41401100	Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products	1	T	698	
+683	41401200	Sales Reps., Wholesale and Manufacturing, Except Technical and Scientific Products	1	T	700	
+691	41909900	Sales and Related Workers, All Other	1	T	708	
+692	43101100	First-Line Supervisors of Office and Administrative Support Workers	1	T	710	
+696	43301100	Bill and Account Collectors	1	T	714	
+697	43302100	Billing and Posting Clerks	1	T	715	
+699	43302102	Billing, Cost, and Rate Clerks	1	T	717	
+700	43303100	Bookkeeping, Accounting, and Auditing Clerks	1	T	718	
+702	43305100	Payroll and Timekeeping Clerks	1	T	720	
+704	43307100	Tellers	1	T	722	
+705	43309900	Financial Clerks, All Other	1	T	723	
+715	43405100	Customer Service Representatives	1	T	733	
+716	43405103	Patient Representatives	1	T	734	
+718	43407100	File Clerks	1	T	736	
+719	43408100	Hotel, Motel, and Resort Desk Clerks	1	T	737	
+722	43413100	Loan Interviewers and Clerks	1	T	740	
+723	43414100	New Accounts Clerks	1	T	741	
+724	43415100	Order Clerks	1	T	742	
+726	43417100	Receptionists and Information Clerks	1	T	744	
+727	43418100	Reservation and Transportation Ticket Agents and Travel Clerks	1	T	745	
+728	43419900	Information and Record Clerks, All Other	1	T	746	
+733	43503200	Dispatchers, Except Police, Fire, and Ambulance	1	T	751	
+738	43506100	Production, Planning, and Expediting Clerks	1	T	756	
+739	43507100	Shipping, Receiving, and Traffic Clerks	1	T	757	
+740	43508100	Stock Clerks and Order Fillers	1	T	758	
+741	43508101	Stock Clerks, Sales Floor	1	T	759	
+743	43508103	Stock Clerks- Stockroom, Warehouse, or Storage Yard	1	T	761	
+746	43601100	Executive Secretaries and Executive Administrative Assistants	1	T	764	
+748	43601300	Medical Secretaries	1	T	766	
+749	43601400	Secretaries and Administrative Assistants, Except Legal, Medical, and Executive	1	T	767	
+751	43902100	Data Entry Keyers	1	T	769	
+754	43904100	Insurance Claims and Policy Processing Clerks	1	T	772	
+755	43904101	Insurance Claims Clerks	1	T	773	
+758	43906100	Office Clerks, General	1	T	776	
+763	43919900	Office and Administrative Support Workers, All Other	1	T	781	
+785	47101100	First-Line Supervisors of Construction Trades and Extraction Workers	1	T	805	
+790	47203100	Carpenters	1	T	810	
+791	47203101	Construction Carpenters	1	T	811	
+799	47206100	Construction Laborers	1	T	819	
+802	47207300	Operating Engineers and Other Construction Equipment Operators	1	T	822	
+805	47211100	Electricians	1	T	825	
+80A	53705100	Industrial Truck and Tractor Operators	1	T	1102	
+82A	53706200	Laborers and Freight, Stock, and Material Movers, Hand	1	T	1104	
+84A	53706400	Packers and Packagers, Hand	1	T	1106	
+852	49101100	First-Line Supervisors of Mechanics, Installers, and Repairers	1	T	873	
+856	49202200	Telecommunications Equipment Installers and Repairers, Except Line Installers	1	T	877	
+868	49302300	Automotive Service Technicians and Mechanics	1	T	889	
+871	49303100	Bus and Truck Mechanics and Diesel Engine Specialists	1	T	892	
+887	49904100	Industrial Machinery Mechanics	1	T	908	
+888	49904300	Maintenance Workers, Machinery	1	T	909	
+898	49907100	Maintenance and Repair Workers, General	1	T	919	
+910	51101100	First-Line Supervisors of Production and Operating Workers	1	T	932	
+918	51209200	Team Assemblers	1	T	940	
+920	51209900	Assemblers and Fabricators, All Other	1	T	942	
+921	51301100	Bakers	1	T	943	
+923	51302200	Meat, Poultry, and Fish Cutters and Trimmers	1	T	945	
+929	51401100	Computer-Controlled Machine Tool Operators, Metal and Plastic	1	T	951	
+934	51403100	Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal & Plastic	1	T	956	
+946	51408100	Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic	1	T	968	
+949	51412106	Welders, Cutters, and Welder Fitters	1	T	971	
+960	51601100	Laundry and Dry-Cleaning Workers	1	T	982	

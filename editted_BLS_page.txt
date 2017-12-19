@@ -1,0 +1,586 @@
+{
+National Employment, Hours, and Earnings
+
+	1-2             CE              Prefix
+	3               U               DEFAULT  
+	6-11				1				Industry  
+	12-13           03              datatype 
+}	
+
+
+{
+National Employment, Hours, and Earnings (SIC basis)
+
+	1-2             EE              Prefix
+	3               S               DEFAULT  
+	4-9             101400          Industry  
+	10-11           01              datatype 
+}	
+
+
+{
+State and Area Employment, Hours, and Earnings
+
+	1-2             SM              Prefix
+	3               U               DEFAULT  
+	4-5             19              State 
+	6-10            19780           Area 
+	13-18				1				Industry  
+	19-20           01             	datatype 
+}	
+
+
+{
+State and Area Employment, Hours, and Earnings (SIC basis)
+
+	1-2             SA              Prefix
+	3               S               DEFAULT  
+	4-5             08              State 
+	6-9             0000            Area 
+	10-15           200001          Industry  
+	16              1               datatype 
+}	
+
+
+{
+State and County Employment and Wages from Quarterly Census of Employment and Wages
+
+	1-2             EN              Prefix
+	3               U               DEFAULT  
+	4-8             04013           Area 
+	9               1               datatype 
+	10              0               Size 
+	11              5               Ownership 
+	12-17           111150          Industry  
+}
+
+	
+{
+State and County Employment and Wages from Quarterly Census of Employment and Wages, 1997-2000 (SIC basis)
+
+	1-2             EW              Prefix
+	3               U               DEFAULT  
+	4-8             04013           Area 
+	9               1               datatype 
+	10              0               Size 
+	11              5               Ownership 
+	12-17           0A0115          Industry  
+}	
+
+
+{
+Occupational Employment Statistics (OES)
+
+	1-2             OE              Prefix
+	3               U               DEFAULT  
+	4               N               AreaType 
+	5-11            0000000         Area 
+	12-17           111000          Industry  
+	18-23           110000          Occupation 
+	24-25           01              datatype 
+}
+
+{	
+Business Employment Dynamics
+
+	1-2          BD           Prefix
+	3            S            DEFAULT  
+	4-13         0000000000	  Area 
+	14-19        000000       Industry 
+	20           0            DEFAULT
+	21           0            DataElement 
+	22-23        01           DEFAULT
+	24-25        01           DataClass 
+	26           L            ratelevel 
+	27           Q            DEFAULT 
+	28           5            DEFAULT
+}	
+
+
+
+{
+Local Area Unemployment Statistics
+
+	1-2         LA             Prefix
+	3           U              DEFAULT 
+	4-5         CN             AreaType 
+	6-18        2810700000000  Area 
+	19-20       03             Measure 
+}	
+{
+Survey Overview The following is a sample format description of the Geographic Profile series identifier:
+
+	1-2             GP              Prefix
+	3               U               DEFAULT  
+	4-6             002             State 
+	7-11            00000           Area 
+	12              R               Labor.Force 
+	13-16           0328            Character 
+}
+{	
+Mass Layoff Statistics
+
+	1-2             ML              Prefix
+	3               U               DEFAULT  
+	4               M               DataSeries 
+	5-7             S00             srd
+	8            	N             	IndustryBase 
+	9-13            N0001           irc 
+	14-16           003             dataelement 
+}
+{	
+Job Openings and Labor Turnover Survey (SIC basis)
+
+	1-2             JL              Prefix
+	3               U               DEFAULT  
+	4-9             000000          Industry  
+	10-11          	00             	Region 
+	12-13           HI              dataelement 
+	14              L               ratelevel 
+}	
+{
+Job Openings and Labor Turnover Survey
+
+	1-2             JT              Prefix
+	3               U               DEFAULT  
+	4-9             000000          Industry  
+	10-11          	00             	Region 
+	12-13           HI              dataelement 
+	14              L               ratelevel 
+}	
+
+ 
+//Not sure about the industry 
+Green Goods and Services
+
+	1-2             GG              Prefix
+	3               U               DEFAULT  
+	4               Q               period 
+	5-9             00000           Area 
+	10-15           000000          Industry 
+	16-17           00              DEFAULT
+	18              5               Ownership 
+	19              0               DEFAULT
+	20-21           01              dataelement 
+	22              0               DEFAULT
+	23              L               ratelevel 
+
+
+American Time Use Survey
+
+	1-2             TU              Prefix
+	3               U               DEFAULT  
+	4-8             10101           Type of Estimate 
+	9               A               Time Period 
+	10              A               DEFAULT
+	11-12           01	        Number of years 
+	13-18           011987          Character 
+
+{
+Consumer Expenditure Survey
+
+	1-2             CX              Prefix
+	3               U               DEFAULT  
+	4-11            MENBOYS         Item 
+        12-15	   	LB01	        Demographics 
+        16-17           01	        Characteristics 
+	18              M               Process 
+}
+{
+Average Price Data
+
+	1-2             AP              Prefix
+	3               U               DEFAULT 
+	4-7             0000            Area 
+	8-13            701111          Item 
+}	
+{
+Consumer Price Index - All Urban Consumers
+
+	1-2             CU              Prefix
+	3               U               DEFAULT  
+	4               R               period 
+	5-8             0000            Area 
+	9               S               DEFAULT
+	10-16           A0L1E           Item 
+}
+{	
+Consumer Price Index - Urban Wage Earners and Clerical Workers
+
+	1-2             CW              Prefix
+	3               S               DEFAULT  
+	4               R               period 
+	5-8             0000            Area 
+	9               S               DEFAULT 
+	10-16           A111211         Item 
+}
+{	
+Consumer Price Index - All Urban Consumers (Old Series)
+
+	1-2             MU              Prefix
+	3               S               DEFAULT  
+	4               R               period 
+	5-8             0000            Area 
+	9               S               DEFAULT 
+	10-16           A111211         Item 
+}	
+{
+Consumer Price Index - Urban Wage Earners and Clerical Workers (Old Series)
+
+	1-2             MW              Prefix
+	3               S               DEFAULT  
+	4               R               period 
+	5-8             0000            Area 
+	9               S               DEFAULT
+	10-16           A111211         Item 
+}
+{	
+Department Store Inventory Price Index
+
+	1-2             LI              Prefix
+	3               U               DEFAULT  
+	4               R               period 
+	5-8             0000            Area 
+	9               S               DEFAULT 
+	10-15           L00019          Item 
+}
+{	
+Chained CPI-All Urban Consumers
+
+	1-2             SU              Prefix
+	3               U               DEFAULT  
+	4               R               period 
+	5-8             0000            Area 
+	9-11            SA0             Item 
+}	
+	
+{
+Producer Price Index Industry Data - Current Series
+
+	1-2             PC              Prefix
+	3               U               DEFAULT  
+	4-9             221122          industry 
+	10-19           22112241        Product 
+}
+{	
+For higher-level index aggregations (NAICS industry groups whose length is less than 6 digits) will use hyphens as place holders. For example:
+
+	1-2             PC              Prefix
+	3               U               DEFAULT  
+	4-9             2211--          industry
+	10-15           2211--          Product 
+}	
+{
+Producer Price Index Industry Data - Discontinued Series (NAICS basis)
+
+	1-2             ND              Prefix
+	3               U               DEFAULT  
+	4-7             105111          industry
+	10-13           1051112345      Product 
+}
+{	
+For higher-level index aggregations (NAICS industry groups whose length is less than 6 digits) will use hyphens as place holders. For example:
+
+	1-2             ND              Prefix
+	3               U               DEFAULT  
+	4-7             105---          industry 
+	10-13           105---          Product 
+}
+{	
+Producer Price Index Industry Data - Discontinued Series (SIC basis)
+
+	1-2             PD              Prefix
+	3               U               DEFAULT  
+	4-7             1031            Industry  
+	8-11            214            Product 
+}
+{	
+Producer Price Index Commodity Data - Current Series
+
+	1-2             WP              Prefix
+	3               S               DEFAULT  
+	4-5             14              Group 
+	6-14            1101            Item 
+}
+{	
+For higher-level index aggregations (e.g. Final Demand-Intermediate Demand system indices) will use alpha-numeric group . For example:
+
+	1-2             WP              Prefix
+	3               S               DEFAULT  
+	4-5             FD              Group 
+	6-14            49116           Item 
+}
+
+// cannot find BEA , this is not included in the dictionaries created.	
+For Inputs to Industry indices, other than construction indices, Bureau of Economic Analysis industry  are utilized with zero as placeholders for  less than 6 digits. For example:
+
+	1-2             WP              Prefix
+	3               U               DEFAULT  
+	4-5             IP              Group 
+	6-11            326100          Item  (part 1) and BEA 
+	12-14           12              Item  (part 2)
+	
+{
+Producer Price Index Commodity Data - Discontinued Series
+
+	1-2             WD              Prefix
+	3               U               DEFAULT  
+	4-5             06              Group 
+	6-11            2201            Item 
+}	
+
+ 
+{
+Work Stoppage Data
+
+	1-2             WS              Prefix
+	3               U               DEFAULT  
+	4-6             B00             Measure 
+}
+{	
+Employee Benefits Survey
+
+	1-2             EB              Prefix
+	3               U               DEFAULT  
+	4-14            401KINC0000     Title 
+	15-16           ML              Type 
+}	
+{
+Employment Cost Index (SIC)
+
+	1-2             EC              Prefix
+	3               S               DEFAULT  
+	4               1               Compensation 
+	5-7             000             Group 
+	8               1               Ownership 
+	9               I               period 
+}	
+{
+Employer Cost for Employee Compensation (SIC)
+
+	1-2             CC              Prefix
+	3               U               DEFAULT  
+	4               0               Sector 
+	5-9             10000           benefit 
+	10-15           100000          industryocc
+	16		P		costfactor 
+}	
+{
+National Compensation Survey
+
+	1-2             NC              Prefix
+	3               U               DEFAULT  
+	4-5             53              State 
+	6-9             0663            Area 
+	10-14           33000           Occupation 
+	15-16           03              Level 
+}
+{	
+National Compensation Survey - Benefits (Beginning with 2010 data)
+
+	1-2             NB              Prefix
+	3               U               DEFAULT  
+	4               1               Ownership 
+	5-6             00              Estimate 
+	7-10            0000            Industry  
+	11-16           000000          Occupation 
+	17-18           00              Subcell 
+	19-20           28              Datatype 
+	21-23           007             Provision 
+}
+{	
+Modeled Wage Estimates
+
+	1-2             WM              Prefix
+	3               U               DEFAULT  
+	4-10            4000001         Area 
+	11              1               Ownership 
+	12-13           02              Estimate 
+	14-19           000000          Industry  
+	20-25           413099          Occupation 
+	26-27           25              subcell 
+	28-29           00              Level 
+}	
+
+{
+Major Sector Productivity and Costs
+
+	1-2             PR              Prefix
+	3               S               DEFAULT  
+	4-7             3000            Sector 
+	8               6               DEFAULT
+	9-10            08              Measure 
+	11              1               Duration 
+}
+{	
+Major Sector Multifactor Productivity
+
+	1-2             MP              Prefix
+	3               U               DEFAULT  
+	4-7             4900            Sector 
+	8-9             01              Measure 
+	10              2               Duration 
+}	
+ 
+{
+Industry Productivity
+
+	1-2             IP              Prefix
+	3               U               DEFAULT  
+	4               B               Sector 
+	5-11            N21___          Industry  
+	12-14           W00             Measure 
+	15              0               Duration 
+}	
+
+ 
+{
+Occupational Injuries and Illnesses - industry data (2014 forward)
+
+	1-2             IS              Prefix
+	3               U               DEFAULT  
+	4-6             00X             Supersector  
+	7-12            000000          Industry  									
+	13              6               datatype 
+	14              0               casetype 
+	15-17           N00             Area  	        	
+}	
+{
+Census of Fatal Occupational Injuries (2011 forward)
+
+	1-2             FW              Prefix
+	3               U               DEFAULT  
+	4-6             00X             Category 
+	7-12            000000          [Industry  , Event, Source , Occupation ]
+	13              8               datatype 
+	14              0               casetype 
+	15-17           M70             Area  	        	
+}	
+{
+Census of Fatal Occupational Injuries (2003 - 2010)
+
+	1-2             FI              Prefix
+	3               U               DEFAULT  
+	4-6             00X             Category 
+	7-12            000000          [Industry  , Event , Source , Occupation ]
+	13              8               datatype 
+	14              0               casetype 
+	15-17           N00             Area  	        	
+}
+{	
+Census of Fatal Occupational Injuries (1992 - 2002)
+
+	1-2             CF              Prefix
+	3               U               DEFAULT 
+	4-5             00              Category 
+	6-9             0000           	[Industry  , Event , Source , Occupation ]
+	10              8               datatype 
+	11              0               casetype  
+}	
+
+Nonfatal cases involving days away from work: selected characteristics (2011 forward)
+
+	1-2             CS              Prefix
+	3               U               DEFAULT  
+	4-6             SDX             Category 
+	7-12            031XXX          [Industry  , Event , Source , Occupation ]
+	13              6               datatype 
+	14              E               casetype 
+	15	        0             	Ownership  	
+	16-17           00              Area  	        		        	
+	
+
+Nonfatal cases involving days away from work: selected characteristics (2003 - 2010)
+
+	1-2             CH              Prefix
+	3               U               DEFAULT  
+	4-6             SDX             Category 
+	7-12            031XXX         [Industry  , Event , Source , Occupation ]
+	13              6               datatype 
+	14              E               casetype 
+	15	        0             	Ownership  	
+	16-17           00              Area  	        		        	
+
+{	
+Nonfatal cases involving days away from work: selected characteristics (2002)
+
+	1-2             HC              Prefix
+	3               U               DEFAULT  
+	4-5             00              Category  
+	6-9             1212            Industry  
+	10              3               datatype 
+	11              N               casetype  
+}
+{
+Nonfatal cases involving days away from work: selected characteristics (1992 - 2001)
+
+	1-2             CD              Prefix
+	3               U               DEFAULT  
+	4-5             DM              Category  
+	6-9             M100            Industry  
+	10              7               datatype 
+	11              3               casetype  
+}	
+{
+Occupational injuries and illnesses: industry data (pre-1989)
+
+	1-2             HS              Prefix
+	3               U               DEFAULT  
+	4-5             09              division  
+	6-9             0200            Industry  
+	10              1               datatype  
+	11              8               casetype  
+}
+{	
+Occupational injuries and illnesses: industry data (1989 - 2001)
+
+	1-2             SH              Prefix
+	3               U               DEFAULT  
+	4-5             00              division  
+	6-9             0000            Industry  
+	10              3               datatype 
+	11              4               casetype  
+}
+{	
+Occupational injuries and illnesses: industry data (2002)
+
+	1-2             SI              Prefix
+	3               U               DEFAULT  
+	4-5             00              division  
+	6-9             0000            Industry  
+	10              0               datatype 
+	11              1               casetype  
+}
+{	
+Occupational Injuries and Illnesses - industry data (2003 - 2013)
+
+	1-2             II              Prefix
+	3               U               DEFAULT  
+	4-6             00X             Supersector  
+	7-12            000000          Industry  									
+	13              6               datatype 
+	14              0               casetype 
+	15-17           N00             Area  	        	
+}	
+ 
+{
+Occupational Requirements Survey
+
+	1-2             OR              Prefix
+	3               U               DEFAULT  
+	4               V               Requirement 
+	5               1               Ownership 
+	6-9             0000            Industry  
+	10-12           000             Occupation 
+	13-15           000             job_characteristic 
+	16-20           01029           Estimate 
+}	
+ 
+{
+Import/Export Price Indexes
+
+	1-2             EI              Prefix
+	3               U               DEFAULT  
+	4-5             CO              Index 
+	6-12            CANMANU         series
+}

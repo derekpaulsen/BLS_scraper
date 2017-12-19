@@ -1,0 +1,8 @@
+Data Type	Title
+1	All Employees
+2	Number of Establishments
+3	Total Wages (in thousands)
+4	Average Weekly Wage
+5	Average Annual Pay
+6	Quarterly Average Monthly Employment
+

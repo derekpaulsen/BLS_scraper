@@ -1,0 +1,57 @@
+state_code	area_code	area_name
+
+xx	0000	Statewide
+04	6200	Phoenix
+06	0360	Anaheim-Santa Ana PMSA
+06	4480	Los Angeles-Long Beach PMSA
+06	5775	Oakland PMSA
+06	6780	Riverside-San Bernardino PMSA
+06	6920	Sacramento
+06	7320	San Diego
+06	7360	San Francisco PMSA
+06	7400	San Jose PMSA
+08	3400	Denver-Boulder CMSA
+09	4100	Hartford-New Britain-Middletown CMSA
+11	8840	Washington, D.C. 
+12	2680	Ft. Lauderdale-Hollywood-Pompano Beach PMSA
+12	5000	Miami-Hialeah PMSA
+12	8280	Tampa-St. Petersburg-Clearwater
+13	0520	Atlanta
+17	1600	Chicago PMSA
+18	3480	Indianapolis
+21	4520	Louisville
+22	5560	New Orleans
+24	0720	Baltimore
+25	1120	Boston PMSA
+26	2160	Detroit PMSA
+27	5120	Minneapolis-St. Paul
+29	4700	Kansas City 
+29	7040	St. Louis
+34	0875	Bergen-Passaic PMSA
+34	5640	Newark PMSA
+36	1280	Buffalo PMSA
+36	5380	Nassau-Suffolk PMSA
+36	5600	New York PMSA
+36	5700	Niagara Falls PMSA
+36	6840	Rochester
+37	1520	Charlotte-Gastonia-Rock Hill
+39	1640	Cincinnati PMSA
+39	1680	Cleveland PMSA
+39	1840	Columbus
+39	2000	Dayton-Springfield
+40	5880	Oklahoma City
+41	6440	Portland PMSA
+42	6160	Philadelphia PMSA
+42	7800	Pittsburgh-Beaver Valley CMSA
+44	8000	Providence-Pawtucket-Falls River CMSA
+47	4920	Memphis
+48	3100	Dallas-Fort Worth CMSA
+48	2800	Fort Worth-Arlington PMSA
+48	3360	Houston PMSA
+48	7240	San Antonio
+49	7160	Salt Lake City-Ogden
+51	5720	Norfolk-Virginia Beach-Newport News
+53	7600	Seattle PMSA
+55	5080	Milwaukee PMSA
+
+

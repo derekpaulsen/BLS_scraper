@@ -1,0 +1,8 @@
+data_type_code	data_type_text
+1	All Employees, In Thousands
+2	Women Workers, In Thousands
+3	Production Workers, In Thousands
+4	Average Weekly Earnings, In Dollars
+5	Average Weekly Hours
+6	Average Hourly Earnings, In Dollars
+7	Average Overtime Hours

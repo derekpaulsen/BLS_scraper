@@ -1,0 +1,334 @@
+area_code	area_name
+
+0000	Statewide
+0040	Abilene
+0080	Akron
+0120	Albany
+0160	Albany-Schenectady-Troy
+0200	Albuquerque
+0220	Alexandria
+0240	Allentown-Bethlehem
+0280	Altoona
+0320	Amarillo
+0380	Anchorage
+0400	Anderson
+0440	Ann Arbor
+0460	Appleton-Oshkosh-Neenah
+0480	Asheville
+0500	Athens
+0520	Atlanta
+0560	Atlantic City
+0600	Augusta
+0620	Aurora-Elgin
+0640	Austin
+0680	Bakersfield
+0720	Baltimore Msa
+0721	Baltimore City
+0740	Barnstable-Yarmouth
+0741	Barre-Montpelier
+0760	Baton Rouge
+0780	Battle Creek
+0800	Bay City
+0840	Beaumont-Port Arthur
+0845	Beaver County
+0870	Benton Harbor
+0875	Bergen-Passaic
+0880	Billings
+0960	Binghamton
+1000	Birmingham
+1010	Bismarck
+1020	Bloomington
+1040	Bloomington-Normal
+1080	Boise City
+1120	Boston
+1125	Boulder-Longmont
+1140	Bradenton
+1145	Brazoria
+1160	Bridgeport-Milford
+1181	Bristol
+1200	Brockton
+1240	Brownsville-Harlingen
+1260	Bryan-College Station
+1280	Buffalo
+1281	Buffalo-Niagara Falls
+1282	Buffalo
+1305	Burlington
+1310	Caguas
+1311	Camden
+1320	Canton
+1350	Casper
+1360	Cedar Rapids
+1400	Champaign-Urbana-Rantoul
+1440	Charleston
+1480	Charleston
+1520	Charlotte-Gastonia-Rock Hill
+1540	Charlottesville
+1560	Chattanooga
+1571	Cheyenne
+1591	Chicago-Gary
+1600	Chicago
+1640	Cincinnati
+1680	Cleveland
+1720	Colorado Springs
+1760	Columbia
+1800	Columbus
+1840	Columbus
+1880	Corpus Christi
+1920	Dallas
+1930	Danbury
+1950	Danville
+1960	Davenport-Rock Island-Moline
+2000	Dayton-Springfield
+2020	Daytona Beach
+2040	Decatur
+2051	Delaware Valley
+2080	Denver
+2120	Des Moines
+2160	Detroit
+2190	Dover
+2200	Dubuque
+2240	Duluth
+2281	Dutchess County
+2290	Eau Claire
+2320	El Paso
+2330	Elkhart-Goshen
+2335	Elmira
+2340	Enid
+2360	Erie
+2400	Eugene-Springfield
+2440	Evansville
+2480	Fall River
+2520	Fargo-Moorhead
+2580	Fayetteville-Springdale
+2600	Fitchburg-Leominster
+2640	Flint
+2680	Fort Lauderdale-Hollywood-Pompano Beach
+2700	Fort Myers-Cape Coral
+2720	Fort Smith
+2760	Fort Wayne
+2800	Ft Worth-Arlington
+2840	Fresno
+2900	Gainesville
+2920	Galveston-Texas City
+2960	Gary-Hammond
+2975	Glens Falls
+2985	Grand Forks
+3000	Grand Rapids
+3040	Great Falls
+3080	Green Bay
+3120	Greensboro-Winston-Salem-High Pt
+3160	Greenville-Spartanburg
+3181	Hackensack
+3200	Hamilton-Middletown
+3240	Harrisburg-Lebanon-Carlisle
+3280	Hartford
+3320	Honolulu
+3350	Houma-Thibodaux
+3360	Houston
+3400	Huntington-Ashland
+3440	Huntsville
+3480	Indianapolis
+3500	Iowa City
+3520	Jackson
+3560	Jackson
+3600	Jacksonville
+3620	Janesville-Beloit
+3640	Jersey City
+3660	Johnson City-Kingsport-Bristol
+3680	Johnstown
+3690	Joliet
+3720	Kalamazoo
+3740	Kankakee
+3760	Kansas City
+3800	Kenosha
+3810	Killeen-Temple
+3840	Knoxville
+3850	Kokomo
+3870	La Crosse
+3880	Lafayette
+3920	Lafayette
+3960	Lake Charles
+3965	Lake County
+3980	Lakeland-Winter Haven
+4000	Lancaster
+4040	Lansing-East Lansing
+4080	Laredo
+4100	Las Cruces
+4120	Las Vegas
+4150	Lawrence
+4160	Lawrence-Haverhill
+4200	Lawton
+4240	Lewiston-Auburn
+4280	Lexington-Fayette
+4320	Lima
+4360	Lincoln
+4400	Little Rock-North Little Rock
+4410	Long Branch-Asbury Park
+4420	Longview-Marshall
+4480	Los Angeles-Long Beach
+4520	Louisville
+4560	Lowell
+4600	Lubbock
+4640	Lynchburg
+4680	Macon-Warner Robins
+4720	Madison
+4760	Manchester
+4800	Mansfield
+4840	Mayaguez
+4880	Mcallen-Edinburg-Mission
+4890	Medford
+4900	Melbourne-Titusville-Palm Bay
+4920	Memphis
+5000	Miami-Hialeah
+5015	Middlesex-Somerset-Hunterdon
+5040	Midland
+5080	Milwaukee
+5120	Minneapolis-St Paul
+5140	Missoula
+5160	Mobile
+5170	Modesto
+5190	Monmouth-Ocean
+5200	Monroe
+5231	Monroe County
+5240	Montgomery
+5280	Muncie
+5320	Muskegon
+5350	Nashua
+5360	Nashville
+5380	Nassau-Suffolk
+5400	New Bedford
+5440	New Britain
+5460	New Brunswick-Perth Amboy-Sayreville
+5480	New Haven-Meriden
+5520	New London-Norwich
+5560	New Orleans
+5581	New York-Northeastern New Jersey
+5591	New York And Nassau-Suffolk
+5600	New York Pmsa
+5611	New York City
+5612	Borough Of The Bronx
+5613	Borough Of Brooklyn
+5614	Borough Of Manhattan
+5616	Borough Of Queens
+5617	Borough Of Staten Island
+5640	Newark
+5660	Newburgh
+5680	Newport News-Hampton
+5700	Niagara Falls
+5720	Norfolk-Virginia Beach-Newport News
+5745	Northeast Pennsylvania
+5751	Northern Virginia
+5775	Oakland
+5800	Odessa
+5880	Oklahoma City
+5920	Omaha
+5945	Orange County
+5950	Orange County
+5960	Orlando
+5990	Owensboro
+6015	Panama City
+6020	Parkersburg-Marietta
+6040	Patterson-Clifton-Pasaic
+6060	Pawtucket-Woonsocket-Attleboro
+6080	Pensacola
+6120	Peoria
+6140	Petersburg-Colonial Hgts-Hopewell
+6160	Philadelphia Pmsa
+6161	Philadelphia City
+6200	Phoenix
+6240	Pine Bluff
+6280	Pittsburgh
+6320	Pittsfield
+6360	Ponce
+6400	Portland
+6440	Portland
+6450	Portsmouth-Dover-Rochester
+6460	Poughkeepsie
+6480	Providence
+6520	Provo-Orem
+6561	Putnam County
+6600	Racine
+6640	Raleigh-Durham
+6660	Rapid City
+6680	Reading
+6720	Reno
+6760	Richmond-Petersburg
+6780	Riverside-San Bernardino
+6800	Roanoke
+6820	Rochester
+6840	Rochester
+6880	Rockford
+6901	Rockland County
+6920	Sacramento
+6960	Saginaw-Bay City-Midland
+6980	St Cloud
+7000	St Joseph
+7040	St Louis
+7080	Salem
+7120	Salinas-Seaside-Monterey
+7160	Salt Lake City-Ogden
+7200	San Angelo
+7240	San Antonio
+7320	San Diego
+7360	San Francisco
+7400	San Jose
+7440	San Juan
+7480	Santa Barbara-Santa Maria-Lompoc
+7490	Santa Fe
+7500	Santa Rosa-Petaluma
+7510	Sarasota
+7520	Savannah
+7560	Scranton-Wilkes-Barre
+7561	Scranton
+7600	Seattle
+7610	Sharon
+7620	Sheboygan
+7640	Sherman-Denison
+7680	Shreveport
+7720	Sioux City
+7760	Sioux Falls
+7800	South Bend-Mishawaka
+7840	Spokane
+7880	Springfield
+7920	Springfield
+7971	Springfield
+8000	Springfield
+8040	Stamford
+8050	State College
+8080	Steubenville-Weirton
+8120	Stockton
+8125	Suburban Maryland-Dc
+8160	Syracuse
+8200	Tacoma
+8240	Tallahassee
+8280	Tampa-St Petersburg-Clearwater
+8320	Terre Haute
+8360	Texarkana
+8400	Toledo
+8440	Topeka
+8480	Trenton
+8520	Tucson
+8560	Tulsa
+8600	Tuscaloosa
+8640	Tyler
+8680	Utica-Rome
+8720	Vallejo-Fairfield-Napa
+8735	Ventura
+8750	Victoria
+8760	Vineland-Millville-Bridgeton
+8800	Waco
+8840	Washington Msa
+8880	Waterbury
+8920	Waterloo-Cedar Falls
+8940	Wausau
+8960	West Palm Beach-Boca Raton-Delray Beach
+8971	Westchester County
+9000	Wheeling
+9040	Wichita
+9080	Wichita Falls
+9121	Wilkes-Barre-Hazleton
+9140	Williamsport
+9160	Wilmington
+9240	Worcester
+9280	York
+9320	Youngstown-Warren

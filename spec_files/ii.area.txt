@@ -1,0 +1,238 @@
+area_code	area_name	display_level	selectable	sort_sequence
+000	All ownerships, All U.S.	0	T	0	
+001	All ownerships, Alabama	0	T	5	
+002	All ownerships, Alaska	0	T	10	
+004	All ownerships, Arizona	0	T	15	
+005	All ownerships, Arkansas	0	T	20	
+006	All ownerships, California	0	T	25	
+009	All ownerships, Connecticut	0	T	30	
+010	All ownerships, Delaware	0	T	35	
+011	All ownerships, District of Columbia	0	T	40	
+012	All ownerships, Florida	0	T	45	
+013	All ownerships, Georgia	0	T	50	
+015	All ownerships, Hawaii	0	T	55	
+017	All ownerships, Illinois	0	T	60	
+018	All ownerships, Indiana	0	T	65	
+019	All ownerships, Iowa	0	T	70	
+020	All ownerships, Kansas	0	T	75	
+021	All ownerships, Kentucky	0	T	80	
+022	All ownerships, Louisiana	0	T	85	
+023	All ownerships, Maine	0	T	90	
+024	All ownerships, Maryland	0	T	95	
+025	All ownerships, Massachusetts	0	T	100	
+026	All ownerships, Michigan	0	T	105	
+027	All ownerships, Minnesota	0	T	110	
+029	All ownerships, Missouri	0	T	115	
+030	All ownerships, Montana	0	T	120	
+031	All ownerships, Nebraska	0	T	125	
+032	All ownerships, Nevada	0	T	130	
+034	All ownerships, New Jersey	0	T	135	
+035	All ownerships, New Mexico	0	T	140	
+036	All ownerships, New York	0	T	145	
+037	All ownerships, North Carolina	0	T	150	
+039	All ownerships, Ohio	0	T	155	
+040	All ownerships, Oklahoma	0	T	160	
+041	All ownerships, Oregon	0	T	165	
+042	All ownerships, Pennsylvania	0	T	170	
+043	All ownerships, Puerto Rico	0	T	175	
+045	All ownerships, South Carolina	0	T	185	
+047	All ownerships, Tennessee	0	T	190	
+048	All ownerships, Texas	0	T	195	
+049	All ownerships, Utah	0	T	200	
+050	All ownerships, Vermont	0	T	205	
+051	All ownerships, Virginia	0	T	210	
+052	All ownerships, Virgin Islands	0	T	215	
+053	All ownerships, Washington	0	T	220	
+054	All ownerships, West Virginia	0	T	225	
+055	All ownerships, Wisconsin	0	T	230	
+056	All ownerships, Wyoming	0	T	235	
+066	All ownerships, Guam	0	T	240	
+100	Private industry, All U.S.	0	T	1	
+101	Private industry, Alabama	0	T	6	
+102	Private industry, Alaska	0	T	11	
+104	Private industry, Arizona	0	T	16	
+105	Private industry, Arkansas	0	T	21	
+106	Private industry, California	0	T	26	
+109	Private industry, Connecticut	0	T	31	
+110	Private industry, Delaware	0	T	36	
+111	Private industry, District of Columbia	0	T	41	
+112	Private industry, Florida	0	T	46	
+113	Private industry, Georgia	0	T	51	
+115	Private industry, Hawaii	0	T	56	
+117	Private industry, Illinois	0	T	61	
+118	Private industry, Indiana	0	T	66	
+119	Private industry, Iowa	0	T	71	
+120	Private industry, Kansas	0	T	76	
+121	Private industry, Kentucky	0	T	81	
+122	Private industry, Louisiana	0	T	86	
+123	Private industry, Maine	0	T	91	
+124	Private industry, Maryland	0	T	96	
+125	Private industry, Massachusetts	0	T	101	
+126	Private industry, Michigan	0	T	106	
+127	Private industry, Minnesota	0	T	111	
+129	Private industry, Missouri	0	T	116	
+130	Private industry, Montana	0	T	121	
+131	Private industry, Nebraska	0	T	126	
+132	Private industry, Nevada	0	T	131	
+134	Private industry, New Jersey	0	T	136	
+135	Private industry, New Mexico	0	T	141	
+136	Private industry, New York	0	T	146	
+137	Private industry, North Carolina	0	T	151	
+139	Private industry, Ohio	0	T	156	
+140	Private industry, Oklahoma	0	T	161	
+141	Private industry, Oregon	0	T	166	
+142	Private industry, Pennsylvania	0	T	171	
+143	Private industry, Puerto Rico	0	T	176	
+144	Private Industry, Rhode Island	0	T	181	
+145	Private industry, South Carolina	0	T	186	
+147	Private industry, Tennessee	0	T	191	
+148	Private industry, Texas	0	T	196	
+149	Private industry, Utah	0	T	201	
+150	Private industry, Vermont	0	T	206	
+151	Private industry, Virginia	0	T	211	
+152	Private industry, Virgin Islands	0	T	216	
+153	Private industry, Washington	0	T	221	
+154	Private industry, West Virginia	0	T	226	
+155	Private industry, Wisconsin	0	T	231	
+156	Private industry, Wyoming	0	T	236	
+166	Private industry, Guam	0	T	241	
+700	State government, All U.S.	0	T	3	
+701	State government, Alabama	0	T	8	
+702	State government, Alaska	0	T	13	
+704	State government, Arizona	0	T	18	
+705	State government, Arkansas	0	T	23	
+706	State government, California	0	T	28	
+709	State government, Connecticut	0	T	33	
+710	State government, Delaware	0	T	38	
+711	State government, District of Columbia	0	T	43	
+712	State government, Florida	0	T	48	
+713	State government, Georgia	0	T	53	
+715	State government, Hawaii	0	T	58	
+717	State government, Illinois	0	T	63	
+718	State government, Indiana	0	T	68	
+719	State government, Iowa	0	T	73	
+720	State government, Kansas	0	T	78	
+721	State government, Kentucky	0	T	83	
+722	State government, Louisiana	0	T	88	
+723	State government, Maine	0	T	93	
+724	State government, Maryland	0	T	98	
+725	State government, Massachusetts	0	T	103	
+726	State government, Michigan	0	T	108	
+727	State government, Minnesota	0	T	113	
+729	State government, Missouri	0	T	118	
+730	State government, Montana	0	T	123	
+731	State government, Nebraska	0	T	128	
+732	State government, Nevada	0	T	133	
+734	State government, New Jersey	0	T	138	
+735	State government, New Mexico	0	T	143	
+736	State government, New York	0	T	148	
+737	State government, North Carolina	0	T	153	
+739	State government, Ohio	0	T	158	
+740	State government, Oklahoma	0	T	163	
+741	State government, Oregon	0	T	168	
+742	State government, Pennsylvania	0	T	173	
+743	State government, Puerto Rico	0	T	178	
+745	State government, South Carolina	0	T	188	
+747	State government, Tennessee	0	T	193	
+748	State government, Texas	0	T	198	
+749	State government, Utah	0	T	203	
+750	State government, Vermont	0	T	208	
+751	State government, Virginia	0	T	213	
+752	State government, Virgin Islands	0	T	218	
+753	State government, Washington	0	T	223	
+754	State government, West Virginia	0	T	228	
+755	State government, Wisconsin	0	T	233	
+756	State government, Wyoming	0	T	238	
+766	State government, Guam	0	T	243	
+800	Local government, All U.S.	0	T	4	
+801	Local government, Alabama	0	T	9	
+802	Local government, Alaska	0	T	14	
+804	Local government, Arizona	0	T	19	
+805	Local government, Arkansas	0	T	24	
+806	Local government, California	0	T	29	
+809	Local government, Connecticut	0	T	34	
+810	Local government, Delaware	0	T	39	
+811	Local government, District of Columbia	0	T	44	
+812	Local government, Florida	0	T	49	
+813	Local government, Georgia	0	T	54	
+815	Local government, Hawaii	0	T	59	
+817	Local government, Illinois	0	T	64	
+818	Local government, Indiana	0	T	69	
+819	Local government, Iowa	0	T	74	
+820	Local government, Kansas	0	T	79	
+821	Local government, Kentucky	0	T	84	
+822	Local government, Louisiana	0	T	89	
+823	Local government, Maine	0	T	94	
+824	Local government, Maryland	0	T	99	
+825	Local government, Massachusetts	0	T	104	
+826	Local government, Michigan	0	T	109	
+827	Local government, Minnesota	0	T	114	
+829	Local government, Missouri	0	T	119	
+830	Local government, Montana	0	T	124	
+831	Local government, Nebraska	0	T	129	
+832	Local government, Nevada	0	T	134	
+834	Local government, New Jersey	0	T	139	
+835	Local government, New Mexico	0	T	144	
+836	Local government, New York	0	T	149	
+837	Local government, North Carolina	0	T	154	
+839	Local government, Ohio	0	T	159	
+840	Local government, Oklahoma	0	T	164	
+841	Local government, Oregon	0	T	169	
+842	Local government, Pennsylvania	0	T	174	
+843	Local government, Puerto Rico	0	T	179	
+845	Local government, South Carolina	0	T	189	
+847	Local government, Tennessee	0	T	194	
+848	Local government, Texas	0	T	199	
+849	Local government, Utah	0	T	204	
+850	Local government, Vermont	0	T	209	
+851	Local government, Virginia	0	T	214	
+853	Local government, Washington	0	T	219	
+854	Local government, West Virginia	0	T	224	
+855	Local government, Wisconsin	0	T	229	
+856	Local government, Wyoming	0	T	234	
+900	State and local government combined, All U.S.	0	T	2	
+901	State and local government combined, Alabama	0	T	7	
+902	State and local government combined, Alaska	0	T	12	
+904	State and local government combined, Arizona	0	T	17	
+905	State and local government combined, Arkansas	0	T	22	
+906	State and local government combined, California	0	T	27	
+909	State and local government combined, Connecticut	0	T	32	
+910	State and local government combined, Delaware	0	T	37	
+912	State and local government combined, Florida	0	T	47	
+913	State and local government combined, Georgia	0	T	52	
+915	State and local government combined, Hawaii	0	T	57	
+917	State and local government combined, Illinois	0	T	62	
+918	State and local government combined, Indiana	0	T	67	
+919	State and local government combined, Iowa	0	T	72	
+920	State and local government combined, Kansas	0	T	77	
+921	State and local government combined, Kentucky	0	T	82	
+922	State and local government combined, Louisiana	0	T	87	
+923	State and local government combined, Maine	0	T	92	
+924	State and local government combined, Maryland	0	T	97	
+925	State and local government combined, Massachusetts	0	T	102	
+926	State and local government combined, Michigan	0	T	107	
+927	State and local government combined, Minnesota	0	T	112	
+929	State and local government combined, Missouri	0	T	117	
+930	State and local government combined, Montana	0	T	122	
+931	State and local government combined, Nebraska	0	T	127	
+932	State and local government combined, Nevada	0	T	132	
+934	State and local government combined, New Jersey	0	T	137	
+935	State and local government combined, New Mexico	0	T	142	
+936	State and local government combined, New York	0	T	147	
+937	State and local government combined, North Carolina	0	T	152	
+939	State and local government combined, Ohio	0	T	157	
+940	State and local government combined, Oklahoma	0	T	162	
+941	State and local government combined, Oregon	0	T	167	
+943	State and local government combined, Puerto Rico	0	T	177	
+945	State and local government combined, South Carolina	0	T	187	
+947	State and local government combined, Tennessee	0	T	192	
+948	State and local government combined, Texas	0	T	197	
+949	State and local government combined, Utah	0	T	202	
+950	State and local government combined, Vermont	0	T	207	
+951	State and local government combined, Virginia	0	T	212	
+952	State and local government combined, Virgin Islands	0	T	217	
+953	State and local government combined, Washington	0	T	222	
+954	State and local government combined, West Virginia	0	T	227	
+955	State and local government combined, Wisconsin	0	T	232	
+956	State and local government combined, Wyoming	0	T	237	
+966	State and local government combined, Guam	0	T	242	

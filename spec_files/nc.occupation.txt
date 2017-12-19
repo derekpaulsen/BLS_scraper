@@ -1,0 +1,521 @@
+code	text
+00000		All occupations                                             	 	    
+01000		All occupations, excluding sales                            	 	    
+02000		White collar occupations                                    	 	    
+03000		White collar occupations, excluding sales                   	 	    
+04000		Professional specialty and technical occupations            	 	    
+05000		Professional specialty occupations                          	 	    
+06000		Engineers, architects, and surveyors                        	 	    
+06043		Architects                                                  	 	    
+06044		Aerospace engineers                                         	 	    
+06045		Metallurgical and materials engineers                       	 	   
+06046		Mining engineers                                            	 	   
+06047		Petroleum engineers                                         	 	   
+06048		Chemical engineers                                          	 	   
+06049		Nuclear engineers                                           	 	   
+06053		Civil engineers                                             	 	   
+06054		Agricultural engineers                                      	 	   
+06055		Electrical and electronic engineers                         	 	   
+06056		Industrial engineers                                        	 	   
+06057		Mechanical engineers                                        	 	   
+06058		Marine engineeers and naval architects                      	 	   
+06059		Engineers, n.e.c.                                           	 	   
+06063		Surveyors and mapping scientists                            	 	   
+07000		Mathematical and computer scientists                        	 	   
+07064		Computer systems analysts and scientists                    	 	   
+07065		Operations and systems researchers and analysts             	 	   
+07066		Actuaries                                                   	 	   
+07067		Statisticians                                               	 	   
+07068		Mathematical scientists, n.e.c.                             	 	   
+08000		Natural scientists                                          	 	   
+08069		Physicists and astronomers                                  	 	   
+08073		Chemists, exc. biochemists                                  	 	   
+08074		Atmospheric and space scientists                            	 	   
+08075		Geologists and geodesists                                   	 	   
+08076		Physical scientists, n.e.c.                                 	 	   
+08077		Agricultural and food scientists                            	 	   
+08078		Biological and life scientists                              	 	   
+08079		Forestry and conservation scientists                        	 	   
+08083		Medical scientists                                          	 	   
+09000		Health related occupations                                  	 	   
+09084		Physicians                                                  	 	   
+09085		Dentists                                                    	 	   
+09086		Veterinarians                                               	 	   
+09087		Optometrists                                                	 	   
+09088		Podiatrists                                                 	 	   
+09089		Health diagnosing practitioners, n.e.c.                     	 	   
+09095		Registered nurses                                           	 	   
+09096		Pharmacists                                                 	 	   
+09097		Dietitians                                                  	 	   
+09098		Respiratory therapists                                      	 	   
+09099		Occupational therapists                                     	 	   
+09103		Physical therapists                                         	 	   
+09104		Speech therapists                                           	 	   
+09105		Therapists, n.e.c.                                          	 	   
+09106		Physicians' assistants                                      	 	   
+10000		Teachers, college and university                            	 	   
+10113		Earth, environmental, and marine science teachers, postsecon	 	   
+10114		Biological science teachers, postsecondary                  	 	   
+10115		Chemistry teachers, postsecondary                           	 	   
+10116		Physics teachers, postsecondary                             	 	   
+10117		Natural science, n.e.c. teachers, postsecondary             	 	   
+10118		Psychology teachers, postsecondary                          	 	   
+10119		Economics teachers, postsecondary                           	 	   
+10123		History teachers, postsecondary                             	 	   
+10124		Political science teachers, postsecondary                   	 	   
+10125		Sociology teachers, postsecondary                           	 	   
+10126		Social science, n.e.c. teachers, postsecondary              	 	   
+10127		Engineering teachers, postsecondary                         	 	   
+10128		Mathematical science teachers, postsecondary                	 	   
+10129		Computer science teachers, postsecondary                    	 	   
+10133		Medical science teachers, postsecondary                     	 	   
+10134		Health specialities teachers, postsecondary                 	 	   
+10135		Business, commerce, and marketing teachers, postsecondary   	 	   
+10136		Agriculture and forestry teachers, postsecondary            	 	   
+10137		Art, drama, and music teachers, postsecondary               	 	   
+10138		Physical education teachers, postsecondary                  	 	   
+10139		Education teachers, postsecondary                           	 	   
+10143		English teachers, postsecondary                             	 	   
+10144		Foreign language teachers, postsecondary                    	 	   
+10145		Law teachers, postsecondary                                 	 	   
+10146		Social work teachers, postsecondary                         	 	   
+10147		Theology teachers, postsecondary                            	 	   
+10148		Trade and industrial teachers, postsecondary                	 	   
+10149		Home economics teachers, postsecondary                      	 	   
+10153		Teachers, postsecondary, n.e.c.                             	 	   
+10154		Teachers, postsecondary, subject not specified              	 	   
+11000		Teachers, except college and universities                   	 	   
+11155		Prekindergarten and kindergarten teachers, exc. postsecondar	 	   
+11156		Elementary school teachers, exc. postsecondary              	 	   
+11157		Secondary school teachers, exc. postsecondary               	 	   
+11158		Special education teachers, exc. postsecondary              	 	   
+11159		Teachers, n.e.c.                                            	 	   
+11160		Substitute teachers                                         	 	   
+11163		Counselors, educational and vocational                      	 	   
+12000		Librarians, archivists and curators                         	 	   
+12164		Librarians                                                  	 	   
+12165		Archivists and curators                                     	 	   
+13000		Social scientists and urban planners                        	 	   
+13166		Economists                                                  	 	   
+13167		Psychologists                                               	 	  
+13168		Sociologists                                                	 	  
+13169		Social scientists, n.e.c.                                   	 	  
+13173		Urban planners                                              	 	  
+14000		Social, recreation, and religious workers                   	 	  
+14174		Social workers                                              	 	  
+14175		Recreation workers                                          	 	  
+14176		Clergy                                                      	 	  
+14177		Religious workers, n.e.c.                                   	 	  
+15000		Lawyers and judges                                          	 	  
+15178		Lawyers                                                     	 	  
+15179		Judges                                                      	 	  
+16000		Writers, authors, entertainers, athletes and professionals, 	 	  
+16183		Authors                                                     	 	  
+16184		Technical writers                                           	 	  
+16185		Designers                                                   	 	  
+16186		Musicians and composers                                     	 	  
+16187		Actors and directors                                        	 	  
+16188		Painters, sculptors, craft-artists, and artist printmakers  	 	  
+16189		Photographers                                               	 	  
+16193		Dancers                                                     	 	  
+16194		Artists, performers, and related workers, n.e.c.            	 	  
+16195		Editors and reporters                                       	 	  
+16197		Public relations specialists                                	 	  
+16198		Announcers                                                  	 	  
+16199		Athletes                                                    	 	  
+16999		Professional occupations, n.e.c.                            	 	  
+17000		Technical occupations                                       	 	  
+17203		Clinical laboratory technologists and technicians           	 	  
+17204		Dental hygienists                                           	 	  
+17205		Health record technologists and technicians                 	 	  
+17206		Radiological technicians                                    	 	  
+17207		Licensed practical nurses                                   	 	  
+17208		Health technologists and technicians, n.e.c.                	 	  
+17213		Electrical and electronic technicians                       	 	  
+17214		Industrial engineering technicians                          	 	  
+17215		Mechanical engineering technicians                          	 	  
+17216		Engineering technicians. n.e.c.                             	 	  
+17217		Drafting occupations                                        	 	  
+17218		Surveying and mapping technicians                           	 	  
+17223		Biological technicians                                      	 	  
+17224		Chemical technicians                                        	 	  
+17225		Science technicians, n.e.c.                                 	 	  
+17226		Airplane pilots and navigators                              	 	  
+17227		Air traffic controllers                                     	 	  
+17228		Broadcast equipment operators                               	 	  
+17229		Computer programmers                                        	 	  
+17233		Tool programmers, numerical control                         	 	  
+17234		Legal assistants                                            	 	  
+17235		Technical and related occupations, n.e.c.                   	 	  
+18000		Executive, administrative, and managerial occupations       	 	  
+19000		Executives, administrators, and managers                    	 	  
+19003		Legislators                                                 	 	  
+19004		Chief executives and general administrators, public administ	 	  
+19005		Administrators and officials, public administration         	 	  
+19007		Financial managers                                          	 	  
+19008		Personnel and labor relations managers                      	 	  
+19009		Purchasing managers                                         	 	  
+19013		Managers, marketing, advertising, and public relations      	 	  
+19014		Administrators, education and related fields                	 	  
+19015		Managers, medicine and health                               	 	  
+19016		Postmasters and mail superintendents                        	 	  
+19017		Managers, food serving and lodging establishments           	 	  
+19018		Managers, properties and real estate                        	 	  
+19019		Funeral directors                                           	 	  
+19021		Managers, service organizations, n.e.c.                     	 	  
+19022		Managers and administrators, n.e.c.                         	 	  
+20000		Management related occupations                              	 	  
+20023		Accountants and auditors                                    	 	  
+20024		Underwriters                                                	 	  
+20025		Other financial officers                                    	 	  
+20026		Management analysts                                         	 	  
+20027		Personnel, training, and labor relations specialists        	 	  
+20028		Purchasing agents and buyers, farm products                 	 	  
+20029		Buyers, wholesale and retail trade exc. farm products       	 	  
+20033		Purchasing agents and buyers, n.e.c.                        	 	  
+20034		Business and promotion agents                               	 	  
+20035		Construction inspectors                                     	 	  
+20036		Inspectors and compliance officers, exc. construction       	 	  
+20037		Management related occupations, n.e.c.                      	 	  
+21000		Sales occupations                                           	 	  
+21243		Supervisors and proprietors, sales occupations              	 	  
+21253		Insurance sales occupations                                 	 	  
+21254		Real estate sales occupations                               	 	  
+21255		Securities and financial services sales occupations         	 	  
+21256		Advertising and related sales occupations                   	 	  
+21257		Sales occupations, other business services                  	 	  
+21258		Sales engineers                                             	 	  
+21259		Sales representatives, mining, manufacturing, and wholesale 	 	  
+21263		Sales workers, motor vehicles and boats                     	 	  
+21264		Sales workers, apparel                                      	 	  
+21265		Sales workers, shoes                                        	 	  
+21266		Sales workers, furniture and home furnishings               	 	  
+21267		Sales workers; radio, TV, hi-fi, and appliances             	 	  
+21268		Sales workers, hardware and building supplies               	 	  
+21269		Sales workers, parts                                        	 	  
+21274		Sales workers, other commodities                            	 	  
+21275		Sales counter clerks                                        	 	  
+21276		Cashiers                                                    	 	  
+21277		Street and door-to-door sales workers                       	 	  
+21278		News vendors                                                	 	  
+21283		Demonstrators, promoters and models, sales                  	 	  
+21284		Auctioneers                                                 	 	  
+21285		Sales support occupations, n.e.c.                           	 	  
+22000		Administrative support occupations, including clerical      	 	  
+22303		Supervisors, general office                                 	 	  
+22304		Supervisors, computer equipment operators                   	 	  
+22305		Supervisors, financial records processing                   	 	  
+22306		Chief communications operators                              	 	  
+22307		Supervisors; distribution, scheduling, and adjusting clerks 	 	  
+22308		Computer operators                                          	 	  
+22309		Peripheral equipment operators                              	 	  
+22313		Secretaries                                                 	 	  
+22314		Stenographers                                               	 	  
+22315		Typists                                                     	 	  
+22316		Interviewers                                                	 	  
+22317		Hotel clerks                                                	 	  
+22318		Transportation ticket and reservation agents                	 	  
+22319		Receptionists                                               	 	  
+22323		Information clerks, n.e.c.                                  	 	  
+22325		Classified-ad clerks                                        	 	  
+22326		Correspondence clerks                                       	 	  
+22327		Order clerks                                                	 	  
+22328		Personnel clerks, exc. payroll and timekeeping              	 	  
+22329		Library clerks                                              	 	  
+22335		File clerks                                                 	 	  
+22336		Records clerks, n.e.c.                                      	 	  
+22337		Bookkeepers, accounting, and auditing clerks                	 	  
+22338		Payroll and timekeeping clerks                              	 	  
+22339		Billing clerks                                              	 	  
+22343		Cost and rate clerks                                        	 	  
+22344		Billing, posting, and calculating machine operators         	 	  
+22345		Duplicating machine operators                               	 	  
+22346		Mail preparing and paper handling machine operators         	 	  
+22347		Office machine operators, n.e.c.                            	 	  
+22348		Telephone operators                                         	 	  
+22353		Communications equipment operators, n.e.c.                  	 	  
+22354		Postal clerks, exc. mail carriers                           	 	  
+22355		Mail carriers, postal service                               	 	  
+22356		Mail clerks, exc. postal service                            	 	  
+22357		Messengers                                                  	 	  
+22359		Dispatchers                                                 	 	  
+22363		Production coordinators                                     	 	  
+22364		Traffic, shipping, and receiving clerks                     	 	  
+22365		Stock and inventory clerks                                  	 	  
+22366		Meter readers                                               	 	  
+22368		Weighers, measurers, checkers and samplers                  	 	  
+22373		Expediters                                                  	 	  
+22374		Material recording, scheduling, and distributing clerks, n.e	 	  
+22375		Insurance adjusters, examiners, and investigators           	 	  
+22376		Investigators and adjusters, exc. insurance                 	 	  
+22377		Eligibility clerks, social welfare                          	 	  
+22378		Bill and account collectors                                 	 	  
+22379		General office clerks                                       	 	  
+22383		Bank tellers                                                	 	  
+22384		Proofreaders                                                	 	  
+22385		Data-entry keyers                                           	 	  
+22386		Statistical clerks                                          	 	  
+22387		Teachers' aides                                             	 	  
+22389		Administrative support occupations, n.e.c.                  	 	  
+23000		Blue collar occupations                                     	 	  
+24000		Precision production, craft, and repair occupations         	 	  
+24503		Supervisors, mechanics and repairers                        	 	  
+24505		Automobile mechanics                                        	 	  
+24506		Automobile mechanic apprentices                             	 	  
+24507		Bus, truck, and stationary engine mechanics                 	 	  
+24508		Aircraft engine mechanics                                   	 	  
+24509		Small engine repairers                                      	 	  
+24514		Automobile body and related repairers                       	 	  
+24515		Aircraft mechanics, exc. engine                             	 	  
+24516		Heavy equipment mechanics                                   	 	  
+24517		Farm equipment mechanics                                    	 	  
+24518		Industrial machinery repairers                              	 	  
+24519		Machinery maintenance occupations                           	 	  
+24523		Electronic repairers, communications and industrial equipmen	 	  
+24525		Data processing equipment repairers                         	 	  
+24526		Household appliance and power tool repairers                	 	  
+24527		Telephone line installers and repairers                     	 	  
+24529		Telephone installers and repairers                          	 	  
+24534		Heating, air conditioning, and refrigeration mechanics      	 	  
+24535		Camera, watch, and musical instrument repairers             	 	  
+24536		Locksmiths and safe repairers                               	 	  
+24538		Office machine repairers                                    	 	  
+24539		Mechanical controls and valve repairers                     	 	  
+24543		Elevator installers and repairers                           	 	  
+24544		Millwrights                                                 	 	  
+24547		Mechanics and repairers, n.e.c.                             	 	  
+24549		Not specified mechanics and repairers                       	 	  
+24553		Supervisors, brickmasons, stonemasons, and tile setters     	 	  
+24554		Supervisors, carpenters and related workers                 	 	  
+24555		Supervisors, electricians and power transmission installers 	 	  
+24556		Supervisors; painters, paperhangers, and plasterers         	 	  
+24557		Supervisors; plumbers, pipefitters, and steamfitters        	 	  
+24558		Supervisors, construction trades, n.e.c.                    	 	  
+24563		Brickmasons and stonemasons                                 	 	  
+24564		Brickmason and stonemason apprentices                       	 	  
+24565		Tile setters, hard and soft                                 	 	  
+24566		Carpet installers                                           	 	  
+24567		Carpenters                                                  	 	  
+24569		Carpenter apprentices                                       	 	  
+24573		Drywall installers                                          	 	  
+24575		Electricians                                                	 	  
+24576		Electrician apprentices                                     	 	  
+24577		Electrical power installers and repairers                   	 	  
+24579		Painters, construction and maintenance                      	 	  
+24583		Paperhangers                                                	 	  
+24584		Plasterers                                                  	 	  
+24585		Plumbers, pipefitters, and steamfitters                     	 	  
+24587		Plumber, pipefitter, and steamfitter apprentices            	 	  
+24588		Concrete and terrazzo finishers                             	 	  
+24589		Glaziers                                                    	 	  
+24593		Insulation workers                                          	 	  
+24594		Paving, surfacing, and tamping equipment operators          	 	  
+24595		Roofers                                                     	 	  
+24596		Sheetmetal duct installers                                  	 	  
+24597		Structural metal workers                                    	 	  
+24598		Drillers, earth                                             	 	  
+24599		Construction trades, n.e.c.                                 	 	  
+24613		Supervisors, extractive occupations                         	 	  
+24614		Drillers, oil well                                          	 	  
+24615		Explosives workers                                          	 	  
+24616		Mining machine operators                                    	 	  
+24617		Mining occupations, n.e.c.                                  	 	  
+24628		Supervisors, production occupations                         	 	  
+24634		Tool and die makers                                         	 	  
+24635		Tool and die maker apprentices                              	 	  
+24636		Precision assemblers, metal                                 	 	  
+24637		Machinists                                                  	 	  
+24639		Machinist apprentices                                       	 	  
+24643		Boilermakers                                                	 	  
+24644		Precision grinders, filers, and tool sharpeners             	 	  
+24645		Patternmakers and model makers, metal                       	 	  
+24646		Lay-out workers                                             	 	  
+24647		Precision stones and metals workers                         	 	  
+24649		Engravers, metal                                            	 	  
+24653		Sheet metal workers                                         	 	  
+24654		Sheet metal worker apprentices                              	 	  
+24656		Patternmakers and model makers, wood                        	 	  
+24657		Cabinet makers and bench carpenters                         	 	  
+24658		Furniture and wood finishers                                	 	  
+24666		Dressmakers                                                 	 	  
+24667		Tailors                                                     	 	  
+24668		Upholsterers                                                	 	  
+24669		Shoe repairers                                              	 	  
+24675		Hand molders and shapers, exc. jewelers                     	 	  
+24676		Patternmakers, lay-out workers, and cutters                 	 	  
+24677		Optical goods workers                                       	 	  
+24678		Dental laboratory and medical appliance technicians         	 	  
+24679		Bookbinders                                                 	 	  
+24683		Electrical and electronic equipment assemblers              	 	  
+24684		Miscellaneous precision workers, n.e.c.                     	 	  
+24685		Precision food production occupations                       	 	  
+24686		Butchers and meat cutters                                   	 	  
+24687		Bakers                                                      	 	  
+24688		Food batchmakers                                            	 	  
+24689		Inspectors, testers, and graders                            	 	  
+24690		Precision inspectors, testers, and related workers, n.e.c.  	 	  
+24693		Adjusters and calibrators                                   	 	  
+24694		Water and sewage treatment plant operators                  	 	  
+24695		Power plant operators                                       	 	  
+24696		Stationary engineers                                        	 	  
+24699		Miscellaneous plant and system operators, n.e.c.            	 	  
+28000		Machine operators, assemblers, and inspectors               	 	  
+28703		Lathe and turning machine set-up operators                  	 	  
+28704		Lathe and turning machine operators                         	 	  
+28705		Milling and planing machine operators                       	 	  
+28706		Punching and stamping press machine operators               	 	  
+28707		Rolling machine operators                                   	 	  
+28708		Drilling and boring machine operators                       	 	  
+28709		Grinding, abrading, buffing, and polishing machine operators	 	  
+28713		Forging machine operators                                   	 	  
+28714		Numerical control machine operators                         	 	  
+28717		Fabricating machine operators, n.e.c.                       	 	  
+28719		Molding and casting machine operators                       	 	  
+28723		Metal plating machine operators                             	 	  
+28724		Heat treating equipment operators                           	 	  
+28725		Miscellaneous metal and plastic processing machine operators	 	  
+28726		Wood lathe, routing, and planing machine operators          	 	  
+28727		Sawing machine operators                                    	 	  
+28728		Shaping and joining machine operators                       	 	  
+28729		Nailing and tacking machine operators                       	 	  
+28733		Miscellaneous woodworking machine operators                 	 	  
+28734		Printing press operators                                    	 	  
+28735		Photoengravers and lithographers                            	 	  
+28736		Typesetters and compositors                                 	 	  
+28738		Winding and twisting machine operators                      	 	  
+28739		Knitting, looping, taping, and weaving machine operators    	 	  
+28743		Textile cutting machine operators                           	 	  
+28744		Textile sewing machine operators                            	 	  
+28745		Shoe machine operators                                      	 	  
+28747		Pressing machine operators                                  	 	  
+28748		Laundering and dry cleaning machine operators               	 	  
+28753		Cementing and gluing machine operators                      	 	  
+28754		Packaging and filling machine operators                     	 	  
+28755		Extruding and forming machine operators                     	 	  
+28756		Mixing and blending machine operators                       	 	  
+28757		Separating, filtering, and clarifying machine operators     	 	  
+28758		Compressing and compacting machine operators                	 	  
+28759		Painting and paint spraying machine operators               	 	  
+28763		Roasting and baking machine operators                       	 	  
+28764		Washing, cleaning, and pickling machine operators           	 	  
+28765		Folding machine operators                                   	 	  
+28766		Furnace, kiln, and oven operators, exc. food                	 	  
+28768		Crushing and grinding machine operators                     	 	  
+28769		Slicing and cutting machine operators                       	 	  
+28773		Motion picture projectionists                               	 	  
+28774		Photographic process machine operators                      	 	  
+28777		Miscellaneous machine operators, n.e.c.                     	 	  
+28783		Welders and cutters                                         	 	  
+28784		Solderers and brazers                                       	 	  
+28785		Assemblers                                                  	 	  
+28786		Hand cutting and trimming occupations                       	 	  
+28787		Hand molding, casting, and forming occupations              	 	  
+28789		Hand painting, coating, and decorating occupations          	 	  
+28793		Hand engraving and printing occupations                     	 	  
+28795		Miscellaneous hand working occupations, n.e.c.              	 	  
+28796		Production inspectors, checkers, and examiners              	 	  
+28797		Production testers                                          	 	  
+28798		Production samplers and weighers                            	 	  
+28799		Graders and sorters, exc. agricultural                      	 	  
+28800		Hand inspectors, n.e.c.                                     	 	  
+29000		Transportation and material moving occupations              	 	  
+29803		Supervisors, motor vehicle operators                        	 	  
+29804		Truck drivers                                               	 	  
+29806		Driver-sales workers                                        	 	  
+29808		Bus drivers                                                 	 	  
+29809		Taxicab drivers and chauffeurs                              	 	  
+29813		Parking lot attendants                                      	 	  
+29814		Motor transportation occupations, n.e.c.                    	 	  
+29823		Railroad conductors and yardmasters                         	 	  
+29824		Locomotive operating occupations                            	 	  
+29825		Railroad brake, signal, and switch operators                	 	  
+29826		Rail vehicle operators, n.e.c.                              	 	  
+29828		Ship captains and mates, exc. fishing boats                 	 	  
+29829		Sailors and deckhands                                       	 	  
+29833		Marine engineers                                            	 	  
+29834		Bridge, lock, and lighthouse tenders                        	 	  
+29843		Supervisors, material moving equipment operators            	 	  
+29844		Operating engineers                                         	 	  
+29845		Longshore equipment operators                               	 	  
+29848		Hoist and winch operators                                   	 	  
+29849		Crane and tower operators                                   	 	  
+29853		Excavating and loading machine operators                    	 	  
+29855		Grader, dozer, and scraper operators                        	 	  
+29856		Industrial truck and tractor equipment operators            	 	  
+29859		Miscellaneous material moving equipment operators, n.e.c.   	 	  
+30000		Handlers, equipment cleaners, helpers, and laborers         	 	  
+30483		Marine life cultivation workers                             	 	  
+30484		Nursery workers                                             	 	  
+30485		Supervisors, related agricultural occupations               	 	  
+30486		Groundskeepers and gardeners, exc. farm                     	 	  
+30487		Animal caretakers, exc. farm                                	 	  
+30489		Inspectors, agricultural products                           	 	  
+30494		Supervisors, forestry, and logging workers                  	 	  
+30495		Forestry workers, exc. logging                              	 	  
+30496		Timber cutting and logging occupations                      	 	  
+30497		Captains and other officers, fishing vessels                	 	  
+30498		Fishers, hunters, and trappers                              	 	  
+30864		Supervisors, handlers, equipment cleaners, and laborers, n.e	 	  
+30865		Helpers, mechanics and repairers                            	 	  
+30866		Helpers, construction trades                                	 	  
+30867		Helpers, surveyors                                          	 	  
+30868		Helpers, extractive occupations                             	 	  
+30869		Construction laborers                                       	 	  
+30874		Production helpers                                          	 	  
+30875		Garbage collectors                                          	 	  
+30876		Stevedores                                                  	 	  
+30877		Stock handlers and baggers                                  	 	  
+30878		Machine feeders and offbearers                              	 	  
+30883		Freight, stock, and material handlers, n.e.c.               	 	  
+30885		Garage and service station related occupations              	 	  
+30887		Vehicle washers and equipment cleaners                      	 	  
+30888		Hand packers and packagers                                  	 	  
+30889		Laborers, except construction, n.e.c.                       	 	  
+31000		Service occupations, except private household               	 	  
+32000		Protective service occupations                              	 	  
+32413		Supervisors, firefighting and fire prevention occupations   	 	  
+32414		Supervisors, police and detectives                          	 	  
+32415		Supervisors, guards                                         	 	  
+32416		Fire inspection and fire prevention occupations             	 	  
+32417		Firefighting occupations                                    	 	  
+32418		Police and detectives, public service                       	 	  
+32423		Sheriffs, bailiffs, and other law enforcement officers      	 	  
+32424		Correctional institution officers                           	 	  
+32425		Crossing guards                                             	 	  
+32426		Guards and police, exc. public service                      	 	  
+32427		Protective service occupations, n.e.c.                      	 	  
+33000		Food service occupations                                    	 	  
+33433		Supervisors, food preparation and service occupations       	 	  
+33434		Bartenders                                                  	 	  
+33435		Waiters and waitresses                                      	 	  
+33436		Cooks                                                       	 	  
+33438		Food counter, fountain and related occupations              	 	  
+33439		Kitchen workers, food preparation                           	 	  
+33443		Waiters'/waitresses' assistants                             	 	  
+33444		Miscellaneous food preparation occupations, n.e.c.          	 	  
+34000		Health service occupations                                  	 	  
+34445		Dental assistants                                           	 	  
+34446		Health aides, exc. nursing                                  	 	  
+34447		Nursing aides, orderlies, and attendants                    	 	  
+35000		Cleaning and building service occupations                   	 	  
+35448		Supervisors, cleaning and building service workers          	 	  
+35449		Maids and housemen                                          	 	  
+35453		Janitors and cleaners                                       	 	  
+35454		Elevator operators                                          	 	  
+35455		Pest control occupations                                    	 	  
+36000		Personal service occupations                                	 	  
+36456		Supervisors, personal service occupations                   	 	  
+36457		Barbers                                                     	 	  
+36458		Hairdressers and cosmetologists                             	 	  
+36459		Attendants, amusement and recreation facilities             	 	  
+36461		Guides                                                      	 	  
+36462		Ushers                                                      	 	  
+36463		Public transportation attendants                            	 	  
+36464		Baggage porters and bellhops                                	 	  
+36465		Welfare service aides                                       	 	  
+36467		Early childhood teacher's assistants                        	 	  
+36468		Child care workers, n.e.c.                                  	 	  
+36469		Service occupations, n.e.c.                                 	 	  
+37000		Other postsecondary teachers                                	 	   
+38000		Waiter, waitresses, and bartenders                          	 	  
+39000		Other food service                                          	 	  

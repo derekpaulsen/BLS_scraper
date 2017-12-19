@@ -1,0 +1,21 @@
+case_type_code	case_type_text	display_level	selectable	sort_sequence
+0	RSE of Total recordable cases	0	T	0	
+1	Total recordable cases	0	T	0	
+2	Cases involving days away from work, job restriction, or transfer	0	T	0	
+3	Cases involving days away from work	0	T	0	
+4	Cases involving days of job transfer or restriction	0	T	0	
+5	RSE of Cases involving days away from work, job restriction, or transfer	0	T	0	
+6	RSE of Cases involving days away from work	0	T	0	
+7	RSE of Cases involving days of job transfer or restriction	0	T	0	
+8	Other recordable cases	0	T	0	
+9	RSE of Other recordable cases	0	T	0	
+A	RSE of Total recordable cases of poisoning	0	T	0	
+B	RSE of Total recordable cases of skin disease	0	T	0	
+C	RSE of Total recordable cases of hearing loss	0	T	0	
+D	RSE of Total recordable cases of respiratory illnesses	0	T	0	
+E	RSE of Total recordable cases of all other illnesses	0	T	0	
+T	Total recordable cases of poisoning	0	T	0	
+U	Total recordable cases of skin disease	0	T	0	
+V	Total recordable cases of hearing loss	0	T	0	
+W	Total recordable cases of respiratory illnesses	0	T	0	
+Z	Total recordable cases of all other illnesses	0	T	0	

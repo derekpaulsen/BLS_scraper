@@ -1,0 +1,636 @@
+title_code	title_name
+
+401KINC0000	Incidence Of Cash Or Deferred Arrangements
+ACCDDINC000	Incidence Of Accidental Death And Dismemberment Coverage
+ACCDDINCBC0	Incidence Of Accidental Death And Dismemberment Coverage Among Blue-collar And Service Employees
+ACCDDINCCS0	Incidence Of Accidental Death And Dismemberment Coverage Among Clerical And Sales Employees
+ACCDDINCFT0	Incidence Of Accidental Death And Dismemberment Coverage Among Full-time Workers
+ACCDDINCGP0	Incidence Of Accidental Death And Dismemberment Coverage Among Workers In Goods-producing Industries
+ACCDDINCMW0	Incidence Of Accidental Death And Dismemberment Coverage Among Workers In the Midwest Region
+ACCDDINCNE0	Incidence Of Accidental Death And Dismemberment Coverage Among Workers In the Northeast Region
+ACCDDINCNU0	Incidence Of Accidental Death And Dismemberment Coverage Among Nonunion Workers
+ACCDDINCPR0	Incidence Of Accidental Death And Dismemberment Coverage Among Professional, Technical, And Related
+ACCDDINCPT0	Incidence Of Accidental Death And Dismemberment Coverage Among Part-time Workers
+ACCDDINCSO0	Incidence Of Accidental Death And Dismemberment Coverage Among Workers In the South Region
+ACCDDINCSP0	Incidence Of Accidental Death And Dismemberment Coverage Among Workers In Service-producing Industri
+ACCDDINCUN0	Incidence Of Accidental Death And Dismemberment Coverage Among Union Workers
+ACCDDINCW10	Incidence Of Accidental Death And Dismemberment Coverage Among Workers In Establishments With 1-99 W
+ACCDDINCW20	Incidence Of Accidental Death And Dismemberment Coverage Among Workers In Establishments With 100 Wo
+ACCDDINCWE0	Incidence Of Accidental Death And Dismemberment Coverage Among Workers In the West Region
+ADHOCINC000	Percent Of Employees With Defined Benefit Giving Postretirement Increases In Last 5 Years
+ADOPTINC000	Percent Of All Workers With Access To Adoption Assistance Benefits
+ADOPTINCBX0	Percent Of Blue-collar Workers With Access To Adoption Assistance Benefits
+ADOPTINCFT0	Percent Of Full-time Workers With Access To Adoption Assistance Benefits
+ADOPTINCGP0	Percent Of Workers In Goods-producing Industries With Access To Adoption Assistance Benefits
+ADOPTINCNU0	Percent Of Nonunion Workers With Access To Adoption Assistance Benefits
+ADOPTINCPT0	Percent Of Part-time Workers With Access To Adoption Assistance Benefits
+ADOPTINCSP0	Percent Of Workers In Service-providing Industries With Access To Adoption Assistance Benefits
+ADOPTINCSX0	Percent Of Service Occupations With Access To Adoption Assistance Benefits
+ADOPTINCUN0	Percent Of Union Workers With Access To Adoption Assistance Benefits
+ADOPTINCW10	Percent Of Workers In Establishments With 1-99 Workers With Access To Adoption Assistance Benefits
+ADOPTINCW20	Percent Of Workers In Establishments With 100 Or More Workers With Access To Adoption Assistance Ben
+ADOPTINCWC0	Percent Of White-collar Occupations With Access To Adoption Assistance Benefits
+ALCOHOL0000	Percent Of Employees With Medical Care Benefits Who Have Coverage For Alcohol Abuse Treatment
+ALLRET00000	Percent Of Employees Participating In All Retirement Plans
+ALLRETBC000	Percent Of Blue-collar And Clerical Employees Participating In All Retirement Plans
+ALLRETBX000	Percent Of Blue-collar Workers Participating In All Retirement Plans
+ALLRETCS000	Percent Of Clerical And Sales Employees Participating In All Retirement Plans
+ALLRETFT000	Percent Of Full-time Workers Participating In All Retirement Plans
+ALLRETGP000	Percent Of Workers In Goods-producing Industries Participating In All Retirement Plans
+ALLRETMW000	Percent Of Workers In the Midwest Region Participating In All Retirement Plans
+ALLRETNE000	Percent Of Workers In the Northeast Region Participating In All Retirement Plans
+ALLRETNU000	Percent Of Nonunion Workers Participating In All Retirement Plans
+ALLRETPR000	Percent Of Professional, Technical, And Related Workers Participating In All Retirement Plans
+ALLRETPT000	Percent Of Part-time Workers Participating In All Retirement Plans
+ALLRETSO000	Percent Of Workers In the South Region Participating In All Retirement Plans
+ALLRETSP000	Percent Of Workers In Service-producing Industries Participating In All Retirement Plans
+ALLRETSX000	Percent Of Service Occupations Participating In All Retirement Plans
+ALLRETUN000	Percent Of Union Workers PArticipating In All Retirement Plans
+ALLRETW1000	Percent Of Workers In Establishments With 1-99 Workers Participating In All Retirement Plans
+ALLRETW2000	Percent Of Workers In Establishments With 100 Or More Workers Participating In All Retirement Plans
+ALLRETWC000	Percent Of White-collar Workers Participating In All Retirement Plans
+ALLRETWE000	Percent Of Workers In the West Region Participating In All Retirement Plans
+BCBS0000000	Percent Of Employees With Medical Care Offered By Blue Cross/ Blue Shield
+CHILDINC000	Percent Of All Workers With Access To Employer Assistance For Child Care
+CHILDINCBC0	Percent Of Blue-collar And Service Employees With Access To Employer Assistance For Child Care
+CHILDINCBX0	Percent Of Blue-collar Workers With Access To Employer Assistance For Child Care
+CHILDINCCS0	Percent Of Clerical And Sales Workers With Access To Employer Assistance For Child Care
+CHILDINCFT0	Percent Of Full-time Workers With Access To Employer Assistance For Child Care
+CHILDINCGP0	Percent Of Workers In Goods-producing Industries With Access To Employer Assistance For Child Care
+CHILDINCMW0	Percent Of Workers In the Midwest Region With Access To Employer Assistance For Child Care
+CHILDINCNE0	Percent Of Workers In the Northeast Region With Access To Employer Assistance For Child Care
+CHILDINCNU0	Percent Of Nonunion Workers With Access To Employer Assistance For Child Care
+CHILDINCPR0	Percent Of Professional, Technical, And Related Employees With Access To Employer Assistance For Chi
+CHILDINCPT0	Percent Of Part-time Workers With Access To Employer Assistance For Child Care
+CHILDINCSO0	Percent Of Workers In the South Region With Access To Employer Assistance For Child Care
+CHILDINCSP0	Percent Of Workers In Service-producing Industries With Access To Employer Assistance For Child Care
+CHILDINCSX0	Percent Of Service Workers With Access To Employer Assistance For Child Care
+CHILDINCUN0	Percent Of Union Workers With Access To Employer Assistance For Child Care
+CHILDINCW10	Percent Of Workers In Establishments With 1-99 Workers With Access To Employer Assistance For Child
+CHILDINCW20	Percent Of Workers In Establishments With 100 Workers Or More With Access To Employer Assistance For
+CHILDINCWC0	Percent Of White-collar Workers With Access To Employer Assistance For Child Care
+CHILDINCWE0	Incidence Of Child Care Among Workers In the West Region
+COMMERCIAL0	Percent Of Employees With Medical Care Offered By Commercial Insurance Companies
+DBCONTRI000	Percent Of Employees Participating In Defined Benefit Pension Required To Contribute
+DBCONTRIBX0	Percent Of Blue-collar Workers Participating In Defined Benefit Pension Required To Contribute
+DBCONTRIFT0	Percent Of Full-time Workers Participating In Defined Benefit Pension Required To Contribute
+DBCONTRIGP0	Percent Of Workers In Goods-producing Industries Participating In Defined Benefit Pension Required T
+DBCONTRINU0	Percent Of Nonunion Workers Participating In Defined Benefit Pension Required To Contribute
+DBCONTRIPT0	Percent Of Part-time Workers Participating In Defined Benefit Pension Required To Contribute
+DBCONTRISP0	Percent Of Workers In Service-producing Industries Participating In Defined Benefit Pension Required
+DBCONTRISX0	Percent Of Service Workers Participating In Defined Benefit Pension Required To Contribute
+DBCONTRIUN0	Percent Of Union Workers Participating In Defined Benefit Pension Required To Contribute
+DBCONTRIW10	Percent Of Workers In Establishments With 1-99 Workers Participating In Defined Benefit Pension Requ
+DBCONTRIW20	Percent Of Workers In Establishments With 100 Workers Or More Participating In Defined Benefit Pensi
+DBCONTRIWC0	Percent Of White-collar Workers Participating In Defined Benefit Pension Required To Contribute
+DBINC000000	Percent Of All Workers Participating In Defined Benefit Pension
+DBINCBC0000	Percent Of Blue-collar And Service Workers Participating In Defined Benefit Pension
+DBINCBX0000	Percent Of Blue-collar Workers Participating In Defined Benefit Pension
+DBINCCS0000	Percent Of Clerical And Sales Workers Participating In Defined Benefit Pension
+DBINCFT0000	Percent Of Full-time Workers Participating In Defined Benefit Pension
+DBINCGP0000	Percent Of Workers In Goods-producing Industries Participating In Defined Benefit Pension
+DBINCMW0000	Percent Of Workers In the Midwest Region Participating In Defined Benefit Pension
+DBINCNE0000	Percent Of Workers In the Northeast Region Participating In Defined Benefit Pension
+DBINCNU0000	Percent Of Nonunion Workers Participating In Defined Benefit Pension
+DBINCPR0000	Percent Of Professional, Technical, And Related Workers Participating In Defined Benefit Pension
+DBINCPT0000	Percent Of Part-time Workers Participating In Defined Benefit Pension
+DBINCSO0000	Percent Of Workers In the South Region Participating In Defined Benefit Pension
+DBINCSP0000	Percent Of Workers In Service-producing Industries Participating In Defined Benefit Pension
+DBINCSX0000	Percent Of Workers In Service Occupations Participating In Defined Benefit Pension
+DBINCUN0000	Percent Of Union Workers Participating In Defined Benefit Pension
+DBINCW10000	Percent Of Workers In Establishments With 1-99 Workers Participating In Defined Benefit Pension
+DBINCW20000	Percent Of Workers In Establishments With 100 Workers Or More Participating In Defined Benefit Pensi
+DBINCWC0000	Percent Of White-collar Workers Participating In Defined Benefit Pension
+DBINCWE0000	Percent Of Workers In the West Region Participating In Defined Benefit Pension
+DBPORTA0000	Percent Of Employees With Defined Benefit Pension Who Have Portability Provisions
+DCINC000000	Percent Of All Workers Participating In Defined Contribution Plans
+DCINCBC0000	Percent Of Blue-collar And Service Workers Participating In Defined Contribution Plans
+DCINCBX0000	Percent Of Blue-collar Workers Participating In Defined Contribution Plans
+DCINCCS0000	Percent Of Clerical And Sales Workers Participating In Defined Contribution Plans
+DCINCFT0000	Percent Of Full-time Workers Participating In Defined Contribution Plans
+DCINCGP0000	Percent Of Workers In Goods-producing Industries Participating In Defined Contribution Plans
+DCINCMW0000	Percent Of Workers In the Midwest Region Participating In Defined Contribution Plans
+DCINCNE0000	Percent Of Workers In the Northeast Region Participating In Defined Contribution Plans
+DCINCNU0000	Percent Of Nonunion Workers Participating In Defined Contribution Plans
+DCINCPR0000	Percent Of Professional, Technical, And Related Workers Participating In Defined Contribution Plans
+DCINCPT0000	Percent Of Part-time Workers Participating In Defined Contribution Plans
+DCINCSO0000	Percent Of Workers In the South Region Participating In Defined Contribution Plans
+DCINCSP0000	Percent Of Workers In Service-producing Industries Participating In Defined Contribution Plans
+DCINCSX0000	Percent Of Workers In Service Occupations Participating In Defined Contribution Plans
+DCINCUN0000	Percent Of Union Workers Participating In Defined Contribution Plans
+DCINCW10000	Percent Of Workers In Establishments With 1-99 Workers Participating In Defined Contribution Plans
+DCINCW20000	Percent Of Workers In Establishments With 100 Workers Or More Participating In Defined Contribution
+DCINCWC0000	Percent Of White-collar Workers Participating In Defined Contribution Plans
+DCINCWE0000	Percent Of Workers In the West Region Participating In Defined Contribution Plans
+DENTINC0000	Percent Of All Workers Participating In Dental Care Benefits
+DENTINCBC00	Percent Of Blue-collar And Service Workers Participating In Dental Benefits
+DENTINCBX00	Percent Of Blue-collar Workers Participating In Dental Care Benefits
+DENTINCCS00	Percent Of Clerical And Sales Workers Participating In Dental Care Benefits
+DENTINCFT00	Percent Of Full-time Workers Participating In Dental Care Benefits
+DENTINCGP00	Percent Of Workers In Goods-producing Industries Participating In Dental Care Benefits
+DENTINCMW00	Percent Of Workers In the Midwest Region Participating In Dental Care Benefits
+DENTINCNE00	Percent Of Workers In the Northeast Region Paticipating In Dental Care Benefits
+DENTINCNU00	Percent Of Nonunion Workers Participating In Dental Care Benefits
+DENTINCPR00	Percent Of Professional, Technical, And Related Workers Particiapting In Dental Care Benefits
+DENTINCPT00	Percent Of Part-time Workers Participating In Dental Care Benefits
+DENTINCSO00	Percent Of Workers In the South Region Participating In Dental Care Benefits
+DENTINCSP00	Percent Of Workers In Service-producing Industries Participating In Dental Care Benefits
+DENTINCSX00	Percent Of Workers In Service Occupations Participating In Dental Care Benefits
+DENTINCUN00	Percent Of Union Workers Participating In Dental Care Benefits
+DENTINCW100	Percent Of Workers In Establishments With 1-99 Workers Participating In Dental Care Benefits
+DENTINCW200	Percent Of Workers In Establishments With 100 Or More Workers Participating In Dental Care Benefits
+DENTINCWC00	Percent Of White-collar Occupations Participating In Dental Care Plans
+DENTINCWE00	Percent Of Workers In the West Region Participating In Dental Care Benefits
+DRUG0000000	Percent Of Employees With Medical Care Benefits Who Have Coverage For Drug Abuse Treatment
+EAPINC00000	Percent Of All Workers With Access To Employee Assistance Programs
+EAPINCBX000	Percent Of Blue-collar Workers With Access To Employee Assistance Programs
+EAPINCFT000	Percent Of Full-time Workers With Access To Employee Assistance Programs
+EAPINCGP000	Percent Of Workers In Goods-producing Industries With Access To Employee Assistance Programs
+EAPINCNU000	Percent Of Nonunion Workers With Access To Employee Assistance Programs
+EAPINCPT000	Percent Of Part-time Workers With Access To Employee Assistance Programs
+EAPINCSP000	Percent Of Workers In Service-producing Industries With Access To Employee Assistance Programs
+EAPINCSX000	Percent Of Service Workers With Access To Employee Assistance Programs
+EAPINCUN000	Percent Of Union Workers With Access To Employee Assistance Programs
+EAPINCW1000	Percent Of Workers In Establishments With 1-99 Workers With Access To Employee Assistance Programs
+EAPINCW2000	Percent Of Workers In Establishments With 100 Workers Or More With Access To Employee Assistance Pro
+EAPINCWC000	Percent Of White-collar Workers With Access To Employee Assistance Programs
+EARLYRET000	Percent Of Employees With Defined Benefit Pension With Early Retirement Provisions Available
+EDUCJRINC00	Percent Of All Workers With Access To Work Related Education Assistance
+EDUCJRINCBX	Percent Of Blue-collar Workers With Access To Work Related Education Assistance
+EDUCJRINCFT	Percent Of Full-time Workers With Access To Work Related Education Assistance
+EDUCJRINCGP	Percent Of Workers In Goods-producing Industries With Access To Work Related Education Assistance
+EDUCJRINCNU	Percent Of Nonunion Workers With Access To Work Related Education Assistance
+EDUCJRINCPT	Percent Of Part-time Workers With Access To Work Related Education Assistance
+EDUCJRINCSP	Percent Of Workers In Service-producing Industries With Access To Work Related Education Assistance
+EDUCJRINCSX	Percent Of Service Workers With Access To Work Related Education Assistance
+EDUCJRINCUN	Percent Of Union Workers With Access To Work Related Education Assistance
+EDUCJRINCW1	Percent Of Workers In Establishments With 1-99 Workers With Access To Work Related Education Assista
+EDUCJRINCW2	Percent Of Workers In Establishments With 100 Workers Or More With Access To Work Related Education
+EDUCJRINCWC	Percent Of White-collar Workers With Access To Work Related Education Assistance
+EDUCNJRINC0	Percent Of All Workers With Access To Non-work Related Education Assistance
+ERFUNDCC000	Percent Of All Workers With Access To Employer-provided Funds For Child Care
+ERFUNDCCBX0	Percent Of Blue-collar Workers With Access To Employer-provided Funds For Child Care
+ERFUNDCCFT0	Percent Of Full-time Workers With Access To Employer-provided Funds For Child Care
+ERFUNDCCGP0	Percent Of Workers In Goods-producing Industries With Access To Employer-provided Funds For Child Ca
+ERFUNDCCNU0	Percent Of Nonunion Workers With Access To Employer-provided Funds For Child Care
+ERFUNDCCPT0	Percent Of Part-time Workers With Access To Employer-provided Funds For Child Care
+ERFUNDCCSP0	Percent Of Workers In Service-producing Industries With Access To Employer-provided Funds For Child
+ERFUNDCCSX0	Percent Of Service Workers With Access To Employer-provided Funds For Child Care
+ERFUNDCCUN0	Percent Of Union Workers With Access To Employer-provided Funds For Child Care
+ERFUNDCCW10	Percent Of Workers In Establishments With 1-99 Workers With Access To Employer-provided Funds For Ch
+ERFUNDCCW20	Percent Of Workers In Establishments With 100 Workers Or More With Access To Employer-provided Funds
+ERFUNDCCWC0	Percent Of White-collar Workers With Access To Employer-provided Funds For Child Care
+ESOP0000000	Percent Of Employees With Defined Contribution Who Participate In Employee Stock Ownership
+EXTENDCARE0	Percent Of Employees With Medical Care Benefits Who Have Coverage For Extended Care Facilities
+FAMAVE00000	Average Employee Contribution For Family Coverage Medical Care Benefits
+FAMAVEBC000	Average Blue-collar And Service Employee Contribution For Family Coverage Medical Care Benefits
+FAMAVEBX000	Average Contribution For Family Medical Care Benefits Coverage Required Of Blue-collar Workers
+FAMAVECS000	Average Clerical And Sales Employee Contribution For Family Coverage Medical Care Benefits
+FAMAVEFT000	Average Full-time Employee Contribution For Family Coverage Medical Care Benefits
+FAMAVEGP000	Average Employee Contribution For Family coverage Medical Care Benefits In Goods-producing Industrie
+FAMAVEMW000	Average Employee Contribution For Family Coverage Medical Care Benefits In the Midwest Region
+FAMAVENE000	Average Employee Contribution For Family Coverage Medical Care Benefits In the Northeast Region
+FAMAVENU000	Average Nonunion Employee Contribution For Family Coverage Medical Care Benefits
+FAMAVEPR000	Average Professional, Technical, And Related Employee Contribution For Family Coverage Medical Care
+FAMAVEPT000	Average Part-time Employee Contribution For Family Coverage Medical Care Benefits
+FAMAVESO000	Average Employee Contribution For Family Coverage Medical Care Benefits In the South Region
+FAMAVESP000	Average Employee Contribution For Family Coverage Medical Care Benefits In Service-producing Industr
+FAMAVESX000	Average Contribution For Family Medical Care Benefits Coverage Required of Service Workers
+FAMAVEUN000	Average Union Employee Contribution For Family Coverage Medical Care Benefits
+FAMAVEW1000	Average Employee Contribution For Family Coverage Medical Care Benefits In Establishments With 1-99
+FAMAVEW2000	Average Employee Contribution For Family Coverage Medical Care Benefits In Establishments With 100 O
+FAMAVEWC000	Average Contribution For Family Medical Care Benefits Coverage Required of White-collar Workers
+FAMAVEWE000	Average Employee Contribution For Family Coverage Medical Care Benefits In the West Region
+FAMCONTBC00	Percent Of Blue-collar And Service Workers With Medical Care Required To Contribute To Family Covera
+FAMCONTBX00	Percent Of Blue-collar Workers Participating In Medical Plans Required To Contribute Towards The Cos
+FAMCONTCS00	Percent Of Clerical And Sales Workers With Medical Care Required To Contribute Toward Cost Of Family
+FAMCONTFT00	Percent Of Full-time Workers With Medical Care Required To Contribute Toward Cost Of Family Coverage
+FAMCONTGP00	Percent Of Workers In Goods-producing Industries With Medical Care Required To Contribute Toward Cos
+FAMCONTMW00	Percent Of Workers In the Midwest Region With Medical Care Coverage Required To Contribute Toward Co
+FAMCONTNE00	Percent Of Workers In the Northeast Region With Medical Care Coverage Required To Contribute Toward
+FAMCONTNR00	Percent Of All Workers Participating In Medical Care Not Required To Contribute Toward Cost Of Famil
+FAMCONTNRBX	Percent Of Blue-collar Workers Participating In Medical Care Not Required To Contribute Toward Cost
+FAMCONTNRFT	Percent Of Full-time Workers Participating In Medical Care Not Required To Contribute Toward Cost Of
+FAMCONTNRGP	Percent Of Workers In Goods-producing Industries Participating In Medical Care Not Required To Contr
+FAMCONTNRNU	Percent Of Nonunion Workers Participating In Medical Care Not Required To Contribute Toward Cost Of
+FAMCONTNRPT	Percent Of Part-time Workers Participating In Medical Care Not Required To Contribute Toward Cost Of
+FAMCONTNRSP	Percent Of Workers In Service-producing Industries Participating In Medical Care Not Required To Con
+FAMCONTNRSX	Percent Of Service Workers Participating In Medical Care Not Required To Contribute Toward Cost Of F
+FAMCONTNRUN	Percent Of Union Workers Participating In Medical Care Not Required To Contribute Toward Cost Of Fam
+FAMCONTNRW1	Percent Of Workers In Establishments With 1-99 Workers Participating In Medical Care Not Required To
+FAMCONTNRW2	Percent Of Workers In Establishments With 100 Workers Or More Participating In Medical Care Not Requ
+FAMCONTNRWC	Percent Of White-collar Workers Participating In Medical Care Not Required To Contribute Toward Cost
+FAMCONTNU00	Percent Of Nonunion Workers With Medical Care Coverage Required To Contribute Toward Cost Of Family
+FAMCONTPR00	Percent Of Professional, Technical, And Related Workers With Medical Care Coverage Required To Contr
+FAMCONTPT00	Percent Of Part-time Workers With Medical Care Coverage Required To Contribute Toward Cost Of Family
+FAMCONTRIB0	Percent Of All Workers With Medical Care Required To Contribute Toward Cost Of Family Coverage
+FAMCONTSO00	Percent Of Workers In the South Region With Medical Care Coverage Required To Contribute Toward Cost
+FAMCONTSP00	Percent Of Workers In Service-producing Industries With Medical Care Coverage Required To Contribute
+FAMCONTSX00	Percent Of Service Workers Participating In Medical Plans Required To Contribute Towards The Cost Of
+FAMCONTUN00	Percent Of Union Workers With Medical Care Coverage Required To Contribute Toward Cost Of Family Cov
+FAMCONTW100	Percent Of Workers In Establishments With 1-99 Workers With Medical Care Coverage Required To Contri
+FAMCONTW200	Percent Of Workers In Establishments With 100 Or More Workers With Medical Care Coverage Required To
+FAMCONTWC00	Percent Of White-collar Workers Participating In Medical Plans Required To Contribute Towards The Co
+FAMCONTWE00	Percent Of Workers In the West Region With Medical Care Coverage Required To Contribute Toward Cost
+FFS00000000	Percent Of Workers With Medical Care In Fee-for-service Plans
+FITNESS0000	Percent Of All Workers With Access To Employer-provided Fitness Centers
+FITNESSBX00	Percent Of Blue-collar Workers With Access To Employer-provided Fitness Centers
+FITNESSFT00	Percent Of Full-time Workers With Access To Employer-provided Fitness Centers
+FITNESSGP00	Percent Of Workers In Goods-producing Industries With Access To Employer-provided Fitness Centers
+FITNESSNU00	Percent Of Nonunion Workers With Access To Employer-provided Fitness Centers
+FITNESSPT00	Percent Of Part-time Workers With Access To Employer-provided Fitness Centers
+FITNESSSP00	Percent Of Workers In Service-producing Industries With Access To Employer-provided Fitness Centers
+FITNESSSX00	Percent Of Service Workers With Access To Employer-provided Fitness Centers
+FITNESSUN00	Percent Of Union Workers With Access To Employer-provided Fitness Centers
+FITNESSW100	Percent Of Workers In Establishments With 1-99 Workers With Access To Employer-provided Fitness Cent
+FITNESSW200	Percent Of Workers In Establishments With 100 Workers Or More With Access To Employer-provided Fitne
+FITNESSWC00	Percent Of White-collar Workers With Access To Employer-provided Fitness Centers
+FLEXINC0000	Percent Of All Workers With Access To Flexible Benefit Plans
+FLEXINCBX00	Percent Of Blue-collar Workers With Access To Flexible Benefit Plans
+FLEXINCFT00	Percent Of Full-time Workers With Access To Flexible Benefit Plans
+FLEXINCGP00	Percent Of Workers In Goods-producing Industries With Access To Flexible Benefit Plans
+FLEXINCNU00	Percent Of Nonunion Workers With Access To Flexible Benefit Plans
+FLEXINCPT00	Percent Of Part-time Workers With Access To Flexible Benefit Plans
+FLEXINCSP00	Percent Of Workers In Service-producing Industries With Access To Flexible Benefit Plans
+FLEXINCSX00	Percent Of Service Workers With Access To Flexible Benefit Plans
+FLEXINCUN00	Percent Of Union Workers With Access To Flexible Benefit Plans
+FLEXINCW100	Percent Of Workers In Establishments With 1-99 Workers With Access To Flexible Benefit Plans
+FLEXINCW200	Percent Of Workers In Establishments With 100 Workers Or More With Access To Flexible Benefit Plans
+FLEXINCWC00	Percent Of White-collar Workers With Access To Flexible Benefit Plans
+FLEXWPINC00	Percent of All Workers With Access To Flexible Work Place Benefits
+FLEXWPINCBX	Percent Of Blue-collar Workers With Access To Flexible Work Place Benefits
+FLEXWPINCFT	Percent Of Full-time Workers With Access To Flexible Work Place Benefits
+FLEXWPINCGP	Percent Of Workers In Goods-producing Industries With Access To Flexible Work Place Benefits
+FLEXWPINCNU	Percent Of Nonunion Workers With Access To Flexible Work Place Benefits
+FLEXWPINCPT	Percent Of Part-time Workers With Access To Flexible Work Place Benefits
+FLEXWPINCSP	Percent Of Workers In Service-producing Industries With Access To Flexible Work Place Benefits
+FLEXWPINCSX	Percent Of Service Workers With Access To Flexible Work Place Benefits
+FLEXWPINCUN	Percent Of Union Workers With Access To Flexible Work Place Benefits
+FLEXWPINCW1	Percent Of Workers In Establishments With 1-99 Workers With Access To Flexible Work Place Benefits
+FLEXWPINCW2	Percent Of Workers In Establishments With 100 Or More Workers With Access To Flexible Work Place Ben
+FLEXWPINCWC	Percent Of White-collar Workers With Access To Flexible Work Place Benefits
+FUNERAVE000	Average Number Of Paid Funeral Leave Days Per Occurrence
+FUNERINC000	Percent Of All Workers With Access To Paid Funeral Leave
+FUNERINCBX0	Percent Of Blue-collar Workers With Access To Paid Funeral Leave
+FUNERINCFT0	Percent Of Full-time Workers With Access To Paid Funeral Leave
+FUNERINCGP0	Percent Of Workers In Goods-producing Industries With Access To Paid Funeral Leave
+FUNERINCNU0	Percent Of Nonunion Workers With Access To Paid Funeral Leave
+FUNERINCPT0	Percent Of Part-time Workers With Access To Paid Funeral Leave
+FUNERINCSP0	Percent Of Workers In Service-producing Industries With Access To Paid Funeral Leave
+FUNERINCSX0	Percent Of Service Workers With Access To Paid Funeral Leave
+FUNERINCUN0	Percent Of Union Workers With Access To Paid Funeral Leave
+FUNERINCW10	Percent Of Workers In Establishments With 1-99 Workers With Access To Paid Funeral Leave
+FUNERINCW20	Percent Of Workers In Establishments With 100 Workers Or More With Access To Paid Funeral Leave
+FUNERINCWC0	Percent Of White-collar Workers With Access To Paid Funeral Leave
+HMO00000000	Percent Of Employees With Medical Care In Health Maintenance Organization Plans
+HOLAVE00000	Average Number Of Paid Holidays Per Year
+HOLINC00000	Percent Of All Workers With Access To Paid Holidays
+HOLINCBC000	Percent Of Blue-collar And Service Workers With Access To Paid Holidays
+HOLINCBX000	Percent Of Blue-collar Workers With Access To Paid Holidays
+HOLINCCS000	Percent Of Clerical And Sales Workers With Access To Paid Holidays
+HOLINCFT000	Percent Of Full-time Workers With Access To Paid Holidays
+HOLINCGP000	Percent Of Workers In Goods-producing Industries With Access To Paid Holidays
+HOLINCMW000	Percent Of Workers In the Midwest Region With Access To Paid Holidays
+HOLINCNE000	Percent Of Workers In the Northeast Region With Access To Paid Holidays
+HOLINCNU000	Percent Of Nonunion Workers With Access To Paid Holidays
+HOLINCPR000	Percent Of Professional, Technical, And Related Workers With Access To Paid Holidays
+HOLINCPT000	Percent Of Part-time Workers With Access To Paid Holidays
+HOLINCSO000	Percent Of Workers In the South Region With Access To Paid Holidays
+HOLINCSP000	Percent Of Workers In Service-producing Industries With Access To Paid Holidays
+HOLINCSX000	Percent Of Service Workers With Access To Paid Holidays
+HOLINCUN000	Percent Of Union Workers With Access To Paid Holidays
+HOLINCW1000	Percent Of Workers In Establishments With 1-99 Workers With Access To Paid Holidays
+HOLINCW2000	Percent Of Workers In Establishments With 100 Or More Workers With Access To Paid Holidays
+HOLINCWC000	Percent Of White-collar Workers With Access To Paid Holidays
+HOLINCWE000	Percent Of Workers In the West Region With Access To Paid Holidays
+HOMEHEALTH0	Percent Of Employees With Medical Care Benefits Who Have Coverage For Home Health Care
+HOMEPCINC00	Percent Of All Workers With Access To Employer-provided Home PC Benefit
+HOMEPCINCBX	Percent Of Blue-collar Workers With Access To Employer-provided Home PC Benefit
+HOMEPCINCFT	Percent Of Full-time Workers With Access To Employer-provided Home PC Benefit
+HOMEPCINCGP	Percent Of Workers In Goods-producing Industries With Access To Employer-provided Home PC Benefit
+HOMEPCINCNU	Percent Of Nonunion Workers With Access To Employer-provided Home PC Benefit
+HOMEPCINCPT	Percent Of Part-time Workers With Access To Employer-provided Home PC Benefit
+HOMEPCINCSP	Percent Of Workers In Service-producing Industries With Access To Employer-provided Home PC Benefit
+HOMEPCINCSX	Percent Of Service Workers With Access To Employer-provided Home PC Benefit
+HOMEPCINCUN	Percent Of Union Workers With Access To Employer-provided Home PC Benefit
+HOMEPCINCW1	Percent Of Workers In Establishments With 1-99 Workers With Access To Employer-provided Home PC Bene
+HOMEPCINCW2	Percent Of Workers In Establishments With 100 Or More Workers With Access To Employer-provided Home
+HOMEPCINCWC	Percent Of White-collar Workers With Access To Employer-provided Home PC Benefit
+HOSPICE0000	Percent Of Employees With Medical Care Benefits Who Have Coverage For Hospice
+INDEPORG000	Percent Of Employees With Medical Care Offered By Independent Organizations
+JURYINC0000	Percent Of All Workers With Access To Paid Jury Duty Leave
+JURYINCBX00	Percent Of Blue-collar Workers With Access To Paid Jury Duty Leave
+JURYINCFT00	Percent Of Full-time Workers With Access To Paid Jury Duty Leave
+JURYINCGP00	Percent Of Workers In Goods-producing Industries With Access To Paid Jury Duty Leave
+JURYINCNU00	Percent Of Nonunion Workers With Access To Paid Jury Duty Leave
+JURYINCPT00	Percent Of Part-time Workers With Access To Paid Jury Duty Leave
+JURYINCSP00	Percent Of Workers In Service-producing Industries With Access To Paid Jury Duty Leave
+JURYINCSX00	Percent Of Service Workers With Access To Paid Jury Duty Leave
+JURYINCUN00	Percent Of Union Workers With Access To Paid Jury Duty Leave
+JURYINCW100	Percent Of Workers In Establishments With 1-99 Workers With Access To Paid Jury Duty Leave
+JURYINCW200	Percent Of Workers In Establishments With 100 Or More Workers With Access To Paid Jury Duty Leave
+JURYINCWC00	Percent Of White-collar Workers With Access To Paid Jury Duty Leave
+LIFEFLATAVG	Average Life Insurance Based On Flat Dollar Amount
+LIFEINC0000	Percent Of All Workers Participating In Life Insurance Benefits
+LIFEINCBC00	Percent Of Blue-collar and Service Workers Participating In Life Insurance Benefits
+LIFEINCBX00	Percent Of Blue-collar Workers Participating In Life Insurance Benefits
+LIFEINCCS00	Percent Of Clerical And Sales Workers Participating In Life Insurance Benefits
+LIFEINCFT00	Percent Of Full-time Workers Participating In Life Insurance Benefits
+LIFEINCGP00	Percent Of Workers In Goods-producing Industries Participating In Life Insurance Benefits
+LIFEINCMW00	Percent Of Workers In the Midwest Region Participating In Life Insurance Benefits
+LIFEINCNE00	Percent Of Workers In the Northeast Region Participating In Life Insurance Benefits
+LIFEINCNU00	Percent Of Nonunion Workers Participating In Life Insurance Benefits
+LIFEINCPR00	Percent Of Professional, Technical, And Related Workers Participating In Life Insurance Benefits
+LIFEINCPT00	Percent Of Part-time Workers Participating In Life Insurance Benefits
+LIFEINCSO00	Percent Of Workers In the South Region Participating In Life Insurance Benefits
+LIFEINCSP00	Percent Of Workers In Service-producing Industries Particiapting In Life Insurance Benefits
+LIFEINCSX00	Percent Of Service Workers Participating In Life Insurance Plans
+LIFEINCUN00	Percent Of Union Workers Participating In Life Insurance Benefits
+LIFEINCW100	Percent Of Workers In Establishments With 1-99 Workers Participating In Life Insurance Benefits
+LIFEINCW200	Percent Of Workers In Establishments With 100 Or More Workers Participating In Life Insurance Benefi
+LIFEINCWC00	Percent Of White-collar Workers Participating In Life Insurance Plans
+LIFEINCWE00	Percent Of Workers In the West Region Participating In Life Insurance Benefits
+LIFEMULTAVG	Average Life Insurance Based On Multiple Of Earnings
+LTCINC00000	Percent Of All Workers With Access To Long-term Care Insurance
+LTCINCBX000	Percent Of Blue-collar Workers With Access To Long-term Care Insurance
+LTCINCFT000	Percent Of Full-time Workers With Access To Long-term Care Insurance
+LTCINCGP000	Percent Of Workers In Goods-producing Industries With Access To Long-term Care Insurance
+LTCINCNU000	Percent Of Nonunion Workers With Access To Long-term Care Insurance
+LTCINCPT000	Percent Of Part-time Workers With Access To Long-term Care Insurance
+LTCINCSP000	Percent Of Workers In Service-producing Industries With Access To Long-term Care Insurance
+LTCINCSX000	Percent Of Service Workers With Access To Long-term Care Insurance
+LTCINCUN000	Percent Of Union Workers With Access To Long-term Care Insurance
+LTCINCW1000	Percent Of Workers In Establishments With 1-99 Workers With Access To Long-term Care Insurance
+LTCINCW2000	Percent Of Workers In Establishments With 100 Or More Workers With Access To Long-term Care Insuranc
+LTCINCWC000	Percent Of White-collar Workers With Access To Long-term Care Insurance
+LTDINC00000	Percent Of All Workers Participating In Long-term Disability Insurance
+LTDINCBC000	Percent Of Blue-collar and Service Workers Participating In Long-term Disability Insurance
+LTDINCBX000	Percent Of Blue-collar Workers Participating In Long-term Disability Insurance
+LTDINCCS000	Percent Of Clerical And Sales Workers Participating In Long-term Disability Insurance
+LTDINCFT000	Percent Of Full-time Workers Participating In Long-term Disability Insurance
+LTDINCGP000	Percent Of Workers In Goods-producing Industries Participating In Long-term Disability Insurance
+LTDINCMW000	Percent Of Workers In the Midwest Region Participating In Long-term Disability Insurance
+LTDINCNE000	Percent Of Workers In the Northeast Region Participating In Long-term Disability Insurance
+LTDINCNU000	Percent Of Nonunion Workers Participating In Long-term Disability Insurance
+LTDINCPR000	Percent Of Professional, Technical, And Related Workers Participating In Long-term Disability Insura
+LTDINCPT000	Percent Of Part-time Workers Partcicpating In Long-term Disability Insurance
+LTDINCSO000	Percent Of Workers In the South Region Participating In Long-term Disability Insurance
+LTDINCSP000	Percent Of Workers In Service-producing Industries Participating In Long-term Disability Insurance
+LTDINCSX000	Percent Of Service Workers Participating In Long-term Disability Insurance
+LTDINCUN000	Percent Of Long-term Disability Insurance Among Union Workers
+LTDINCW1000	Percent Of Workers In Establishments With 1-99 Workers Participating In Long-term Disability Insuran
+LTDINCW2000	Percent Of Workers In Establishments With 100 Or More Workers Participating In Long-term Disability
+LTDINCWC000	Percent Of White-collar Workers Participating In Long-term Disability Insurance
+LTDINCWE000	Percent Of Workers In the West Region Participating In Long-term Disability Insurance
+LUNCHAVE000	Average Paid Lunch Minutes Per Day
+LUNCHINC000	Incidence Of Paid Lunch Time
+MEDINC00000	Percent Of All Workers Participating In Medical Care Benefits
+MEDINCBC000	Percent Of Blue-collar And Service Employees Participating In Medical Care Benefits
+MEDINCBX000	Percent Of Blue-collar Workers Participating In Medical Care Benefits
+MEDINCCS000	Percent Of Clerical And Sales Employees Participating In Medical Care Benefits
+MEDINCFT000	Percent Of Full-time Workers Participating In Medical Care Benefits
+MEDINCGP000	Percent Of Workers In Goods-producing Industries Participating In Medical Care Benefits
+MEDINCMW000	Percent Of Workers In the Midwest Region Participating In Medical Care Benefits
+MEDINCNE000	Percent Of Workers In the Northeast Region Participating In Medical Care Benefits
+MEDINCNU000	Percent Of Nonunion Workers Participating In Medical Care Benefits
+MEDINCPR000	Percent Of Professional, Technical, And Related Employees Participating In Medical Care Benefits
+MEDINCPT000	Percent Of Part-time Workers Participating In Medical Care Benefits
+MEDINCSO000	Incidence Of Medical Care Benefits Among Workers In the South Region
+MEDINCSP000	Percent Of Workers In Service-producing Industries Participating In Medical Care Benefits
+MEDINCSX000	Percent Of Service Workers Participating In Medical Care Benefit Plans
+MEDINCUN000	Percent Of Union Workers Participating In Medical Care Benefits
+MEDINCW1000	Percent Of Workers In Establishments With 1-99 Workers Participating In Medical Care Benefits
+MEDINCW2000	Percent Of Workers In Establishments With 100 Or More Workers Participating In Medical Care Benefits
+MEDINCWC000	Percent Of White-collar Workers Participating In Medical Care Benefits
+MEDINCWE000	Percent Of Workers In the West Region Participating In Medical Care Benefits
+MENTAL00000	Percent Of Employees With Medical Care Benefits Who Have Coverage For Mental Health Care
+MILITAVG000	Average Number Of Paid Military Leave Days Per Occurrence
+MILITINC000	Percent Of All Workers With Access To Paid Military Leave
+MILITINCBX0	Percent Of Blue-collar Workers With Access To Paid Military Leave
+MILITINCFT0	Percent Of Full-time Workers With Access To Paid Military Leave
+MILITINCGP0	Percent Of Workers In Goods-producing Industries With Access To Paid Military Leave
+MILITINCNU0	Percent Of Nonunion Workers With Access To Paid Military Leave
+MILITINCPT0	Percent Of Part-time Workers With Access To Paid Military Leave
+MILITINCSP0	Percent Of Workers In Service-producing Industries With Access To Paid Military Leave
+MILITINCSX0	Percent Of Service Workers With Access To Paid Military Leave
+MILITINCUN0	Percent Of Union Workers With Access To Paid Military Leave
+MILITINCW10	Percent Of Workers In Establishments With 1-99 Workers With Access To Paid Military Leave
+MILITINCW20	Percent Of Workers In Establishments With 100 Or More Workers With Access To Paid Military Leave
+MILITINCWC0	Percent Of White-collar Workers With Access To Paid Military Leave
+MPP00000000	Percent Of Employees With Defined Contribution Who Participate In Money Purchase Plans
+NORMRET6500	Percent Of Employees With Defined Benefit Pension With Full Benefits Prior To Age 65
+NPBNSINC000	Percent Of All Workers With Access To Nonproduction Bonuses
+NPBNSINCBX0	Percent Of Blue-collar Workers With Access To Nonproduction Bonuses
+NPBNSINCFT0	Percent Of Full-time Workers With Access To Nonproduction Bonuses
+NPBNSINCGP0	Percent Of Workers In Goods-producing Industries With Access To Nonproduction Bonuses
+NPBNSINCNU0	Percent Of Nonunion Workers With Access To Nonproduction Bonuses
+NPBNSINCPT0	Percent Of Part-time Workers With Access To Nonproduction Bonuses
+NPBNSINCSP0	Percent Of Workers In Service-producing Industries With Access To Nonproduction Bonuses
+NPBNSINCSX0	Percent Of Service Workers With Access To Nonproduction Bonuses
+NPBNSINCUN0	Percent Of Union Workers With Access To Nonproduction Bonuses
+NPBNSINCW10	Percent Of Workers In Establishments With 1-99 Workers With Access To Nonproduction Bonuses
+NPBNSINCW20	Percent Of Workers In Establishments With 100 Workers Or More With Access To Nonproduction Bonuses
+NPBNSINCWC0	Percent Of White-collar Workers With Access To Nonproduction Bonuses
+OFFSTECC000	Incidence Of Off-site Child Care
+ONSTECC0000	Incidence Of On-site Child Care
+PERSAVE0000	Average Number Of Paid Personal Leave Days Per Year
+PERSINC0000	Percent Of Workers With Access To Paid Personal Leave Benefits
+PERSINCBX00	Percent Of Blue-collar Workers With Access To Paid Personal Leave Benefits
+PERSINCFT00	Percent Of Ful-time Workers With Access To Paid Personal Leave Benefits
+PERSINCGP00	Percent of Workers In Goods-producing Industries With Access To Paid Personal Leave Benefits
+PERSINCNU00	Percent Of Nonunion Workers With Access To Paid Personal Leave Benefits
+PERSINCPT00	Percent Of Part-time Workers With Access To Paid Personal Leave Benefits
+PERSINCSP00	Percent Of Workers In Service-producing Industries With Access To Paid Personal Leave Benefits
+PERSINCSX00	Percent Of Service Workers With Access To Paid Personal Leave Benefits
+PERSINCUN00	Percent Of Union Workers With Access To Paid Personal Leave Benefits
+PERSINCW100	Percent Of Workers In Establishments With 1-99 Workers With Access To Paid Personal Leave Benefits
+PERSINCW200	Percent Of Workers In Establishments With 100 Workers Or More With Access To Paid Personal Leave Ben
+PERSINCWC00	Percent Of White-collar Workers With Access To Paid Personal Leave Benefits
+PPO00000000	Percent Of Employees With Medical Care In Preferred Provider Organization Plans
+PREMCONV000	Incidence of Premium Conversion Plans
+PROFITSHA00	Percent Of Employees With Defined Contribution Who Participate In Deferred Profit Sharing Plans
+REIMBINC000	Incidence Of Reimbursement Accounts
+RESTAVE0000	Average Paid Rest Time Minutes Per Day
+RESTINC0000	Incidence Of Paid Rest Time
+RETLIFEINC0	Percent Of Employees With Life Insurance Who Have Coverage Continue Into Retirement
+SACINCINS00	Percent Of All Workers Participating In Short-term Disability Benefits
+SACINCINSBC	Percent Of Blue-collar And Service Workers Participating In Short-term Disability Benefits
+SACINCINSBX	Percent of Blue-collar Workers Participating In Short-term Disability Benefits
+SACINCINSCS	Percent Of Clerical And Sales Workers Participating In Short-term Disability Benefits
+SACINCINSFT	Percent Of Full-time Workers Participating In Short-term Disability Benefits
+SACINCINSGP	Percent Of Workers In Goods-producing Industries Participating In Short-term Disability Benefits
+SACINCINSMW	Percent Of Workers In the Midwest Region Participating In Short-term Disability Benefits
+SACINCINSNE	Percent Of Workers In the Northeast Region Participating In Short-term Disability Benefits
+SACINCINSNU	Percent Of Nonunion Workers Participating In Short-term Disability Benefits
+SACINCINSPR	Percent Of Professional, Technical, And Related Employees Participating In Short-term Disability Ben
+SACINCINSPT	Percent Of Part-time Workers Participating In Short-term Disability Benefits
+SACINCINSSO	Percent Of Workers In the South Region Participating In Short-term Disability Benefits
+SACINCINSSP	Percent Of Workers In Service-producing Industries Participating In Short-term Disability Benefits
+SACINCINSSX	Percent Of Service Workers Participating In Short-term Disability Benefits
+SACINCINSUN	Percent Of Union Workers Participating In Short-term Disability Benefits
+SACINCINSW1	Percent Of Workers In Establishments With 1-99 Workers Participating In Short-term Disability Benefi
+SACINCINSW2	Percent Of Workers In Establishments With 100 Or More Workers Participating In Short-term Disability
+SACINCINSWC	Percent Of White-collar Workers Participating In Short-term Disability Benefits
+SACINCINSWE	Percent Of Workers In the West Region Participating In Short-term Disability Benefits
+SAVTHRIFT00	Percent Of Employees With Defined Contribution Who Participate In Savings And Thrift Plans
+SEC125INC00	Incidence Of Section 125 Cafeteria Plans
+SELFAVE0000	Average Employee Contribution For Single Coverage Medical Care Benefits
+SELFAVEBC00	Average Blue-collar And Service Employee Contribution For Single Coverage Medical Care Benefits
+SELFAVEBX00	Average Contribution For Single Coverage Medical Care Benefits Required Of Blue-collar Workers
+SELFAVECS00	Average Clerical And Sales Employee Contribution For Single Coverage Medical Care Benefits
+SELFAVEFT00	Average Full-time Employee Contribution For Single Coverage Medical Care Benefits
+SELFAVEGP00	Average Employee Contribution For Single Coverage Medical Care Benefits In Goods-producing Industrie
+SELFAVEMW00	Average Employee Contribution For Single Coverage Medical Care Benefits In the Midwest Region
+SELFAVENE00	Average Employee Contribution For Single Coverage Medical Care Benefits In the Northeast Region
+SELFAVENU00	Average Nonunion Employee Contribution For Single Coverage Medical Care Benefits
+SELFAVEPR00	Average Professional, Technical, And Related Employee Contribution For Single Coverage Medical Care
+SELFAVEPT00	Average Part-time Employee Contribution For Single Coverage Medical Care Benefits
+SELFAVESO00	Average Employee Contribution For Single Coverage Medical Care Benefits In the South Region
+SELFAVESP00	Average Employee Contribution For Single Coverage Medical Care Benefits In Service-producing Industr
+SELFAVESX00	Average Contribution For Single Coverage Medical Care Benefits Required Of Service Workers
+SELFAVEUN00	Average Union Employee Contribution For Single Coverage Medical Care Benefits
+SELFAVEW100	Average Employee Contribution For Single Coverage Medical Care Benefits In Establishments With 1-99
+SELFAVEW200	Average Employee Contribution For Single Coverage Medical Care Benefits In Establishments With 100 O
+SELFAVEWC00	Average Contribution For Single Coverage Medical Care Benefits Required Of White-collar Workers
+SELFAVEWE00	Average Employee Contribution For Single Coverage Medical Care Benefits In the West Region
+SELFCONTBC0	Percent Of Blue-collar and Service Employees With Medical Care Required To Contribute To Single Cove
+SELFCONTBX0	Percent of Blue-collar Workers With Medical Care Required To Contribute Toward Cost Of Single Covera
+SELFCONTCS0	Percent Of Clerical And Sales Employees With Medical Care Required To Contribute Toward Cost Of Sing
+SELFCONTFT0	Percent Of Full-time Employees With Medical Care Required To Contribute Toward Cost Of Single Covera
+SELFCONTGP0	Percent Of Employees In Goods-producing Industries With Medical Care Required To Contribute Toward C
+SELFCONTMW0	Percent Of Employees In the Midwest Region With Medical Care Required To Contribute Toward Cost Of S
+SELFCONTNE0	Percent Of Employees In the Northeast Region With Medical Care Required To Contribute Toward Cost Of
+SELFCONTNU0	Percent Of Nonunion Employees With Medical Care Required To Contribute Toward Cost Of Single Coverag
+SELFCONTPR0	Percent Of Professional, Technical, And Related Employees With Medical Care Required To Contribute T
+SELFCONTPT0	Percent Of Part-time Employees With Medical Care Required To Contribute Toward Cost Of Single Covera
+SELFCONTRIB	Percent Of All Employees With Medical Care Required To Contribute Toward Cost Of Single Coverage
+SELFCONTSO0	Percent Of Employees In the South Region With Medical Care Required To Contribute Toward Cost Of Sin
+SELFCONTSP0	Percent Of Employees In Service-producing Industries With Medical Care Required To Contribute Toward
+SELFCONTSX0	Percent Of Service Workers With Medical Care Required To Contribute Toward Cost Of Single Coverage
+SELFCONTUN0	Percent Of Union Employees With Medical Care Required To Contribute Toward Cost Of Single Coverage
+SELFCONTW10	Percent Of Employees With Medical Care Required To Contribute Toward Cost Of Single Coverage In Esta
+SELFCONTW20	Percent Of Employees With Medical Care Required To Contribute Toward Cost Of Single Coverage In Esta
+SELFCONTWC0	Percent Of White-collar Workers With Medical Care Required To Contribute Toward Cost Of Single Cover
+SELFCONTWE0	Percent Of Employees In the West Region With Medical Care Required To Contribute Toward Cost Of Sing
+SELFINS0000	Percent Of Employees With Medical Care In Self-insured Plans
+SEVPAY00000	Incidence Of Severance Pay
+SICKINC0000	Percent Of All Workers With Access To Paid Sick Leave
+SICKINCBC00	Percent Of Blue-collar And Service Workers With Access To Paid Sick Leave
+SICKINCBX00	Percent Of Blue-collar Workers With Access To Paid Sick Leave
+SICKINCCS00	Percent Of Clerical And Sales Workers With Access To Paid Sick Leave
+SICKINCFT00	Percent Of Full-time Workers With Access To Paid Sick Leave
+SICKINCGP00	Percent Of Workers In Goods-producing Industries With Access To Paid Sick Leave
+SICKINCMW00	Percent Of Workers In the Midwest Region With Access To Paid Sick Leave
+SICKINCNE00	Percent Of Workers In the Northeast Region With Access To Paid Sick Leave
+SICKINCNU00	Percent Of Nonunion Workers With Access To Paid Sick Leave
+SICKINCPR00	Percent Of Professional, Technical, And Related Employees With Access To Paid Sick Leave
+SICKINCPT00	Percent Of Part-time Workers With Access To Paid Sick Leave
+SICKINCSO00	Percent Of Workers In the South Region With Access To Paid Sick Leave
+SICKINCSP00	Percent Of Workers In Service-producing Industries With Access To Paid Sick Leave
+SICKINCSX00	Percent Of Service Workers With Access To Paid Sick Leave
+SICKINCUN00	Percent Of Union Workers With Access To Paid Sick Leave
+SICKINCW100	Percent Of Workers In Establishments With 1-99 Workers With Access To Paid Sick Leave
+SICKINCW200	Percent Of Workers In Establishments With 100 Or More Workers With Access To Paid Sick Leave
+SICKINCWC00	Percent Of White-collar Workers With Access To Paid Sick Leave
+SICKINCWE00	Percent Of Workers In the West Region With Access To Paid Sick Leave
+SLFCONTNR00	Percent Of Employees With Medical Care Not Required To Contribute Toward Cost Of Single Coverage
+SOCSECINT00	Percent Of Employees With Defined Benefit Pension Integrated With Social Security
+SUBCOMUT000	Percent Of All Workers With Access To Subsidized Commuting Benefits
+SUBCOMUTBX0	Percent Of Blue-collar Workers With Access To Subsidized Commuting Benefits
+SUBCOMUTFT0	Percent Of Full-time Workers With Access To Subsidized Commuting Benefits
+SUBCOMUTGP0	Percent Of Workers In Goods-producing Industries With Access To Subsidized Commuting Benefits
+SUBCOMUTNU0	Percent Of Nonunion Workers With Access To Subsidized Commuting Benefits
+SUBCOMUTPT0	Percent Of Part-time Workers With Access To Subsidized Commuting Benefits
+SUBCOMUTSP0	Percent Of Workers In Service-producing Industries With Access To Subsidized Commuting Benefits
+SUBCOMUTSX0	Percent Of Service Workers With Access To Subsidized Commuting Benefits
+SUBCOMUTUN0	Percent Of Union Workers With Access To Subsidized Commuting Benefits
+SUBCOMUTW10	Percent Of Workers In Establishments With 1-99 Workers With Access To Subsidized Commuting Benefits
+SUBCOMUTW20	Percent Of Workers In Establishments With 100 Or More Workers With Access To Subsidized Commuting Be
+SUBCOMUTWC0	Percent Of White-collar Workers With Access To Subsidized Commuting Benefits
+SUPUNEMP000	Incidence Of Supplemental Unemployment Benefits
+SURVINC0000	Incidence Of Survivor Income Coverage
+SURVINCBC00	Incidence Of Survivor Income Coverage Among Blue-collar And Service Employees
+SURVINCCS00	Incidence Of Survivor Income Coverage Among Clerical And Sales Employees
+SURVINCFT00	Incidence Of Survivor Income Coverage Among Full-time Workers
+SURVINCGP00	Incidence Of Survivor Income Coverage Among Workers In Goods-producing Industries
+SURVINCMW00	Incidence Of Survivor Income Coverage Among Workers In the Midwest Region
+SURVINCNE00	Incidence Of Survivor Income Coverage Among Workers In the Northeast Region
+SURVINCNU00	Incidence Of Survivor Income Coverage Among Nonunion Workers
+SURVINCPR00	Incidence Of Survivor Income Coverage Among Professional, Technical, And Related Employees
+SURVINCPT00	Incidence Of Survivor Income Coverage Among Part-time Workers
+SURVINCSO00	Incidence Of Survivor Income Coverage Among Workers In the South Region
+SURVINCSP00	Incidence Of Survivor Income Coverage Among Workers In Service-producing Industries
+SURVINCUN00	Incidence Of Survivor Income Coverage Among Union Workers
+SURVINCW100	Incidence Of Survivor Income Coverage Among Employees In Establishments With 1-99 Workers
+SURVINCW200	Incidence Of Survivor Income Coverage Among Employees In Establishments With 100 Or More Workers
+SURVINCWE00	Incidence Of Survivor Income Coverage Among Workers In the West Region
+TERMEARN000	Percent Of Employees With Defined Benefit Pension Based On Terminal Earnings
+TRAVACC0000	Percent Of All Workers With Access To Job-related Travel Accident Insurance
+TRAVACCBX00	Percent Of Blue-collar Workers With Access To Job-related Travel Accident Insurance
+TRAVACCFT00	Percent Of Full-time Workers With Access To Job-related Travel Accident Insurance
+TRAVACCGP00	Percent Of Workers In Goods-producing Industries With Access To Job-related Travel Accident Insuranc
+TRAVACCNU00	Percent Of Nonunion Workers With Access To Job-related Travel Accident Insurance
+TRAVACCPT00	Percent Of Part-time Workers With Access To Job-related Travel Accident Insurance
+TRAVACCSP00	Percent Of Workers In Service-producing Industries With Access To Job-related Travel Accident Insura
+TRAVACCSX00	Percent Of Service Workers With Access To Job-related Travel Accident Insurance
+TRAVACCUN00	Percent Of Union Workers With Access To Job-related Travel Accident Insurance
+TRAVACCW100	Percent Of Workers In Establishments With 1-99 Workers With Access To Job-related Travel Accident In
+TRAVACCW200	Percent Of Workers In Establishments With 100 Workers Or More With Access To Job-related Travel Acci
+TRAVACCWC00	Percent Of White-collar Workers With Access To Job-related Travel Accident Insurance
+UNPDFAMINC0	Percent Of Workers With Access To Unpaid Family Leave Benefits
+UNPDMATINC0	Incidence Of Unpaid Maternity Leave
+UNPDPATINC0	Incidence Of Unpaid Paternity Leave
+VACAVG10YRS	Average Vacation Days At 10 Years Of Service
+VACAVG1YR00	Average Vacation Days At 1 Year Of Service
+VACAVG20YRS	Average Vacation Days At 20 Years Of Service
+VACAVG5YRS0	Average Vacation Days At 5 Years Of Service
+VACINC00000	Percent Of All Workers With Access To Paid Vacations
+VACINCBC000	Percent Of Blue-collar And Service Workers With Access To Paid Vacations
+VACINCBX000	Percent Of Blue-collar Workers With Access To Paid Vacations
+VACINCCS000	Percent Of Clerical And Sales Workers With Access To Paid Vacations
+VACINCFT000	Percent Of Full-time Workers With Access To Paid Vacations
+VACINCGP000	Percent Of Workers In Goods-producing Industries With Access To Paid Vacations
+VACINCMW000	Percent Of Workers In the Midwest Region With Access To Paid Vacations
+VACINCNE000	Percent Of Workers In the Northeast Region With Access To Paid Vacations
+VACINCNU000	Percent Of Nonunion Workers With Access To Paid Vacations
+VACINCPR000	Percent Of Professional, Technical, And Related Workers With Access To Paid Vacations
+VACINCPT000	Percent Of Part-time Workers With Access To Paid Vacations
+VACINCSO000	Percent Of Workers In the South Region With Access To Paid Vacations
+VACINCSP000	Percent Of Workers In Service-producing Industries With Access To Paid Vacations
+VACINCSX000	Percent Of Service Workers With Access To Paid Vacations
+VACINCUN000	Percent Of Union Workers With Access To Paid Vacations
+VACINCW1000	Percent Of Workers In Establishments With 1-99 Workers With Access To Paid Vacations
+VACINCW2000	Percent Of Workers In Establishments With 100 Or More Workers With Access To Paid Vacations
+VACINCWC000	Percent Of White-collar Workers With Access To Paid Vacations
+VACINCWE000	Percent Of Workers In the West Region With Access To Paid Vacations
+VISIONINC00	Percent Of All Workers Participating In Vision Care Benefits
+VISIONINCBC	Percent Of Blue-collar And Service Workers Participating In Vision Care Benefits
+VISIONINCBX	Percent Of Blue-collar Workers Participating In Vision Care Benefits
+VISIONINCCS	Percent Of Clerical And Sales Workers Participating In Vision Care Benefits
+VISIONINCFT	Percent Of Full-time Workers Participating In Vision Care Benefits
+VISIONINCGP	Percent Of Workers In Goods-producing Industries Participating In Vision Care Benefits
+VISIONINCMW	Percent Of Workers In the Midwest Region Participating In Vision Care Benefits
+VISIONINCNE	Percent Of Workers In the Northeast Region Participating In Vision Care Benefits
+VISIONINCNU	Percent Of Nonunion Workers Participating In Vision Care Benefits
+VISIONINCPR	Percent Of Professional, Technical, And Related Workers Participating In Vision Care Benefits
+VISIONINCPT	Percent Of Part-time Workers Participating In Vision Care Benefits
+VISIONINCSO	Percent Of Workers In the South Region Participating In Vision Care Benefits
+VISIONINCSP	Percent Of Workers In Service-producing Industries Participating In Vision Care Benefits
+VISIONINCSX	Percent Of Service Workers Participating In Vision Care Benefits
+VISIONINCUN	Percent Of Union Workers Participating In Vision Care Benefits
+VISIONINCW1	Percent Of Workers In Establishments With 1-99 Workers Participating In Vision Care Benefits
+VISIONINCW2	Percent Of Workers In Establishments With 100 Or More Workers Participating In Vision Care Benefits
+VISIONINCWC	Percent Of White-collar Workers Participating In Vision Care Benefits
+VISIONINCWE	Percent Of Workers In the West Region Participating In Vision Care Benefits
+WELLINC0000	Percent Of All Workers With Access To Wellness Programs
+WELLINCBX00	Percent Of Blue-collar Workers With Access To Wellness Programs
+WELLINCFT00	Percent Of Full-time Workers With Access To Wellness Programs
+WELLINCGP00	Percent Of Workers In Goods-producing Industries With Access To Wellness Programs
+WELLINCNU00	Percent Of Nonunion Workers With Access To Wellness Programs
+WELLINCPT00	Percent Of Part-time Workers With Access To Wellness Programs
+WELLINCSP00	Percent Of Workers In Service-producing Industries With Access To Wellness Programs
+WELLINCSX00	Percent Of Service Workers With Access To Wellness Programs
+WELLINCUN00	Percent Of Union Workers With Access To Wellness Programs
+WELLINCW100	Percent Of Workers In Establishments With 1-99 Workers With Access To Wellness Programs
+WELLINCW200	Percent Of Workers In Establishment With 100 Workers Or More With Access To Wellness Programs
+WELLINCWC00	Percent Of White-collar Workers With Access To Wellness Programs

@@ -1,0 +1,882 @@
+case_code	category_code	category_text
+0	00	Total
+1	00	Total
+9	00	Total
+E	00	All industries
+O	00	All industries
+S	00	All industries
+T	00	All industries
+E	01	All private industry
+O	01	All private industry
+S	01	All private industry
+T	01	All private industry
+E	09	Private industry division-- Agriculture
+O	09	Private industry division-- Agriculture
+S	09	Private industry division-- Agriculture
+T	09	Private industry division-- Agriculture
+E	10	Private industry division-- Mining
+O	10	Private industry division-- Mining
+S	10	Private industry division-- Mining
+T	10	Private industry division-- Mining
+E	20	Private industry division-- Construction
+O	20	Private industry division-- Construction
+S	20	Private industry division-- Construction
+T	20	Private industry division-- Construction
+E	30	Private industry division-- Manufacturing
+O	30	Private industry division-- Manufacturing
+S	30	Private industry division-- Manufacturing
+T	30	Private industry division-- Manufacturing
+E	40	Private industry division-- Transportation & public utilities
+O	40	Private industry division-- Transportation & public utilities
+S	40	Private industry division-- Transportation & public utilities
+T	40	Private industry division-- Transportation & public utilities
+E	45	Private industry division-- Wholesale and retail trade
+O	45	Private industry division-- Wholesale and retail trade
+S	45	Private industry division-- Wholesale and retail trade
+T	45	Private industry division-- Wholesale and retail trade
+E	50	Private industry division-- Wholesale trade
+O	50	Private industry division-- Wholesale trade
+S	50	Private industry division-- Wholesale trade
+T	50	Private industry division-- Wholesale trade
+E	60	Private industry division-- Retail trade
+O	60	Private industry division-- Retail trade
+S	60	Private industry division-- Retail trade
+T	60	Private industry division-- Retail trade
+E	70	Private industry division-- Finance, insurance, & real estate
+O	70	Private industry division-- Finance, insurance, & real estate
+S	70	Private industry division-- Finance, insurance, & real estate
+T	70	Private industry division-- Finance, insurance, & real estate
+E	80	Private industry division-- Services
+O	80	Private industry division-- Services
+S	80	Private industry division-- Services
+T	80	Private industry division-- Services
+E	90	All government
+O	90	All government
+S	90	All government
+T	90	All government
+E	93	Federal government
+O	93	Federal government
+S	93	Federal government
+T	93	Federal government
+E	95	State government
+O	95	State government
+S	95	State government
+T	95	State government
+E	97	Local government
+O	97	Local government
+S	97	Local government
+T	97	Local government
+0	AA	Age group-- Under 16
+1	AA	Age group-- Under 16
+9	AA	Age group-- Under 16
+E	AA	Age group-- Under 16
+O	AA	Age group-- Under 16
+S	AA	Age group-- Under 16
+T	AA	Age group-- Under 16
+0	AB	Age group-- 16-17
+1	AB	Age group-- 16-17
+9	AB	Age group-- 16-17
+E	AB	Age group-- 16-17
+O	AB	Age group-- 16-17
+S	AB	Age group-- 16-17
+T	AB	Age group-- 16-17
+0	AC	Age group-- 18-19
+1	AC	Age group-- 18-19
+9	AC	Age group-- 18-19
+E	AC	Age group-- 18-19
+O	AC	Age group-- 18-19
+S	AC	Age group-- 18-19
+T	AC	Age group-- 18-19
+0	AD	Age group-- 20-24
+1	AD	Age group-- 20-24
+9	AD	Age group-- 20-24
+E	AD	Age group-- 20-24
+O	AD	Age group-- 20-24
+S	AD	Age group-- 20-24
+T	AD	Age group-- 20-24
+0	AE	Age group-- 25-34
+1	AE	Age group-- 25-34
+9	AE	Age group-- 25-34
+E	AE	Age group-- 25-34
+O	AE	Age group-- 25-34
+S	AE	Age group-- 25-34
+T	AE	Age group-- 25-34
+0	AF	Age group-- 35-44
+1	AF	Age group-- 35-44
+9	AF	Age group-- 35-44
+E	AF	Age group-- 35-44
+O	AF	Age group-- 35-44
+S	AF	Age group-- 35-44
+T	AF	Age group-- 35-44
+0	AG	Age group-- 45-54
+1	AG	Age group-- 45-54
+9	AG	Age group-- 45-54
+E	AG	Age group-- 45-54
+O	AG	Age group-- 45-54
+S	AG	Age group-- 45-54
+T	AG	Age group-- 45-54
+0	AH	Age group-- 55-64
+1	AH	Age group-- 55-64
+9	AH	Age group-- 55-64
+E	AH	Age group-- 55-64
+O	AH	Age group-- 55-64
+S	AH	Age group-- 55-64
+T	AH	Age group-- 55-64
+0	AI	Age group-- 65 & older
+1	AI	Age group-- 65 & older
+9	AI	Age group-- 65 & older
+E	AI	Age group-- 65 & older
+O	AI	Age group-- 65 & older
+S	AI	Age group-- 65 & older
+T	AI	Age group-- 65 & older
+0	E1	Event or exposure-- Shooting
+1	E1	Event or exposure-- Shooting
+9	E1	Event or exposure-- Shooting
+O	E1	Event or exposure-- Shooting
+S	E1	Event or exposure-- Shooting
+T	E1	Event or exposure-- Shooting
+0	E2	Event or exposure-- Other homicides
+1	E2	Event or exposure-- Other homicides
+9	E2	Event or exposure-- Other homicides
+O	E2	Event or exposure-- Other homicides
+S	E2	Event or exposure-- Other homicides
+T	E2	Event or exposure-- Other homicides
+0	E3	Event or exposure-- Self-inflicted injuries
+1	E3	Event or exposure-- Self-inflicted injuries
+9	E3	Event or exposure-- Self-inflicted injuries
+O	E3	Event or exposure-- Self-inflicted injuries
+S	E3	Event or exposure-- Self-inflicted injuries
+T	E3	Event or exposure-- Self-inflicted injuries
+0	E4	Event or exposure-- Other events or exposures
+1	E4	Event or exposure-- Other events or exposures
+9	E4	Event or exposure-- Other events or exposures
+O	E4	Event or exposure-- Other events or exposures
+S	E4	Event or exposure-- Other events or exposures
+T	E4	Event or exposure-- Other events or exposures
+0	EA	Event or exposure-- Total object contact
+1	EA	Event or exposure-- Total object contact
+9	EA	Event or exposure-- Total object contact
+O	EA	Event or exposure-- Total object contact
+S	EA	Event or exposure-- Total object contact
+T	EA	Event or exposure-- Total object contact
+0	EB	Event or exposure-- Struck by object
+1	EB	Event or exposure-- Struck by object
+9	EB	Event or exposure-- Struck by object
+O	EB	Event or exposure-- Struck by object
+S	EB	Event or exposure-- Struck by object
+T	EB	Event or exposure-- Struck by object
+0	EC	Event or exposure-- Struck by falling object
+1	EC	Event or exposure-- Struck by falling object
+9	EC	Event or exposure-- Struck by falling object
+O	EC	Event or exposure-- Struck by falling object
+S	EC	Event or exposure-- Struck by falling object
+T	EC	Event or exposure-- Struck by falling object
+0	ED	Event or exposure-- Caught in object
+1	ED	Event or exposure-- Caught in object
+9	ED	Event or exposure-- Caught in object
+O	ED	Event or exposure-- Caught in object
+S	ED	Event or exposure-- Caught in object
+T	ED	Event or exposure-- Caught in object
+0	EE	Event or exposure-- Caught in running equipment
+1	EE	Event or exposure-- Caught in running equipment
+9	EE	Event or exposure-- Caught in running equipment
+O	EE	Event or exposure-- Caught in running equipment
+S	EE	Event or exposure-- Caught in running equipment
+T	EE	Event or exposure-- Caught in running equipment
+0	EF	Event or exposure-- Falls
+1	EF	Event or exposure-- Falls
+9	EF	Event or exposure-- Falls
+O	EF	Event or exposure-- Falls
+S	EF	Event or exposure-- Falls
+T	EF	Event or exposure-- Falls
+0	EG	Event or exposure-- Fall to lower level
+1	EG	Event or exposure-- Fall to lower level
+9	EG	Event or exposure-- Fall to lower level
+O	EG	Event or exposure-- Fall to lower level
+S	EG	Event or exposure-- Fall to lower level
+T	EG	Event or exposure-- Fall to lower level
+0	EH	Event or exposure-- Fall from ladder
+1	EH	Event or exposure-- Fall from ladder
+9	EH	Event or exposure-- Fall from ladder
+O	EH	Event or exposure-- Fall from ladder
+S	EH	Event or exposure-- Fall from ladder
+T	EH	Event or exposure-- Fall from ladder
+0	EI	Event or exposure-- Fall from roof
+1	EI	Event or exposure-- Fall from roof
+9	EI	Event or exposure-- Fall from roof
+O	EI	Event or exposure-- Fall from roof
+S	EI	Event or exposure-- Fall from roof
+T	EI	Event or exposure-- Fall from roof
+0	EJ	Event or exposure-- Fall from scaffold
+1	EJ	Event or exposure-- Fall from scaffold
+9	EJ	Event or exposure-- Fall from scaffold
+O	EJ	Event or exposure-- Fall from scaffold
+S	EJ	Event or exposure-- Fall from scaffold
+T	EJ	Event or exposure-- Fall from scaffold
+0	EK	Event or exposure-- Harmful substances or environments
+1	EK	Event or exposure-- Harmful substances or environments
+9	EK	Event or exposure-- Harmful substances or environments
+O	EK	Event or exposure-- Harmful substances or environments
+S	EK	Event or exposure-- Harmful substances or environments
+T	EK	Event or exposure-- Harmful substances or environments
+0	EL	Event or exposure-- Contact with current
+1	EL	Event or exposure-- Contact with current
+9	EL	Event or exposure-- Contact with current
+O	EL	Event or exposure-- Contact with current
+S	EL	Event or exposure-- Contact with current
+T	EL	Event or exposure-- Contact with current
+0	EM	Event or exposure-- Caustic, noxious substances
+1	EM	Event or exposure-- Caustic, noxious substances
+9	EM	Event or exposure-- Caustic, noxious substances
+O	EM	Event or exposure-- Caustic, noxious substances
+S	EM	Event or exposure-- Caustic, noxious substances
+T	EM	Event or exposure-- Caustic, noxious substances
+0	EN	Event or exposure-- Oxygen deficiency (including drowning)
+1	EN	Event or exposure-- Oxygen deficiency (including drowning)
+9	EN	Event or exposure-- Oxygen deficiency (including drowning)
+O	EN	Event or exposure-- Oxygen deficiency (including drowning)
+S	EN	Event or exposure-- Oxygen deficiency (including drowning)
+T	EN	Event or exposure-- Oxygen deficiency (including drowning)
+0	EO	Event or exposure-- Transportation incident
+1	EO	Event or exposure-- Transportation incident
+9	EO	Event or exposure-- Transportation incident
+O	EO	Event or exposure-- Transportation incident
+S	EO	Event or exposure-- Transportation incident
+T	EO	Event or exposure-- Transportation incident
+0	EP	Event or exposure-- Highway transportation incident
+1	EP	Event or exposure-- Highway transportation incident
+9	EP	Event or exposure-- Highway transportation incident
+O	EP	Event or exposure-- Highway transportation incident
+S	EP	Event or exposure-- Highway transportation incident
+T	EP	Event or exposure-- Highway transportation incident
+0	EQ	Event or exposure-- Collision between vehicles
+1	EQ	Event or exposure-- Collision between vehicles
+9	EQ	Event or exposure-- Collision between vehicles
+O	EQ	Event or exposure-- Collision between vehicles
+S	EQ	Event or exposure-- Collision between vehicles
+T	EQ	Event or exposure-- Collision between vehicles
+0	ER	Event or exposure-- Noncollision highway incident
+1	ER	Event or exposure-- Noncollision highway incident
+9	ER	Event or exposure-- Noncollision highway incident
+O	ER	Event or exposure-- Noncollision highway incident
+S	ER	Event or exposure-- Noncollision highway incident
+T	ER	Event or exposure-- Noncollision highway incident
+0	ES	Event or exposure-- Nonhighway transportation incident
+1	ES	Event or exposure-- Nonhighway transportation incident
+9	ES	Event or exposure-- Nonhighway transportation incident
+O	ES	Event or exposure-- Nonhighway transportation incident
+S	ES	Event or exposure-- Nonhighway transportation incident
+T	ES	Event or exposure-- Nonhighway transportation incident
+0	ET	Event or exposure-- Overturned, nonhighway
+1	ET	Event or exposure-- Overturned, nonhighway
+9	ET	Event or exposure-- Overturned, nonhighway
+O	ET	Event or exposure-- Overturned, nonhighway
+S	ET	Event or exposure-- Overturned, nonhighway
+T	ET	Event or exposure-- Overturned, nonhighway
+0	EU	Event or exposure-- Struck by vehicle
+1	EU	Event or exposure-- Struck by vehicle
+9	EU	Event or exposure-- Struck by vehicle
+O	EU	Event or exposure-- Struck by vehicle
+S	EU	Event or exposure-- Struck by vehicle
+T	EU	Event or exposure-- Struck by vehicle
+0	EV	Event or exposure-- Other transportation incidents
+1	EV	Event or exposure-- Other transportation incidents
+9	EV	Event or exposure-- Other transportation incidents
+O	EV	Event or exposure-- Other transportation incidents
+S	EV	Event or exposure-- Other transportation incidents
+T	EV	Event or exposure-- Other transportation incidents
+0	EW	Event or exposure-- Aircraft incidents
+1	EW	Event or exposure-- Aircraft incidents
+9	EW	Event or exposure-- Aircraft incidents
+O	EW	Event or exposure-- Aircraft incidents
+S	EW	Event or exposure-- Aircraft incidents
+0	EX	Event or exposure-- Fires & explosions
+1	EX	Event or exposure-- Fires & explosions
+9	EX	Event or exposure-- Fires & explosions
+O	EX	Event or exposure-- Fires & explosions
+S	EX	Event or exposure-- Fires & explosions
+T	EX	Event or exposure-- Fires & explosions
+T	EX	Event or exposure-- Fires & explosions
+0	EY	Event or exposure-- Assaults
+1	EY	Event or exposure-- Assaults
+9	EY	Event or exposure-- Assaults
+O	EY	Event or exposure-- Assaults
+S	EY	Event or exposure-- Assaults
+T	EY	Event or exposure-- Assaults
+0	EZ	Event or exposure-- Homicides
+1	EZ	Event or exposure-- Homicides
+9	EZ	Event or exposure-- Homicides
+O	EZ	Event or exposure-- Homicides
+S	EZ	Event or exposure-- Homicides
+T	EZ	Event or exposure-- Homicides
+0	GF	Gender-- Female
+1	GF	Gender-- Female
+9	GF	Gender-- Female
+E	GF	Gender-- Female
+O	GF	Gender-- Female
+S	GF	Gender-- Female
+T	GF	Gender-- Female
+0	GM	Gender-- Male
+1	GM	Gender-- Male
+9	GM	Gender-- Male
+E	GM	Gender-- Male
+O	GM	Gender-- Male
+S	GM	Gender-- Male
+T	GM	Gender-- Male
+0	OA	Occupation-- Managerial & professional specialty
+1	OA	Occupation-- Managerial & professional specialty
+9	OA	Occupation-- Managerial & professional specialty
+E	OA	Occupation-- Managerial & professional specialty
+S	OA	Occupation-- Managerial & professional specialty
+T	OA	Occupation-- Managerial & professional specialty
+0	OB	Occupation-- Executive, administrative, & managerial
+1	OB	Occupation-- Executive, administrative, & managerial
+9	OB	Occupation-- Executive, administrative, & managerial
+E	OB	Occupation-- Executive, administrative, & managerial
+S	OB	Occupation-- Executive, administrative, & managerial
+T	OB	Occupation-- Executive, administrative, & managerial
+0	OC	Occupation-- Professional specialty occupations
+1	OC	Occupation-- Professional specialty occupations
+9	OC	Occupation-- Professional specialty occupations
+E	OC	Occupation-- Professional specialty occupations
+S	OC	Occupation-- Professional specialty occupations
+T	OC	Occupation-- Professional specialty occupations
+0	OD	Occupation-- Technical, sales & administrative support
+1	OD	Occupation-- Technical, sales & administrative support
+9	OD	Occupation-- Technical, sales & administrative support
+E	OD	Occupation-- Technical, sales & administrative support
+S	OD	Occupation-- Technical, sales & administrative support
+T	OD	Occupation-- Technical, sales & administrative support
+0	OE	Occupation-- Technicians & related support
+1	OE	Occupation-- Technicians & related support
+9	OE	Occupation-- Technicians & related support
+E	OE	Occupation-- Technicians & related support
+S	OE	Occupation-- Technicians & related support
+T	OE	Occupation-- Technicians & related support
+0	OF	Occupation-- Sales
+1	OF	Occupation-- Sales
+9	OF	Occupation-- Sales
+E	OF	Occupation-- Sales
+S	OF	Occupation-- Sales
+T	OF	Occupation-- Sales
+0	OG	Occupation-- Administrative support, including clerical
+1	OG	Occupation-- Administrative support, including clerical
+9	OG	Occupation-- Administrative support, including clerical
+E	OG	Occupation-- Administrative support, including clerical
+S	OG	Occupation-- Administrative support, including clerical
+T	OG	Occupation-- Administrative support, including clerical
+0	OH	Occupation-- Service
+1	OH	Occupation-- Service
+9	OH	Occupation-- Service
+E	OH	Occupation-- Service
+S	OH	Occupation-- Service
+T	OH	Occupation-- Service
+0	OI	Occupation-- Protective service
+1	OI	Occupation-- Protective service
+9	OI	Occupation-- Protective service
+E	OI	Occupation-- Protective service
+S	OI	Occupation-- Protective service
+T	OI	Occupation-- Protective service
+0	OJ	Occupation-- Service occupations, except protective & household
+1	OJ	Occupation-- Service occupations, except protective & household
+9	OJ	Occupation-- Service occupations, except protective & household
+E	OJ	Occupation-- Service occupations, except protective & household
+S	OJ	Occupation-- Service occupations, except protective & household
+T	OJ	Occupation-- Service occupations, except protective & household
+0	OK	Occupation-- Farming, forestry, and fishing
+1	OK	Occupation-- Farming, forestry, and fishing
+9	OK	Occupation-- Farming, forestry, and fishing
+E	OK	Occupation-- Farming, forestry, and fishing
+S	OK	Occupation-- Farming, forestry, and fishing
+T	OK	Occupation-- Farming, forestry, and fishing
+0	OL	Occupation-- Precision production, craft, & repair
+1	OL	Occupation-- Precision production, craft, & repair
+9	OL	Occupation-- Precision production, craft, & repair
+E	OL	Occupation-- Precision production, craft, & repair
+S	OL	Occupation-- Precision production, craft, & repair
+T	OL	Occupation-- Precision production, craft, & repair
+0	OM	Occupation-- Mechanics and repairers
+1	OM	Occupation-- Mechanics and repairers
+9	OM	Occupation-- Mechanics and repairers
+E	OM	Occupation-- Mechanics and repairers
+S	OM	Occupation-- Mechanics and repairers
+T	OM	Occupation-- Mechanics and repairers
+0	ON	Occupation-- Construction trades
+1	ON	Occupation-- Construction trades
+9	ON	Occupation-- Construction trades
+E	ON	Occupation-- Construction trades
+S	ON	Occupation-- Construction trades
+T	ON	Occupation-- Construction trades
+0	OO	Occupation-- Extractive occupations
+1	OO	Occupation-- Extractive occupations
+9	OO	Occupation-- Extractive occupations
+E	OO	Occupation-- Extractive occupations
+S	OO	Occupation-- Extractive occupations
+T	OO	Occupation-- Extractive occupations
+0	OP	Occupation-- Precision production occupations
+1	OP	Occupation-- Precision production occupations
+9	OP	Occupation-- Precision production occupations
+E	OP	Occupation-- Precision production occupations
+S	OP	Occupation-- Precision production occupations
+T	OP	Occupation-- Precision production occupations
+0	OQ	Occupation-- Operators, fabricators
+1	OQ	Occupation-- Operators, fabricators
+9	OQ	Occupation-- Operators, fabricators
+E	OQ	Occupation-- Operators, fabricators
+S	OQ	Occupation-- Operators, fabricators
+T	OQ	Occupation-- Operators, fabricators
+0	OR	Occupation-- Machine operators, assemblers, & inspectors
+1	OR	Occupation-- Machine operators, assemblers, & inspectors
+9	OR	Occupation-- Machine operators, assemblers, & inspectors
+E	OR	Occupation-- Machine operators, assemblers, & inspectors
+S	OR	Occupation-- Machine operators, assemblers, & inspectors
+T	OR	Occupation-- Machine operators, assemblers, & inspectors
+0	OS	Occupation-- Fabricators, assemblers, & hand working
+1	OS	Occupation-- Fabricators, assemblers, & hand working
+9	OS	Occupation-- Fabricators, assemblers, & hand working
+E	OS	Occupation-- Fabricators, assemblers, & hand working
+S	OS	Occupation-- Fabricators, assemblers, & hand working
+T	OS	Occupation-- Fabricators, assemblers, & hand working
+0	OT	Occupation-- Material movement
+1	OT	Occupation-- Material movement
+9	OT	Occupation-- Material movement
+E	OT	Occupation-- Material movement
+S	OT	Occupation-- Material movement
+T	OT	Occupation-- Material movement
+0	OU	Occupation-- Handlers & laborers
+1	OU	Occupation-- Handlers & laborers
+9	OU	Occupation-- Handlers & laborers
+E	OU	Occupation-- Handlers & laborers
+S	OU	Occupation-- Handlers & laborers
+T	OU	Occupation-- Handlers & laborers
+0	OV	Occupation-- Military
+1	OV	Occupation-- Military
+9	OV	Occupation-- Military
+E	OV	Occupation-- Military
+S	OV	Occupation-- Military
+T	OV	Occupation-- Military
+0	RA	Race-- White
+1	RA	Race-- White
+9	RA	Race-- White
+E	RA	Race-- White
+O	RA	Race-- White
+S	RA	Race-- White
+T	RA	Race-- White
+0	RB	Race-- Black
+1	RB	Race-- Black
+9	RB	Race-- Black
+E	RB	Race-- Black
+O	RB	Race-- Black
+S	RB	Race-- Black
+T	RB	Race-- Black
+0	RC	Race-- American Indian, Aleut, Eskimo
+1	RC	Race-- American Indian, Aleut, Eskimo
+9	RC	Race-- American Indian, Aleut, Eskimo
+E	RC	Race-- American Indian, Aleut, Eskimo
+O	RC	Race-- American Indian, Aleut, Eskimo
+S	RC	Race-- American Indian, Aleut, Eskimo
+T	RC	Race-- American Indian, Aleut, Eskimo
+0	RD	Race-- Asian
+1	RD	Race-- Asian
+9	RD	Race-- Asian
+E	RD	Race-- Asian
+O	RD	Race-- Asian
+S	RD	Race-- Asian
+T	RD	Race-- Asian
+0	RE	Race-- Pacific Islander
+1	RE	Race-- Pacific Islander
+9	RE	Race-- Pacific Islander
+E	RE	Race-- Pacific Islander
+O	RE	Race-- Pacific Islander
+S	RE	Race-- Pacific Islander
+T	RE	Race-- Pacific Islander
+0	RF	Race-- Asian or Pacific Islander
+1	RF	Race-- Asian or Pacific Islander
+9	RF	Race-- Asian or Pacific Islander
+E	RF	Race-- Asian or Pacific Islander
+O	RF	Race-- Asian or Pacific Islander
+S	RF	Race-- Asian or Pacific Islander
+T	RF	Race-- Asian or Pacific Islander
+0	RG	Race-- Multiple
+1	RG	Race-- Multiple
+9	RG	Race-- Multiple
+E	RG	Race-- Multiple
+O	RG	Race-- Multiple
+S	RG	Race-- Multiple
+T	RG	Race-- Multiple
+0	RH	Race-- Other or not reported
+1	RH	Race-- Other or not reported
+9	RH	Race-- Other or not reported
+E	RH	Race-- Other or not reported
+O	RH	Race-- Other or not reported
+S	RH	Race-- Other or not reported
+T	RH	Race-- Other or not reported
+0	RI	Race-- Hispanic
+1	RI	Race-- Hispanic
+9	RI	Race-- Hispanic
+E	RI	Race-- Hispanic
+O	RI	Race-- Hispanic
+S	RI	Race-- Hispanic
+T	RI	Race-- Hispanic
+0	SA	Primary source of injury-- Vehicles
+1	SA	Primary source of injury-- Vehicles
+9	SA	Primary source of injury-- Vehicles
+E	SA	Primary source of injury-- Vehicles
+O	SA	Primary source of injury-- Vehicles
+0	SB	Primary source of injury-- Highway vehicles
+1	SB	Primary source of injury-- Highway vehicles
+9	SB	Primary source of injury-- Highway vehicles
+E	SB	Primary source of injury-- Highway vehicles
+O	SB	Primary source of injury-- Highway vehicles
+0	SC	Primary source of injury-- Automobiles
+1	SC	Primary source of injury-- Automobiles
+9	SC	Primary source of injury-- Automobiles
+E	SC	Primary source of injury-- Automobiles
+O	SC	Primary source of injury-- Automobiles
+0	SD	Primary source of injury-- Trucks
+1	SD	Primary source of injury-- Trucks
+9	SD	Primary source of injury-- Trucks
+E	SD	Primary source of injury-- Trucks
+O	SD	Primary source of injury-- Trucks
+0	SE	Primary source of injury-- Plant vehicles
+1	SE	Primary source of injury-- Plant vehicles
+9	SE	Primary source of injury-- Plant vehicles
+E	SE	Primary source of injury-- Plant vehicles
+O	SE	Primary source of injury-- Plant vehicles
+0	SF	Primary source of injury-- Forklifts
+1	SF	Primary source of injury-- Forklifts
+9	SF	Primary source of injury-- Forklifts
+E	SF	Primary source of injury-- Forklifts
+O	SF	Primary source of injury-- Forklifts
+0	SG	Primary source of injury-- Tractors
+1	SG	Primary source of injury-- Tractors
+9	SG	Primary source of injury-- Tractors
+E	SG	Primary source of injury-- Tractors
+O	SG	Primary source of injury-- Tractors
+0	SH	Primary source of injury-- Structures
+1	SH	Primary source of injury-- Structures
+9	SH	Primary source of injury-- Structures
+E	SH	Primary source of injury-- Structures
+O	SH	Primary source of injury-- Structures
+0	SI	Primary source of injury-- Floors
+1	SI	Primary source of injury-- Floors
+9	SI	Primary source of injury-- Floors
+E	SI	Primary source of injury-- Floors
+O	SI	Primary source of injury-- Floors
+0	SJ	Primary source of injury-- Machinery
+1	SJ	Primary source of injury-- Machinery
+9	SJ	Primary source of injury-- Machinery
+E	SJ	Primary source of injury-- Machinery
+O	SJ	Primary source of injury-- Machinery
+0	SK	Primary source of injury-- Agricultural machinery
+1	SK	Primary source of injury-- Agricultural machinery
+9	SK	Primary source of injury-- Agricultural machinery
+E	SK	Primary source of injury-- Agricultural machinery
+O	SK	Primary source of injury-- Agricultural machinery
+0	SL	Primary source of injury-- Construction & mining machinery
+1	SL	Primary source of injury-- Construction & mining machinery
+9	SL	Primary source of injury-- Construction & mining machinery
+E	SL	Primary source of injury-- Construction & mining machinery
+O	SL	Primary source of injury-- Construction & mining machinery
+0	SM	Primary source of injury-- Material handling machinery
+1	SM	Primary source of injury-- Material handling machinery
+9	SM	Primary source of injury-- Material handling machinery
+E	SM	Primary source of injury-- Material handling machinery
+O	SM	Primary source of injury-- Material handling machinery
+0	SN	Primary source of injury-- Parts & materials
+1	SN	Primary source of injury-- Parts & materials
+9	SN	Primary source of injury-- Parts & materials
+E	SN	Primary source of injury-- Parts & materials
+O	SN	Primary source of injury-- Parts & materials
+0	SO	Primary source of injury-- Machine, tool, & electric parts
+1	SO	Primary source of injury-- Machine, tool, & electric parts
+9	SO	Primary source of injury-- Machine, tool, & electric parts
+E	SO	Primary source of injury-- Machine, tool, & electric parts
+O	SO	Primary source of injury-- Machine, tool, & electric parts
+0	SP	Primary source of injury-- Persons, plants, etc.
+1	SP	Primary source of injury-- Persons, plants, etc.
+9	SP	Primary source of injury-- Persons, plants, etc.
+E	SP	Primary source of injury-- Persons, plants, etc.
+O	SP	Primary source of injury-- Persons, plants, etc.
+0	SQ	Primary source of injury-- Trees, logs
+1	SQ	Primary source of injury-- Trees, logs
+9	SQ	Primary source of injury-- Trees, logs
+E	SQ	Primary source of injury-- Trees, logs
+O	SQ	Primary source of injury-- Trees, logs
+0	SR	Primary source of injury-- Chemicals
+1	SR	Primary source of injury-- Chemicals
+9	SR	Primary source of injury-- Chemicals
+E	SR	Primary source of injury-- Chemicals
+O	SR	Primary source of injury-- Chemicals
+0	SS	Primary source of injury-- Tools, instruments, & equipment
+1	SS	Primary source of injury-- Tools, instruments, & equipment
+9	SS	Primary source of injury-- Tools, instruments, & equipment
+E	SS	Primary source of injury-- Tools, instruments, & equipment
+O	SS	Primary source of injury-- Tools, instruments, & equipment
+0	ST	Primary source of injury-- Containers
+1	ST	Primary source of injury-- Containers
+9	ST	Primary source of injury-- Containers
+E	ST	Primary source of injury-- Containers
+O	ST	Primary source of injury-- Containers
+0	SU	Primary source of injury-- All other sources
+1	SU	Primary source of injury-- All other sources
+9	SU	Primary source of injury-- All other sources
+E	SU	Primary source of injury-- All other sources
+O	SU	Primary source of injury-- All other sources
+0	SV	Primary source of injury-- Bullets
+1	SV	Primary source of injury-- Bullets
+9	SV	Primary source of injury-- Bullets
+E	SV	Primary source of injury-- Bullets
+O	SV	Primary source of injury-- Bullets
+0	SW	Primary source of injury-- Fire
+1	SW	Primary source of injury-- Fire
+9	SW	Primary source of injury-- Fire
+E	SW	Primary source of injury-- Fire
+O	SW	Primary source of injury-- Fire
+0	TA	Secondary source of injury-- Vehicles
+1	TA	Secondary source of injury-- Vehicles
+9	TA	Secondary source of injury-- Vehicles
+E	TA	Secondary source of injury-- Vehicles
+O	TA	Secondary source of injury-- Vehicles
+0	TB	Secondary source of injury-- Highway vehicles
+1	TB	Secondary source of injury-- Highway vehicles
+9	TB	Secondary source of injury-- Highway vehicles
+E	TB	Secondary source of injury-- Highway vehicles
+O	TB	Secondary source of injury-- Highway vehicles
+0	TC	Secondary source of injury-- Plant vehicles
+1	TC	Secondary source of injury-- Plant vehicles
+9	TC	Secondary source of injury-- Plant vehicles
+E	TC	Secondary source of injury-- Plant vehicles
+O	TC	Secondary source of injury-- Plant vehicles
+0	TD	Secondary source of injury-- Structures & surfaces
+1	TD	Secondary source of injury-- Structures & surfaces
+9	TD	Secondary source of injury-- Structures & surfaces
+E	TD	Secondary source of injury-- Structures & surfaces
+O	TD	Secondary source of injury-- Structures & surfaces
+0	TE	Secondary source of injury-- Floors
+1	TE	Secondary source of injury-- Floors
+9	TE	Secondary source of injury-- Floors
+E	TE	Secondary source of injury-- Floors
+O	TE	Secondary source of injury-- Floors
+0	TF	Secondary source of injury-- Structures
+1	TF	Secondary source of injury-- Structures
+9	TF	Secondary source of injury-- Structures
+E	TF	Secondary source of injury-- Structures
+O	TF	Secondary source of injury-- Structures
+0	TG	Secondary source of injury-- Machinery
+1	TG	Secondary source of injury-- Machinery
+9	TG	Secondary source of injury-- Machinery
+E	TG	Secondary source of injury-- Machinery
+O	TG	Secondary source of injury-- Machinery
+0	TH	Secondary source of injury-- Parts & materials
+1	TH	Secondary source of injury-- Parts & materials
+9	TH	Secondary source of injury-- Parts & materials
+E	TH	Secondary source of injury-- Parts & materials
+O	TH	Secondary source of injury-- Parts & materials
+0	TI	Secondary source of injury-- Machine, tool, & electric parts
+1	TI	Secondary source of injury-- Machine, tool, & electric parts
+9	TI	Secondary source of injury-- Machine, tool, & electric parts
+E	TI	Secondary source of injury-- Machine, tool, & electric parts
+O	TI	Secondary source of injury-- Machine, tool, & electric parts
+0	TJ	Secondary source of injury-- Persons, plants, etc.
+1	TJ	Secondary source of injury-- Persons, plants, etc.
+9	TJ	Secondary source of injury-- Persons, plants, etc.
+E	TJ	Secondary source of injury-- Persons, plants, etc.
+O	TJ	Secondary source of injury-- Persons, plants, etc.
+0	TK	Secondary source of injury-- Other persons
+1	TK	Secondary source of injury-- Other persons
+9	TK	Secondary source of injury-- Other persons
+E	TK	Secondary source of injury-- Other persons
+O	TK	Secondary source of injury-- Other persons
+0	TL	Secondary source of injury-- Robber
+1	TL	Secondary source of injury-- Robber
+9	TL	Secondary source of injury-- Robber
+E	TL	Secondary source of injury-- Robber
+O	TL	Secondary source of injury-- Robber
+0	TM	Secondary source of injury-- Co-worker
+1	TM	Secondary source of injury-- Co-worker
+9	TM	Secondary source of injury-- Co-worker
+E	TM	Secondary source of injury-- Co-worker
+O	TM	Secondary source of injury-- Co-worker
+0	TN	Secondary source of injury-- Trees, logs
+1	TN	Secondary source of injury-- Trees, logs
+9	TN	Secondary source of injury-- Trees, logs
+E	TN	Secondary source of injury-- Trees, logs
+O	TN	Secondary source of injury-- Trees, logs
+0	TO	Secondary source of injury-- Chemicals
+1	TO	Secondary source of injury-- Chemicals
+9	TO	Secondary source of injury-- Chemicals
+E	TO	Secondary source of injury-- Chemicals
+O	TO	Secondary source of injury-- Chemicals
+0	TP	Secondary source of injury-- Tools, instruments, & equipment
+1	TP	Secondary source of injury-- Tools, instruments, & equipment
+9	TP	Secondary source of injury-- Tools, instruments, & equipment
+E	TP	Secondary source of injury-- Tools, instruments, & equipment
+O	TP	Secondary source of injury-- Tools, instruments, & equipment
+0	TQ	Secondary source of injury-- Containers
+1	TQ	Secondary source of injury-- Containers
+9	TQ	Secondary source of injury-- Containers
+E	TQ	Secondary source of injury-- Containers
+O	TQ	Secondary source of injury-- Containers
+0	TR	Secondary source of injury-- Other sources
+1	TR	Secondary source of injury-- Other sources
+9	TR	Secondary source of injury-- Other sources
+E	TR	Secondary source of injury-- Other sources
+O	TR	Secondary source of injury-- Other sources
+0	TS	Secondary source of injury-- Liquids
+1	TS	Secondary source of injury-- Liquids
+9	TS	Secondary source of injury-- Liquids
+E	TS	Secondary source of injury-- Liquids
+O	TS	Secondary source of injury-- Liquids
+0	TT	Secondary source of injury-- Not reported
+1	TT	Secondary source of injury-- Not reported
+9	TT	Secondary source of injury-- Not reported
+E	TT	Secondary source of injury-- Not reported
+O	TT	Secondary source of injury-- Not reported
+0	WA	Worker status-- Wage earner
+1	WA	Worker status-- Wage earner
+9	WA	Worker status-- Wage earner
+E	WA	Worker status-- Wage earner
+O	WA	Worker status-- Wage earner
+S	WA	Worker status-- Wage earner
+T	WA	Worker status-- Wage earner
+0	WB	Worker status-- Self-employed
+1	WB	Worker status-- Self-employed
+9	WB	Worker status-- Self-employed
+E	WB	Worker status-- Self-employed
+O	WB	Worker status-- Self-employed
+S	WB	Worker status-- Self-employed
+T	WB	Worker status-- Self-employed
+0	XA	Worker activity-- Transporting
+1	XA	Worker activity-- Transporting
+9	XA	Worker activity-- Transporting
+E	XA	Worker activity-- Transporting
+O	XA	Worker activity-- Transporting
+S	XA	Worker activity-- Transporting
+T	XA	Worker activity-- Transporting
+0	XB	Worker activity-- Tool use
+1	XB	Worker activity-- Tool use
+9	XB	Worker activity-- Tool use
+E	XB	Worker activity-- Tool use
+O	XB	Worker activity-- Tool use
+S	XB	Worker activity-- Tool use
+T	XB	Worker activity-- Tool use
+0	XC	Worker activity-- Constructing
+1	XC	Worker activity-- Constructing
+9	XC	Worker activity-- Constructing
+E	XC	Worker activity-- Constructing
+O	XC	Worker activity-- Constructing
+S	XC	Worker activity-- Constructing
+T	XC	Worker activity-- Constructing
+0	XD	Worker activity-- Protecting
+1	XD	Worker activity-- Protecting
+9	XD	Worker activity-- Protecting
+E	XD	Worker activity-- Protecting
+O	XD	Worker activity-- Protecting
+S	XD	Worker activity-- Protecting
+T	XD	Worker activity-- Protecting
+0	XE	Worker activity-- Handling
+1	XE	Worker activity-- Handling
+9	XE	Worker activity-- Handling
+E	XE	Worker activity-- Handling
+O	XE	Worker activity-- Handling
+S	XE	Worker activity-- Handling
+T	XE	Worker activity-- Handling
+0	XF	Worker activity-- Physical
+1	XF	Worker activity-- Physical
+9	XF	Worker activity-- Physical
+E	XF	Worker activity-- Physical
+O	XF	Worker activity-- Physical
+S	XF	Worker activity-- Physical
+T	XF	Worker activity-- Physical
+0	XG	Worker activity-- Other
+1	XG	Worker activity-- Other
+9	XG	Worker activity-- Other
+E	XG	Worker activity-- Other
+O	XG	Worker activity-- Other
+S	XG	Worker activity-- Other
+T	XG	Worker activity-- Other
+0	XH	Worker activity-- Tending
+1	XH	Worker activity-- Tending
+9	XH	Worker activity-- Tending
+E	XH	Worker activity-- Tending
+O	XH	Worker activity-- Tending
+S	XH	Worker activity-- Tending
+T	XH	Worker activity-- Tending
+0	XI	Worker activity-- Not reported
+1	XI	Worker activity-- Not reported
+9	XI	Worker activity-- Not reported
+E	XI	Worker activity-- Not reported
+O	XI	Worker activity-- Not reported
+S	XI	Worker activity-- Not reported
+T	XI	Worker activity-- Not reported
+0	YA	Worker location-- Residence
+1	YA	Worker location-- Residence
+9	YA	Worker location-- Residence
+E	YA	Worker location-- Residence
+O	YA	Worker location-- Residence
+S	YA	Worker location-- Residence
+T	YA	Worker location-- Residence
+0	YB	Worker location-- Farm
+1	YB	Worker location-- Farm
+9	YB	Worker location-- Farm
+E	YB	Worker location-- Farm
+O	YB	Worker location-- Farm
+S	YB	Worker location-- Farm
+T	YB	Worker location-- Farm
+0	YC	Worker location-- Mine
+1	YC	Worker location-- Mine
+9	YC	Worker location-- Mine
+E	YC	Worker location-- Mine
+O	YC	Worker location-- Mine
+S	YC	Worker location-- Mine
+T	YC	Worker location-- Mine
+0	YD	Worker location-- Industrial area
+1	YD	Worker location-- Industrial area
+9	YD	Worker location-- Industrial area
+E	YD	Worker location-- Industrial area
+O	YD	Worker location-- Industrial area
+S	YD	Worker location-- Industrial area
+T	YD	Worker location-- Industrial area
+0	YE	Worker location-- Recreation area
+1	YE	Worker location-- Recreation area
+9	YE	Worker location-- Recreation area
+E	YE	Worker location-- Recreation area
+O	YE	Worker location-- Recreation area
+S	YE	Worker location-- Recreation area
+T	YE	Worker location-- Recreation area
+0	YF	Worker location-- Street
+1	YF	Worker location-- Street
+9	YF	Worker location-- Street
+E	YF	Worker location-- Street
+O	YF	Worker location-- Street
+S	YF	Worker location-- Street
+T	YF	Worker location-- Street
+0	YG	Worker location-- Public building
+1	YG	Worker location-- Public building
+9	YG	Worker location-- Public building
+E	YG	Worker location-- Public building
+O	YG	Worker location-- Public building
+S	YG	Worker location-- Public building
+T	YG	Worker location-- Public building
+0	YH	Worker location-- Institution
+1	YH	Worker location-- Institution
+9	YH	Worker location-- Institution
+E	YH	Worker location-- Institution
+O	YH	Worker location-- Institution
+S	YH	Worker location-- Institution
+T	YH	Worker location-- Institution
+0	YI	Worker location-- Other
+1	YI	Worker location-- Other
+9	YI	Worker location-- Other
+E	YI	Worker location-- Other
+O	YI	Worker location-- Other
+S	YI	Worker location-- Other
+T	YI	Worker location-- Other
+0	YJ	Worker location-- Not reported
+1	YJ	Worker location-- Not reported
+9	YJ	Worker location-- Not reported
+E	YJ	Worker location-- Not reported
+O	YJ	Worker location-- Not reported
+S	YJ	Worker location-- Not reported
+T	YJ	Worker location-- Not reported

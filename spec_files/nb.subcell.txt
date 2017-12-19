@@ -1,0 +1,54 @@
+subcell_code	subcell_text	display_level	selectable	sort_sequence
+00	All workers	0	T	1	
+01	Less than 100 workers	2	T	3	
+02	Less than 50 workers	3	T	4	
+04	50-99 workers	3	T	6	
+05	100 workers or more	2	T	7	
+06	100-499 workers	3	T	8	
+07	500 workers or more	3	T	9	
+08	Northeast	2	T	11	
+09	New England	3	T	12	
+10	Middle Atlantic	3	T	13	
+11	South	2	T	14	
+12	South Atlantic	3	T	15	
+13	East South Central	3	T	16	
+14	West South Central	3	T	17	
+15	Midwest	2	T	18	
+16	East North Central	3	T	19	
+17	West North Central	3	T	20	
+18	West	2	T	21	
+19	Mountain	3	T	22	
+20	Pacific	3	T	23	
+23	Union	2	T	28	
+24	Nonunion	2	T	29	
+25	Full time	2	T	31	
+26	Part time	2	T	32	
+34	AHR < 10th wage percentile	2	T	43	
+36	25th wage percentile <= AHR < 50th	2	T	45	
+37	50th wage percentile <= AHR < 75th	2	T	46	
+39	AHR >= 90th wage percentile	2	T	48	
+40	AHR < 10th wage percentile	2	T	49	
+42	25th wage percentile <= AHR < 50th	2	T	51	
+43	50th wage percentile <= AHR < 75th	2	T	52	
+45	AHR >= 90th wage percentile	2	T	54	
+46	AHR < 10th wage percentile	2	T	56	
+48	25th wage percentile <= AHR < 50th	2	T	58	
+49	50th wage percentile <= AHR < 75th	2	T	59	
+51	AHR >= 90th wage percentile	2	T	61	
+54	AHR < Civilian 25th wage percentile	2	T	65	
+55	AHR >= Civilian 75th wage percentile	2	T	66	
+56	AHR < Private 25th wage percentile	2	T	67	
+57	AHR >= Private 75th wage percentile	2	T	68	
+58	AHR < Government 25th wage percentile	2	T	69	
+59	AHR >= Government 75th wage percentile	2	T	70	
+AA	Establishment Size	1	F	2	
+AB	Region and Division	1	F	10	
+AC	Metropolitan Statistical Areas	1	F	24	
+AD	Bargaining Status	1	F	27	
+AE	Full-time and Part-time Work Status	1	F	30	
+AF	Time and Incentive Status	1	F	33	
+AG	Average Wage	1	F	36	
+AH	Civilian Wage Percentiles	1	F	42	
+AI	Private Wage Percentiles	1	F	48	
+AJ	Government Wage Percentiles	1	F	55	
+AK	Plan Sponsor	1	F	62	

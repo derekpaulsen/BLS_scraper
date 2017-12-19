@@ -1,0 +1,400 @@
+occupation_code	occupation_text	display_level	selectable	sort_sequence
+110000	Management Occupations	0	T	1	
+111021	General and Operations Managers	3	T	4	
+112021	Marketing Managers	3	T	9	
+112022	Sales Managers	3	T	10	
+112031	Public Relations and Fundraising Managers	3	T	11	
+113011	Administrative Services Managers	3	T	13	
+113021	Computer and Information Systems Managers	3	T	14	
+113031	Financial Managers	3	T	15	
+113051	Industrial Production Managers	3	T	16	
+113071	Transportation, Storage, and Distribution Managers	3	T	18	
+113111	Compensation and Benefits Managers	3	T	19	
+113121	Human Resources Managers	3	T	20	
+119021	Construction Managers	3	T	24	
+119033	Education Administrators, Postsecondary	3	T	28	
+119041	Architectural and Engineering Managers	3	T	30	
+119051	Food Service Managers	3	T	31	
+119111	Medical and Health Services Managers	3	T	35	
+119141	Property, Real Estate, and Community Association Managers	3	T	38	
+119151	Social and Community Service Managers	3	T	39	
+119199	Managers, All Other	3	T	41	
+130000	Business and Financial Operations Occupations	0	T	42	
+131022	Wholesale and Retail Buyers, Except Farm Products	3	T	47	
+131023	Purchasing Agents, Except Wholesale, Retail, and Farm Products	3	T	48	
+131031	Claims Adjusters, Examiners, and Investigators	3	T	50	
+131041	Compliance Officers	3	T	52	
+131051	Cost Estimators	3	T	53	
+131071	Human Resources Specialists	3	T	55	
+131075	Labor Relations Specialists	3	T	57	
+131081	Logisticians	3	T	58	
+131111	Management Analysts	3	T	59	
+131121	Meeting, Convention, and Event Planners	3	T	60	
+131131	Fundraisers	3	T	61	
+131141	Compensation, Benefits, and Job Analysis Specialists	3	T	62	
+131151	Training and Development Specialists	3	T	63	
+131161	Market Research Analysts and Marketing Specialists	3	T	64	
+131199	Business Operations Specialists, All Other	3	T	65	
+132011	Accountants and Auditors	3	T	67	
+132021	Appraisers and Assessors of Real Estate	3	T	68	
+132031	Budget Analysts	3	T	69	
+132041	Credit Analysts	3	T	70	
+132051	Financial Analysts	3	T	72	
+132052	Personal Financial Advisors	3	T	73	
+132053	Insurance Underwriters	3	T	74	
+132061	Financial Examiners	3	T	75	
+132072	Loan Officers	3	T	78	
+132099	Financial Specialists, All Other	3	T	82	
+150000	Computer and Mathematical Occupations	0	T	83	
+151121	Computer Systems Analysts	3	T	87	
+151122	Information Security Analysts	3	T	88	
+151131	Computer Programmers	3	T	90	
+151132	Software Developers, Applications	3	T	91	
+151133	Software Developers, Systems Software	3	T	92	
+151134	Web Developers	3	T	93	
+151141	Database Administrators	3	T	95	
+151142	Network and Computer Systems Administrators	3	T	96	
+151143	Computer Network Architects	3	T	97	
+151151	Computer User Support Specialists	3	T	99	
+151152	Computer Network Support Specialists	3	T	100	
+151199	Computer Occupations, All Other	3	T	101	
+152011	Actuaries	3	T	103	
+152031	Operations Research Analysts	3	T	105	
+170000	Architecture and Engineering Occupations	0	T	110	
+171011	Architects, Except Landscape and Naval	3	T	113	
+172011	Aerospace Engineers	3	T	119	
+172051	Civil Engineers	3	T	123	
+172061	Computer Hardware Engineers	3	T	124	
+172071	Electrical Engineers	3	T	126	
+172072	Electronics Engineers, Except Computer	3	T	127	
+172081	Environmental Engineers	3	T	128	
+172111	Health and Safety Engineers, Except Mining Safety Engineers and Inspectors	3	T	130	
+172112	Industrial Engineers	3	T	131	
+172131	Materials Engineers	3	T	133	
+172141	Mechanical Engineers	3	T	134	
+172161	Nuclear Engineers	3	T	136	
+172199	Engineers, All Other	3	T	138	
+173013	Mechanical Drafters	3	T	143	
+173023	Electrical and Electronics Engineering Technicians	3	T	148	
+173029	Engineering Technicians, Except Drafters, All Other	3	T	153	
+173031	Surveying and Mapping Technicians	3	T	154	
+190000	Life, Physical, and Social Science Occupations	0	T	155	
+191021	Biochemists and Biophysicists	3	T	162	
+191042	Medical Scientists, Except Epidemiologists	3	T	171	
+192031	Chemists	3	T	179	
+192041	Environmental Scientists and Specialists, Including Health	3	T	182	
+193031	Clinical, Counseling, and School Psychologists	3	T	190	
+193051	Urban and Regional Planners	3	T	194	
+194021	Biological Technicians	3	T	203	
+194031	Chemical Technicians	3	T	204	
+194091	Environmental Science and Protection Technicians, Including Health	3	T	209	
+194099	Life, Physical, and Social Science Technicians, All Other	3	T	212	
+210000	Community and Social Service Occupations	0	T	213	
+211011	Substance Abuse and Behavioral Disorder Counselors	3	T	216	
+211012	Educational, Guidance, School, and Vocational Counselors	3	T	217	
+211014	Mental Health Counselors	3	T	219	
+211015	Rehabilitation Counselors	3	T	220	
+211021	Child, Family, and School Social Workers	3	T	223	
+211022	Healthcare Social Workers	3	T	224	
+211023	Mental Health and Substance Abuse Social Workers	3	T	225	
+211029	Social Workers, All Other	3	T	226	
+211092	Probation Officers and Correctional Treatment Specialists	3	T	229	
+211093	Social and Human Service Assistants	3	T	230	
+211099	Community and Social Service Specialists, All Other	3	T	232	
+212011	Clergy	3	T	234	
+212021	Directors, Religious Activities and Education	3	T	235	
+230000	Legal Occupations	0	T	237	
+231011	Lawyers	3	T	240	
+232011	Paralegals and Legal Assistants	3	T	247	
+250000	Education, Training, and Library Occupations	0	T	252	
+251194	Vocational Education Teachers, Postsecondary	3	T	300	
+252011	Preschool Teachers, Except Special Education	3	T	304	
+253011	Adult Basic and Secondary Education and Literacy Teachers and Instructors	3	T	320	
+253021	Self-Enrichment Education Teachers	3	T	321	
+254021	Librarians	3	T	330	
+254031	Library Technicians	3	T	331	
+259031	Instructional Coordinators	3	T	335	
+259099	Education, Training, and Library Workers, All Other	3	T	337	
+270000	Arts, Design, Entertainment, Sports, and Media Occupations	0	T	338	
+271023	Floral Designers	3	T	349	
+271024	Graphic Designers	3	T	350	
+273022	Reporters and Correspondents	3	T	376	
+273031	Public Relations Specialists	3	T	377	
+273041	Editors	3	T	379	
+273042	Technical Writers	3	T	380	
+274011	Audio and Video Equipment Technicians	3	T	387	
+290000	Healthcare Practitioners and Technical Occupations	0	T	396	
+291031	Dietitians and Nutritionists	3	T	405	
+291051	Pharmacists	3	T	407	
+291069	Physicians and Surgeons, All Other	3	T	416	
+291071	Physician Assistants	3	T	417	
+291122	Occupational Therapists	3	T	420	
+291123	Physical Therapists	3	T	421	
+291126	Respiratory Therapists	3	T	424	
+291127	Speech-Language Pathologists	3	T	425	
+291141	Registered Nurses	3	T	429	
+291171	Nurse Practitioners	3	T	432	
+292011	Medical and Clinical Laboratory Technologists	3	T	437	
+292012	Medical and Clinical Laboratory Technicians	3	T	438	
+292021	Dental Hygienists	3	T	439	
+292031	Cardiovascular Technologists and Technicians	3	T	441	
+292032	Diagnostic Medical Sonographers	3	T	442	
+292034	Radiologic Technologists	3	T	444	
+292041	Emergency Medical Technicians and Paramedics	3	T	446	
+292052	Pharmacy Technicians	3	T	449	
+292053	Psychiatric Technicians	3	T	450	
+292055	Surgical Technologists	3	T	452	
+292056	Veterinary Technologists and Technicians	3	T	453	
+292061	Licensed Practical and Licensed Vocational Nurses	3	T	455	
+292071	Medical Records and Health Information Technicians	3	T	456	
+292099	Health Technologists and Technicians, All Other	3	T	461	
+299011	Occupational Health and Safety Specialists	3	T	464	
+310000	Healthcare Support Occupations	0	T	470	
+311011	Home Health Aides	3	T	472	
+311013	Psychiatric Aides	3	T	473	
+311014	Nursing Assistants	3	T	474	
+311015	Orderlies	3	T	475	
+312021	Physical Therapist Assistants	3	T	481	
+319091	Dental Assistants	3	T	486	
+319092	Medical Assistants	3	T	487	
+319093	Medical Equipment Preparers	3	T	488	
+319095	Pharmacy Aides	3	T	490	
+319096	Veterinary Assistants and Laboratory Animal Caretakers	3	T	491	
+319097	Phlebotomists	3	T	492	
+319099	Healthcare Support Workers, All Other	3	T	493	
+330000	Protective Service Occupations	0	T	494	
+331011	First-Line Supervisors of Correctional Officers	3	T	497	
+331012	First-Line Supervisors of Police and Detectives	3	T	498	
+331021	First-Line Supervisors of Fire Fighting and Prevention Workers	3	T	499	
+332011	Firefighters	3	T	502	
+333012	Correctional Officers and Jailers	3	T	509	
+333021	Detectives and Criminal Investigators	3	T	510	
+333051	Police and Sheriff's Patrol Officers	3	T	514	
+339032	Security Guards	3	T	521	
+339091	Crossing Guards	3	T	523	
+339092	Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers	3	T	524	
+339099	Protective Service Workers, All Other	3	T	526	
+350000	Food Preparation and Serving Related Occupations	0	T	527	
+351012	First-Line Supervisors of Food Preparation and Serving Workers	3	T	530	
+352011	Cooks, Fast Food	3	T	533	
+352012	Cooks, Institution and Cafeteria	3	T	534	
+352014	Cooks, Restaurant	3	T	536	
+352015	Cooks, Short Order	3	T	537	
+352021	Food Preparation Workers	3	T	539	
+353011	Bartenders	3	T	541	
+353021	Combined Food Preparation and Serving Workers, Including Fast Food	3	T	543	
+353022	Counter Attendants, Cafeteria, Food Concession, and Coffee Shop	3	T	544	
+353031	Waiters and Waitresses	3	T	545	
+353041	Food Servers, Nonrestaurant	3	T	546	
+359011	Dining Room and Cafeteria Attendants and Bartender Helpers	3	T	548	
+359021	Dishwashers	3	T	549	
+359031	Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop	3	T	550	
+359099	Food Preparation and Serving Related Workers, All Other	3	T	551	
+370000	Building and Grounds Cleaning and Maintenance Occupations	0	T	552	
+371011	First-Line Supervisors of Housekeeping and Janitorial Workers	3	T	554	
+372011	Janitors and Cleaners, Except Maids and Housekeeping Cleaners	3	T	558	
+372012	Maids and Housekeeping Cleaners	3	T	559	
+372019	Building Cleaning Workers, All Other	3	T	560	
+373011	Landscaping and Groundskeeping Workers	3	T	563	
+390000	Personal Care and Service Occupations	0	T	567	
+391021	First-Line Supervisors of Personal Service Workers	3	T	572	
+392021	Nonfarm Animal Caretakers	3	T	575	
+393011	Gaming Dealers	3	T	578	
+393031	Ushers, Lobby Attendants, and Ticket Takers	3	T	582	
+393091	Amusement and Recreation Attendants	3	T	584	
+395012	Hairdressers, Hairstylists, and Cosmetologists	3	T	595	
+399011	Childcare Workers	3	T	608	
+399021	Personal Care Aides	3	T	609	
+399031	Fitness Trainers and Aerobics Instructors	3	T	611	
+399032	Recreation Workers	3	T	612	
+399041	Residential Advisors	3	T	613	
+399099	Personal Care and Service Workers, All Other	3	T	614	
+410000	Sales and Related Occupations	0	T	615	
+411011	First-Line Supervisors of Retail Sales Workers	3	T	617	
+411012	First-Line Supervisors of Non-Retail Sales Workers	3	T	618	
+412011	Cashiers	3	T	621	
+412021	Counter and Rental Clerks	3	T	624	
+412022	Parts Salespersons	3	T	625	
+412031	Retail Salespersons	3	T	626	
+413011	Advertising Sales Agents	3	T	628	
+413021	Insurance Sales Agents	3	T	629	
+413031	Securities, Commodities, and Financial Services Sales Agents	3	T	630	
+413099	Sales Representatives, Services, All Other	3	T	632	
+414011	Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products	3	T	634	
+414012	Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products	3	T	635	
+419011	Demonstrators and Product Promoters	3	T	638	
+419041	Telemarketers	3	T	644	
+419099	Sales and Related Workers, All Other	3	T	647	
+430000	Office and Administrative Support Occupations	0	T	648	
+431011	First-Line Supervisors of Office and Administrative Support Workers	3	T	649	
+432011	Switchboard Operators, Including Answering Service	3	T	651	
+433011	Bill and Account Collectors	3	T	655	
+433021	Billing and Posting Clerks	3	T	656	
+433031	Bookkeeping, Accounting, and Auditing Clerks	3	T	657	
+433051	Payroll and Timekeeping Clerks	3	T	659	
+433061	Procurement Clerks	3	T	660	
+433071	Tellers	3	T	661	
+433099	Financial Clerks, All Other	3	T	662	
+434011	Brokerage Clerks	3	T	664	
+434031	Court, Municipal, and License Clerks	3	T	666	
+434041	Credit Authorizers, Checkers, and Clerks	3	T	667	
+434051	Customer Service Representatives	3	T	668	
+434061	Eligibility Interviewers, Government Programs	3	T	669	
+434071	File Clerks	3	T	670	
+434081	Hotel, Motel, and Resort Desk Clerks	3	T	671	
+434111	Interviewers, Except Eligibility and Loan	3	T	672	
+434121	Library Assistants, Clerical	3	T	673	
+434131	Loan Interviewers and Clerks	3	T	674	
+434141	New Accounts Clerks	3	T	675	
+434151	Order Clerks	3	T	676	
+434161	Human Resources Assistants, Except Payroll and Timekeeping	3	T	677	
+434171	Receptionists and Information Clerks	3	T	678	
+434181	Reservation and Transportation Ticket Agents and Travel Clerks	3	T	679	
+434199	Information and Record Clerks, All Other	3	T	680	
+435021	Couriers and Messengers	3	T	683	
+435031	Police, Fire, and Ambulance Dispatchers	3	T	685	
+435032	Dispatchers, Except Police, Fire, and Ambulance	3	T	686	
+435041	Meter Readers, Utilities	3	T	687	
+435061	Production, Planning, and Expediting Clerks	3	T	692	
+435071	Shipping, Receiving, and Traffic Clerks	3	T	693	
+435081	Stock Clerks and Order Fillers	3	T	694	
+435111	Weighers, Measurers, Checkers, and Samplers, Recordkeeping	3	T	695	
+436011	Executive Secretaries and Executive Administrative Assistants	3	T	697	
+436012	Legal Secretaries	3	T	698	
+436013	Medical Secretaries	3	T	699	
+436014	Secretaries and Administrative Assistants, Except Legal, Medical, and Executive	3	T	700	
+439011	Computer Operators	3	T	702	
+439021	Data Entry Keyers	3	T	704	
+439022	Word Processors and Typists	3	T	705	
+439041	Insurance Claims and Policy Processing Clerks	3	T	707	
+439051	Mail Clerks and Mail Machine Operators, Except Postal Service	3	T	708	
+439061	Office Clerks, General	3	T	709	
+439071	Office Machine Operators, Except Computer	3	T	710	
+439199	Office and Administrative Support Workers, All Other	3	T	713	
+470000	Construction and Extraction Occupations	0	T	734	
+471011	First-Line Supervisors of Construction Trades and Extraction Workers	3	T	735	
+472021	Brickmasons and Blockmasons	3	T	739	
+472031	Carpenters	3	T	741	
+472051	Cement Masons and Concrete Finishers	3	T	748	
+472061	Construction Laborers	3	T	750	
+472071	Paving, Surfacing, and Tamping Equipment Operators	3	T	752	
+472073	Operating Engineers and Other Construction Equipment Operators	3	T	754	
+472081	Drywall and Ceiling Tile Installers	3	T	756	
+472111	Electricians	3	T	758	
+472121	Glaziers	3	T	759	
+472132	Insulation Workers, Mechanical	3	T	762	
+472141	Painters, Construction and Maintenance	3	T	764	
+472151	Pipelayers	3	T	767	
+472152	Plumbers, Pipefitters, and Steamfitters	3	T	768	
+472181	Roofers	3	T	771	
+472211	Sheet Metal Workers	3	T	772	
+472221	Structural Iron and Steel Workers	3	T	773	
+473012	Helpers--Carpenters	3	T	777	
+473015	Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters	3	T	780	
+473019	Helpers, Construction Trades, All Other	3	T	782	
+474011	Construction and Building Inspectors	3	T	784	
+474021	Elevator Installers and Repairers	3	T	785	
+474051	Highway Maintenance Workers	3	T	788	
+474099	Construction and Related Workers, All Other	3	T	793	
+490000	Installation, Maintenance, and Repair Occupations	0	T	810	
+491011	First-Line Supervisors of Mechanics, Installers, and Repairers	3	T	811	
+492011	Computer, Automated Teller, and Office Machine Repairers	3	T	813	
+492022	Telecommunications Equipment Installers and Repairers, Except Line Installers	3	T	816	
+492091	Avionics Technicians	3	T	818	
+492094	Electrical and Electronics Repairers, Commercial and Industrial Equipment	3	T	821	
+492095	Electrical and Electronics Repairers, Powerhouse, Substation, and Relay	3	T	822	
+493011	Aircraft Mechanics and Service Technicians	3	T	827	
+493021	Automotive Body and Related Repairers	3	T	829	
+493023	Automotive Service Technicians and Mechanics	3	T	831	
+493031	Bus and Truck Mechanics and Diesel Engine Specialists	3	T	832	
+493041	Farm Equipment Mechanics and Service Technicians	3	T	834	
+493042	Mobile Heavy Equipment Mechanics, Except Engines	3	T	835	
+493043	Rail Car Repairers	3	T	836	
+493053	Outdoor Power Equipment and Other Small Engine Mechanics	3	T	840	
+493093	Tire Repairers and Changers	3	T	844	
+499012	Control and Valve Installers and Repairers, Except Mechanical Door	3	T	848	
+499021	Heating, Air Conditioning, and Refrigeration Mechanics and Installers	3	T	849	
+499041	Industrial Machinery Mechanics	3	T	852	
+499043	Maintenance Workers, Machinery	3	T	853	
+499044	Millwrights	3	T	854	
+499051	Electrical Power-Line Installers and Repairers	3	T	857	
+499052	Telecommunications Line Installers and Repairers	3	T	858	
+499071	Maintenance and Repair Workers, General	3	T	865	
+499098	Helpers--Installation, Maintenance, and Repair Workers	3	T	875	
+499099	Installation, Maintenance, and Repair Workers, All Other	3	T	876	
+510000	Production Occupations	0	T	877	
+511011	First-Line Supervisors of Production and Operating Workers	3	T	878	
+512011	Aircraft Structure, Surfaces, Rigging, and Systems Assemblers	3	T	880	
+512022	Electrical and Electronic Equipment Assemblers	3	T	883	
+512023	Electromechanical Equipment Assemblers	3	T	884	
+512041	Structural Metal Fabricators and Fitters	3	T	886	
+512092	Team Assemblers	3	T	889	
+512099	Assemblers and Fabricators, All Other	3	T	891	
+513011	Bakers	3	T	893	
+513021	Butchers and Meat Cutters	3	T	895	
+513022	Meat, Poultry, and Fish Cutters and Trimmers	3	T	896	
+513023	Slaughterers and Meat Packers	3	T	897	
+513092	Food Batchmakers	3	T	900	
+513099	Food Processing Workers, All Other	3	T	902	
+514011	Computer-Controlled Machine Tool Operators, Metal and Plastic	3	T	905	
+514021	Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic	3	T	908	
+514031	Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic	3	T	912	
+514033	Grinding/Lapping/Polishing/Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic	3	T	914	
+514034	Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic	3	T	915	
+514041	Machinists	3	T	917	
+514072	Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic	3	T	926	
+514081	Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic	3	T	927	
+514111	Tool and Die Makers	3	T	928	
+514121	Welders, Cutters, Solderers, and Brazers	3	T	930	
+514122	Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders	3	T	931	
+514199	Metal Workers and Plastic Workers, All Other	3	T	937	
+515112	Printing Press Operators	3	T	940	
+516011	Laundry and Dry-Cleaning Workers	3	T	943	
+516021	Pressers, Textile, Garment, and Related Materials	3	T	944	
+516031	Sewing Machine Operators	3	T	945	
+516099	Textile, Apparel, and Furnishings Workers, All Other	3	T	961	
+517042	Woodworking Machine Setters, Operators, and Tenders, Except Sawing	3	T	970	
+518011	Nuclear Power Reactor Operators	3	T	974	
+518013	Power Plant Operators	3	T	976	
+518021	Stationary Engineers and Boiler Operators	3	T	977	
+518031	Water and Wastewater Treatment Plant and System Operators	3	T	978	
+518091	Chemical Plant and System Operators	3	T	980	
+519011	Chemical Equipment Operators and Tenders	3	T	986	
+519012	Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders	3	T	987	
+519022	Grinding and Polishing Workers, Hand	3	T	990	
+519023	Mixing and Blending Machine Setters, Operators, and Tenders	3	T	991	
+519032	Cutting and Slicing Machine Setters, Operators, and Tenders	3	T	994	
+519041	Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders	3	T	995	
+519051	Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders	3	T	996	
+519061	Inspectors, Testers, Sorters, Samplers, and Weighers	3	T	997	
+519111	Packaging and Filling Machine Operators and Tenders	3	T	1003	
+519121	Coating, Painting, and Spraying Machine Setters, Operators, and Tenders	3	T	1005	
+519122	Painters, Transportation Equipment	3	T	1006	
+519196	Paper Goods Machine Setters, Operators, and Tenders	3	T	1016	
+519198	Helpers--Production Workers	3	T	1018	
+519199	Production Workers, All Other	3	T	1019	
+530000	Transportation and Material Moving Occupations	0	T	1020	
+531021	First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand	3	T	1023	
+531031	First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators	3	T	1024	
+533021	Bus Drivers, Transit and Intercity	3	T	1036	
+533022	Bus Drivers, School or Special Client	3	T	1037	
+533031	Driver/Sales Workers	3	T	1039	
+533032	Heavy and Tractor-Trailer Truck Drivers	3	T	1040	
+533033	Light Truck or Delivery Services Drivers	3	T	1041	
+533041	Taxi Drivers and Chauffeurs	3	T	1042	
+533099	Motor Vehicle Operators, All Other	3	T	1043	
+536021	Parking Lot Attendants	3	T	1061	
+536031	Automotive and Watercraft Service Attendants	3	T	1062	
+536051	Transportation Inspectors	3	T	1064	
+536061	Transportation Attendants, Except Flight Attendants	3	T	1065	
+536099	Transportation Workers, All Other	3	T	1066	
+537021	Crane and Tower Operators	3	T	1069	
+537032	Excavating and Loading Machine and Dragline Operators	3	T	1072	
+537051	Industrial Truck and Tractor Operators	3	T	1075	
+537061	Cleaners of Vehicles and Equipment	3	T	1077	
+537062	Laborers and Freight, Stock, and Material Movers, Hand	3	T	1078	
+537063	Machine Feeders and Offbearers	3	T	1079	
+537064	Packers and Packagers, Hand	3	T	1080	
+537081	Refuse and Recyclable Material Collectors	3	T	1085	
+537121	Tank Car, Truck, and Ship Loaders	3	T	1087	
+537199	Material Moving Workers, All Other	3	T	1088	

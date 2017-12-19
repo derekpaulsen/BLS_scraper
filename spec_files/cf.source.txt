@@ -1,0 +1,1425 @@
+source_code	source_text	display_level	selectable	sort_sequence
+0000	All sources	0 	T	00001
+00XX	Chemicals and chemical products, unspecified	2 	T	00003
+010X	Acids, unspecified	3 	T	00005
+0110	Acid gases, unspecified	4 	T	00007
+0111	Hydrogen bromide	4 	T	00008
+0112	Hydrogen chloride	4 	T	00009
+0113	Hydrogen fluoride	4 	T	00010
+0114	Hydrogen iodide	4 	T	00011
+0119	Acid gases, n.e.c.	4 	T	00012
+011X	Acid gases--halogen	3 	T	00006
+0120	Inorganic acids--halogens, unspecified	4 	T	00014
+0121	Hydriodic acid	4 	T	00015
+0122	Hydrobromic acid	4 	T	00016
+0123	Hydrochloric acid	4 	T	00017
+0124	Hydrofluoric acid	4 	T	00018
+0129	Inorganic acids--halogens, n.e.c.	4 	T	00019
+012X	Inorganic acids--halogens	3 	T	00013
+0130	Inorganic acids, unspecified	4 	T	00021
+0131	Chlorine-containing oxyacids	4 	T	00022
+0132	Nitric acid	4 	T	00023
+0133	Phosphoric acid	4 	T	00024
+0134	Sulfuric acid	4 	T	00025
+0139	Inorganic acids, n.e.c.	4 	T	00026
+013X	Inorganic acids--other	3 	T	00020
+0140	Organic acids, unspecified	4 	T	00028
+0141	Acetic acid, vinegar	4 	T	00029
+0142	Acrylic acids	4 	T	00030
+0143	Carbolic acids	4 	T	00031
+0144	Hydrocyanic acid	4 	T	00032
+0145	Peracetic acid	4 	T	00033
+0146	Picric acid	4 	T	00034
+0149	Organic acids, n.e.c.	4 	T	00035
+014X	Organic acids	3 	T	00027
+018X	Multiple acids	3 	T	00036
+019X	Acids, n.e.c.	3 	T	00037
+01XX	Acids	2 	T	00004
+020X	Alkalies, unspecified	3 	T	00039
+0210	Calcium hydroxide, calcium oxides, unspecified	4 	T	00041
+0211	Cement, mortar mix--dry	4 	T	00042
+0212	Cement, mortar--wet	4 	T	00043
+0213	Lime	4 	T	00044
+0219	Calcium hydroxide, calcium oxides, n.e.c.	4 	T	00045
+021X	Calcium hydroxides, calcium oxides	3 	T	00040
+0220	Carbonates--calcium, sodium, unspecified	4 	T	00047
+0221	Limestone, calcium carbonate	4 	T	00048
+0222	Sodium bicarbonate, baking soda	4 	T	00049
+0223	Sodium carbonate, soda ash	4 	T	00050
+0229	Carbonates, n.e.c.	4 	T	00051
+022X	Carbonates--calcium, sodium	3 	T	00046
+023X	Lithium hydroxide	3 	T	00052
+024X	Sodium and potassium hydroxide, potassium carbonate	3 	T	00053
+028X	Multiple alkalies	3 	T	00054
+029X	Alkalies, n.e.c.	3 	T	00055
+02XX	Alkalies	2 	T	00038
+030X	Aromatics and hydrocarbon derivatives, except halogenated, unspecified	3 	T	00057
+0310	Alcohol, unspecified	4 	T	00059
+0311	Antifreeze	4 	T	00060
+0312	Ethanol	4 	T	00061
+0313	Ethylene glycol	4 	T	00062
+0314	Fusel oil	4 	T	00063
+0315	Methanol	4 	T	00064
+0316	Propanol	4 	T	00065
+0319	Alcohol, n.e.c.	4 	T	00066
+031X	Alcohols	3 	T	00058
+0320	Aldehydes, unspecified	4 	T	00068
+0321	Acetaldehyde	4 	T	00069
+0322	Acrolein	4 	T	00070
+0323	Formaldehyde	4 	T	00071
+0324	Formalin	4 	T	00072
+0329	Aldehydes, n.e.c.	4 	T	00073
+032X	Aldehydes	3 	T	00067
+0330	Nonaromatic amines, unspecified	4 	T	00075
+0331	Methyl amine	4 	T	00076
+0339	Nonaromatic amines, n.e.c.	4 	T	00077
+033X	Amines--nonaromatic	3 	T	00074
+0340	Aromatics, unspecified	4 	T	00079
+0341	Aniline and other aromatic amines	4 	T	00080
+0342	Benzene	4 	T	00081
+0343	Toluene	4 	T	00082
+0344	Xylene	4 	T	00083
+0349	Aromatics, n.e.c.	4 	T	00084
+034X	Aromatics	3 	T	00078
+0350	Ethers, unspecified	4 	T	00086
+0351	Diethyl ether	4 	T	00087
+0352	Dimethyl ether	4 	T	00088
+0353	Ethylene oxide	4 	T	00089
+0354	Methyl ethyl ether	4 	T	00090
+0355	Vinyl ether	4 	T	00091
+0359	Ethers, n.e.c.	4 	T	00092
+035X	Ethers	3 	T	00085
+0360	Ketones, unspecified	4 	T	00094
+0361	Acetone	4 	T	00095
+0362	Mesityl oxide	4 	T	00096
+0363	Methyl ethyl ketone	4 	T	00097
+0364	Methyl N-butyl ketone	4 	T	00098
+0369	Ketones, n.e.c.	4 	T	00099
+036X	Ketones	3 	T	00093
+0370	Peroxides, unspecified	4 	T	00101
+0371	Benzoyl peroxide	4 	T	00102
+0372	Hydrogen peroxide	4 	T	00103
+0373	Lithium peroxide	4 	T	00104
+0374	Potassium peroxide	4 	T	00105
+0375	Sodium peroxide	4 	T	00106
+0379	Peroxides, n.e.c.	4 	T	00107
+037X	Peroxides	3 	T	00100
+038X	Multiple aromatics and hydrocarbon derivatives, except halogenated	3 	T	00108
+0391	Nitro hydrocarbons	4 	T	00110
+0399	Other aromatics and hydrocarbon derivatives, except halogenated, n.e.c.	4 	T	00111
+039X	Aromatics and hydrocarbon derivatives, except halogenated, n.e.c.	3 	T	00109
+03XX	Aromatics and hydrocarbon derivatives, except halogenated	2 	T	00056
+040X	Halogens and halogen compounds, unspecified	3 	T	00113
+0410	Bromine compounds, unspecified	4 	T	00115
+0411	Bromine	4 	T	00116
+0412	Ethylene dibromide	4 	T	00117
+0413	Methyl bromide	4 	T	00118
+0414	Potassium bromide	4 	T	00119
+0419	Bromine compounds, n.e.c.	4 	T	00120
+041X	Bromine and bromine compounds	3 	T	00114
+0420	Chlorine compounds, unspecified	4 	T	00122
+0421	Carbon tetrachloride	4 	T	00123
+0422	Chlorine, chlorine bleach	4 	T	00124
+0423	Methyl chloride	4 	T	00125
+0424	Pentachlorophenol	4 	T	00126
+0425	Perchloroethylene	4 	T	00127
+0426	Polychlorinated biphenyls (PCBs)	4 	T	00128
+0427	Trichloroethylene	4 	T	00129
+0429	Chlorine compounds, n.e.c.	4 	T	00130
+042X	Chlorine and chlorine compounds	3 	T	00121
+0430	Fluorine compounds, unspecified	4 	T	00132
+0431	Fluorine	4 	T	00133
+0432	Fluorotrichloromethane	4 	T	00134
+0433	Fluorocarbons, n.e.c.	4 	T	00135
+0434	Methyl fluoride	4 	T	00136
+0439	Fluorine compounds, n.e.c.	4 	T	00137
+043X	Fluorine and fluorine compounds	3 	T	00131
+044X	Iodine and iodine compounds	3 	T	00138
+048X	Multiple halogens and halogen compounds	3 	T	00139
+049X	Halogens and halogen compounds, n.e.c.	3 	T	00140
+04XX	Halogens and halogen compounds	2 	T	00112
+050X	Metallic particulates, trace elements, dusts, powders, fumes, unspecified	3 	T	00142
+051X	Arsenic, arsenic compound	3 	T	00143
+052X	Beryllium and beryllium compounds	3 	T	00144
+053X	Cadmium and cadmium compounds	3 	T	00145
+0540	Lead and lead compounds, unspecified	4 	T	00147
+0541	Inorganic lead compounds	4 	T	00148
+0542	Organic lead compounds	4 	T	00149
+0549	Lead and lead compounds, n.e.c.	4 	T	00150
+054X	Lead and lead compounds	3 	T	00146
+055X	Mercury and compounds	3 	T	00151
+0561	Aluminum and aluminum compounds	4 	T	00153
+0562	Antimony	4 	T	00154
+0563	Chromium and chromium compounds	4 	T	00155
+0564	Iron and iron compounds	4 	T	00156
+0565	Magnesium and magnesium compounds	4 	T	00157
+0566	Manganese	4 	T	00158
+0567	Nickel and nickel compounds	4 	T	00159
+0568	Zinc and zinc compounds	4 	T	00160
+0569	Other metallics and compounds, n.e.c.	4 	T	00161
+056X	Other metallics and compounds	3 	T	00152
+057X	Welding or soldering fumes, unspecified or n.e.c.	3 	T	00162
+058X	Multiple metallics and metallic compounds	3 	T	00163
+059X	Metallic particulates, trace elements, dusts, powders, fumes, n.e.c.	3 	T	00164
+05XX	Metallic particulates, trace elements, dusts, powders, fumes	2 	T	00141
+060X	Agricultural chemicals and other pesticides, unspecified	3 	T	00166
+061X	Fertilizers, plant food, n.e.c.	3 	T	00167
+062X	Fumigants, n.e.c.	3 	T	00168
+063X	Fungicides	3 	T	00169
+0640	Herbicides, unspecified	4 	T	00171
+0641	Benzoic and phenylacetic acids	4 	T	00172
+0642	Bipyridyls	4 	T	00173
+0643	Carbamate and thiocarbamate herbicides	4 	T	00174
+0644	Dinitro compounds	4 	T	00175
+0645	Phenols	4 	T	00176
+0646	Triazines	4 	T	00177
+0649	Herbicides, n.e.c.	4 	T	00178
+064X	Herbicides	3 	T	00170
+0650	Insecticides, unspecified	4 	T	00180
+0651	Carbamate insecticides	4 	T	00181
+0652	Organochlorine compounds	4 	T	00182
+0653	Organophosphorus compounds	4 	T	00183
+0658	Multiple insecticides	4 	T	00184
+0659	Insecticides, n.e.c.	4 	T	00185
+065X	Insecticides	3 	T	00179
+066X	Rodenticides	3 	T	00186
+068X	Multiple agricultural and horticultural chemicals	3 	T	00187
+069X	Agricultural and horticultural chemicals, n.e.c.	3 	T	00188
+06XX	Agricultural chemicals and other pesticides	2 	T	00165
+070X	Chemical products, unspecified	3 	T	00190
+071X	Adhesives, glues, n.e.c.	3 	T	00191
+0720	Beauty preparations, cosmetics, unspecified	4 	T	00193
+0721	Hair preparations	4 	T	00194
+0729	Other beauty preparations, cosmetics	4 	T	00195
+072X	Beauty preparations, cosmetics, n.e.c.	3 	T	00192
+0730	Cleaning and polishing agents, unspecified	4 	T	00197
+0731	Bleach--nonchlorine, nonperoxide	4 	T	00198
+0732	Disinfectants	4 	T	00199
+0733	Drain and oven cleaners	4 	T	00200
+0734	Polishes	4 	T	00201
+0735	Scouring powders	4 	T	00202
+0736	Soap products	4 	T	00203
+0737	Synthetic detergents and shampoos	4 	T	00204
+0738	Multiple cleaning and polishing agents	4 	T	00205
+0739	Other cleaning and polishing agents	4 	T	00206
+073X	Cleaning and polishing agents, disinfectants, n.e.c.	3 	T	00196
+0740	Drugs and medicines, unspecified	4 	T	00208
+0741	Alcoholic beverages	4 	T	00209
+0742	Drugs--nonmedicinal	4 	T	00210
+0743	Medicines	4 	T	00211
+0748	Multiple drugs, medicines	4 	T	00212
+0749	Drugs and medicines, n.e.c.	4 	T	00213
+074X	Drugs, alcohol, medicines	3 	T	00207
+0750	Explosives, blasting agents, unspecified	4 	T	00215
+0751	Dynamite	4 	T	00216
+0752	Flammable gas, unspecified	4 	T	00217
+0753	Gunpowder	4 	T	00218
+0754	Pyrotechnics, fireworks	4 	T	00219
+0759	Other explosives, blasting agents	4 	T	00220
+075X	Explosives, blasting agents, n.e.c.	3 	T	00214
+0760	Paint, lacquer, shellac, varnish, unspecified	4 	T	00222
+0761	Lacquer, shellac, varnish	4 	T	00223
+0762	Paint	4 	T	00224
+0768	Multiple paint, lacquer, shellac, or varnishes	4 	T	00225
+0769	Other paint, lacquer, shellac, varnish	4 	T	00226
+076X	Paint, lacquer, shellac, varnish, n.e.c.	3 	T	00221
+0770	Solvents, degreasers, unspecified	4 	T	00228
+0771	Naphtha solvents	4 	T	00229
+0772	Paint removers, thinners	4 	T	00230
+0773	Dry cleaning fluids, n.e.c.	4 	T	00231
+0778	Multiple solvents, degreasers	4 	T	00232
+0779	Other solvents, degreasers	4 	T	00233
+077X	Solvents, degreasers, n.e.c.	3 	T	00227
+0790	Other chemical products, unspecified	4 	T	00235
+0791	Dyes, inks	4 	T	00236
+0792	Tear gas, mace	4 	T	00237
+0793	Photographic and copying solutions	4 	T	00238
+0799	Chemical products, n.e.c.	4 	T	00239
+079X	Other chemical products	3 	T	00234
+07XX	Chemical products--general	2 	T	00189
+080X	Coal, natural gas, petroleum fuels and products, unspecified	3 	T	00241
+0810	Coal products, unspecified	4 	T	00243
+0811	Coal	4 	T	00244
+0812	Coke and other coal manufactures	4 	T	00245
+0819	Coal and coal products, n.e.c.	4 	T	00246
+081X	Coal and coal products	3 	T	00242
+082X	Natural gas	3 	T	00247
+083X	Petroleum, crude oil	3 	T	00248
+0840	Petroleum fuels, distillates, products, unspecified	4 	T	00250
+0841	Butane	4 	T	00251
+0842	Gasoline, diesel fuel, jet fuel	4 	T	00252
+0843	Kerosene, heating oil	4 	T	00253
+0844	Lubricating greases, cutting oils	4 	T	00254
+0845	Propane	4 	T	00255
+0849	Other petroleum fuels, distillates, products	4 	T	00256
+084X	Petroleum fuels, distillates, products, n.e.c.	3 	T	00249
+089X	Coal, natural gas, petroleum fuels and products, n.e.c.	3 	T	00257
+08XX	Coal, natural gas, petroleum fuels and products, n.e.c.	2 	T	00240
+0910	Ammonia and ammonium compounds, unspecified	4 	T	00260
+0911	Ammonia, anhydrous ammonia	4 	T	00261
+0912	Ammonium hydroxide	4 	T	00262
+0913	Ammonium nitrate	4 	T	00263
+0914	Ammonium sulfate	4 	T	00264
+0918	Multiple ammonia and ammonium compounds	4 	T	00265
+0919	Ammonia and ammonium compounds, n.e.c.	4 	T	00266
+091X	Ammonia and ammonium compounds	3 	T	00259
+0920	Cryogenic gases, unspecified	4 	T	00268
+0921	Liquid fluorine	4 	T	00269
+0922	Liquid helium	4 	T	00270
+0923	Liquid hydrogen	4 	T	00271
+0924	Liquid nitrogen	4 	T	00272
+0925	Liquid oxygen	4 	T	00273
+0929	Cryogenic gases, n.e.c.	4 	T	00274
+092X	Cryogenic gases	3 	T	00267
+0930	Cyanide and cyanide compounds, unspecified	4 	T	00276
+0931	Hydrogen cyanide	4 	T	00277
+0938	Multiple cyanides	4 	T	00278
+0939	Other cyanide and cyanide compounds	4 	T	00279
+093X	Cyanide and cyanide compounds, n.e.c.	3 	T	00275
+0940	Oxygen and oxygen compounds, unspecified	4 	T	00281
+0941	Carbon monoxide	4 	T	00282
+0942	Carbon dioxide, dry ice	4 	T	00283
+0943	Nitrogen oxides	4 	T	00284
+0944	Oxygen--nonliquified	4 	T	00285
+0945	Ozones	4 	T	00286
+0948	Multiple oxygen and oxygen compounds	4 	T	00287
+0949	Other oxygen and oxygen compounds, n.e.c.	4 	T	00288
+094X	Oxygen and oxygen compounds, n.e.c.	3 	T	00280
+0950	Plastics, unspecified	4 	T	00290
+0951	Cyanates	4 	T	00291
+0952	Resins	4 	T	00292
+0953	Urethanes	4 	T	00293
+0954	Vinyl chloride, polyvinyl chloride	4 	T	00294
+0959	Plastics, resins, n.e.c.	4 	T	00295
+095X	Plastics, resins	3 	T	00289
+0960	Sewer gas, mine gas, unspecified	4 	T	00297
+0961	Methane gas	4 	T	00298
+0962	Mine gas	4 	T	00299
+0963	Sewer gas	4 	T	00300
+096X	Sewer gas, mine gas, methane	3 	T	00296
+0970	Sulfur and sulfur compounds, unspecified	4 	T	00302
+0971	Carbon bisulfide	4 	T	00303
+0972	Hydrogen sulfide	4 	T	00304
+0973	Sulfur dioxide	4 	T	00305
+0978	Multiple sulfur and sulfur compounds	4 	T	00306
+0979	Sulfur and sulfur compounds, n.e.c.	4 	T	00307
+097X	Sulfur and sulfur compounds	3 	T	00301
+0980	Multiple chemicals or chemical mixtures, unspecified	4 	T	00309
+0981	Ammonia and chlorine	4 	T	00310
+0982	Chlorine and phosphoric acid	4 	T	00311
+0983	Chlorine and cleaning agent, n.e.c.	4 	T	00312
+0989	Other multiple chemicals or chemical mixtures	4 	T	00313
+098X	Multiple chemicals or chemical mixtures, n.e.c.	3 	T	00308
+099X	Chemicals and chemical products, n.e.c.	3 	T	00314
+09XX	Other chemicals	2 	T	00258
+0XXX	Chemicals and chemical products	1 	T	00002
+10XX	Containers, unspecified	2 	T	00316
+110X	Containers--nonpressurized, unspecified	3 	T	00318
+111X	Bags, sacks, totes	3 	T	00319
+112X	Barrels, kegs, drums	3 	T	00320
+113X	Bottles, jugs, flasks	3 	T	00321
+114X	Boxes, crates, cartons	3 	T	00322
+115X	Buckets, baskets, pails	3 	T	00323
+116X	Cans	3 	T	00324
+117X	Pots, pans, trays	3 	T	00325
+118X	Tanks, bins, vats	3 	T	00326
+119X	Containers--nonpressurized, n.e.c.	3 	T	00327
+11XX	Containers--nonpressurized	2 	T	00317
+120X	Containers--pressurized, unspecified	3 	T	00329
+121X	Boilers	3 	T	00330
+122X	Hoses	3 	T	00331
+123X	Oxygen tanks	3 	T	00332
+124X	Pressure lines, except hoses	3 	T	00333
+125X	Propane tanks	3 	T	00334
+129X	Containers--pressurized, n.e.c.	3 	T	00335
+12XX	Containers--pressurized	2 	T	00328
+130X	Containers--variable restraint, unspecified	3 	T	00337
+131X	Bundles, bales	3 	T	00338
+132X	Packages, parcels	3 	T	00339
+133X	Reels, rolls	3 	T	00340
+139X	Containers--variable restraint, n.e.c.	3 	T	00341
+13XX	Containers--variable restraint	2 	T	00336
+140X	Dishes, drinking cups, beverage glasses, unspecified	3 	T	00343
+141X	Dishes, bowls	3 	T	00344
+142X	Drinking cups, beverage glasses	3 	T	00345
+149X	Dishes, drinking cups, beverage glasses, n.e.c.	3 	T	00346
+14XX	Dishes, drinking cups, beverage glasses	2 	T	00342
+150X	Luggage, unspecified	3 	T	00348
+151X	Briefcases	3 	T	00349
+152X	Handbags, pocketbooks, wallets	3 	T	00350
+153X	Suitcases	3 	T	00351
+159X	Luggage, n.e.c.	3 	T	00352
+15XX	Luggage, handbags	2 	T	00347
+16XX	Skids, pallets	2 	T	00353
+19XX	Containers, n.e.c.	2 	T	00354
+1XXX	Containers	1 	T	00315
+20XX	Furniture and fixtures, unspecified	2 	T	00356
+210X	Cases, cabinets, racks, shelves, unspecified	3 	T	00358
+211X	Bookcases	3 	T	00359
+212X	Cabinets, cases--display, storage	3 	T	00360
+213X	Counters, counter tops	3 	T	00361
+214X	Garment racks, other racks	3 	T	00362
+215X	Lockers	3 	T	00363
+216X	Partitions	3 	T	00364
+217X	Shelving	3 	T	00365
+219X	Cases, cabinets, racks, shelves, n.e.c.	3 	T	00366
+21XX	Cases, cabinets, racks, shelves	2 	T	00357
+220X	Floor, wall, window coverings, unspecified	3 	T	00368
+221X	Floor coverings, nonstructural	3 	T	00369
+222X	Wall coverings	3 	T	00370
+223X	Window coverings, blinds, shades, or draperies	3 	T	00371
+229X	Floor, wall, window coverings, n.e.c.	3 	T	00372
+22XX	Floor, wall, window coverings	2 	T	00367
+230X	Furniture, unspecified	3 	T	00374
+231X	Beds, bedding, mattresses	3 	T	00375
+232X	Benches, workbenches, saw horses	3 	T	00376
+233X	Chairs	3 	T	00377
+234X	Desks	3 	T	00378
+235X	Sofas	3 	T	00379
+236X	Tables, worktables	3 	T	00380
+239X	Furniture, n.e.c.	3 	T	00381
+23XX	Furniture	2 	T	00373
+240X	Other fixtures, unspecified	3 	T	00383
+2410	Lighting equipment, unspecified	4 	T	00385
+2411	Lamps	4 	T	00386
+2412	Light bulbs	4 	T	00387
+2419	Lighting equipment, n.e.c.	4 	T	00388
+241X	Lighting equipment	3 	T	00384
+2420	Plumbing fixtures, unspecified	4 	T	00390
+2421	Bathtubs	4 	T	00391
+2422	Sinks	4 	T	00392
+2423	Toilets	4 	T	00393
+2429	Plumbing fixtures, n.e.c.	4 	T	00394
+242X	Plumbing fixtures	3 	T	00389
+249X	Other fixtures, n.e.c.	3 	T	00395
+24XX	Other fixtures	2 	T	00382
+29XX	Furniture and fixtures, n.e.c.	2 	T	00396
+2XXX	Furniture and fixtures	1 	T	00355
+30XX	Machinery, unspecified	2 	T	00398
+310X	Agricultural and garden machinery, unspecified	3 	T	00400
+3110	Harvesting and threshing machinery, unspecified	4 	T	00402
+3111	Balers	4 	T	00403
+3112	Combines	4 	T	00404
+3113	Harvesters, reapers	4 	T	00405
+3114	Threshers	4 	T	00406
+3119	Harvesting and threshing machinery, n.e.c.	4 	T	00407
+311X	Harvesting and threshing machinery	3 	T	00401
+3120	Mowing machinery, unspecified	4 	T	00409
+3121	Lawn mowers--nonriding, powered	4 	T	00410
+3122	Lawn mowers--riding	4 	T	00411
+3123	Mowers--tractor	4 	T	00412
+3129	Mowing machinery, n.e.c.	4 	T	00413
+312X	Mowing machinery	3 	T	00408
+3130	Plowing, planting, and fertilizing machinery, unspecified	4 	T	00415
+3131	Plowing and cultivating machinery	4 	T	00416
+3132	Seed planting machinery	4 	T	00417
+3133	Spreading machinery--agricultural	4 	T	00418
+3139	Plowing, planting, and fertilizing machinery, n.e.c.	4 	T	00419
+313X	Plowing, planting, and fertilizing machinery	3 	T	00414
+3190	Other agricultural and garden machinery, unspecified	4 	T	00421
+3191	Dairy and milk processing machinery--specialized	4 	T	00422
+3192	Feed grinders, crushers, mixers--agricultural	4 	T	00423
+3193	Spraying and dusting machinery--agricultural	4 	T	00424
+3199	Agricultural and garden machinery, n.e.c.	4 	T	00425
+319X	Other agricultural and garden machinery	3 	T	00420
+31XX	Agricultural and garden machinery	2 	T	00399
+320X	Construction, logging, and mining machinery, unspecified	3 	T	00427
+3210	Excavating machinery, unspecified	4 	T	00429
+3211	Backhoes	4 	T	00430
+3212	Bulldozers	4 	T	00431
+3213	Steam and power shovels	4 	T	00432
+3214	Trenchers	4 	T	00433
+3219	Excavating machinery, n.e.c.	4 	T	00434
+321X	Excavating machinery	3 	T	00428
+3220	Loaders, unspecified	4 	T	00436
+3221	Bucket loaders	4 	T	00437
+3222	End loaders	4 	T	00438
+3223	Front end loaders	4 	T	00439
+3229	Loaders, n.e.c.	4 	T	00440
+322X	Loaders	3 	T	00435
+3230	Logging and wood processing machinery--specialized, unspecified	4 	T	00442
+3231	Chippers	4 	T	00443
+3232	Debarkers	4 	T	00444
+3233	Harvesters, including feller-buncher, sheet	4 	T	00445
+3234	Log loaders, including heel boom	4 	T	00446
+3235	Forwarder/yarder, skidder	4 	T	00447
+3236	Mechanical harvester	4 	T	00448
+3237	Slasher	4 	T	00449
+3238	Skidder--cable and grapple	4 	T	00450
+3239	Logging and wood processing machinery--specialized, n.e.c.	4 	T	00451
+323X	Logging and wood processing machinery--specialized	3 	T	00441
+3240	Mining and drilling machinery, unspecified	4 	T	00453
+3241	Drilling machines, drilling augers	4 	T	00454
+3242	Mineral sorters, separators, concentrators	4 	T	00455
+3243	Tunnelling machines	4 	T	00456
+3249	Mining and drilling machinery, n.e.c.	4 	T	00457
+324X	Mining and drilling machinery	3 	T	00452
+3250	Road grading and surfacing machinery, unspecified	4 	T	00459
+3251	Asphalt and mortar spreaders	4 	T	00460
+3252	Graders, levellers, planers, scrapers	4 	T	00461
+3253	Road linemarking machinery	4 	T	00462
+3254	Steam rollers, road pavers	4 	T	00463
+3259	Road grading and surfacing machinery, n.e.c.	4 	T	00464
+325X	Road grading and surfacing machinery	3 	T	00458
+3290	Other contruction, logging, and mining machinery, unspecified	4 	T	00466
+3291	Agitators, mixers--earth, mineral	4 	T	00467
+3292	Compactors, crushers, pulverizers--earth, mineral	4 	T	00468
+3293	Pile drivers, tamping machinery	4 	T	00469
+3294	Pile extractors	4 	T	00470
+3299	Construction, logging, and mining machinery, n.e.c.	4 	T	00471
+329X	Other construction, logging, and mining machinery	3 	T	00465
+32XX	Construction, logging, and mining machinery	2 	T	00426
+330X	Heating, cooling, and cleaning machinery and appliances, unspecified	3 	T	00473
+3310	Cooling and humidifying machinery and appliances, unspecified	4 	T	00475
+3311	Air conditioning units	4 	T	00476
+3312	Fans, blowers--wall, floor, ceiling, ventilation	4 	T	00477
+3313	Humidifiers, dehumidifiers, vaporizers	4 	T	00478
+3314	Refrigerators, freezers, ice makers	4 	T	00479
+3319	Cooling and humidifying machinery and appliances, n.e.c.	4 	T	00480
+331X	Cooling and humidifying machinery and appliances	3 	T	00474
+3320	Heating and cooking machinery and appliances, unspecified	4 	T	00482
+3321	Beverage heating and percolating equipment and appliances	4 	T	00483
+3322	Broiling and frying equipment and appliances	4 	T	00484
+3323	Fabric pressers and ironing appliances	4 	T	00485
+3324	Furnaces, heaters	4 	T	00486
+3325	Kilns	4 	T	00487
+3326	Ranges, cooking ovens, grills, toasters, food warmers	4 	T	00488
+3327	Steaming equipment and appliances	4 	T	00489
+3329	Heating and cooking machinery and appliances, n.e.c.	4 	T	00490
+332X	Heating and cooking machinery and appliances	3 	T	00481
+3330	Washers, dryers, and cleaning machinery and appliances, unspecified	4 	T	00492
+3331	Car or vehicle washing machinery	4 	T	00493
+3332	Clothes dryers	4 	T	00494
+3333	Clothes washers	4 	T	00495
+3334	Dish washers	4 	T	00496
+3335	Hair and hand dryers	4 	T	00497
+3336	Vacuum cleaners	4 	T	00498
+3339	Washers, dryers, and cleaning machinery and appliances, n.e.c.	4 	T	00499
+333X	Washers, dryers, and cleaning machinery and appliances	3 	T	00491
+339X	Heating, cooling, and cleaning machinery and appliances, n.e.c.	3 	T	00500
+33XX	Heating, cooling, and cleaning machinery and appliances	2 	T	00472
+340X	Material handling machinery, unspecified	3 	T	00502
+3410	Conveyors--gravity, unspecified	4 	T	00504
+3411	Chutes	4 	T	00505
+3412	Conveyors--roller	4 	T	00506
+3413	Conveyors--wheel	4 	T	00507
+3419	Conveyors--gravity, n.e.c.	4 	T	00508
+341X	Conveyors--gravity	3 	T	00503
+3420	Conveyors--powered, unspecified	4 	T	00510
+3421	Conveyors--belt	4 	T	00511
+3422	Conveyors--bucket, cup	4 	T	00512
+3423	Conveyors--chain	4 	T	00513
+3424	Conveyors--live roller	4 	T	00514
+3425	Conveyors--pan	4 	T	00515
+3426	Conveyors--pneumatic	4 	T	00516
+3427	Conveyors--screw, auger	4 	T	00517
+3428	Conveyors--slot	4 	T	00518
+3429	Conveyors--powered, n.e.c.	4 	T	00519
+342X	Conveyors--powered	3 	T	00509
+3430	Cranes, unspecified	4 	T	00521
+3431	Cranes--floating	4 	T	00522
+3432	Cranes--gantry	4 	T	00523
+3433	Cranes--hammerhead	4 	T	00524
+3434	Cranes--mobile, truck, rail mounted	4 	T	00525
+3435	Cranes--monorail and underhung	4 	T	00526
+3436	Cranes--overhead	4 	T	00527
+3437	Cranes--portal, tower, pillar	4 	T	00528
+3438	Storage and retrieval hoist systems	4 	T	00529
+3439	Cranes, n.e.c.	4 	T	00530
+343X	Cranes	3 	T	00520
+3440	Overhead hoists, unspecified	4 	T	00532
+3441	Overhead hoists--electric powered	4 	T	00533
+3442	Overhead hoists--manual	4 	T	00534
+3443	Overhead hoists--pneumatic powered	4 	T	00535
+3449	Overhead hoists, n.e.c.	4 	T	00536
+344X	Overhead hoists	3 	T	00531
+3450	Derricks, unspecified	4 	T	00538
+3451	Derricks--A-frame	4 	T	00539
+3452	Derricks--basket	4 	T	00540
+3453	Derricks--breast	4 	T	00541
+3454	Derricks--gin pole	4 	T	00542
+3455	Derricks--guy	4 	T	00543
+3459	Derricks, n.e.c.	4 	T	00544
+345X	Derricks	3 	T	00537
+3460	Elevators, unspecified	4 	T	00546
+3461	Bucket or basket hoist--truck mounted	4 	T	00547
+3462	Dumbwaiters	4 	T	00548
+3463	Elevators--electric	4 	T	00549
+3464	Elevators--hydraulic	4 	T	00550
+3465	Elevators--hand operated	4 	T	00551
+3466	Manlifts	4 	T	00552
+3469	Elevators, n.e.c.	4 	T	00553
+346X	Elevators	3 	T	00545
+3470	Jacks, unspecified	4 	T	00555
+3471	Jacks--hydraulic	4 	T	00556
+3472	Jacks--mechanical	4 	T	00557
+3473	Jacks--pneumatic	4 	T	00558
+3479	Jacks, n.e.c.	4 	T	00559
+347X	Jacks	3 	T	00554
+3491	Winders, unwinders	4 	T	00561
+3499	Material handling machinery, n.e.c.	4 	T	00562
+349X	Other material handling machinery	3 	T	00560
+34XX	Material handling machinery	2 	T	00501
+350X	Metal, woodworking, and special material machinery, unspecified	3 	T	00564
+3510	Bending, rolling, shaping machinery, unspecified	4 	T	00566
+3511	Bending, crimping machines	4 	T	00567
+3512	Shearing machines	4 	T	00568
+3513	Rolling mills, rolling, calendering machinery	4 	T	00569
+3519	Bending, rolling, shaping machinery, n.e.c.	4 	T	00570
+351X	Bending, rolling, shaping machinery	3 	T	00565
+3520	Boring, drilling, planing, milling machinery, unspecified	4 	T	00572
+3521	Drills--stationary	4 	T	00573
+3522	Planing machines	4 	T	00574
+3523	Milling machines	4 	T	00575
+3524	Reaming machines	4 	T	00576
+3529	Boring, drilling, planing, milling machinery, n.e.c.	4 	T	00577
+352X	Boring, drilling, planing, milling machinery	3 	T	00571
+3530	Extruding, injecting, forming, molding machinery, unspecified	4 	T	00579
+3531	Casting machinery	4 	T	00580
+3532	Extruding machinery	4 	T	00581
+3533	Forging machinery	4 	T	00582
+3534	Plastic injection molding machinery	4 	T	00583
+3539	Extruding, injecting, forming, molding machinery, n.e.c.	4 	T	00584
+353X	Extruding, injecting, forming, molding machinery	3 	T	00578
+3540	Grinding, polishing machinery, unspecified	4 	T	00586
+3541	Grinders, abraders	4 	T	00587
+3542	Honing, polishing, lapping machinery	4 	T	00588
+3549	Grinding, polishing machinery, n.e.c.	4 	T	00589
+354X	Grinding, polishing machinery	3 	T	00585
+3550	Lathes, unspecified	4 	T	00591
+3551	Metalworking lathes	4 	T	00592
+3552	Woodworking lathes	4 	T	00593
+3559	Lathes, n.e.c.	4 	T	00594
+355X	Lathes	3 	T	00590
+3560	Presses, except printing, unspecified	4 	T	00596
+3561	Assembly presses	4 	T	00597
+3562	Brake presses	4 	T	00598
+3563	Punch presses	4 	T	00599
+3569	Presses, except printing, n.e.c.	4 	T	00600
+356X	Presses, except printing	3 	T	00595
+3570	Sawing machinery--stationary, unspecified	4 	T	00602
+3571	Arm saws, radial arm saws	4 	T	00603
+3572	Band saws	4 	T	00604
+3573	Table saws	4 	T	00605
+3579	Sawing machinery--stationary, n.e.c.	4 	T	00606
+357X	Sawing machinery--stationary	3 	T	00601
+358X	Threading and tapping machines	3 	T	00607
+3591	Electrochemical and discharge machinery (EDM)	4 	T	00609
+3592	Laser cutting machinery	4 	T	00610
+3593	Pressure fluid cutting machinery	4 	T	00611
+3594	Spot welding machinery	4 	T	00612
+3599	Metal, woodworking, and special material machinery, n.e.c.	4 	T	00613
+359X	Other metal, woodworking, and special material machinery	3 	T	00608
+35XX	Metal, woodworking, and special material machinery	2 	T	00563
+360X	Office and business machinery, unspecified	3 	T	00615
+3610	Electronic computers and peripheral equipment, unspecified	4 	T	00617
+3611	Cathode ray tubes (CRTs) and video display terminals (VDTs)	4 	T	00618
+3612	Computers--electronic	4 	T	00619
+3613	Keyboards--computer	4 	T	00620
+3614	Optical scanners	4 	T	00621
+3615	Printers and plotters--computer	4 	T	00622
+3619	Electronic computers and peripheral equipment, n.e.c.	4 	T	00623
+361X	Electronic computers and peripheral equipment	3 	T	00616
+3620	Office and banking machinery, unspecified	4 	T	00625
+3621	Automated teller machines	4 	T	00626
+3622	Calculating machines and cash registers	4 	T	00627
+3623	FAX machines	4 	T	00628
+3624	Mailing and metering machines	4 	T	00629
+3625	Photocopiers	4 	T	00630
+3626	Typewriters and word processing equipment	4 	T	00631
+3629	Office and banking machinery, n.e.c.	4 	T	00632
+362X	Office, banking, and retail machinery	3 	T	00624
+36XX	Office and business machinery	2 	T	00614
+370X	Special process machinery, unspecified	3 	T	00634
+3710	Food and beverage processing machinery--specialized, unspecified	4 	T	00636
+3711	Food slicers	4 	T	00637
+3712	Juice, oil, fat extractors	4 	T	00638
+3713	Meat grinders	4 	T	00639
+3714	Mixers, blenders, whippers--food and beverage	4 	T	00640
+3719	Food and beverage processing machinery--specialized, n.e.c.	4 	T	00641
+371X	Food and beverage processing machinery--specialized	3 	T	00635
+3720	Medical, surgical, and X-ray machinery and equipment, unspecified	4 	T	00643
+3721	Medical machinery and equipment, except X-ray	4 	T	00644
+3722	X-ray, magnetic resonance imaging (MRIs), and fluoroscope machinery and equipment	4 	T	00645
+3729	Medical, surgical, and X-ray machinery and equipment, n.e.c.	4 	T	00646
+372X	Medical, surgical, and X-ray machinery and equipment	3 	T	00642
+3730	Packaging, bottling, wrapping machinery, unspecified	4 	T	00648
+3731	Bottling, canning, filling machinery	4 	T	00649
+3732	Packaging, wrapping, bundling machinery	4 	T	00650
+3733	Product labeling machinery	4 	T	00651
+3734	Sealing, stapling machinery	4 	T	00652
+3739	Packaging, bottling, wrapping machinery, n.e.c.	4 	T	00653
+373X	Packaging, bottling, wrapping machinery	3 	T	00647
+3740	Paper production machinery, unspecified	4 	T	00655
+3741	Calendars/supercalendars--paper production	4 	T	00656
+3742	Coaters--paper production	4 	T	00657
+3743	Dryers--paper production	4 	T	00658
+3744	Formers--paper production	4 	T	00659
+3745	Slitters, winders--paper production	4 	T	00660
+3746	Washers, bleachers, refiners--paper production	4 	T	00661
+3749	Paper production machinery, n.e.c.	4 	T	00662
+374X	Paper production machinery	3 	T	00654
+3750	Printing machinery and equipment, unspecified	4 	T	00664
+3751	Bindery machinery	4 	T	00665
+3752	Engraving machinery	4 	T	00666
+3753	Presses--printing	4 	T	00667
+3754	Typesetting machinery	4 	T	00668
+3759	Printing machinery and equipment, n.e.c.	4 	T	00669
+375X	Printing machinery and equipment	3 	T	00663
+3760	Textile, apparel, leather production machinery, unspecified	4 	T	00671
+3761	Dyeing machinery--textile	4 	T	00672
+3762	Knitting machinery	4 	T	00673
+3763	Picking, carding, combing machinery	4 	T	00674
+3764	Sewing, stitching machinery	4 	T	00675
+3765	Spinning machinery	4 	T	00676
+3766	Weaving machinery	4 	T	00677
+3769	Textile, apparel, leather production machinery, n.e.c.	4 	T	00678
+376X	Textile, apparel, leather production machinery	3 	T	00670
+3790	Other special process machinery, unspecified	4 	T	00680
+3791	Centrifuges	4 	T	00681
+3792	Distilling and rectifying machinery	4 	T	00682
+3793	Dyeing machinery, except textile	4 	T	00683
+3794	Gas liquefying machinery	4 	T	00684
+3795	Paint mixing machinery	4 	T	00685
+3796	Painting, priming, metal coating machinery	4 	T	00686
+3797	Pumps	4 	T	00687
+3799	Special process machinery, n.e.c.	4 	T	00688
+379X	Other special process machinery	3 	T	00679
+37XX	Special process machinery	2 	T	00633
+3910	Audio and video equipment, unspecified	4 	T	00691
+3911	Radios, stereos, and other audio equipment	4 	T	00692
+3912	Telephones and communication equipment	4 	T	00693
+3913	Televisions	4 	T	00694
+3914	Video players and recorders--tape and disk	4 	T	00695
+3919	Audio and video equipment, n.e.c.	4 	T	00696
+391X	Audio and video equipment	3 	T	00690
+392X	Product assembly machinery, n.e.c.	3 	T	00697
+393X	Product testing, inspecting, and diagnostic machinery, n.e.c.	3 	T	00698
+3990	Other machinery, unspecified	4 	T	00700
+3991	Air compressors	4 	T	00701
+3992	Garbage disposals	4 	T	00702
+3993	Incinerators	4 	T	00703
+3994	Snowblowers	4 	T	00704
+3995	Snow plows	4 	T	00705
+3996	Street sweeping and cleaning machinery	4 	T	00706
+3997	Trash compactors	4 	T	00707
+3998	Vending machines	4 	T	00708
+3999	Machinery, n.e.c.	4 	T	00709
+399X	Other machinery	3 	T	00699
+39XX	Miscellaneous machinery	2 	T	00689
+3XXX	Machinery	1 	T	00397
+40XX	Parts and materials, unspecified	2 	T	00711
+410X	Building materials, unspecified	3 	T	00713
+4110	Bricks, blocks, structural stone, unspecified	4 	T	00715
+4111	Bricks and pavers	4 	T	00716
+4112	Concrete blocks, cinder blocks	4 	T	00717
+4113	Structural stones or slabs, n.e.c.	4 	T	00718
+4119	Bricks, blocks, structural stone, n.e.c.	4 	T	00719
+411X	Bricks, blocks, structural stone	3 	T	00714
+4120	Pipes, ducts, tubing, unspecified	4 	T	00721
+4121	Concrete or clay pipes and conduits	4 	T	00722
+4122	Ducts	4 	T	00723
+4123	Metal pipe, tubing	4 	T	00724
+4124	Pipe fittings	4 	T	00725
+4125	Plastic or rubber pipe and tubing	4 	T	00726
+4129	Pipes, ducts, tubing, n.e.c.	4 	T	00727
+412X	Pipes, ducts, tubing	3 	T	00720
+4130	Structural metal materials, unspecified	4 	T	00729
+4131	Angle irons	4 	T	00730
+4132	Bars, rods, reinforcing bar (rebar)	4 	T	00731
+4133	Beams	4 	T	00732
+4134	Grates	4 	T	00733
+4135	Plates, metal panels	4 	T	00734
+4136	Rails	4 	T	00735
+4137	Sheet metal	4 	T	00736
+4139	Structural metal materials, n.e.c.	4 	T	00737
+413X	Structural metal materials	3 	T	00728
+4140	Tiles, shingles, unspecified	4 	T	00739
+4141	Ceiling tiles	4 	T	00740
+4142	Ceramic or stone tiles--drain, roof, multipurpose	4 	T	00741
+4143	Roof shingles, except tile	4 	T	00742
+4144	Vinyl floor tiles	4 	T	00743
+4149	Tiles, shingles, n.e.c.	4 	T	00744
+414X	Tiles, shingles	3 	T	00738
+4150	Wood, lumber, unspecified	4 	T	00746
+4151	Dimensional lumber: 2x4, 2x3, etc.	4 	T	00747
+4152	Plywood, wood paneling; particle, chip, flake board	4 	T	00748
+4153	Wood pieces, trim pieces, n.e.c.	4 	T	00749
+4159	Wood, lumber, n.e.c.	4 	T	00750
+415X	Wood, lumber	3 	T	00745
+4190	Other building materials--solid elements, unspecified	4 	T	00752
+4191	Fencing and screening material, n.e.c.	4 	T	00753
+4192	Flashing	4 	T	00754
+4193	Glass, window panes	4 	T	00755
+4194	Gutters, downspouts	4 	T	00756
+4195	Sheet flooring	4 	T	00757
+4196	Siding--aluminum, vinyl	4 	T	00758
+4197	Structural hardware, n.e.c.	4 	T	00759
+4198	Wallboard, drywall	4 	T	00760
+4199	Other building materials--solid elements, n.e.c.	4 	T	00761
+419X	Other building materials--solid elements	3 	T	00751
+41XX	Building materials--solid elements	2 	T	00712
+420X	Fasteners, connectors, ropes, ties, unspecified	3 	T	00763
+4210	Fasteners, unspecified	4 	T	00765
+4211	Clamps, couplings	4 	T	00766
+4212	Nails, brads, tacks	4 	T	00767
+4213	Nuts, bolts, washers	4 	T	00768
+4214	Rivets	4 	T	00769
+4215	Screws	4 	T	00770
+4216	Spikes	4 	T	00771
+4217	Staples	4 	T	00772
+4219	Fasteners, n.e.c.	4 	T	00773
+421X	Fasteners	3 	T	00764
+4220	Ropes, ties, unspecified	4 	T	00775
+4221	Bands	4 	T	00776
+4222	Bungee cords	4 	T	00777
+4223	Chains, n.e.c.	4 	T	00778
+4224	Rope, twine, string	4 	T	00779
+4225	Strapping	4 	T	00780
+4226	Wire--nonelectrical	4 	T	00781
+4229	Ropes, ties, n.e.c.	4 	T	00782
+422X	Ropes, ties	3 	T	00774
+423X	Valves, nozzles	3 	T	00783
+429X	Fasteners, connectors, ropes, ties, n.e.c.	3 	T	00784
+42XX	Fasteners, connectors, ropes, ties	2 	T	00762
+430X	Hoisting accessories, unspecified	3 	T	00786
+431X	Fixtures, load indicators	3 	T	00787
+432X	Hooks, shackles, magnets, clamshells	3 	T	00788
+433X	Slings	3 	T	00789
+439X	Hoisting accessories, n.e.c.	3 	T	00790
+43XX	Hoisting accessories	2 	T	00785
+440X	Machine, tool, and electric parts, unspecified	3 	T	00792
+4410	Electric parts, unspecified	4 	T	00794
+4411	Electrical wiring	4 	T	00795
+4412	Generators	4 	T	00796
+4413	Magnetic and electrolytic apparatus	4 	T	00797
+4414	Motors	4 	T	00798
+4415	Power lines, transformers, convertors	4 	T	00799
+4416	Relays, rheostats, starters, controls	4 	T	00800
+4417	Switchboards, switches, fuses	4 	T	00801
+4419	Electric parts, n.e.c.	4 	T	00802
+441X	Electric parts	3 	T	00793
+4420	Machine and appliance parts, unspecified	4 	T	00804
+4421	Dies, molds, patterns	4 	T	00805
+4422	Drives--chain, leather, fabric, vee belt	4 	T	00806
+4423	Drums, pulleys, sheaves	4 	T	00807
+4424	Engines, turbines, except vehicle	4 	T	00808
+4425	Friction clutches	4 	T	00809
+4426	Gears	4 	T	00810
+4427	Rollers	4 	T	00811
+4429	Machine and appliance parts, n.e.c.	4 	T	00812
+442X	Machine and appliance parts	3 	T	00803
+4430	Tool parts, accessories, unspecified	4 	T	00814
+4431	Drill bits--unattached	4 	T	00815
+4432	Saw blades--unattached	4 	T	00816
+4439	Tool parts, accessories, n.e.c.	4 	T	00817
+443X	Tool parts, accessories	3 	T	00813
+449X	Machine, tool, and electric parts, n.e.c.	3 	T	00818
+44XX	Machine, tool, and electric parts	2 	T	00791
+450X	Metal materials--nonstructural, unspecified	3 	T	00820
+451X	Metal sheets, ingots, bars--nonstructural	3 	T	00821
+452X	Molten or hot metals, slag	3 	T	00822
+459X	Metal materials--nonstructural, n.e.c.	3 	T	00823
+45XX	Metal materials--nonstructural	2 	T	00819
+460X	Tars, sealants, caulking, insulation, unspecified	3 	T	00825
+461X	Asphalt, roofing tar	3 	T	00826
+462X	Fiberglass insulation	3 	T	00827
+463X	Foam caulking, foam insulation	3 	T	00828
+464X	Joint compound, patching compounds	3 	T	00829
+465X	Plastic, vinyl caulking	3 	T	00830
+466X	Sealants, waterproofers, n.e.c.	3 	T	00831
+469X	Tars, sealants, caulking, insulation, n.e.c.	3 	T	00832
+46XX	Tars, sealants, caulking, insulating material	2 	T	00824
+470X	Tarps and sheeting, nonmetal, unspecified	3 	T	00834
+471X	Roofing paper, roofing felt	3 	T	00835
+472X	Tarps; plastic, or fabric sheeting	3 	T	00836
+479X	Tarps and sheeting, nonmetal, n.e.c.	3 	T	00837
+47XX	Tarps and sheeting--nonmetal	2 	T	00833
+480X	Vehicle and mobile equipment parts, unspecified	3 	T	00839
+4810	Tires, inner tubes, wheels, unspecified	4 	T	00841
+4811	Bike tires	4 	T	00842
+4812	Tire inner tubes	4 	T	00843
+4813	Tires, except bike	4 	T	00844
+4814	Wheels, tire rims	4 	T	00845
+4819	Tires, inner tubes, wheels, n.e.c.	4 	T	00846
+481X	Tires, inner tubes, wheels	3 	T	00840
+4820	Engine parts and accessories, unspecified	4 	T	00848
+4821	Battery	4 	T	00849
+4822	Belts, hoses	4 	T	00850
+4823	Engine block	4 	T	00851
+4824	Fan	4 	T	00852
+4825	Muffler, exhaust	4 	T	00853
+4826	Radiator	4 	T	00854
+4827	Transmission	4 	T	00855
+4829	Engine parts and accessories, n.e.c.	4 	T	00856
+482X	Engine parts and accessories	3 	T	00847
+483X	Trailers	3 	T	00857
+484X	Windshields, vehicle windows	3 	T	00858
+489X	Vehicle and mobile equipment parts, n.e.c.	3 	T	00859
+48XX	Vehicle and mobile equipment parts	2 	T	00838
+49XX	Parts and materials, n.e.c.	2 	T	00860
+4XXX	Parts and machinery	1 	T	00710
+510X	Animals, unspecified	3 	T	00863
+5110	Animal products--nonfood, unspecified	4 	T	00865
+5111	Bones, shells	4 	T	00866
+5112	Feathers	4 	T	00867
+5113	Fur, wool	4 	T	00868
+5114	Hides--leather	4 	T	00869
+5119	Animal products--nonfood, n.e.c.	4 	T	00870
+511X	Animal products--nonfood	3 	T	00864
+5120	Birds and fowl, unspecified	4 	T	00872
+5121	Birds, except fowl	4 	T	00873
+5122	Chicken	4 	T	00874
+5123	Ducks	4 	T	00875
+5124	Geese	4 	T	00876
+5125	Turkey	4 	T	00877
+5129	Birds and fowl, n.e.c.	4 	T	00878
+512X	Birds and fowl	4 	T	00871
+513X	Fish, shellfish	3 	T	00879
+514X	Insects, arachnids (spiders, ticks, scorpions, etc.)	3 	T	00880
+5150	Mammals, unspecified	4 	T	00882
+5151	Cats	4 	T	00883
+5152	Cattle	4 	T	00884
+5153	Dogs	4 	T	00885
+5154	Horses	4 	T	00886
+5155	Rats, rodents	4 	T	00887
+5156	Sheep	4 	T	00888
+5157	Swine	4 	T	00889
+5159	Mammals, n.e.c.	4 	T	00890
+515X	Mammals, except humans	3 	T	00881
+516X	Reptiles, snakes	3 	T	00891
+517X	Animal waste products, including manure	3 	T	00892
+519X	Animals, n.e.c.	3 	T	00893
+51XX	Animals and animal products	2 	T	00862
+520X	Food products, unspecified	3 	T	00895
+521X	Bakery products, candy, confections, snack foods	3 	T	00896
+522X	Beverages, n.e.c.	3 	T	00897
+523X	Dairy products	3 	T	00898
+524X	Fruits, nuts, vegetables	3 	T	00899
+525X	Grains, grain mill products	3 	T	00900
+526X	Meat, poultry	3 	T	00901
+527X	Seafood	3 	T	00902
+528X	Multiple foods or groceries	3 	T	00903
+5291	Fats, oils	4 	T	00905
+5292	Sugar, cocoa, chocolate	4 	T	00906
+5299	Other food products--fresh or processed, n.e.c.	4 	T	00907
+529X	Other food products--fresh or processed	3 	T	00904
+52XX	Food products--fresh or processed	2 	T	00894
+530X	Infectious and parasitic agents, unspecified	3 	T	00909
+531X	Bacteria	3 	T	00910
+532X	Fungi	3 	T	00911
+533X	Viruses	3 	T	00912
+539X	Infectious and parasitic agents, n.e.c.	3 	T	00913
+53XX	Infectious and parasitic agents	2 	T	00908
+540X	Metallic minerals, unspecified	3 	T	00915
+541X	Metal ores--nonradiating	3 	T	00916
+5420	Radiating metals, natural and processed, unspecified	4 	T	00918
+5421	Plutonium	4 	T	00919
+5422	Radium	4 	T	00920
+5423	Uranium	4 	T	00921
+5429	Radiating metals, natural and processed, n.e.c.	4 	T	00922
+542X	Radiating metals, natural and processed	3 	T	00917
+549X	Metallic minerals, n.e.c.	3 	T	00923
+54XX	Metallic minerals	2 	T	00914
+550X	Nonmetallic minerals, except fuel, unspecified	3 	T	00925
+551X	Asbestos	3 	T	00926
+552X	Boulders	3 	T	00927
+553X	Clay--natural and processed	3 	T	00928
+554X	Dirt, earth	3 	T	00929
+555X	Rocks, crushed stone	3 	T	00930
+556X	Sand, gravel	3 	T	00931
+557X	Silica	3 	T	00932
+559X	Nonmetallic minerals, except fuel, n.e.c.	3 	T	00933
+55XX	Nonmetallic minerals, except fuel	2 	T	00924
+561X	Bodily conditions of injured, ill worker	3 	T	00935
+562X	Bodily motion or position of injured, ill worker	3 	T	00936
+569X	Person--injured or ill worker, n.e.c.	3 	T	00937
+56XX	Person--injured or ill worker	2 	T	00934
+570X	Person--other than injured or ill worker, unspecified	3 	T	00939
+571X	Bodily fluids or substances of person	3 	T	00940
+572X	Co-worker, former co-worker of injured or ill worker	3 	T	00941
+573X	Health care patient or resident of health care facility	3 	T	00942
+574X	Relative of injured or ill worker	3 	T	00943
+579X	Person--other than injured or ill worker, n.e.c.	3 	T	00944
+57XX	Person--other than injured or ill worker	2 	T	00938
+580X	Plants, trees, vegetation, unspecified	3 	T	00946
+581X	Cash grain crops	3 	T	00947
+582X	Field crops	3 	T	00948
+583X	Flowers	3 	T	00949
+584X	Houseplants	3 	T	00950
+585X	Poison ivy, oak, sumac	3 	T	00951
+586X	Shrubs, grasses	3 	T	00952
+587X	Trees, logs	3 	T	00953
+589X	Plants, trees, vegetation--not processed, n.e.c.	3 	T	00954
+58XX	Plants, trees, vegetation--not processed	2 	T	00945
+59XX	Persons, plants, animals, and minerals, n.e.c.	2 	T	00955
+5XXX	Persons, plants, minerals, animals and animal products	1 	T	00861
+60XX	Structures and surfaces, unspecified	2 	T	00957
+610X	Building system, unspecified	3 	T	00959
+611X	Climate control system	3 	T	00960
+612X	Plumbing system	3 	T	00961
+619X	Building system, n.e.c.	3 	T	00962
+61XX	Building systems	2 	T	00958
+620X	Floors, walkways, ground surfaces, unspecified	3 	T	00964
+621X	Escalators	3 	T	00965
+6220	Floor, unspecified	4 	T	00967
+6221	Floor of building	4 	T	00968
+6222	Floor of elevator	4 	T	00969
+6223	Floor of mine	4 	T	00970
+6224	Floor of scaffold, staging, or temporary work platform	4 	T	00971
+6225	Floor of vehicle	4 	T	00972
+6229	Floor, n.e.c.	4 	T	00973
+622X	Floors	3 	T	00966
+623X	Ground	3 	T	00974
+624X	Sidewalks, paths, outdoor walkways	3 	T	00975
+6250	Stairs, steps, unspecified	4 	T	00977
+6251	Stairs, steps--indoors	4 	T	00978
+6252	Stairs, steps--outdoors	4 	T	00979
+625X	Stairs, steps	3 	T	00976
+626X	Street, road	3 	T	00980
+6270	Surfaces below ground level, unspecified	4 	T	00982
+6271	Ditches, channels, trenches, excavations	4 	T	00983
+6279	Surfaces below ground level, n.e.c.	4 	T	00984
+627X	Surfaces below ground level, n.e.c.	3 	T	00981
+628X	Parking lots	3 	T	00985
+6290	Other floors, walkways, ground surfaces, unspecified	4 	T	00987
+6291	Piers, wharfs	4 	T	00988
+6292	Ramps, runways, loading docks	4 	T	00989
+6293	Moving walkways	4 	T	00990
+6299	Floors, walkways, ground surfaces, n.e.c.	4 	T	00991
+629X	Other floors, walkways, ground surfaces	3 	T	00986
+62XX	Floors, walkways, ground surfaces	2 	T	00963
+630X	Other structural elements, unspecified	3 	T	00993
+631X	Doors	3 	T	00994
+632X	Fences, fence panels	3 	T	00995
+633X	Gates	3 	T	00996
+634X	Roof	3 	T	00997
+635X	Roof trusses	3 	T	00998
+636X	Skylights	3 	T	00999
+637X	Walls	3 	T	01000
+638X	Windows	3 	T	01001
+639X	Structural elements, n.e.c.	3 	T	01002
+63XX	Other structural elements	2 	T	00992
+640X	Structures, unspecified	3 	T	01004
+641X	Bridges, dams, locks	3 	T	01005
+642X	Buildings--office, plant, residential	3 	T	01006
+643X	Grandstands, stadia	3 	T	01007
+6440	Mines, caves, tunnels, unspecified	4 	T	01009
+6441	Mines, mine tunnels	4 	T	01010
+6442	Pedestrian tunnels	4 	T	01011
+6443	Sewers, manholes, storm drains	4 	T	01012
+6444	Subway and train tunnels	4 	T	01013
+6449	Mines, caves, tunnels, n.e.c.	4 	T	01014
+644X	Mines, caves, tunnels	3 	T	01008
+645X	Pools	3 	T	01015
+6460	Scaffolds--staging, unspecified	4 	T	01017
+6461	Scaffolds--improvised staging	4 	T	01018
+6462	Scaffolds--selfsupporting staging	4 	T	01019
+6463	Scaffolds--staging supported by structure or other means	4 	T	01020
+6464	Scaffolds--suspended staging	4 	T	01021
+6469	Scaffolds--staging, n.e.c.	4 	T	01022
+646X	Scaffolds, staging	3 	T	01016
+647X	Towers, poles	3 	T	01023
+6480	Other structures, unspecified	4 	T	01025
+6481	Guardrails, road dividers	4 	T	01026
+6482	Hydrants	4 	T	01027
+6483	Wells	4 	T	01028
+6489	Structures, n.e.c.	4 	T	01029
+648X	Other structures	3 	T	01024
+64XX	Structures	2 	T	01003
+69XX	Structures and surfaces, n.e.c.	2 	T	01030
+6XXX	Structures and surfaces	1 	T	00956
+70XX	Tools, instruments, and equipment, unspecified	2 	T	01032
+710X	Handtools--nonpowered, unspecified	3 	T	01034
+7110	Boring handtools--nonpowered, unspecified	4 	T	01036
+7111	Augers	4 	T	01037
+7112	Braces	4 	T	01038
+7113	Drills	4 	T	01039
+7119	Boring handtools--nonpowered, n.e.c.	4 	T	01040
+711X	Boring handtools--nonpowered	3 	T	01035
+7120	Cutting handtools--nonpowered, unspecified	4 	T	01042
+7121	Axes, hatchets	4 	T	01043
+7122	Bolt cutters	4 	T	01044
+7123	Chisels	4 	T	01045
+7124	Knives	4 	T	01046
+7125	Saws	4 	T	01047
+7126	Scissors, snips, shears	4 	T	01048
+7129	Cutting handtools--nonpowered, n.e.c.	4 	T	01049
+712X	Cutting handtools--nonpowered	3 	T	01041
+7130	Digging handtools--nonpowered, unspecified	4 	T	01051
+7131	Hoes	4 	T	01052
+7132	Picks	4 	T	01053
+7133	Shovels	4 	T	01054
+7134	Trowels	4 	T	01055
+7139	Digging handtools--nonpowered, n.e.c.	4 	T	01056
+713X	Digging handtools--nonpowered	3 	T	01050
+7140	Gripping handtools--nonpowered, unspecified	4 	T	01058
+7141	Pliers, tongs	4 	T	01059
+7142	Vises, clamps	4 	T	01060
+7149	Gripping handtools--nonpowered, n.e.c.	4 	T	01061
+714X	Gripping handtools--nonpowered	3 	T	01057
+7150	Measuring handtools--nonpowered, unspecified	4 	T	01063
+7151	Calipers, micrometers	4 	T	01064
+7152	Dividers	4 	T	01065
+7153	Gauges	4 	T	01066
+7154	Levels	4 	T	01067
+7155	Plumb bobs	4 	T	01068
+7156	Rulers, tape measures	4 	T	01069
+7157	Squares	4 	T	01070
+7159	Measuring handtools--nonpowered, n.e.c.	4 	T	01071
+715X	Measuring handtools--nonpowered	3 	T	01062
+7160	Striking handtools--nonpowered, unspecified	4 	T	01073
+7161	Hammers	4 	T	01074
+7162	Mallets	4 	T	01075
+7163	Punches, counterpunches, countersinks	4 	T	01076
+7164	Sledges	4 	T	01077
+7169	Striking handtools--nonpowered, n.e.c.	4 	T	01078
+716X	Striking and nailing handtools--nonpowered	3 	T	01072
+7170	Surfacing handtools--nonpowered, unspecified	4 	T	01080
+7171	Files	4 	T	01081
+7172	Planes	4 	T	01082
+7173	Sanders	4 	T	01083
+7174	Sharpening stones and wheels	4 	T	01084
+7179	Surfacing handtools--nonpowered, n.e.c.	4 	T	01085
+717X	Surfacing handtools--nonpowered	3 	T	01079
+7180	Turning handtools--nonpowered, unspecified	4 	T	01087
+7181	Screwdrivers	4 	T	01088
+7182	Wrenches	4 	T	01089
+7189	Turning handtools--nonpowered, n.e.c.	4 	T	01090
+718X	Turning handtools--nonpowered	3 	T	01086
+7190	Other handtools--nonpowered, unspecified	4 	T	01092
+7191	Brooms, mops, and other cleaning tools	4 	T	01093
+7192	Crowbars	4 	T	01094
+7193	Pitchforks, sading forks	4 	T	01095
+7194	Rakes	4 	T	01096
+7195	Stapling tools--nonpowered	4 	T	01097
+7199	Handtools--nonpowered, n.e.c.	4 	T	01098
+719X	Other handtools--nonpowered	3 	T	01091
+71XX	Handtools--nonpowered	2 	T	01033
+720X	Handtools--powered, unspecified	3 	T	01100
+7210	Boring handtools--powered, unspecified	4 	T	01102
+7211	Augers--powered	4 	T	01103
+7212	Braces--powered	4 	T	01104
+7213	Drills--powered	4 	T	01105
+7214	Routers and molders--powered	4 	T	01106
+7219	Boring handtools--powered, n.e.c	4 	T	01107
+721X	Boring handtools--powered	3 	T	01101
+7220	Cutting handtools--powered, unspecified	4 	T	01109
+7221	Chainsaws--powered	4 	T	01110
+7222	Chisels--powered	4 	T	01111
+7223	Knives--powered	4 	T	01112
+7224	Saws--powered, except chainsaws	4 	T	01113
+7229	Cutting handtools--powered, n.e.c.	4 	T	01114
+722X	Cutting handtools--powered	3 	T	01108
+7230	Striking handtools--powered, unspecified	4 	T	01116
+7231	Hammers--powered	4 	T	01117
+7232	Jackhammers--powered	4 	T	01118
+7233	Punches--powered	4 	T	01119
+7234	Riveters--powered	4 	T	01120
+7239	Striking handtools--powered, n.e.c.	4 	T	01121
+723X	Striking and nailing handtools--powered	3 	T	01115
+7240	Surfacing handtools--powered, unspecified	4 	T	01123
+7241	Buffers, polishers, waxers--powered	4 	T	01124
+7242	Hand grinders--powered	4 	T	01125
+7243	Sanders--powered	4 	T	01126
+7244	Sandblasters--powered	4 	T	01127
+7249	Surfacing handtools--powered, n.e.c.	4 	T	01128
+724X	Surfacing handtools--powered	3 	T	01122
+7250	Turning handtools--powered, unspecified	4 	T	01130
+7251	Bolt setters--powered	4 	T	01131
+7252	Impact wrenches--powered	4 	T	01132
+7253	Screwdrivers--powered	4 	T	01133
+7259	Turning handtools--powered, n.e.c.	4 	T	01134
+725X	Turning handtools--powered	3 	T	01129
+7260	Welding and heating handtools--powered, unspecified	4 	T	01136
+7261	Blow torches	4 	T	01137
+7262	Soldering irons--powered	4 	T	01138
+7263	Welding torches--powered	4 	T	01139
+7269	Welding and heating handtools--powered, n.e.c.	4 	T	01140
+726X	Welding and heating handtools--powered	3 	T	01135
+7290	Other handtools--powered, unspecified	4 	T	01142
+7291	Nail guns--powered	4 	T	01143
+7293	Scrubbers--powered	4 	T	01144
+7294	Sprayers--paint	4 	T	01145
+7295	Stapling tools--electric or pneumatic	4 	T	01146
+7299	Handtools--powered, n.e.c.	4 	T	01147
+729X	Other handtools--powered	3 	T	01141
+72XX	Handtools--powered	2 	T	01099
+730X	Handtools--power not determined, unspecified	3 	T	01149
+7310	Boring handtools--power not determined, unspecified	4 	T	01151
+7311	Augers--power not determined	4 	T	01152
+7312	Braces--power not determined	4 	T	01153
+7313	Drills--power not determined	4 	T	01154
+7319	Boring handtools--power not determined, n.e.c.	4 	T	01155
+731X	Boring handtools--power not determined	3 	T	01150
+7320	Cutting handtools--power not determined, unspecified	4 	T	01157
+7321	Chisels--power not determined	4 	T	01158
+7322	Knives--power not determined	4 	T	01159
+7323	Saws--power not determined	4 	T	01160
+7329	Cutting handtools--power not determined, n.e.c.	4 	T	01161
+732X	Cutting handtools--power not determined	3 	T	01156
+7330	Striking and nailing handtools--power not determined, unspecified	4 	T	01163
+7331	Hammers--power not determined	4 	T	01164
+7332	Punches--power not determined	4 	T	01165
+7339	Striking and nailing handtools--power not determined, n.e.c.	4 	T	01166
+733X	Striking and nailing handtools--power not determined	3 	T	01162
+7340	Surfacing handtools--power not determined, unspecified	4 	T	01168
+7341	Sanders--power not determined	4 	T	01169
+7349	Surfacing handtools--power not determined, n.e.c.	4 	T	01170
+734X	Surfacing handtools--power not determined	3 	T	01167
+7350	Turning handtools--power not determined, unspecified	4 	T	01172
+7351	Screwdrivers--power not determined	4 	T	01173
+7352	Wrenches--power not determined	4 	T	01174
+7359	Turning handtools--power not determined, n.e.c.	4 	T	01175
+735X	Turning handtools--power not determined	3 	T	01171
+7391	Staplers--power not determined	4 	T	01177
+7399	Handtools--power not determined, n.e.c.	4 	T	01178
+739X	Other handtools--power not determined	3 	T	01176
+73XX	Handtools--power not determined	2 	T	01148
+740X	Ladders, unspecified	3 	T	01180
+741X	Ladders--fixed	3 	T	01181
+7420	Movable ladders, unspecified	4 	T	01183
+7421	Extension ladders	4 	T	01184
+7422	Step ladders	4 	T	01185
+7423	Straight ladders	4 	T	01186
+7424	Truck mounted ladders, aerial ladder trams	4 	T	01187
+7429	Movable ladders, n.e.c.	4 	T	01188
+742X	Ladders--movable	3 	T	01182
+749X	Ladders, n.e.c.	3 	T	01189
+74XX	Ladders	2 	T	01179
+750X	Medical and surgical instruments, unspecified	3 	T	01191
+751X	Needles and syringes	3 	T	01192
+752X	Scalpels	3 	T	01193
+759X	Medical and surgical instruments, n.e.c.	3 	T	01194
+75XX	Medical and surgical instruments	2 	T	01190
+760X	Photographic equipment, unspecified	3 	T	01196
+761X	Cameras--still and motion picture	3 	T	01197
+762X	Photographic paper and cloth	3 	T	01198
+763X	Projectors--still and motion picture	3 	T	01199
+764X	Tripods, stands	3 	T	01200
+769X	Photographic equipment, n.e.c.	3 	T	01201
+76XX	Photographic equipment	2 	T	01195
+770X	Protective equipment, except clothing, unspecified	3 	T	01203
+771X	Dust masks	3 	T	01204
+772X	Earplugs and hearing protectors	3 	T	01205
+773X	Face shields, welding masks	3 	T	01206
+774X	Hard hats	3 	T	01207
+775X	Lifelines, lanyards, safety belts or harnesses	3 	T	01208
+776X	Respirators	3 	T	01209
+777X	Safety glasses or goggles	3 	T	01210
+779X	Protective equipment, except clothing, n.e.c.	3 	T	01211
+77XX	Protective equipment, except clothing	2 	T	01202
+780X	Recreation and athletic equipment, unspecified	3 	T	01213
+781X	Camping equipment	3 	T	01214
+782X	Gymnasium and exercise equipment	3 	T	01215
+783X	Playground equipment	3 	T	01216
+784X	Riding goods and equipment	3 	T	01217
+785X	Snow skiing goods and equipment	3 	T	01218
+786X	Water sports equipment	3 	T	01219
+789X	Recreation and athletic equipment, n.e.c.	3 	T	01220
+78XX	Recreation and athletic equipment	2 	T	01212
+791X	Clocks	3 	T	01222
+792X	Cooking and eating utensils, except knives	3 	T	01223
+7930	Firearm, unspecified	4 	T	01225
+7931	Pistol, handgun, revolver	4 	T	01226
+7932	Rifle	4 	T	01227
+7933	Shotgun	4 	T	01228
+7939	Firearm, n.e.c.	4 	T	01229
+793X	Firearms	3 	T	01224
+794X	Health care and orthopedic equipment, n.e.c.	3 	T	01230
+7950	Musical instrument, unspecified	4 	T	01232
+7951	Pianos	4 	T	01233
+7959	Other musical instruments	4 	T	01234
+795X	Musical instruments	3 	T	01231
+7960	Sewing notions, unspecified	4 	T	01236
+7961	Fabric pins, safety pins	4 	T	01237
+7962	Sewing needles	4 	T	01238
+7969	Sewing notions, n.e.c.	4 	T	01239
+796X	Sewing notions, n.e.c	3 	T	01235
+797X	Wheelchairs	3 	T	01240
+7980	Writing, drawing, and art supplies, unspecified	4 	T	01242
+7981	Art supplies and materials, except paint	4 	T	01243
+7982	Chalk, crayons, marking devices	4 	T	01244
+7983	Pens and pencils	4 	T	01245
+7989	Writing, drawing, and art supplies, n.e.c.	4 	T	01246
+798X	Writing, drawing, and art supplies.	3 	T	01241
+799X	Tools, instruments, and equipment, n.e.c	3 	T	01247
+79XX	Other tools, instruments, and equipment	2 	T	01221
+7XXX	Tools, instruments, and equipment	1 	T	01031
+80XX	Vehicle, unspecified	2 	T	01249
+810X	Aircraft, unspecified	3 	T	01251
+8110	Aircraft--powered fixed wing, unspecified	4 	T	01253
+8111	Jet	4 	T	01254
+8112	Propeller-driven aircraft	4 	T	01255
+8119	Aircraft--powered fixed wing, n.e.c.	4 	T	01256
+811X	Aircraft--powered fixed wing	3 	T	01252
+8120	Aircraft--rotary wing, unspecified	4 	T	01258
+8121	Helicopter	4 	T	01259
+8122	Hovercraft	4 	T	01260
+8129	Aircraft--rotary wing, n.e.c.	4 	T	01261
+812X	Aircraft--powered rotary wing	3 	T	01257
+8130	Aircraft--nonpowered, unspecified	4 	T	01263
+8131	Glider, nonpowered	4 	T	01264
+8132	Parachute	4 	T	01265
+8139	Aircraft--nonpowered, n.e.c.	4 	T	01266
+813X	Aircraft--nonpowered	3 	T	01262
+819X	Aircraft, n.e.c.	3 	T	01267
+81XX	Air vehicle	2 	T	01250
+820X	Highway vehicle, unspecified	3 	T	01269
+821X	Automobile	3 	T	01270
+822X	Bus	3 	T	01271
+823X	Motorcycle, moped	3 	T	01272
+824X	Motor home, recreational vehicle	3 	T	01273
+8250	Truck, unspecified	4 	T	01275
+8251	Delivery truck	4 	T	01276
+8252	Dump truck	4 	T	01277
+8253	Pickup truck	4 	T	01278
+8254	Semitrailer, tractor trailer, trailer truck	4 	T	01279
+8259	Truck, n.e.c.	4 	T	01280
+825X	Truck	3 	T	01274
+826X	Van--passenger or light delivery	3 	T	01281
+829X	Highway vehicle, motorized, n.e.c.	3 	T	01282
+82XX	Highway vehicle, motorized	2 	T	01268
+830X	Highway vehicle, nonmotorized, unspecified	3 	T	01284
+8311	Horse drawn carriage	4 	T	01286
+8312	Bicycle	4 	T	01287
+8319	Animal or human powered vehicle, n.e.c.	4 	T	01288
+831X	Animal or human powered vehicle	3 	T	01285
+839X	Highway vehicle, nonmotorized, n.e.c.	3 	T	01289
+83XX	Highway vehicle, nonmotorized	2 	T	01283
+840X	Offroad vehicle, nonindustrial, unspecified	3 	T	01291
+841X	All terrain vehicle (ATV)	3 	T	01292
+842X	Golf cart, powered	3 	T	01293
+843X	Snowmobile	3 	T	01294
+849X	Offroad vehicle, nonindustrial, n.e.c.	3 	T	01295
+84XX	Offroad vehicle, nonindustrial	2 	T	01290
+850X	Plant and industrial powered vehicles, unspecified	3 	T	01297
+8510	Forklift, unspecified	4 	T	01299
+8511	Counterbalance rider--high lift	4 	T	01300
+8512	Hand/rider forklift truck--motorized	4 	T	01301
+8513	Order picker high lift truck	4 	T	01302
+8514	Pallet lift truck--motorized	4 	T	01303
+8515	Platform lift truck--high or low lift	4 	T	01304
+8516	Reach rider lift truck	4 	T	01305
+8517	Single side loader rider truck	4 	T	01306
+8518	Straddle rider lift truck	4 	T	01307
+8519	Forklift, n.e.c.	4 	T	01308
+851X	Forklift	3 	T	01298
+8520	Powered industrial carrier, unspecified	4 	T	01310
+8521	Container carrier	4 	T	01311
+8522	Lumber carrier	4 	T	01312
+8523	Stacker carrier	4 	T	01313
+8524	Straddle carrier	4 	T	01314
+8529	Powered industrial carrier, n.e.c.	4 	T	01315
+852X	Powered industrial carrier, except forklifts	3 	T	01309
+853X	Tractor	3 	T	01316
+859X	Plant and industrial powered vehicle, n.e.c.	3 	T	01317
+85XX	Plant and industrial powered vehicles, tractors	2 	T	01296
+860X	Plant and industrial vehicle--nonpowered, unspecified	3 	T	01319
+861X	Cart, dolly, handtruck	3 	T	01320
+862X	Wheelbarrow	3 	T	01321
+869X	Plant and industrial vehicle--nonpowered, n.e.c.	3 	T	01322
+86XX	Plant and industrial vehicle--nonppowered	2 	T	01318
+870X	Rail vehicle, unspecified	3 	T	01324
+871X	Amusement park rail vehicle	3 	T	01325
+872X	Streetcar, trolley	3 	T	01326
+873X	Subway	3 	T	01327
+874X	Train	3 	T	01328
+879X	Rail vehicle, n.e.c.	3 	T	01329
+87XX	Rail vehicle	2 	T	01323
+880X	Water vehicle, unspecified	3 	T	01331
+881X	Barge	3 	T	01332
+882X	Canoe, kayak, rowboat, raft	3 	T	01333
+883X	Jet skis	3 	T	01334
+884X	Motorboat, yachts	3 	T	01335
+885X	Sailboat, sailing ship	3 	T	01336
+886X	Ships--other than sail powered	3 	T	01337
+887X	Tugboat, commercial fishing boat	3 	T	01338
+889X	Water vehicle, n.e.c.	3 	T	01339
+88XX	Water vehicle	2 	T	01330
+89XX	Vehicles, n.e.c.	2 	T	01340
+8XXX	Vehicles	1 	T	01248
+910X	Ammunition, unspecified	3 	T	01343
+911X	Bullets	3 	T	01344
+912X	Explosive devices	3 	T	01345
+913X	Pellets	3 	T	01346
+919X	Ammunition, n.e.c.	3 	T	01347
+91XX	Ammunition	2 	T	01342
+920X	Apparel and textiles, unspecified	3 	T	01349
+9210	Clothing, unspecified	4 	T	01351
+9211	Belts, gloves, neckties, scarves	4 	T	01352
+9212	Blouses, shirts, dresses, trousers, skirts	4 	T	01353
+9213	Hats, caps	4 	T	01354
+9214	Shoes, boots, slippers, sandals	4 	T	01355
+9215	Suits, coats, jackets	4 	T	01356
+9219	Clothing, n.e.c.	4 	T	01357
+921X	Clothing and shoes	3 	T	01350
+9221	Eye glasses, sunglasses	4 	T	01359
+9222	Jewelry	4 	T	01360
+9223	Watches	4 	T	01361
+922X	Eye glasses, jewelry, and watches	4 	T	01358
+9230	Textile products, unspecified	4 	T	01363
+9231	Fabric	4 	T	01364
+9232	Yarn, thread	4 	T	01365
+9239	Textile products, n.e.c.	4 	T	01366
+923X	Textile products	3 	T	01362
+924X	Laundry	3 	T	01367
+929X	Apparel and textiles, n.e.c.	3 	T	01368
+92XX	Apparel and textiles	2 	T	01348
+930X	Atmospheric and environmental conditions, unspecified	3 	T	01370
+9310	Air pressure, unspecified	4 	T	01372
+9311	High pressure	4 	T	01373
+9312	Low pressure	4 	T	01374
+931X	Air pressure	3 	T	01371
+932X	Avalanche, mud slide	3 	T	01375
+933X	Earthquake	3 	T	01376
+9340	Fire, flame, smoke, unspecified	4 	T	01378
+9341	Fire, flame	4 	T	01379
+9342	Smoke, fire gases	4 	T	01380
+934X	Fire, flame, smoke	3 	T	01377
+935X	Flood	3 	T	01381
+9360	Temperature extremes--environmental, unspecified	4 	T	01383
+9361	Cold--environmental	4 	T	01384
+9362	Heat--environmental	4 	T	01385
+936X	Temperature extremes--environmental	3 	T	01382
+9370	Weather and atmospheric conditions, unspecified	4 	T	01387
+9371	Fog	4 	T	01388
+9372	High winds, gusts	4 	T	01389
+9373	Ice, sleet, snow	4 	T	01390
+9374	Lightning	4 	T	01391
+9375	Rain	4 	T	01392
+9376	Smog	4 	T	01393
+9377	Tornado, hurricane. typhoon	4 	T	01394
+9379	Weather and atmospheric conditions, n.e.c.	4 	T	01395
+937X	Weather and atmospheric conditions	3 	T	01386
+9391	Noise	4 	T	01397
+9392	Sun	4 	T	01398
+9399	Environmental conditions, n.e.c.	4 	T	01399
+939X	Other environmental conditions	3 	T	01396
+93XX	Atmospheric and environmental conditions	2 	T	01369
+940X	Paper, books, magazines, unspecified	3 	T	01401
+941X	Books, notebooks, magazines, catalogues	3 	T	01402
+942X	Paper, sheets	3 	T	01403
+949X	Paper, books, magazines, n.e.c.	3 	T	01404
+94XX	Paper, books, magazines	2 	T	01400
+950X	Scrap, waste, debris, unspecified	3 	T	01406
+9510	Chips, particles, splinters, unspecified	4 	T	01408
+9511	Dirt particles	4 	T	01409
+9512	Glass chips or fibers	4 	T	01410
+9513	Metal chips, particles	4 	T	01411
+9514	Wood chips, sawdust	4 	T	01412
+9519	Chips, particles, splinters, n.e.c.	4 	T	01413
+951X	Chips, particles, splinters	3 	T	01407
+952X	Sewage	3 	T	01414
+953X	Trash, garbage	3 	T	01415
+959X	Scrap, waste, debris, n.e.c.	3 	T	01416
+95XX	Scrap, waste, debris	2 	T	01405
+961X	Steam, vapors--nonchemical	3 	T	01418
+9620	Liquids, unspecified	4 	T	01420
+9621	Water	4 	T	01421
+9629	Liquids, n.e.c.	4 	T	01422
+962X	Liquids	3 	T	01419
+96XX	Steam, vapors, liquids, n.e.c.	2 	T	01417
+98XX	Other sources, n.e.c.	2 	T	01423
+9999	Nonclassifiable	2 	T	01424
+9XXX	Other sources	1 	T	01341

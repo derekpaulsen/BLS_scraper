@@ -1,0 +1,15 @@
+demographics_code	demographics_text	display_level	selectable	sort_sequence
+LB01	Quintiles of income before taxes	0	T	100	
+LB02	Income before taxes	0	T	200	
+LB04	Age of reference person	0	T	300	
+LB05	Size of consumer unit	0	T	400	
+LB06	Composition of consumer unit	0	T	400	
+LB07	Number of earners	0	T	500	
+LB08	Housing tenure and type of area	0	T	600	
+LB09	Race of reference person	0	T	700	
+LB10	Hispanic or Latino origin of reference person	0	T	800	
+LB11	Region of residence	0	T	900	
+LB12	Occupation of reference person	0	T	1000	
+LB13	Education of reference person	0	T	1100	
+LB14	Highest education level of any member	0	T	1200	
+LB15	Deciles of income before taxes	0	T	1300	

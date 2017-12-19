@@ -1,0 +1,981 @@
+datatype_code	category_code	category_text
+3	00	Total private industry
+E	00	Total private industry
+S	00	Total private industry
+P	00	Total private industry
+N	00	Total private industry
+O	00	Total private industry
+A	00	Total private industry
+L	00	Total private industry
+R	00	Total private industry
+G	00	Total private industry
+E	09	Industry division-- Agriculture
+S	09	Industry division-- Agriculture
+P	09	Industry division-- Agriculture
+N	09	Industry division-- Agriculture
+O	09	Industry division-- Agriculture
+A	09	Industry division-- Agriculture
+L	09	Industry division-- Agriculture
+R	09	Industry division-- Agriculture
+G	09	Industry division-- Agriculture
+3	09	Industry division-- Agriculture
+E	10	Industry division-- Mining
+S	10	Industry division-- Mining
+P	10	Industry division-- Mining
+N	10	Industry division-- Mining
+O	10	Industry division-- Mining
+A	10	Industry division-- Mining
+L	10	Industry division-- Mining
+R	10	Industry division-- Mining
+G	10	Industry division-- Mining
+3	10	Industry division-- Mining
+E	20	Industry division-- Construction
+S	20	Industry division-- Construction
+P	20	Industry division-- Construction
+N	20	Industry division-- Construction
+O	20	Industry division-- Construction
+A	20	Industry division-- Construction
+L	20	Industry division-- Construction
+R	20	Industry division-- Construction
+G	20	Industry division-- Construction
+3	20	Industry division-- Construction
+E	30	Industry division-- Manufacturing
+S	30	Industry division-- Manufacturing
+P	30	Industry division-- Manufacturing
+N	30	Industry division-- Manufacturing
+O	30	Industry division-- Manufacturing
+A	30	Industry division-- Manufacturing
+L	30	Industry division-- Manufacturing
+R	30	Industry division-- Manufacturing
+G	30	Industry division-- Manufacturing
+3	30	Industry division-- Manufacturing
+E	40	Industry division-- Transportation and public utilities
+S	40	Industry division-- Transportation and public utilities
+P	40	Industry division-- Transportation and public utilities
+N	40	Industry division-- Transportation and public utilities
+O	40	Industry division-- Transportation and public utilities
+A	40	Industry division-- Transportation and public utilities
+L	40	Industry division-- Transportation and public utilities
+R	40	Industry division-- Transportation and public utilities
+G	40	Industry division-- Transportation and public utilities
+3	40	Industry division-- Transportation and public utilities
+E	50	Industry division-- Wholesale trade
+S	50	Industry division-- Wholesale trade
+P	50	Industry division-- Wholesale trade
+N	50	Industry division-- Wholesale trade
+O	50	Industry division-- Wholesale trade
+A	50	Industry division-- Wholesale trade
+L	50	Industry division-- Wholesale trade
+R	50	Industry division-- Wholesale trade
+G	50	Industry division-- Wholesale trade
+3	50	Industry division-- Wholesale trade
+E	60	Industry division-- Retail trade
+S	60	Industry division-- Retail trade
+P	60	Industry division-- Retail trade
+N	60	Industry division-- Retail trade
+O	60	Industry division-- Retail trade
+A	60	Industry division-- Retail trade
+L	60	Industry division-- Retail trade
+R	60	Industry division-- Retail trade
+G	60	Industry division-- Retail trade
+3	60	Industry division-- Retail trade
+E	70	Industry division-- Finance, insurance, and real estate
+S	70	Industry division-- Finance, insurance, and real estate
+P	70	Industry division-- Finance, insurance, and real estate
+N	70	Industry division-- Finance, insurance, and real estate
+O	70	Industry division-- Finance, insurance, and real estate
+A	70	Industry division-- Finance, insurance, and real estate
+L	70	Industry division-- Finance, insurance, and real estate
+R	70	Industry division-- Finance, insurance, and real estate
+G	70	Industry division-- Finance, insurance, and real estate
+3	70	Industry division-- Finance, insurance, and real estate
+E	80	Industry division-- Services
+S	80	Industry division-- Services
+P	80	Industry division-- Services
+N	80	Industry division-- Services
+O	80	Industry division-- Services
+A	80	Industry division-- Services
+L	80	Industry division-- Services
+R	80	Industry division-- Services
+G	80	Industry division-- Services
+3	80	Industry division-- Services
+3	AA	Age group-- Under 14
+E	AA	Age group-- Under 14
+S	AA	Age group-- Under 14
+P	AA	Age group-- Under 14
+N	AA	Age group-- Under 14
+O	AA	Age group-- Under 14
+L	AA	Age group-- Under 14
+R	AA	Age group-- Under 14
+G	AA	Age group-- Under 14
+3	AB	Age group-- 14-15
+E	AB	Age group-- 14-15
+S	AB	Age group-- 14-15
+P	AB	Age group-- 14-15
+N	AB	Age group-- 14-15
+O	AB	Age group-- 14-15
+L	AB	Age group-- 14-15
+R	AB	Age group-- 14-15
+G	AB	Age group-- 14-15
+3	AC	Age group-- 16-19
+E	AC	Age group-- 16-19
+S	AC	Age group-- 16-19
+P	AC	Age group-- 16-19
+N	AC	Age group-- 16-19
+O	AC	Age group-- 16-19
+L	AC	Age group-- 16-19
+R	AC	Age group-- 16-19
+G	AC	Age group-- 16-19
+3	AD	Age group-- 20-24
+E	AD	Age group-- 20-24
+S	AD	Age group-- 20-24
+P	AD	Age group-- 20-24
+N	AD	Age group-- 20-24
+O	AD	Age group-- 20-24
+L	AD	Age group-- 20-24
+R	AD	Age group-- 20-24
+G	AD	Age group-- 20-24
+3	AE	Age group-- 25-34
+E	AE	Age group-- 25-34
+S	AE	Age group-- 25-34
+P	AE	Age group-- 25-34
+N	AE	Age group-- 25-34
+O	AE	Age group-- 25-34
+L	AE	Age group-- 25-34
+R	AE	Age group-- 25-34
+G	AE	Age group-- 25-34
+3	AF	Age group-- 35-44
+E	AF	Age group-- 35-44
+S	AF	Age group-- 35-44
+P	AF	Age group-- 35-44
+N	AF	Age group-- 35-44
+O	AF	Age group-- 35-44
+L	AF	Age group-- 35-44
+R	AF	Age group-- 35-44
+G	AF	Age group-- 35-44
+3	AG	Age group-- 45-54
+E	AG	Age group-- 45-54
+S	AG	Age group-- 45-54
+P	AG	Age group-- 45-54
+N	AG	Age group-- 45-54
+O	AG	Age group-- 45-54
+L	AG	Age group-- 45-54
+R	AG	Age group-- 45-54
+G	AG	Age group-- 45-54
+3	AH	Age group-- 55-64
+E	AH	Age group-- 55-64
+S	AH	Age group-- 55-64
+P	AH	Age group-- 55-64
+N	AH	Age group-- 55-64
+O	AH	Age group-- 55-64
+L	AH	Age group-- 55-64
+R	AH	Age group-- 55-64
+G	AH	Age group-- 55-64
+3	AI	Age group-- 65 and older
+E	AI	Age group-- 65 and older
+S	AI	Age group-- 65 and older
+P	AI	Age group-- 65 and older
+N	AI	Age group-- 65 and older
+O	AI	Age group-- 65 and older
+L	AI	Age group-- 65 and older
+R	AI	Age group-- 65 and older
+G	AI	Age group-- 65 and older
+3	AJ	Age group-- Not reported
+E	AJ	Age group-- Not reported
+S	AJ	Age group-- Not reported
+P	AJ	Age group-- Not reported
+N	AJ	Age group-- Not reported
+O	AJ	Age group-- Not reported
+L	AJ	Age group-- Not reported
+R	AJ	Age group-- Not reported
+G	AJ	Age group-- Not reported
+3	DA	Days away from work-- 1 day
+E	DA	Days away from work-- 1 day
+S	DA	Days away from work-- 1 day
+P	DA	Days away from work-- 1 day
+N	DA	Days away from work-- 1 day
+O	DA	Days away from work-- 1 day
+A	DA	Days away from work-- 1 day
+L	DA	Days away from work-- 1 day
+R	DA	Days away from work-- 1 day
+G	DA	Days away from work-- 1 day
+3	DB	Days away from work-- 2 days
+E	DB	Days away from work-- 2 days
+S	DB	Days away from work-- 2 days
+P	DB	Days away from work-- 2 days
+N	DB	Days away from work-- 2 days
+O	DB	Days away from work-- 2 days
+A	DB	Days away from work-- 2 days
+L	DB	Days away from work-- 2 days
+R	DB	Days away from work-- 2 days
+G	DB	Days away from work-- 2 days
+3	DC	Days away from work-- 3-5 days
+E	DC	Days away from work-- 3-5 days
+S	DC	Days away from work-- 3-5 days
+P	DC	Days away from work-- 3-5 days
+N	DC	Days away from work-- 3-5 days
+O	DC	Days away from work-- 3-5 days
+A	DC	Days away from work-- 3-5 days
+L	DC	Days away from work-- 3-5 days
+R	DC	Days away from work-- 3-5 days
+G	DC	Days away from work-- 3-5 days
+3	DD	Days away from work-- 6-10 days
+E	DD	Days away from work-- 6-10 days
+S	DD	Days away from work-- 6-10 days
+P	DD	Days away from work-- 6-10 days
+N	DD	Days away from work-- 6-10 days
+O	DD	Days away from work-- 6-10 days
+A	DD	Days away from work-- 6-10 days
+L	DD	Days away from work-- 6-10 days
+R	DD	Days away from work-- 6-10 days
+G	DD	Days away from work-- 6-10 days
+3	DE	Days away from work-- 11-20 days
+E	DE	Days away from work-- 11-20 days
+S	DE	Days away from work-- 11-20 days
+P	DE	Days away from work-- 11-20 days
+N	DE	Days away from work-- 11-20 days
+O	DE	Days away from work-- 11-20 days
+A	DE	Days away from work-- 11-20 days
+L	DE	Days away from work-- 11-20 days
+R	DE	Days away from work-- 11-20 days
+G	DE	Days away from work-- 11-20 days
+3	DF	Days away from work-- 21-30 days
+E	DF	Days away from work-- 21-30 days
+S	DF	Days away from work-- 21-30 days
+P	DF	Days away from work-- 21-30 days
+N	DF	Days away from work-- 21-30 days
+O	DF	Days away from work-- 21-30 days
+A	DF	Days away from work-- 21-30 days
+L	DF	Days away from work-- 21-30 days
+R	DF	Days away from work-- 21-30 days
+G	DF	Days away from work-- 21-30 days
+3	DG	Days away from work-- 31 days or more
+E	DG	Days away from work-- 31 days or more
+S	DG	Days away from work-- 31 days or more
+P	DG	Days away from work-- 31 days or more
+N	DG	Days away from work-- 31 days or more
+O	DG	Days away from work-- 31 days or more
+A	DG	Days away from work-- 31 days or more
+L	DG	Days away from work-- 31 days or more
+R	DG	Days away from work-- 31 days or more
+G	DG	Days away from work-- 31 days or more
+3	DM	Median days away from work
+E	DM	Median days away from work
+S	DM	Median days away from work
+P	DM	Median days away from work
+N	DM	Median days away from work
+O	DM	Median days away from work
+A	DM	Median days away from work
+L	DM	Median days away from work
+R	DM	Median days away from work
+G	DM	Median days away from work
+3	EA	Event or exposure-- Total object contact
+S	EA	Event or exposure-- Total object contact
+P	EA	Event or exposure-- Total object contact
+N	EA	Event or exposure-- Total object contact
+O	EA	Event or exposure-- Total object contact
+A	EA	Event or exposure-- Total object contact
+L	EA	Event or exposure-- Total object contact
+R	EA	Event or exposure-- Total object contact
+G	EA	Event or exposure-- Total object contact
+3	EB	Event or exposure-- Struck by object
+S	EB	Event or exposure-- Struck by object
+P	EB	Event or exposure-- Struck by object
+N	EB	Event or exposure-- Struck by object
+O	EB	Event or exposure-- Struck by object
+A	EB	Event or exposure-- Struck by object
+L	EB	Event or exposure-- Struck by object
+R	EB	Event or exposure-- Struck by object
+G	EB	Event or exposure-- Struck by object
+3	EC	Event or exposure-- Struck against object
+S	EC	Event or exposure-- Struck against object
+P	EC	Event or exposure-- Struck against object
+N	EC	Event or exposure-- Struck against object
+O	EC	Event or exposure-- Struck against object
+A	EC	Event or exposure-- Struck against object
+L	EC	Event or exposure-- Struck against object
+R	EC	Event or exposure-- Struck against object
+G	EC	Event or exposure-- Struck against object
+3	ED	Event or exposure-- Caught in object
+S	ED	Event or exposure-- Caught in object
+P	ED	Event or exposure-- Caught in object
+N	ED	Event or exposure-- Caught in object
+O	ED	Event or exposure-- Caught in object
+A	ED	Event or exposure-- Caught in object
+L	ED	Event or exposure-- Caught in object
+R	ED	Event or exposure-- Caught in object
+G	ED	Event or exposure-- Caught in object
+3	EG	Event or exposure-- Fall to lower level
+S	EG	Event or exposure-- Fall to lower level
+P	EG	Event or exposure-- Fall to lower level
+N	EG	Event or exposure-- Fall to lower level
+O	EG	Event or exposure-- Fall to lower level
+A	EG	Event or exposure-- Fall to lower level
+L	EG	Event or exposure-- Fall to lower level
+R	EG	Event or exposure-- Fall to lower level
+G	EG	Event or exposure-- Fall to lower level
+3	EH	Event or exposure-- Fall at same level
+S	EH	Event or exposure-- Fall at same level
+P	EH	Event or exposure-- Fall at same level
+N	EH	Event or exposure-- Fall at same level
+O	EH	Event or exposure-- Fall at same level
+A	EH	Event or exposure-- Fall at same level
+L	EH	Event or exposure-- Fall at same level
+R	EH	Event or exposure-- Fall at same level
+G	EH	Event or exposure-- Fall at same level
+3	EI	Event or exposure-- Slips or trips
+S	EI	Event or exposure-- Slips or trips
+P	EI	Event or exposure-- Slips or trips
+N	EI	Event or exposure-- Slips or trips
+O	EI	Event or exposure-- Slips or trips
+A	EI	Event or exposure-- Slips or trips
+L	EI	Event or exposure-- Slips or trips
+R	EI	Event or exposure-- Slips or trips
+G	EI	Event or exposure-- Slips or trips
+3	EJ	Event or exposure-- Total overexertion
+S	EJ	Event or exposure-- Total overexertion
+P	EJ	Event or exposure-- Total overexertion
+N	EJ	Event or exposure-- Total overexertion
+O	EJ	Event or exposure-- Total overexertion
+A	EJ	Event or exposure-- Total overexertion
+L	EJ	Event or exposure-- Total overexertion
+R	EJ	Event or exposure-- Total overexertion
+G	EJ	Event or exposure-- Total overexertion
+3	EK	Event or exposure-- Overexertion in lifting
+S	EK	Event or exposure-- Overexertion in lifting
+P	EK	Event or exposure-- Overexertion in lifting
+N	EK	Event or exposure-- Overexertion in lifting
+O	EK	Event or exposure-- Overexertion in lifting
+A	EK	Event or exposure-- Overexertion in lifting
+L	EK	Event or exposure-- Overexertion in lifting
+R	EK	Event or exposure-- Overexertion in lifting
+G	EK	Event or exposure-- Overexertion in lifting
+3	EL	Event or exposure-- Repetitive motion
+S	EL	Event or exposure-- Repetitive motion
+P	EL	Event or exposure-- Repetitive motion
+N	EL	Event or exposure-- Repetitive motion
+O	EL	Event or exposure-- Repetitive motion
+A	EL	Event or exposure-- Repetitive motion
+L	EL	Event or exposure-- Repetitive motion
+R	EL	Event or exposure-- Repetitive motion
+G	EL	Event or exposure-- Repetitive motion
+3	EM	Event or exposure-- Harmful exposure
+S	EM	Event or exposure-- Harmful exposure
+P	EM	Event or exposure-- Harmful exposure
+N	EM	Event or exposure-- Harmful exposure
+O	EM	Event or exposure-- Harmful exposure
+A	EM	Event or exposure-- Harmful exposure
+L	EM	Event or exposure-- Harmful exposure
+R	EM	Event or exposure-- Harmful exposure
+G	EM	Event or exposure-- Harmful exposure
+3	EN	Event or exposure-- Transportation accident
+S	EN	Event or exposure-- Transportation accident
+P	EN	Event or exposure-- Transportation accident
+N	EN	Event or exposure-- Transportation accident
+O	EN	Event or exposure-- Transportation accident
+A	EN	Event or exposure-- Transportation accident
+L	EN	Event or exposure-- Transportation accident
+R	EN	Event or exposure-- Transportation accident
+G	EN	Event or exposure-- Transportation accident
+3	ES	Event or exposure-- Fires and explosions
+S	ES	Event or exposure-- Fires and explosions
+P	ES	Event or exposure-- Fires and explosions
+N	ES	Event or exposure-- Fires and explosions
+O	ES	Event or exposure-- Fires and explosions
+A	ES	Event or exposure-- Fires and explosions
+L	ES	Event or exposure-- Fires and explosions
+R	ES	Event or exposure-- Fires and explosions
+G	ES	Event or exposure-- Fires and explosions
+3	ET	Event or exposure-- Total assaults
+S	ET	Event or exposure-- Total assaults
+P	ET	Event or exposure-- Total assaults
+N	ET	Event or exposure-- Total assaults
+O	ET	Event or exposure-- Total assaults
+A	ET	Event or exposure-- Total assaults
+L	ET	Event or exposure-- Total assaults
+R	ET	Event or exposure-- Total assaults
+G	ET	Event or exposure-- Total assaults
+3	EU	Event or exposure-- Assaults by person
+S	EU	Event or exposure-- Assaults by person
+P	EU	Event or exposure-- Assaults by person
+N	EU	Event or exposure-- Assaults by person
+O	EU	Event or exposure-- Assaults by person
+A	EU	Event or exposure-- Assaults by person
+L	EU	Event or exposure-- Assaults by person
+R	EU	Event or exposure-- Assaults by person
+G	EU	Event or exposure-- Assaults by person
+3	EX	Event or exposure-- All other assaults
+S	EX	Event or exposure-- All other assaults
+P	EX	Event or exposure-- All other assaults
+N	EX	Event or exposure-- All other assaults
+O	EX	Event or exposure-- All other assaults
+A	EX	Event or exposure-- All other assaults
+L	EX	Event or exposure-- All other assaults
+R	EX	Event or exposure-- All other assaults
+G	EX	Event or exposure-- All other assaults
+3	EY	Event or exposure-- All other events
+S	EY	Event or exposure-- All other events
+P	EY	Event or exposure-- All other events
+N	EY	Event or exposure-- All other events
+O	EY	Event or exposure-- All other events
+A	EY	Event or exposure-- All other events
+L	EY	Event or exposure-- All other events
+R	EY	Event or exposure-- All other events
+G	EY	Event or exposure-- All other events
+3	GF	Gender-- Female
+E	GF	Gender-- Female
+S	GF	Gender-- Female
+P	GF	Gender-- Female
+N	GF	Gender-- Female
+O	GF	Gender-- Female
+A	GF	Gender-- Female
+L	GF	Gender-- Female
+R	GF	Gender-- Female
+3	GM	Gender-- Male
+E	GM	Gender-- Male
+S	GM	Gender-- Male
+P	GM	Gender-- Male
+N	GM	Gender-- Male
+O	GM	Gender-- Male
+A	GM	Gender-- Male
+L	GM	Gender-- Male
+R	GM	Gender-- Male
+3	GN	Gender-- Not reported
+E	GN	Gender-- Not reported
+S	GN	Gender-- Not reported
+P	GN	Gender-- Not reported
+N	GN	Gender-- Not reported
+O	GN	Gender-- Not reported
+A	GN	Gender-- Not reported
+L	GN	Gender-- Not reported
+R	GN	Gender-- Not reported
+3	LA	Length of service-- Less than 3 months
+E	LA	Length of service-- Less than 3 months
+S	LA	Length of service-- Less than 3 months
+P	LA	Length of service-- Less than 3 months
+N	LA	Length of service-- Less than 3 months
+O	LA	Length of service-- Less than 3 months
+A	LA	Length of service-- Less than 3 months
+R	LA	Length of service-- Less than 3 months
+G	LA	Length of service-- Less than 3 months
+3	LB	Length of service-- 3-11 months
+E	LB	Length of service-- 3-11 months
+S	LB	Length of service-- 3-11 months
+P	LB	Length of service-- 3-11 months
+N	LB	Length of service-- 3-11 months
+O	LB	Length of service-- 3-11 months
+A	LB	Length of service-- 3-11 months
+R	LB	Length of service-- 3-11 months
+G	LB	Length of service-- 3-11 months
+3	LC	Length of service-- 1-5 years
+E	LC	Length of service-- 1-5 years
+S	LC	Length of service-- 1-5 years
+P	LC	Length of service-- 1-5 years
+N	LC	Length of service-- 1-5 years
+O	LC	Length of service-- 1-5 years
+A	LC	Length of service-- 1-5 years
+R	LC	Length of service-- 1-5 years
+G	LC	Length of service-- 1-5 years
+3	LD	Length of service-- More than 5 years
+E	LD	Length of service-- More than 5 years
+S	LD	Length of service-- More than 5 years
+P	LD	Length of service-- More than 5 years
+N	LD	Length of service-- More than 5 years
+O	LD	Length of service-- More than 5 years
+A	LD	Length of service-- More than 5 years
+R	LD	Length of service-- More than 5 years
+G	LD	Length of service-- More than 5 years
+3	LE	Length of service-- Not reported
+E	LE	Length of service-- Not reported
+S	LE	Length of service-- Not reported
+P	LE	Length of service-- Not reported
+N	LE	Length of service-- Not reported
+O	LE	Length of service-- Not reported
+A	LE	Length of service-- Not reported
+R	LE	Length of service-- Not reported
+G	LE	Length of service-- Not reported
+3	NA	Nature of injury-- Sprains, strains
+E	NA	Nature of injury-- Sprains, strains
+S	NA	Nature of injury-- Sprains, strains
+P	NA	Nature of injury-- Sprains, strains
+O	NA	Nature of injury-- Sprains, strains
+A	NA	Nature of injury-- Sprains, strains
+L	NA	Nature of injury-- Sprains, strains
+R	NA	Nature of injury-- Sprains, strains
+G	NA	Nature of injury-- Sprains, strains
+3	NB	Nature of injury-- Fractures
+E	NB	Nature of injury-- Fractures
+S	NB	Nature of injury-- Fractures
+P	NB	Nature of injury-- Fractures
+O	NB	Nature of injury-- Fractures
+A	NB	Nature of injury-- Fractures
+L	NB	Nature of injury-- Fractures
+R	NB	Nature of injury-- Fractures
+G	NB	Nature of injury-- Fractures
+3	NC	Nature of injury-- Cuts, punctures
+E	NC	Nature of injury-- Cuts, punctures
+S	NC	Nature of injury-- Cuts, punctures
+P	NC	Nature of injury-- Cuts, punctures
+O	NC	Nature of injury-- Cuts, punctures
+A	NC	Nature of injury-- Cuts, punctures
+L	NC	Nature of injury-- Cuts, punctures
+R	NC	Nature of injury-- Cuts, punctures
+G	NC	Nature of injury-- Cuts, punctures
+3	NE	Nature of injury-- Bruises
+E	NE	Nature of injury-- Bruises
+S	NE	Nature of injury-- Bruises
+P	NE	Nature of injury-- Bruises
+O	NE	Nature of injury-- Bruises
+A	NE	Nature of injury-- Bruises
+L	NE	Nature of injury-- Bruises
+R	NE	Nature of injury-- Bruises
+G	NE	Nature of injury-- Bruises
+3	NG	Nature of injury-- Heat burns
+E	NG	Nature of injury-- Heat burns
+S	NG	Nature of injury-- Heat burns
+P	NG	Nature of injury-- Heat burns
+O	NG	Nature of injury-- Heat burns
+A	NG	Nature of injury-- Heat burns
+L	NG	Nature of injury-- Heat burns
+R	NG	Nature of injury-- Heat burns
+G	NG	Nature of injury-- Heat burns
+3	NH	Nature of injury-- Chemical burns
+E	NH	Nature of injury-- Chemical burns
+S	NH	Nature of injury-- Chemical burns
+P	NH	Nature of injury-- Chemical burns
+O	NH	Nature of injury-- Chemical burns
+A	NH	Nature of injury-- Chemical burns
+L	NH	Nature of injury-- Chemical burns
+R	NH	Nature of injury-- Chemical burns
+G	NH	Nature of injury-- Chemical burns
+3	NI	Nature of injury-- Amputations
+E	NI	Nature of injury-- Amputations
+S	NI	Nature of injury-- Amputations
+P	NI	Nature of injury-- Amputations
+O	NI	Nature of injury-- Amputations
+A	NI	Nature of injury-- Amputations
+L	NI	Nature of injury-- Amputations
+R	NI	Nature of injury-- Amputations
+G	NI	Nature of injury-- Amputations
+3	NJ	Nature of injury-- Carpal Tunnel Syndrome
+E	NJ	Nature of injury-- Carpal Tunnel Syndrome
+S	NJ	Nature of injury-- Carpal Tunnel Syndrome
+P	NJ	Nature of injury-- Carpal Tunnel Syndrome
+O	NJ	Nature of injury-- Carpal Tunnel Syndrome
+A	NJ	Nature of injury-- Carpal Tunnel Syndrome
+L	NJ	Nature of injury-- Carpal Tunnel Syndrome
+R	NJ	Nature of injury-- Carpal Tunnel Syndrome
+G	NJ	Nature of injury-- Carpal Tunnel Syndrome
+3	NK	Nature of injury-- Tendonitis
+E	NK	Nature of injury-- Tendonitis
+S	NK	Nature of injury-- Tendonitis
+P	NK	Nature of injury-- Tendonitis
+O	NK	Nature of injury-- Tendonitis
+A	NK	Nature of injury-- Tendonitis
+L	NK	Nature of injury-- Tendonitis
+R	NK	Nature of injury-- Tendonitis
+G	NK	Nature of injury-- Tendonitis
+3	NL	Nature of injury-- Total multiple trauma
+E	NL	Nature of injury-- Total multiple trauma
+S	NL	Nature of injury-- Total multiple trauma
+P	NL	Nature of injury-- Total multiple trauma
+O	NL	Nature of injury-- Total multiple trauma
+A	NL	Nature of injury-- Total multiple trauma
+L	NL	Nature of injury-- Total multiple trauma
+R	NL	Nature of injury-- Total multiple trauma
+G	NL	Nature of injury-- Total multiple trauma
+3	NM	Nature of injury-- With fractures
+E	NM	Nature of injury-- With fractures
+S	NM	Nature of injury-- With fractures
+P	NM	Nature of injury-- With fractures
+O	NM	Nature of injury-- With fractures
+A	NM	Nature of injury-- With fractures
+L	NM	Nature of injury-- With fractures
+R	NM	Nature of injury-- With fractures
+G	NM	Nature of injury-- With fractures
+3	NN	Nature of injury-- With sprains
+E	NN	Nature of injury-- With sprains
+S	NN	Nature of injury-- With sprains
+P	NN	Nature of injury-- With sprains
+O	NN	Nature of injury-- With sprains
+A	NN	Nature of injury-- With sprains
+L	NN	Nature of injury-- With sprains
+R	NN	Nature of injury-- With sprains
+G	NN	Nature of injury-- With sprains
+3	NO	Nature of injury-- Total back pain and pain, except back
+E	NO	Nature of injury-- Total back pain and pain, except back
+S	NO	Nature of injury-- Total back pain and pain, except back
+P	NO	Nature of injury-- Total back pain and pain, except back
+O	NO	Nature of injury-- Total back pain and pain, except back
+A	NO	Nature of injury-- Total back pain and pain, except back
+L	NO	Nature of injury-- Total back pain and pain, except back
+R	NO	Nature of injury-- Total back pain and pain, except back
+G	NO	Nature of injury-- Total back pain and pain, except back
+3	NP	Nature of injury-- Back pain, hurt back only
+E	NP	Nature of injury-- Back pain, hurt back only
+S	NP	Nature of injury-- Back pain, hurt back only
+P	NP	Nature of injury-- Back pain, hurt back only
+O	NP	Nature of injury-- Back pain, hurt back only
+A	NP	Nature of injury-- Back pain, hurt back only
+L	NP	Nature of injury-- Back pain, hurt back only
+R	NP	Nature of injury-- Back pain, hurt back only
+G	NP	Nature of injury-- Back pain, hurt back only
+3	NT	Nature of injury-- All other conditions
+E	NT	Nature of injury-- All other conditions
+S	NT	Nature of injury-- All other conditions
+P	NT	Nature of injury-- All other conditions
+O	NT	Nature of injury-- All other conditions
+A	NT	Nature of injury-- All other conditions
+L	NT	Nature of injury-- All other conditions
+R	NT	Nature of injury-- All other conditions
+G	NT	Nature of injury-- All other conditions
+3	OA	Occupation-- Executive and professional specialty
+E	OA	Occupation-- Executive and professional specialty
+S	OA	Occupation-- Executive and professional specialty
+P	OA	Occupation-- Executive and professional specialty
+N	OA	Occupation-- Executive and professional specialty
+A	OA	Occupation-- Executive and professional specialty
+L	OA	Occupation-- Executive and professional specialty
+R	OA	Occupation-- Executive and professional specialty
+G	OA	Occupation-- Executive and professional specialty
+3	OB	Occupation-- Technical, sales and administrative support
+E	OB	Occupation-- Technical, sales and administrative support
+S	OB	Occupation-- Technical, sales and administrative support
+P	OB	Occupation-- Technical, sales and administrative support
+N	OB	Occupation-- Technical, sales and administrative support
+A	OB	Occupation-- Technical, sales and administrative support
+L	OB	Occupation-- Technical, sales and administrative support
+R	OB	Occupation-- Technical, sales and administrative support
+G	OB	Occupation-- Technical, sales and administrative support
+3	OF	Occupation-- Service
+E	OF	Occupation-- Service
+S	OF	Occupation-- Service
+P	OF	Occupation-- Service
+N	OF	Occupation-- Service
+A	OF	Occupation-- Service
+L	OF	Occupation-- Service
+R	OF	Occupation-- Service
+G	OF	Occupation-- Service
+3	OK	Occupation-- Farming
+E	OK	Occupation-- Farming
+S	OK	Occupation-- Farming
+P	OK	Occupation-- Farming
+N	OK	Occupation-- Farming
+A	OK	Occupation-- Farming
+L	OK	Occupation-- Farming
+R	OK	Occupation-- Farming
+G	OK	Occupation-- Farming
+3	OM	Occupation-- Precision production
+E	OM	Occupation-- Precision production
+S	OM	Occupation-- Precision production
+P	OM	Occupation-- Precision production
+N	OM	Occupation-- Precision production
+A	OM	Occupation-- Precision production
+L	OM	Occupation-- Precision production
+R	OM	Occupation-- Precision production
+G	OM	Occupation-- Precision production
+3	OP	Occupation-- Operators, fabricators
+E	OP	Occupation-- Operators, fabricators
+S	OP	Occupation-- Operators, fabricators
+P	OP	Occupation-- Operators, fabricators
+N	OP	Occupation-- Operators, fabricators
+A	OP	Occupation-- Operators, fabricators
+L	OP	Occupation-- Operators, fabricators
+R	OP	Occupation-- Operators, fabricators
+G	OP	Occupation-- Operators, fabricators
+3	PA	Part of body affected-- Total head
+E	PA	Part of body affected-- Total head
+S	PA	Part of body affected-- Total head
+N	PA	Part of body affected-- Total head
+O	PA	Part of body affected-- Total head
+A	PA	Part of body affected-- Total head
+L	PA	Part of body affected-- Total head
+R	PA	Part of body affected-- Total head
+G	PA	Part of body affected-- Total head
+3	PB	Part of body affected-- Eyes
+E	PB	Part of body affected-- Eyes
+S	PB	Part of body affected-- Eyes
+N	PB	Part of body affected-- Eyes
+O	PB	Part of body affected-- Eyes
+A	PB	Part of body affected-- Eyes
+L	PB	Part of body affected-- Eyes
+R	PB	Part of body affected-- Eyes
+G	PB	Part of body affected-- Eyes
+3	PC	Part of body affected-- Neck
+E	PC	Part of body affected-- Neck
+S	PC	Part of body affected-- Neck
+N	PC	Part of body affected-- Neck
+O	PC	Part of body affected-- Neck
+A	PC	Part of body affected-- Neck
+L	PC	Part of body affected-- Neck
+R	PC	Part of body affected-- Neck
+G	PC	Part of body affected-- Neck
+3	PD	Part of body affected-- Total trunk
+E	PD	Part of body affected-- Total trunk
+S	PD	Part of body affected-- Total trunk
+N	PD	Part of body affected-- Total trunk
+O	PD	Part of body affected-- Total trunk
+A	PD	Part of body affected-- Total trunk
+L	PD	Part of body affected-- Total trunk
+R	PD	Part of body affected-- Total trunk
+G	PD	Part of body affected-- Total trunk
+3	PE	Part of body affected-- Back
+E	PE	Part of body affected-- Back
+S	PE	Part of body affected-- Back
+N	PE	Part of body affected-- Back
+O	PE	Part of body affected-- Back
+A	PE	Part of body affected-- Back
+L	PE	Part of body affected-- Back
+R	PE	Part of body affected-- Back
+G	PE	Part of body affected-- Back
+3	PF	Part of body affected-- Shoulder
+E	PF	Part of body affected-- Shoulder
+S	PF	Part of body affected-- Shoulder
+N	PF	Part of body affected-- Shoulder
+O	PF	Part of body affected-- Shoulder
+A	PF	Part of body affected-- Shoulder
+L	PF	Part of body affected-- Shoulder
+R	PF	Part of body affected-- Shoulder
+G	PF	Part of body affected-- Shoulder
+3	PG	Part of body affected-- Total upper extremities
+E	PG	Part of body affected-- Total upper extremities
+S	PG	Part of body affected-- Total upper extremities
+N	PG	Part of body affected-- Total upper extremities
+O	PG	Part of body affected-- Total upper extremities
+A	PG	Part of body affected-- Total upper extremities
+L	PG	Part of body affected-- Total upper extremities
+R	PG	Part of body affected-- Total upper extremities
+G	PG	Part of body affected-- Total upper extremities
+3	PH	Part of body affected-- Finger
+E	PH	Part of body affected-- Finger
+S	PH	Part of body affected-- Finger
+N	PH	Part of body affected-- Finger
+O	PH	Part of body affected-- Finger
+A	PH	Part of body affected-- Finger
+L	PH	Part of body affected-- Finger
+R	PH	Part of body affected-- Finger
+G	PH	Part of body affected-- Finger
+3	PI	Part of body affected-- Hand
+E	PI	Part of body affected-- Hand
+S	PI	Part of body affected-- Hand
+N	PI	Part of body affected-- Hand
+O	PI	Part of body affected-- Hand
+A	PI	Part of body affected-- Hand
+L	PI	Part of body affected-- Hand
+R	PI	Part of body affected-- Hand
+G	PI	Part of body affected-- Hand
+3	PJ	Part of body affected-- Wrist
+E	PJ	Part of body affected-- Wrist
+S	PJ	Part of body affected-- Wrist
+N	PJ	Part of body affected-- Wrist
+O	PJ	Part of body affected-- Wrist
+A	PJ	Part of body affected-- Wrist
+L	PJ	Part of body affected-- Wrist
+R	PJ	Part of body affected-- Wrist
+G	PJ	Part of body affected-- Wrist
+3	PK	Part of body affected-- Total lower extremities
+E	PK	Part of body affected-- Total lower extremities
+S	PK	Part of body affected-- Total lower extremities
+N	PK	Part of body affected-- Total lower extremities
+O	PK	Part of body affected-- Total lower extremities
+A	PK	Part of body affected-- Total lower extremities
+L	PK	Part of body affected-- Total lower extremities
+R	PK	Part of body affected-- Total lower extremities
+G	PK	Part of body affected-- Total lower extremities
+3	PL	Part of body affected-- Knee
+E	PL	Part of body affected-- Knee
+S	PL	Part of body affected-- Knee
+N	PL	Part of body affected-- Knee
+O	PL	Part of body affected-- Knee
+A	PL	Part of body affected-- Knee
+L	PL	Part of body affected-- Knee
+R	PL	Part of body affected-- Knee
+G	PL	Part of body affected-- Knee
+3	PM	Part of body affected-- Foot, toe
+E	PM	Part of body affected-- Foot, toe
+S	PM	Part of body affected-- Foot, toe
+N	PM	Part of body affected-- Foot, toe
+O	PM	Part of body affected-- Foot, toe
+A	PM	Part of body affected-- Foot, toe
+L	PM	Part of body affected-- Foot, toe
+R	PM	Part of body affected-- Foot, toe
+G	PM	Part of body affected-- Foot, toe
+3	PN	Part of body affected-- Body systems
+E	PN	Part of body affected-- Body systems
+S	PN	Part of body affected-- Body systems
+N	PN	Part of body affected-- Body systems
+O	PN	Part of body affected-- Body systems
+A	PN	Part of body affected-- Body systems
+L	PN	Part of body affected-- Body systems
+R	PN	Part of body affected-- Body systems
+G	PN	Part of body affected-- Body systems
+3	PO	Part of body affected-- Multiple body parts
+E	PO	Part of body affected-- Multiple body parts
+S	PO	Part of body affected-- Multiple body parts
+N	PO	Part of body affected-- Multiple body parts
+O	PO	Part of body affected-- Multiple body parts
+A	PO	Part of body affected-- Multiple body parts
+L	PO	Part of body affected-- Multiple body parts
+R	PO	Part of body affected-- Multiple body parts
+G	PO	Part of body affected-- Multiple body parts
+3	PP	Part of body affected-- All other parts
+E	PP	Part of body affected-- All other parts
+S	PP	Part of body affected-- All other parts
+N	PP	Part of body affected-- All other parts
+O	PP	Part of body affected-- All other parts
+A	PP	Part of body affected-- All other parts
+L	PP	Part of body affected-- All other parts
+R	PP	Part of body affected-- All other parts
+G	PP	Part of body affected-- All other parts
+3	RA	Race-- White, non-Hispanic
+E	RA	Race-- White, non-Hispanic
+S	RA	Race-- White, non-Hispanic
+P	RA	Race-- White, non-Hispanic
+N	RA	Race-- White, non-Hispanic
+O	RA	Race-- White, non-Hispanic
+A	RA	Race-- White, non-Hispanic
+L	RA	Race-- White, non-Hispanic
+G	RA	Race-- White, non-Hispanic
+3	RB	Race-- Black, non-Hispanic
+E	RB	Race-- Black, non-Hispanic
+S	RB	Race-- Black, non-Hispanic
+P	RB	Race-- Black, non-Hispanic
+N	RB	Race-- Black, non-Hispanic
+O	RB	Race-- Black, non-Hispanic
+A	RB	Race-- Black, non-Hispanic
+L	RB	Race-- Black, non-Hispanic
+G	RB	Race-- Black, non-Hispanic
+3	RC	Race-- Hispanic
+E	RC	Race-- Hispanic
+S	RC	Race-- Hispanic
+P	RC	Race-- Hispanic
+N	RC	Race-- Hispanic
+O	RC	Race-- Hispanic
+A	RC	Race-- Hispanic
+L	RC	Race-- Hispanic
+G	RC	Race-- Hispanic
+3	RD	Race-- Asian, Pacific Islander
+E	RD	Race-- Asian, Pacific Islander
+S	RD	Race-- Asian, Pacific Islander
+P	RD	Race-- Asian, Pacific Islander
+N	RD	Race-- Asian, Pacific Islander
+O	RD	Race-- Asian, Pacific Islander
+A	RD	Race-- Asian, Pacific Islander
+L	RD	Race-- Asian, Pacific Islander
+G	RD	Race-- Asian, Pacific Islander
+3	RE	Race-- Native American
+E	RE	Race-- Native American
+S	RE	Race-- Native American
+P	RE	Race-- Native American
+N	RE	Race-- Native American
+O	RE	Race-- Native American
+A	RE	Race-- Native American
+L	RE	Race-- Native American
+G	RE	Race-- Native American
+3	RF	Race-- Not reported
+E	RF	Race-- Not reported
+S	RF	Race-- Not reported
+P	RF	Race-- Not reported
+N	RF	Race-- Not reported
+O	RF	Race-- Not reported
+A	RF	Race-- Not reported
+L	RF	Race-- Not reported
+G	RF	Race-- Not reported
+3	SA	Source of injury-- Chemicals
+E	SA	Source of injury-- Chemicals
+P	SA	Source of injury-- Chemicals
+N	SA	Source of injury-- Chemicals
+O	SA	Source of injury-- Chemicals
+A	SA	Source of injury-- Chemicals
+L	SA	Source of injury-- Chemicals
+R	SA	Source of injury-- Chemicals
+G	SA	Source of injury-- Chemicals
+3	SB	Source of injury-- Containers
+E	SB	Source of injury-- Containers
+P	SB	Source of injury-- Containers
+N	SB	Source of injury-- Containers
+O	SB	Source of injury-- Containers
+A	SB	Source of injury-- Containers
+L	SB	Source of injury-- Containers
+R	SB	Source of injury-- Containers
+G	SB	Source of injury-- Containers
+3	SC	Source of injury-- Furniture
+E	SC	Source of injury-- Furniture
+P	SC	Source of injury-- Furniture
+N	SC	Source of injury-- Furniture
+O	SC	Source of injury-- Furniture
+A	SC	Source of injury-- Furniture
+L	SC	Source of injury-- Furniture
+R	SC	Source of injury-- Furniture
+G	SC	Source of injury-- Furniture
+3	SD	Source of injury-- Machinery
+E	SD	Source of injury-- Machinery
+P	SD	Source of injury-- Machinery
+N	SD	Source of injury-- Machinery
+O	SD	Source of injury-- Machinery
+A	SD	Source of injury-- Machinery
+L	SD	Source of injury-- Machinery
+R	SD	Source of injury-- Machinery
+G	SD	Source of injury-- Machinery
+3	SE	Source of injury-- Parts and materials
+E	SE	Source of injury-- Parts and materials
+P	SE	Source of injury-- Parts and materials
+N	SE	Source of injury-- Parts and materials
+O	SE	Source of injury-- Parts and materials
+A	SE	Source of injury-- Parts and materials
+L	SE	Source of injury-- Parts and materials
+R	SE	Source of injury-- Parts and materials
+G	SE	Source of injury-- Parts and materials
+3	SF	Source of injury-- Worker motion
+E	SF	Source of injury-- Worker motion
+P	SF	Source of injury-- Worker motion
+N	SF	Source of injury-- Worker motion
+O	SF	Source of injury-- Worker motion
+A	SF	Source of injury-- Worker motion
+L	SF	Source of injury-- Worker motion
+R	SF	Source of injury-- Worker motion
+G	SF	Source of injury-- Worker motion
+3	SG	Source of injury-- Floors
+E	SG	Source of injury-- Floors
+P	SG	Source of injury-- Floors
+N	SG	Source of injury-- Floors
+O	SG	Source of injury-- Floors
+A	SG	Source of injury-- Floors
+L	SG	Source of injury-- Floors
+R	SG	Source of injury-- Floors
+G	SG	Source of injury-- Floors
+3	SH	Source of injury-- Hand tools
+E	SH	Source of injury-- Hand tools
+P	SH	Source of injury-- Hand tools
+N	SH	Source of injury-- Hand tools
+O	SH	Source of injury-- Hand tools
+A	SH	Source of injury-- Hand tools
+L	SH	Source of injury-- Hand tools
+R	SH	Source of injury-- Hand tools
+G	SH	Source of injury-- Hand tools
+3	SI	Source of injury-- Vehicles
+E	SI	Source of injury-- Vehicles
+P	SI	Source of injury-- Vehicles
+N	SI	Source of injury-- Vehicles
+O	SI	Source of injury-- Vehicles
+A	SI	Source of injury-- Vehicles
+L	SI	Source of injury-- Vehicles
+R	SI	Source of injury-- Vehicles
+G	SI	Source of injury-- Vehicles
+3	SJ	Source of injury-- Health care patient
+E	SJ	Source of injury-- Health care patient
+P	SJ	Source of injury-- Health care patient
+N	SJ	Source of injury-- Health care patient
+O	SJ	Source of injury-- Health care patient
+A	SJ	Source of injury-- Health care patient
+L	SJ	Source of injury-- Health care patient
+R	SJ	Source of injury-- Health care patient
+G	SJ	Source of injury-- Health care patient
+3	SK	Source of injury-- All other sources
+E	SK	Source of injury-- All other sources
+P	SK	Source of injury-- All other sources
+N	SK	Source of injury-- All other sources
+O	SK	Source of injury-- All other sources
+A	SK	Source of injury-- All other sources
+L	SK	Source of injury-- All other sources
+R	SK	Source of injury-- All other sources

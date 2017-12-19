@@ -1,0 +1,15 @@
+case_code	case_text
+3	Selected characteristic by detailed industry	
+A	Industry division or selected characteristic by age	
+E	Industry division or selected characteristic by detailed event or exposure	
+G	Industry division or selected characteristic by gender	
+H	Industry division or selected characteristic by hours at work	
+L	Industry division or selected characteristic by length of service	
+M	Industry division or selected characteristic by special combinations	
+N	Industry division or selected characteristic by detailed nature of condition	
+O	Industry division or selected characteristic by detailed occupation	
+P	Industry division or selected characteristic by detailed part of body affected	
+R	Industry division or selected characteristic by race or ethnicity	
+S	Industry division or selected characteristic by detailed source of injury/illness	
+T	Industry division or selected characteristic by time of day	
+W	Industry division or selected characteristic by day of week	

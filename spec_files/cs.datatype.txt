@@ -1,0 +1,4 @@
+datatype_code	datatype_text
+3	Injury and illness rate per 10,000 full-time workers	
+6	Injury and illness Cases	
+7	Median days lost	

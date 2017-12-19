@@ -1,0 +1,5 @@
+measure_code	measure_text
+03	unemployment rate	
+04	unemployment	
+05	employment	
+06	labor force	

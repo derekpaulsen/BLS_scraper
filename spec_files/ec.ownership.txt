@@ -1,0 +1,4 @@
+ownership_code	ownership_name
+1	Civilian
+2	Private industry
+3	State and local government

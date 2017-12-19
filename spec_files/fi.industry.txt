@@ -1,0 +1,1152 @@
+industry_code	industry_text	display_level	selectable	sort_sequence
+000000	All workers	0	T	1	
+11111X	Soybean Farming	6	T	7	
+11114X	Wheat Farming	6	T	10	
+11115X	Corn Farming	6	T	11	
+11116X	Rice Farming	6	T	12	
+111191	Oilseed and Grain Combination Farming	7	T	14	
+111199	All Other Grain Farming	7	T	15	
+11119X	Other Grain Farming	6	T	13	
+1111XX	Oilseed and Grain Farming	5	T	6	
+111211	Potato Farming	7	T	18	
+111219	Other Vegetable (except Potato) and Melon Farming	7	T	19	
+11121X	Vegetable and Melon Farming	6	T	17	
+1112XX	Vegetable and Melon Farming	5	T	16	
+11131X	Orange Groves	6	T	21	
+11132X	Citrus (except Orange) Groves	6	T	22	
+111331	Apple Orchards	7	T	24	
+111332	Grape Vineyards	7	T	25	
+111334	Berry (except Strawberry) Farming	7	T	27	
+111335	Tree Nut Farming	7	T	28	
+111339	Other Noncitrus Fruit Farming	7	T	30	
+11133X	Noncitrus Fruit and Tree Nut Farming	6	T	23	
+1113XX	Fruit and Tree Nut Farming	5	T	20	
+111411	Mushroom Production	7	T	33	
+11141X	Food Crops Grown Under Cover	6	T	32	
+111421	Nursery and Tree Production	7	T	36	
+11142X	Nursery and Floriculture Production	6	T	35	
+1114XX	Greenhouse, Nursery, and Floriculture Production	5	T	31	
+11191X	Tobacco Farming	6	T	39	
+11192X	Cotton Farming	6	T	40	
+11193X	Sugarcane Farming	6	T	41	
+11194X	Hay Farming	6	T	42	
+111991	Sugar Beet Farming	7	T	44	
+111998	All Other Misc Crop Farming	7	T	46	
+11199X	All Other Crop Farming	6	T	43	
+1119XX	Other Crop Farming	5	T	38	
+111XXX	Crop Production	4	T	5	
+112111	Beef Cattle Ranching and Farming	7	T	50	
+112112	Cattle Feedlots	7	T	51	
+11211X	Beef Cattle Ranching and Farming, including Feedlots	6	T	49	
+11212X	Dairy Cattle and Milk Production	6	T	52	
+1121XX	Cattle Ranching and Farming	5	T	48	
+11221X	Hog and Pig Farming	6	T	55	
+1122XX	Hog and Pig Farming	5	T	54	
+11231X	Chicken Egg Production	6	T	57	
+11232X	Broilers and Other Meat Type Chicken Production	6	T	58	
+11234X	Poultry Hatcheries	6	T	60	
+1123XX	Poultry and Egg Production	5	T	56	
+11241X	Sheep Farming	6	T	63	
+1124XX	Sheep and Goat Farming	5	T	62	
+112511	Finfish Farming and Fish Hatcheries	7	T	67	
+11251X	Animal Aquaculture	6	T	66	
+1125XX	Animal Aquaculture	5	T	65	
+11291X	Apiculture	6	T	71	
+11292X	Horses and Other Equine Production	6	T	72	
+11299X	All Other Animal Production	6	T	74	
+1129XX	Other Animal Production	5	T	70	
+112XXX	Animal Production	4	T	47	
+11311X	Timber Tract Operations	6	T	77	
+1131XX	Timber Tract Operations	5	T	76	
+11321X	Forest Nurseries and Gathering of Forest Products	6	T	79	
+1132XX	Forest Nurseries and Gathering of Forest Products	5	T	78	
+11331X	Logging	6	T	81	
+1133XX	Logging	5	T	80	
+113XXX	Forestry and Logging	4	T	75	
+114111	Finfish Fishing	7	T	85	
+114112	Shellfish Fishing	7	T	86	
+114119	Other Marine Fishing	7	T	87	
+11411X	Fishing	6	T	84	
+1141XX	Fishing	5	T	83	
+114XXX	Fishing, Hunting and Trapping	4	T	82	
+115111	Cotton Ginning	7	T	93	
+115112	Soil Preparation, Planting, and Cultivating	7	T	94	
+115113	Crop Harvesting, Primarily by Machine	7	T	95	
+115114	Postharvest Crop Activities (except Cotton Ginning)	7	T	96	
+115115	Farm Labor Contractors and Crew Leaders	7	T	97	
+115116	Farm Management Services	7	T	98	
+11511X	Support Activities for Crop Production	6	T	92	
+1151XX	Support Activities for Crop Production	5	T	91	
+11521X	Support Activities for Animal Production	6	T	100	
+1152XX	Support Activities for Animal Production	5	T	99	
+11531X	Support Activities for Forestry	6	T	102	
+1153XX	Support Activities for Forestry	5	T	101	
+115XXX	Support Activities for Agriculture and Forestry	4	T	90	
+211111	Crude Petroleum and Natural Gas Extraction	7	T	107	
+211112	Natural Gas Liquid Extraction	7	T	108	
+21111X	Oil and Gas Extraction	6	T	106	
+2111XX	Oil and Gas Extraction	5	T	105	
+211XXX	Oil and Gas Extraction	4	T	104	
+212111	Bituminous Coal and Lignite Surface Mining	7	T	112	
+212112	Bituminous Coal Underground Mining	7	T	113	
+21211X	Coal Mining	6	T	111	
+2121XX	Coal Mining	5	T	110	
+212221	Gold Ore Mining	7	T	118	
+21222X	Gold Ore and Silver Ore Mining	6	T	117	
+212234	Copper Ore and Nickel Ore Mining	7	T	122	
+21223X	Copper, Nickel, Lead, and Zinc Mining	6	T	120	
+2122XX	Metal Ore Mining	5	T	115	
+212311	Dimension Stone Mining and Quarrying	7	T	128	
+212312	Crushed and Broken Limestone Mining and Quarrying	7	T	129	
+212319	Other Crushed and Broken Stone Mining and Quarrying	7	T	131	
+21231X	Stone Mining and Quarrying	6	T	127	
+212321	Construction Sand and Gravel Mining	7	T	133	
+21232X	Sand, Gravel, Clay, and Ceramic and Refractory Minerals Mining and Quarrying	6	T	132	
+21239X	Other Nonmetallic Mineral Mining and Quarrying	6	T	137	
+2123XX	Nonmetallic Mineral Mining and Quarrying	5	T	126	
+212XXX	Mining (except Oil and Gas)	4	T	109	
+213111	Drilling Oil and Gas Wells	7	T	145	
+213112	Support Activities for Oil and Gas Operations	7	T	146	
+213113	Support Activities for Coal Mining	7	T	147	
+21311X	Support Activities for Mining	6	T	144	
+2131XX	Support Activities for Mining	5	T	143	
+213XXX	Support Activities for Mining	4	T	142	
+221111	Hydroelectric Power Generation	7	T	952	
+221112	Fossil Fuel Electric Power Generation	7	T	953	
+22111X	Electric Power Generation	6	T	951	
+221121	Electric Bulk Power Transmission and Control	7	T	957	
+221122	Electric Power Distribution	7	T	958	
+22112X	Electric Power Transmission, Control, and Distribution	6	T	956	
+2211XX	Electric Power Generation, Transmission and Distribution	5	T	950	
+22121X	Natural Gas Distribution	6	T	960	
+2212XX	Natural Gas Distribution	5	T	959	
+22131X	Water Supply and Irrigation Systems	6	T	962	
+22132X	Sewage Treatment Facilities	6	T	963	
+2213XX	Water, Sewage and Other Systems	5	T	961	
+221XXX	Utilities	4	T	949	
+236115	New Single-Family Housing Construction (except Operative Builders)	7	T	155	
+236116	New Multifamily Housing Construction (except Operative Builders)	7	T	156	
+236117	New Housing Operative Builders	7	T	157	
+236118	Residential Remodelers	7	T	158	
+23611X	Residential Building Construction	6	T	154	
+2361XX	Residential Building Construction	5	T	153	
+23621X	Industrial Building Construction	6	T	160	
+23622X	Commercial and Institutional Building Construction	6	T	161	
+2362XX	Nonresidential Building Construction	5	T	159	
+236XXX	Construction of Buildings	4	T	152	
+23711X	Water and Sewer Line and Related Structures Construction	6	T	164	
+23712X	Oil and Gas Pipeline and Related Structures Construction	6	T	165	
+23713X	Power and Communication Line and Related Structures Construction	6	T	166	
+2371XX	Utility System Construction	5	T	163	
+23721X	Land Subdivision	6	T	168	
+2372XX	Land Subdivision	5	T	167	
+23731X	Highway, Street, and Bridge Construction	6	T	170	
+2373XX	Highway, Street, and Bridge Construction	5	T	169	
+23799X	Other Heavy and Civil Engineering Construction	6	T	172	
+2379XX	Other Heavy and Civil Engineering Construction	5	T	171	
+237XXX	Heavy and Civil Engineering Construction	4	T	162	
+238001	Residential specialty trade contractors	7	T	174	
+238111	Residential poured Concrete Foundation and Structure Contractors	7	T	180	
+238112	Nonresidential poured Concrete Foundation and Structure Contractors	7	T	181	
+23811X	Poured Concrete Foundation and Structure Contractors	6	T	179	
+238121	Residential Structural Steel and Precast Concrete Contractors	7	T	183	
+238122	Nonresidential Structural Steel and Precast Concrete Contractors	7	T	184	
+23812X	Structural Steel and Precast Concrete Contractors	6	T	182	
+238131	Residential framing contractors	7	T	186	
+238132	Nonresidential framing contractors	7	T	187	
+23813X	Framing Contractors	6	T	185	
+238141	Residential masonry contractors	7	T	189	
+238142	Nonresidential masonry contractors	7	T	190	
+23814X	Masonry Contractors	6	T	188	
+238152	Non residential glass and glazing contractors	7	T	193	
+23815X	Glass and Glazing Contractors	6	T	191	
+238161	Residential roofing contractors	7	T	195	
+238162	Nonresidential roofing contractors	7	T	196	
+23816X	Roofing Contractors	6	T	194	
+238171	Residential siding contractors	7	T	198	
+238172	Nonresidential siding contractors	7	T	199	
+23817X	Siding Contractors	6	T	197	
+238191	Other Residential Foundation, Structure, and Building Exterior Contractors	7	T	201	
+238192	Other Nonresidential Foundation, Structure, and Building Exterior Contractors	7	T	202	
+23819X	Other Foundation, Structure, and Building Exterior Contractors	6	T	200	
+2381XX	Foundation, Structure, and Building Exterior Contractors	5	T	176	
+238211	Residential Electrical Contractors	7	T	207	
+238212	Nonresidential Electrical Contractors	7	T	208	
+23821X	Electrical Contractors	6	T	206	
+238221	Residential Plumbing, Heating, and Air-Conditioning Contractors	7	T	210	
+238222	Nonresidential Plumbing, Heating, and Air-Conditioning Contractors	7	T	211	
+23822X	Plumbing, Heating, and Air-Conditioning Contractors	6	T	209	
+238292	Other Nonresidential Building Equipment Contractors	7	T	214	
+23829X	Other Building Equipment Contractors	6	T	212	
+2382XX	Building Equipment Contractors	5	T	203	
+238311	Residential Drywall and Insulation Contractors	7	T	219	
+238312	Nonresidential Drywall and Insulation Contractors	7	T	220	
+23831X	Drywall and Insulation Contractors	6	T	218	
+238321	Residential Painting and Wall Covering Contractors	7	T	222	
+238322	Nonresidential Painting and Wall Covering Contractors	7	T	223	
+23832X	Painting and Wall Covering Contractors	6	T	221	
+238331	Residential Flooring Contractors	7	T	225	
+23833X	Flooring Contractors	6	T	224	
+23834X	Tile and Terrazzo Contractors	6	T	227	
+238351	Residential Finish Carpentry Contractors	7	T	231	
+238352	Nonresidential Finish Carpentry Contractors	7	T	232	
+23835X	Finish Carpentry Contractors	6	T	230	
+238391	Other Residential Building Finishing Contractors	7	T	234	
+238392	Other Nonresidential Building Finishing Contractors	7	T	235	
+23839X	Other Building Finishing Contractors	6	T	233	
+2383XX	Building Finishing Contractors	5	T	215	
+238911	Residential Site Preparation Contractors	7	T	240	
+238912	Nonresidential Site Preparation Contractors	7	T	241	
+23891X	Site Preparation Contractors	6	T	239	
+238991	All other residential specialty trade contractors	7	T	243	
+238992	All other nonresidential specialty trade contractors	7	T	244	
+23899X	All Other Specialty Trade Contractors	6	T	242	
+2389XX	Other Specialty Trade Contractors	5	T	236	
+238XXX	Specialty Trade Contractors	4	T	173	
+311119	Other Animal Food Manufacturing	7	T	251	
+31111X	Animal Food Manufacturing	6	T	249	
+3111XX	Animal Food Manufacturing	5	T	248	
+31121X	Flour Milling and Malt Manufacturing	6	T	253	
+31122X	Starch and Vegetable Fats and Oils Manufacturing	6	T	257	
+31123X	Breakfast Cereal Manufacturing	6	T	262	
+3112XX	Grain and Oilseed Milling	5	T	252	
+31131X	Sugar Manufacturing	6	T	264	
+3113XX	Sugar and Confectionery Product Manufacturing	5	T	263	
+311421	Fruit and Vegetable Canning	7	T	276	
+31142X	Fruit and Vegetable Canning, Pickling, and Drying	6	T	275	
+3114XX	Fruit and Vegetable Preserving and Specialty Food Manufacturing	5	T	271	
+311511	Fluid Milk Manufacturing	7	T	281	
+31151X	Dairy Product (except Frozen) Manufacturing	6	T	280	
+3115XX	Dairy Product Manufacturing	5	T	279	
+311611	Animal (except Poultry) Slaughtering	7	T	288	
+311612	Meat Processed from Carcasses	7	T	289	
+311613	Rendering and Meat Byproduct Processing	7	T	290	
+311615	Poultry Processing	7	T	291	
+31161X	Animal Slaughtering and Processing	6	T	287	
+3116XX	Animal Slaughtering and Processing	5	T	286	
+311712	Fresh and Frozen Seafood Processing	7	T	295	
+31171X	Seafood Product Preparation and Packaging	6	T	293	
+3117XX	Seafood Product Preparation and Packaging	5	T	292	
+311811	Retail Bakeries	7	T	298	
+311812	Commercial Bakeries	7	T	299	
+31181X	Bread and Bakery Product Manufacturing	6	T	297	
+3118XX	Bakeries and Tortilla Manufacturing	5	T	296	
+311919	Other Snack Food Manufacturing	7	T	309	
+31191X	Snack Food Manufacturing	6	T	307	
+311942	Spice and Extract Manufacturing	7	T	314	
+31194X	Seasoning and Dressing Manufacturing	6	T	312	
+311991	Perishable Prepared Food Manufacturing	7	T	316	
+31199X	All Other Food Manufacturing	6	T	315	
+3119XX	Other Food Manufacturing	5	T	306	
+311XXX	Food Manufacturing	4	T	247	
+312111	Soft Drink Manufacturing	7	T	321	
+31211X	Soft Drink and Ice Manufacturing	6	T	320	
+31212X	Breweries	6	T	324	
+31213X	Wineries	6	T	325	
+3121XX	Beverage Manufacturing	5	T	319	
+312XXX	Beverage and Tobacco Product Manufacturing	4	T	318	
+31321X	Broadwoven Fabric Mills	6	T	339	
+3132XX	Fabric Mills	5	T	338	
+3133XX	Textile and Fabric Finishing and Fabric Coating Mills	5	T	347	
+313XXX	Textile Mills	4	T	332	
+3141XX	Textile Furnishings Mills	5	T	353	
+3149XX	Other Textile Product Mills	5	T	358	
+314XXX	Textile Product Mills	4	T	352	
+315XXX	Apparel Manufacturing	4	T	366	
+31611X	Leather and Hide Tanning and Finishing	6	T	403	
+3161XX	Leather and Hide Tanning and Finishing	5	T	402	
+316XXX	Leather and Allied Product Manufacturing	4	T	401	
+321113	Sawmills	7	T	420	
+321114	Wood Preservation	7	T	421	
+32111X	Sawmills and Wood Preservation	6	T	419	
+3211XX	Sawmills and Wood Preservation	5	T	418	
+321211	Hardwood Veneer and Plywood Manufacturing	7	T	424	
+321214	Truss Manufacturing	7	T	427	
+321219	Reconstituted Wood Product Manufacturing	7	T	428	
+32121X	Veneer, Plywood, and Engineered Wood Product Manufacturing	6	T	423	
+3212XX	Veneer, Plywood, and Engineered Wood Product Manufacturing	5	T	422	
+321918	Other Millwork (including Flooring)	7	T	433	
+32191X	Millwork	6	T	430	
+32192X	Wood Container and Pallet Manufacturing	6	T	434	
+32199X	All Other Wood Product Manufacturing	6	T	435	
+3219XX	Other Wood Product Manufacturing	5	T	429	
+321XXX	Wood Product Manufacturing	4	T	417	
+322121	Paper (except Newsprint) Mills	7	T	443	
+322122	Newsprint Mills	7	T	444	
+32212X	Paper Mills	6	T	442	
+32213X	Paperboard Mills	6	T	445	
+3221XX	Pulp, Paper, and Paperboard Mills	5	T	440	
+322211	Corrugated and Solid Fiber Box Manufacturing	7	T	448	
+32221X	Paperboard Container Manufacturing	6	T	447	
+322222	Coated and Laminated Paper Manufacturing	7	T	455	
+32222X	Paper Bag and Coated and Treated Paper Manufacturing	6	T	453	
+322232	Envelope Manufacturing	7	T	462	
+32223X	Stationery Product Manufacturing	6	T	460	
+32229X	Other Converted Paper Product Manufacturing	6	T	464	
+3222XX	Converted Paper Product Manufacturing	5	T	446	
+322XXX	Paper Manufacturing	4	T	439	
+323110	Commercial Lithographic Printing	6	T	470	
+323113	Commercial Screen Printing	7	T	473	
+323114	Quick Printing	7	T	474	
+32311X	Printing	6	T	469	
+3231XX	Printing and Related Support Activities	5	T	468	
+323XXX	Printing and Related Support Activities	4	T	467	
+32411X	Petroleum Refineries	6	T	485	
+324121	Asphalt Paving Mixture and Block Manufacturing	7	T	487	
+32412X	Asphalt Paving, Roofing, and Saturated Materials Manufacturing	6	T	486	
+324199	All Other Petroleum and Coal Products Manufacturing	7	T	491	
+32419X	Other Petroleum and Coal Products Manufacturing	6	T	489	
+3241XX	Petroleum and Coal Products Manufacturing	5	T	484	
+324XXX	Petroleum and Coal Products Manufacturing	4	T	483	
+32511X	Petrochemical Manufacturing	6	T	494	
+32512X	Industrial Gas Manufacturing	6	T	495	
+325188	All Other Basic Inorganic Chemical Manufacturing	7	T	502	
+32518X	Other Basic Inorganic Chemical Manufacturing	6	T	499	
+325199	All Other Basic Organic Chemical Manufacturing	7	T	507	
+32519X	Other Basic Organic Chemical Manufacturing	6	T	503	
+3251XX	Basic Chemical Manufacturing	5	T	493	
+325211	Plastics Material and Resin Manufacturing	7	T	510	
+32521X	Resin and Synthetic Rubber Manufacturing	6	T	509	
+3252XX	Resin, Synthetic Rubber, and Artificial Synthetic Fibers and Filaments Manufacturing	5	T	508	
+325314	Fertilizer (Mixing Only) Manufacturing	7	T	519	
+32531X	Fertilizer Manufacturing	6	T	516	
+3253XX	Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing	5	T	515	
+325412	Pharmaceutical Preparation Manufacturing	7	T	524	
+32541X	Pharmaceutical and Medicine Manufacturing	6	T	522	
+3254XX	Pharmaceutical and Medicine Manufacturing	5	T	521	
+32561X	Soap and Cleaning Compound Manufacturing	6	T	531	
+32562X	Toilet Preparation Manufacturing	6	T	535	
+3256XX	Soap, Cleaning Compound, and Toilet Preparation Manufacturing	5	T	530	
+325998	All Other Miscellaneous Chemical Product and Preparation Manufacturing	7	T	542	
+32599X	All Other Chemical Product and Preparation Manufacturing	6	T	539	
+3259XX	Other Chemical Product and Preparation Manufacturing	5	T	536	
+325XXX	Chemical Manufacturing	4	T	492	
+326113	Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing	7	T	548	
+32611X	Plastics Packaging Materials and Unlaminated Film and Sheet Manufacturing	6	T	545	
+326122	Plastics Pipe and Pipe Fitting Manufacturing	7	T	551	
+32612X	Plastics Pipe, Pipe Fitting, and Unlaminated Profile Shape Manufacturing	6	T	549	
+326199	All Other Plastics Product Manufacturing	7	T	559	
+32619X	Other Plastics Product Manufacturing	6	T	556	
+3261XX	Plastics Product Manufacturing	5	T	544	
+326211	Tire Manufacturing (except Retreading)	7	T	562	
+32621X	Tire Manufacturing	6	T	561	
+326291	Rubber Product Manufacturing for Mechanical Use	7	T	566	
+32629X	Other Rubber Product Manufacturing	6	T	565	
+3262XX	Rubber Product Manufacturing	5	T	560	
+326XXX	Plastics and Rubber Products Manufacturing	4	T	543	
+327121	Brick and Structural Clay Tile Manufacturing	7	T	575	
+32712X	Clay Building Material and Refractories Manufacturing	6	T	574	
+3271XX	Clay Product and Refractory Manufacturing	5	T	569	
+327212	Other Pressed and Blown Glass and Glassware Manufacturing	7	T	583	
+327215	Glass Product Manufacturing Made of Purchased Glass	7	T	585	
+32721X	Glass and Glass Product Manufacturing	6	T	581	
+3272XX	Glass and Glass Product Manufacturing	5	T	580	
+32731X	Cement Manufacturing	6	T	587	
+32732X	Ready-Mix Concrete Manufacturing	6	T	588	
+327331	Concrete Block and Brick Manufacturing	7	T	590	
+32733X	Concrete Pipe, Brick, and Block Manufacturing	6	T	589	
+32739X	Other Concrete Product Manufacturing	6	T	592	
+3273XX	Cement and Concrete Product Manufacturing	5	T	586	
+3274XX	Lime and Gypsum Product Manufacturing	5	T	593	
+327991	Cut Stone and Stone Product Manufacturing	7	T	599	
+327993	Mineral Wool Manufacturing	7	T	601	
+32799X	All Other Nonmetallic Mineral Product Manufacturing	6	T	598	
+3279XX	Other Nonmetallic Mineral Product Manufacturing	5	T	596	
+327XXX	Nonmetallic Mineral Product Manufacturing	4	T	568	
+331111	Iron and Steel Mills	7	T	606	
+33111X	Iron and Steel Mills and Ferroalloy Manufacturing	6	T	605	
+3311XX	Iron and Steel Mills and Ferroalloy Manufacturing	5	T	604	
+33121X	Iron and Steel Pipe and Tube Manufacturing from Purchased Steel	6	T	609	
+33122X	Rolling and Drawing of Purchased Steel	6	T	610	
+3312XX	Steel Product Manufacturing from Purchased Steel	5	T	608	
+33131X	Alumina and Aluminum Production and Processing	6	T	614	
+3313XX	Alumina and Aluminum Production and Processing	5	T	613	
+331419	Primary Smelting and Refining of Nonferrous Metal (except Copper and Aluminum)	7	T	624	
+33141X	Nonferrous Metal (except Aluminum) Smelting and Refining	6	T	622	
+33149X	Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, Extruding, and Alloying	6	T	629	
+3314XX	Nonferrous Metal (except Aluminum) Production and Processing	5	T	621	
+331511	Iron Foundries	7	T	634	
+331513	Steel Foundries (except Investment)	7	T	636	
+33151X	Ferrous Metal Foundries	6	T	633	
+33152X	Nonferrous Metal Foundries	6	T	637	
+3315XX	Foundries	5	T	632	
+331XXX	Primary Metal Manufacturing	4	T	603	
+332116	Metal Stamping	7	T	650	
+33211X	Forging and Stamping	6	T	645	
+3321XX	Forging and Stamping	5	T	644	
+33221X	Cutlery and Handtool Manufacturing	6	T	653	
+3322XX	Cutlery and Handtool Manufacturing	5	T	652	
+332311	Prefabricated Metal Building and Component Manufacturing	7	T	660	
+332312	Fabricated Structural Metal Manufacturing	7	T	661	
+332313	Plate Work Manufacturing	7	T	662	
+33231X	Plate Work and Fabricated Structural Product Manufacturing	6	T	659	
+332321	Metal Window and Door Manufacturing	7	T	664	
+332322	Sheet Metal Work Manufacturing	7	T	665	
+332323	Ornamental and Architectural Metal Work Manufacturing	7	T	666	
+33232X	Ornamental and Architectural Metal Products Manufacturing	6	T	663	
+3323XX	Architectural and Structural Metals Manufacturing	5	T	658	
+33242X	Metal Tank (Heavy Gauge) Manufacturing	6	T	669	
+33243X	Metal Can, Box, and Other Metal Container (Light Gauge) Manufacturing	6	T	670	
+3324XX	Boiler, Tank, and Shipping Container Manufacturing	5	T	667	
+332618	Other Fabricated Wire Product Manufacturing	7	T	679	
+33261X	Spring and Wire Product Manufacturing	6	T	676	
+3326XX	Spring and Wire Product Manufacturing	5	T	675	
+33271X	Machine Shops	6	T	681	
+332722	Bolt, Nut, Screw, Rivet, and Washer Manufacturing	7	T	684	
+33272X	Turned Product and Screw, Nut, and Bolt Manufacturing	6	T	682	
+3327XX	Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing	5	T	680	
+332812	Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers	7	T	688	
+332813	Electroplating, Plating, Polishing, Anodizing, and Coloring	7	T	689	
+33281X	Coating, Engraving, Heat Treating, and Allied Activities	6	T	686	
+3328XX	Coating, Engraving, Heat Treating, and Allied Activities	5	T	685	
+33291X	Metal Valve Manufacturing	6	T	691	
+332999	All Other Miscellaneous Fabricated Metal Product Manufacturing	7	T	705	
+33299X	All Other Fabricated Metal Product Manufacturing	6	T	696	
+3329XX	Other Fabricated Metal Product Manufacturing	5	T	690	
+332XXX	Fabricated Metal Product Manufacturing	4	T	643	
+33311X	Agricultural Implement Manufacturing	6	T	708	
+33312X	Construction Machinery Manufacturing	6	T	711	
+333132	Oil and Gas Field Machinery and Equipment Manufacturing	7	T	714	
+33313X	Mining and Oil and Gas Field Machinery Manufacturing	6	T	712	
+3331XX	Agriculture, Construction, and Mining Machinery Manufacturing	5	T	707	
+333298	All Other Industrial Machinery Manufacturing	7	T	724	
+33329X	Other Industrial Machinery Manufacturing	6	T	718	
+3332XX	Industrial Machinery Manufacturing	5	T	715	
+33331X	Commercial and Service Industry Machinery Manufacturing	6	T	726	
+3333XX	Commercial and Service Industry Machinery Manufacturing	5	T	725	
+333415	Air-Conditioning and Warm Air Heating Eqp. and Commercial and Industrial Refrigeration Eqp. Mfg.	7	T	738	
+33341X	Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing	6	T	734	
+3334XX	Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing	5	T	733	
+333511	Industrial Mold Manufacturing	7	T	741	
+333512	Machine Tool (Metal Cutting Types) Manufacturing	7	T	742	
+333514	Special Die and Tool, Die Set, Jig, and Fixture Manufacturing	7	T	744	
+33351X	Metalworking Machinery Manufacturing	6	T	740	
+3335XX	Metalworking Machinery Manufacturing	5	T	739	
+33361X	Engine, Turbine, and Power Transmission Equipment Manufacturing	6	T	749	
+3336XX	Engine, Turbine, and Power Transmission Equipment Manufacturing	5	T	748	
+333922	Conveyor and Conveying Equipment Manufacturing	7	T	761	
+33392X	Material Handling Equipment Manufacturing	6	T	759	
+333995	Fluid Power Cylinder and Actuator Manufacturing	7	T	769	
+33399X	All Other General Purpose Machinery Manufacturing	6	T	764	
+3339XX	Other General Purpose Machinery Manufacturing	5	T	754	
+333XXX	Machinery Manufacturing	4	T	706	
+33411X	Computer and Peripheral Equipment Manufacturing	6	T	775	
+3341XX	Computer and Peripheral Equipment Manufacturing	5	T	774	
+334413	Semiconductor and Related Device Manufacturing	7	T	790	
+33441X	Semiconductor and Other Electronic Component Manufacturing	6	T	787	
+3344XX	Semiconductor and Other Electronic Component Manufacturing	5	T	786	
+334511	Search, Detection, Navigation.	7	T	800	
+33451X	Navigational, Measuring, Electromedical, and Control Instruments Manufacturing	6	T	798	
+3345XX	Navigational, Measuring, Electromedical, and Control Instruments Manufacturing	5	T	797	
+334XXX	Computer and Electronic Product Manufacturing	4	T	773	
+33531X	Electrical Equipment Manufacturing	6	T	831	
+3353XX	Electrical Equipment Manufacturing	5	T	830	
+3359XX	Other Electrical Equipment and Component Manufacturing	5	T	836	
+335XXX	Electrical Equipment, Appliance, and Component Manufacturing	4	T	814	
+336111	Automobile Manufacturing	7	T	852	
+336112	Light Truck and Utility Vehicle Manufacturing	7	T	853	
+33611X	Automobile and Light Duty Motor Vehicle Manufacturing	6	T	851	
+3361XX	Motor Vehicle Manufacturing	5	T	850	
+336211	Motor Vehicle Body Manufacturing	7	T	857	
+336212	Truck Trailer Manufacturing	7	T	858	
+33621X	Motor Vehicle Body and Trailer Manufacturing	6	T	856	
+3362XX	Motor Vehicle Body and Trailer Manufacturing	5	T	855	
+33637X	Motor Vehicle Metal Stamping	6	T	872	
+336399	All Other Motor Vehicle Parts Manufacturing	7	T	875	
+33639X	Other Motor Vehicle Parts Manufacturing	6	T	873	
+3363XX	Motor Vehicle Parts Manufacturing	5	T	861	
+336411	Aircraft Manufacturing	7	T	878	
+336413	Other Aircraft Parts and Auxiliary Equipment Manufacturing	7	T	880	
+33641X	Aerospace Product and Parts Manufacturing	6	T	877	
+3364XX	Aerospace Product and Parts Manufacturing	5	T	876	
+336611	Ship Building and Repairing	7	T	888	
+336612	Boat Building	7	T	889	
+33661X	Ship and Boat Building	6	T	887	
+3366XX	Ship and Boat Building	5	T	886	
+33699X	Other Transportation Equipment Manufacturing	6	T	891	
+3369XX	Other Transportation Equipment Manufacturing	5	T	890	
+336XXX	Transportation Equipment Manufacturing	4	T	849	
+33711X	Wood Kitchen Cabinet and Countertop Manufacturing	6	T	897	
+337121	Upholstered Household Furniture Manufacturing	7	T	899	
+337122	Nonupholstered Wood Household Furniture Manufacturing	7	T	900	
+33712X	Household and Institutional Furniture Manufacturing	6	T	898	
+3371XX	Household and Institutional Furniture and Kitchen Cabinet Manufacturing	5	T	896	
+33721X	Office Furniture (including Fixtures) Manufacturing	6	T	906	
+3372XX	Office Furniture (including Fixtures) Manufacturing	5	T	905	
+337XXX	Furniture and Related Product Manufacturing	4	T	895	
+33911X	Medical Equipment and Supplies Manufacturing	6	T	916	
+3391XX	Medical Equipment and Supplies Manufacturing	5	T	915	
+33995X	Sign Manufacturing	6	T	938	
+33999X	All Other Miscellaneous Manufacturing	6	T	939	
+3399XX	Other Miscellaneous Manufacturing	5	T	923	
+339XXX	Miscellaneous Manufacturing	4	T	914	
+42311X	Automobile and Other Motor Vehicle Merchant Wholesalers	6	T	968	
+42312X	Motor Vehicle Supplies and New Parts Merchant Wholesalers	6	T	969	
+42314X	Motor Vehicle Parts (Used) Merchant Wholesalers	6	T	971	
+4231XX	Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers	5	T	967	
+42321X	Furniture Merchant Wholesalers	6	T	973	
+42322X	Home Furnishing Merchant Wholesalers	6	T	974	
+4232XX	Furniture and Home Furnishing Merchant Wholesalers	5	T	972	
+42331X	Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers	6	T	976	
+42332X	Brick, Stone, and Related Construction Material Merchant Wholesalers	6	T	977	
+42333X	Roofing, Siding, and Insulation Material Merchant Wholesalers	6	T	978	
+4233XX	Lumber and Other Construction Materials Merchant Wholesalers	5	T	975	
+42342X	Office Equipment Merchant Wholesalers	6	T	982	
+42343X	Computer and Computer Peripheral Equipment and Software Merchant Wholesalers	6	T	983	
+42344X	Other Commercial Equipment Merchant Wholesalers	6	T	984	
+42345X	Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers	6	T	985	
+4234XX	Professional and Commercial Equipment and Supplies Merchant Wholesalers	5	T	980	
+42351X	Metal Service Centers and Other Metal Merchant Wholesalers	6	T	989	
+4235XX	Metal and Mineral (except Petroleum) Merchant Wholesalers	5	T	988	
+42361X	Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant  Wholesalers	6	T	992	
+4236XX	Electrical and Electronic Goods Merchant Wholesalers	5	T	991	
+42372X	Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers	6	T	997	
+42373X	Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers	6	T	998	
+4237XX	Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers	5	T	995	
+42381X	Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers	6	T	1001	
+42382X	Farm and Garden Machinery and Equipment Merchant Wholesalers	6	T	1002	
+42383X	Industrial Machinery and Equipment Merchant Wholesalers	6	T	1003	
+42384X	Industrial Supplies Merchant Wholesalers	6	T	1004	
+42385X	Service Establishment Equipment and Supplies Merchant Wholesalers	6	T	1005	
+4238XX	Machinery, Equipment, and Supplies Merchant Wholesalers	5	T	1000	
+42391X	Sporting and Recreational Goods and Supplies Merchant Wholesalers	6	T	1008	
+42393X	Recyclable Material Merchant Wholesalers	6	T	1010	
+42399X	Other Miscellaneous Durable Goods Merchant Wholesalers	6	T	1012	
+4239XX	Miscellaneous Durable Goods Merchant Wholesalers	5	T	1007	
+423XXX	Merchant Wholesalers, Durable Goods	4	T	966	
+42413X	Industrial and Personal Service Paper Merchant Wholesalers	6	T	1017	
+4241XX	Paper and Paper Product Merchant Wholesalers	5	T	1014	
+42421X	Drugs and Druggists' Sundries Merchant Wholesalers	6	T	1019	
+4242XX	Drugs and Druggists' Sundries Merchant Wholesalers	5	T	1018	
+4243XX	Apparel, Piece Goods, and Notions Merchant Wholesalers	5	T	1020	
+42441X	General Line Grocery Merchant Wholesalers	6	T	1026	
+42442X	Packaged Frozen Food Merchant Wholesalers	6	T	1027	
+42443X	Dairy Product (except Dried or Canned) Merchant Wholesalers	6	T	1028	
+42445X	Confectionery Merchant Wholesalers	6	T	1030	
+42446X	Fish and Seafood Merchant Wholesalers	6	T	1031	
+42448X	Fresh Fruit and Vegetable Merchant Wholesalers	6	T	1033	
+42449X	Other Grocery and Related Products Merchant Wholesalers	6	T	1034	
+4244XX	Grocery and Related Product Wholesalers	5	T	1025	
+42451X	Grain and Field Bean Merchant Wholesalers	6	T	1036	
+42452X	Livestock Merchant Wholesalers	6	T	1037	
+42459X	Other Farm Product Raw Material Merchant Wholesalers	6	T	1038	
+4245XX	Farm Product Raw Material Merchant Wholesalers	5	T	1035	
+42469X	Other Chemical and Allied Products Merchant Wholesalers	6	T	1041	
+4246XX	Chemical and Allied Products Merchant Wholesalers	5	T	1039	
+42471X	Petroleum Bulk Stations and Terminals	6	T	1043	
+42472X	Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)	6	T	1044	
+4247XX	Petroleum and Petroleum Products Merchant Wholesalers	5	T	1042	
+42481X	Beer and Ale Merchant Wholesalers	6	T	1046	
+42482X	Wine and Distilled Alcoholic Beverage Merchant Wholesalers	6	T	1047	
+4248XX	Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers	5	T	1045	
+42491X	Farm Supplies Merchant Wholesalers	6	T	1049	
+42493X	Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers	6	T	1051	
+42499X	Other Miscellaneous Nondurable Goods Merchant Wholesalers	6	T	1054	
+4249XX	Miscellaneous Nondurable Goods Merchant Wholesalers	5	T	1048	
+424XXX	Merchant Wholesalers, Nondurable Goods	4	T	1013	
+42512X	Wholesale Trade Agents and Brokers	6	T	1058	
+4251XX	Wholesale Electronic Markets and Agents and Brokers	5	T	1056	
+425XXX	Wholesale Electronic Markets and Agents and Brokers	4	T	1055	
+44111X	New Car Dealers	6	T	1062	
+44112X	Used Car Dealers	6	T	1063	
+4411XX	Automobile Dealers	5	T	1061	
+44121X	Recreational Vehicle Dealers	6	T	1065	
+441221	Motorcycle Dealers	7	T	1067	
+441222	Boat Dealers	7	T	1068	
+441229	All Other Motor Vehicle Dealers	7	T	1069	
+44122X	Motorcycle, Boat, and Other Motor Vehicle Dealers	6	T	1066	
+4412XX	Other Motor Vehicle Dealers	5	T	1064	
+44131X	Automotive Parts and Accessories Stores	6	T	1071	
+44132X	Tire Dealers	6	T	1072	
+4413XX	Automotive Parts, Accessories, and Tire Stores	5	T	1070	
+441XXX	Motor Vehicle and Parts Dealers	4	T	1060	
+44211X	Furniture Stores	6	T	1075	
+4421XX	Furniture Stores	5	T	1074	
+44221X	Floor Covering Stores	6	T	1077	
+4422XX	Home Furnishings Stores	5	T	1076	
+442XXX	Furniture and Home Furnishings Stores	4	T	1073	
+443111	Household Appliance Stores	7	T	1084	
+443112	Radio, Television, and Other Electronics Stores	7	T	1085	
+44311X	Appliance, Television, and Other Electronics Stores	6	T	1083	
+4431XX	Electronics and Appliance Stores	5	T	1082	
+443XXX	Electronics and Appliance Stores	4	T	1081	
+44411X	Home Centers	6	T	1090	
+44412X	Paint and Wallpaper Stores	6	T	1091	
+44413X	Hardware Stores	6	T	1092	
+44419X	Other Building Material Dealers	6	T	1093	
+4441XX	Building Material and Supplies Dealers	5	T	1089	
+44421X	Outdoor Power Equipment Stores	6	T	1095	
+44422X	Nursery, Garden Center, and Farm Supply Stores	6	T	1096	
+4442XX	Lawn and Garden Equipment and Supplies Stores	5	T	1094	
+444XXX	Building Material and Garden Equipment and Supplies Dealers	4	T	1088	
+44511X	Supermarkets and Other Grocery (except Convenience) Stores	6	T	1099	
+44512X	Convenience Stores	6	T	1100	
+4451XX	Grocery Stores	5	T	1098	
+44521X	Meat Markets	6	T	1102	
+44523X	Fruit and Vegetable Markets	6	T	1104	
+445291	Baked Goods Stores	7	T	1106	
+44529X	Other Specialty Food Stores	6	T	1105	
+4452XX	Specialty Food Stores	5	T	1101	
+44531X	Beer, Wine, and Liquor Stores	6	T	1110	
+4453XX	Beer, Wine, and Liquor Stores	5	T	1109	
+445XXX	Food and Beverage Stores	4	T	1097	
+44611X	Pharmacies and Drug Stores	6	T	1113	
+44612X	Cosmetics, Beauty Supplies, and Perfume Stores	6	T	1114	
+4461XX	Health and Personal Care Stores	5	T	1112	
+446XXX	Health and Personal Care Stores	4	T	1111	
+44711X	Gasoline Stations with Convenience Stores	6	T	1121	
+44719X	Other Gasoline Stations	6	T	1122	
+4471XX	Gasoline Stations	5	T	1120	
+447XXX	Gasoline Stations	4	T	1119	
+44812X	Women's Clothing Stores	6	T	1126	
+44814X	Family Clothing Stores	6	T	1128	
+44819X	Other Clothing Stores	6	T	1130	
+4481XX	Clothing Stores	5	T	1124	
+44821X	Shoe Stores	6	T	1132	
+4482XX	Shoe Stores	5	T	1131	
+44831X	Jewelry Stores	6	T	1134	
+4483XX	Jewelry, Luggage, and Leather Goods Stores	5	T	1133	
+448XXX	Clothing and Clothing Accessories Stores	4	T	1123	
+45111X	Sporting Goods Stores	6	T	1138	
+4511XX	Sporting Goods, Hobby, and Musical Instrument Stores	5	T	1137	
+45121X	Book Stores and News Dealers	6	T	1143	
+45122X	Prerecorded Tape, Compact Disc, and Record Stores	6	T	1146	
+4512XX	Book, Periodical, and Music Stores	5	T	1142	
+451XXX	Sporting Goods, Hobby, Book, and Music Stores	4	T	1136	
+452111	Department Stores (except Discount Department Stores)	7	T	1150	
+452112	Discount Department Stores	7	T	1151	
+45211X	Department Stores	6	T	1149	
+4521XX	Department Stores	5	T	1148	
+45291X	Warehouse Clubs and Supercenters	6	T	1153	
+45299X	All Other General Merchandise Stores	6	T	1154	
+4529XX	Other General Merchandise Stores	5	T	1152	
+452XXX	General Merchandise Stores	4	T	1147	
+45311X	Florists	6	T	1157	
+4531XX	Florists	5	T	1156	
+45322X	Gift, Novelty, and Souvenir Stores	6	T	1160	
+4532XX	Office Supplies, Stationery, and Gift Stores	5	T	1158	
+45331X	Used Merchandise Stores	6	T	1162	
+4533XX	Used Merchandise Stores	5	T	1161	
+45393X	Manufactured (Mobile) Home Dealers	6	T	1166	
+453991	Tobacco Stores	7	T	1168	
+453998	All Other Miscellaneous Store Retailers (except Tobacco Stores)	7	T	1169	
+45399X	All Other Miscellaneous Store Retailers	6	T	1167	
+4539XX	Other Miscellaneous Store Retailers	5	T	1163	
+453XXX	Miscellaneous Store Retailers	4	T	1155	
+45421X	Vending Machine Operators	6	T	1177	
+4542XX	Vending Machine Operators	5	T	1176	
+454311	Heating Oil Dealers	7	T	1180	
+454312	Liquefied Petroleum Gas (Bottled Gas) Dealers	7	T	1181	
+45431X	Fuel Dealers	6	T	1179	
+45439X	Other Direct Selling Establishments	6	T	1183	
+4543XX	Direct Selling Establishments	5	T	1178	
+454XXX	Nonstore Retailers	4	T	1170	
+481111	Scheduled Passenger Air Transportation	7	T	1188	
+481112	Scheduled Freight Air Transportation	7	T	1189	
+48111X	Scheduled Air Transportation	6	T	1187	
+4811XX	Scheduled Air Transportation	5	T	1186	
+481211	Nonscheduled Chartered Passenger Air Transportation	7	T	1192	
+481212	Nonscheduled Chartered Freight Air Transportation	7	T	1193	
+481219	Other Nonscheduled Air Transportation	7	T	1194	
+48121X	Nonscheduled Air Transportation	6	T	1191	
+4812XX	Nonscheduled Air Transportation	5	T	1190	
+481XXX	Air Transportation	4	T	1185	
+482111	Line-Haul Railroads	7	T	1198	
+482112	Short Line Railroads	7	T	1199	
+48211X	Rail Transportation	6	T	1197	
+4821XX	Rail Transportation	5	T	1196	
+482XXX	Rail Transportation	4	T	1195	
+483111	Deep Sea Freight Transportation	7	T	1203	
+483112	Deep Sea Passenger Transportation	7	T	1204	
+483113	Coastal and Great Lakes Freight Transportation	7	T	1205	
+48311X	Deep Sea, Coastal, and Great Lakes Water Transportation	6	T	1202	
+4831XX	Deep Sea, Coastal, and Great Lakes Water Transportation	5	T	1201	
+483211	Inland Water Freight Transportation	7	T	1209	
+48321X	Inland Water Transportation	6	T	1208	
+4832XX	Inland Water Transportation	5	T	1207	
+483XXX	Water Transportation	4	T	1200	
+48411X	General Freight Trucking, Local	6	T	1213	
+484121	General Freight Trucking, Long-Distance, Truckload	7	T	1215	
+484122	General Freight Trucking, Long-Distance, Less Than Truckload	7	T	1216	
+48412X	General Freight Trucking, Long-Distance	6	T	1214	
+4841XX	General Freight Trucking	5	T	1212	
+48421X	Used Household and Office Goods Moving	6	T	1218	
+48422X	Specialized Freight (except Used Goods) Trucking, Local	6	T	1219	
+48423X	Specialized Freight (except Used Goods) Trucking, Long-Distance	6	T	1220	
+4842XX	Specialized Freight Trucking	5	T	1217	
+484XXX	Truck Transportation	4	T	1211	
+485111	Mixed Mode Transit Systems	7	T	1224	
+485112	Commuter Rail Systems	7	T	1225	
+485113	Bus and Other Motor Vehicle Transit Systems	7	T	1226	
+48511X	Urban Transit Systems	6	T	1223	
+4851XX	Urban Transit Systems	5	T	1222	
+48521X	Interurban and Rural Bus Transportation	6	T	1229	
+4852XX	Interurban and Rural Bus Transportation	5	T	1228	
+48531X	Taxi Service	6	T	1231	
+48532X	Limousine Service	6	T	1232	
+4853XX	Taxi and Limousine Service	5	T	1230	
+48541X	School and Employee Bus Transportation	6	T	1234	
+4854XX	School and Employee Bus Transportation	5	T	1233	
+48551X	Charter Bus Industry	6	T	1236	
+4855XX	Charter Bus Industry	5	T	1235	
+485991	Special Needs Transportation	7	T	1239	
+485999	All Other Transit and Ground Passenger Transportation	7	T	1240	
+48599X	Other Transit and Ground Passenger Transportation	6	T	1238	
+4859XX	Other Transit and Ground Passenger Transportation	5	T	1237	
+485XXX	Transit and Ground Passenger Transportation	4	T	1221	
+48611X	Pipeline Transportation of Crude Oil	6	T	1243	
+4861XX	Pipeline Transportation of Crude Oil	5	T	1242	
+48621X	Pipeline Transportation of Natural Gas	6	T	1245	
+4862XX	Pipeline Transportation of Natural Gas	5	T	1244	
+4869XX	Other Pipeline Transportation	5	T	1246	
+486XXX	Pipeline Transportation	4	T	1241	
+48721X	Scenic and Sightseeing Transportation, Water	6	T	1253	
+4872XX	Scenic and Sightseeing Transportation, Water	5	T	1252	
+48799X	Scenic and Sightseeing Transportation, Other	6	T	1255	
+4879XX	Scenic and Sightseeing Transportation, Other	5	T	1254	
+487XXX	Scenic and Sightseeing Transportation	4	T	1249	
+488119	Other Airport Operations	7	T	1260	
+48811X	Airport Operations	6	T	1258	
+48819X	Other Support Activities for Air Transportation	6	T	1261	
+4881XX	Support Activities for Air Transportation	5	T	1257	
+48821X	Support Activities for Rail Transportation	6	T	1263	
+4882XX	Support Activities for Rail Transportation	5	T	1262	
+48831X	Port and Harbor Operations	6	T	1265	
+48832X	Marine Cargo Handling	6	T	1266	
+48833X	Navigational Services to Shipping	6	T	1267	
+48839X	Other Support Activities for Water Transportation	6	T	1268	
+4883XX	Support Activities for Water Transportation	5	T	1264	
+48841X	Motor Vehicle Towing	6	T	1270	
+48849X	Other Support Activities for Road Transportation	6	T	1271	
+4884XX	Support Activities for Road Transportation	5	T	1269	
+48851X	Freight Transportation Arrangement	6	T	1273	
+4885XX	Freight Transportation Arrangement	5	T	1272	
+488991	Packing and Crating	7	T	1276	
+48899X	Other Support Activities for Transportation	6	T	1275	
+4889XX	Other Support Activities for Transportation	5	T	1274	
+488XXX	Support Activities for Transportation	4	T	1256	
+49111X	Postal Service	6	T	1280	
+4911XX	Postal Service	5	T	1279	
+491XXX	Postal Service	4	T	1278	
+49211X	Couriers	6	T	1283	
+4921XX	Couriers	5	T	1282	
+49221X	Local Messengers and Local Delivery	6	T	1285	
+4922XX	Local Messengers and Local Delivery	5	T	1284	
+492XXX	Couriers and Messengers	4	T	1281	
+49311X	General Warehousing and Storage	6	T	1288	
+49312X	Refrigerated Warehousing and Storage	6	T	1289	
+49313X	Farm Product Warehousing and Storage	6	T	1290	
+49319X	Other Warehousing and Storage	6	T	1291	
+4931XX	Warehousing and Storage	5	T	1287	
+493XXX	Warehousing and Storage	4	T	1286	
+51111X	Newspaper Publishers	6	T	1296	
+5111XX	Newspaper, Periodical, Book, and Directory Publishers	5	T	1295	
+511XXX	Publishing Industries (except Internet)	4	T	1294	
+51211X	Motion Picture and Video Production	6	T	1307	
+51213X	Motion Picture and Video Exhibition	6	T	1309	
+5121XX	Motion Picture and Video Industries	5	T	1306	
+51224X	Sound Recording Studios	6	T	1319	
+5122XX	Sound Recording Industries	5	T	1315	
+512XXX	Motion Picture and Sound Recording Industries	4	T	1305	
+51511X	Radio Broadcasting	6	T	1323	
+51512X	Television Broadcasting	6	T	1326	
+5151XX	Radio and Television Broadcasting	5	T	1322	
+51521X	Cable and Other Subscription Programming	6	T	1328	
+5152XX	Cable and Other Subscription Programming	5	T	1327	
+515XXX	Broadcasting (except Internet)	4	T	1321	
+51711X	Wired Telecommunications Carriers	6	T	1334	
+5171XX	Wired Telecommunications Carriers	5	T	1333	
+517212	Cellular and Other Wireless Telecommunications	7	T	1338	
+51721X	Wireless Telecommunications Carriers (except Satellite)	6	T	1336	
+5172XX	Wireless Telecommunications Carriers (except Satellite)	5	T	1335	
+51751X	Cable and Other Program Distribution	6	T	1344	
+5175XX	Cable and Other Program Distribution	5	T	1343	
+51791X	Other Telecommunications	6	T	1346	
+5179XX	Other Telecommunications	5	T	1345	
+517XXX	Telecommunications	4	T	1332	
+51821X	Data Processing, Hosting, and Related Services	6	T	1353	
+5182XX	Data Processing, Hosting, and Related Services	5	T	1352	
+518XXX	Internet Service Providers, Web Search Portals, and Data Processing Services	4	T	1347	
+52211X	Commercial Banking	6	T	1366	
+52212X	Savings Institutions	6	T	1367	
+5221XX	Depository Credit Intermediation	5	T	1365	
+522291	Consumer Lending	7	T	1374	
+522292	Real Estate Credit	7	T	1375	
+522298	All Other Nondepository Credit Intermediation	7	T	1378	
+52229X	Other Nondepository Credit Intermediation	6	T	1373	
+5222XX	Nondepository Credit Intermediation	5	T	1370	
+52232X	Financial Transactions Processing, Reserve, and Clearinghouse Activities	6	T	1381	
+52239X	Other Activities Related to Credit Intermediation	6	T	1382	
+5223XX	Activities Related to Credit Intermediation	5	T	1379	
+522XXX	Credit Intermediation and Related Activities	4	T	1364	
+52311X	Investment Banking and Securities Dealing	6	T	1385	
+52312X	Securities Brokerage	6	T	1386	
+5231XX	Securities and Commodity Contracts Intermediation and Brokerage	5	T	1384	
+52393X	Investment Advice	6	T	1394	
+5239XX	Other Financial Investment Activities	5	T	1391	
+523XXX	Securities, Commodity Contracts, and Other Financial Investments and Related Activities	4	T	1383	
+524126	Direct Property and Casualty Insurance Carriers	7	T	1404	
+52412X	Direct Insurance (except Life, Health, and Medical) Carriers	6	T	1403	
+5241XX	Insurance Carriers	5	T	1399	
+52421X	Insurance Agencies and Brokerages	6	T	1409	
+5242XX	Agencies, Brokerages, and Other Insurance Related Activities	5	T	1408	
+524XXX	Insurance Carriers and Related Activities	4	T	1398	
+53111X	Lessors of Residential Buildings and Dwellings	6	T	1427	
+53112X	Lessors of Nonresidential Buildings (except Miniwarehouses)	6	T	1428	
+53113X	Lessors of Miniwarehouses and Self-Storage Units	6	T	1429	
+53119X	Lessors of Other Real Estate Property	6	T	1430	
+5311XX	Lessors of Real Estate	5	T	1426	
+53121X	Offices of Real Estate Agents and Brokers	6	T	1432	
+5312XX	Offices of Real Estate Agents and Brokers	5	T	1431	
+531311	Residential Property Managers	7	T	1435	
+531312	Nonresidential Property Managers	7	T	1436	
+53131X	Real Estate Property Managers	6	T	1434	
+5313XX	Activities Related to Real Estate	5	T	1433	
+531XXX	Real Estate	4	T	1425	
+532111	Passenger Car Rental	7	T	1442	
+53211X	Passenger Car Rental and Leasing	6	T	1441	
+53212X	Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing	6	T	1444	
+5321XX	Automotive Equipment Rental and Leasing	5	T	1440	
+53223X	Video Tape and Disc Rental	6	T	1448	
+532299	All Other Consumer Goods Rental	7	T	1452	
+53229X	Other Consumer Goods Rental	6	T	1449	
+5322XX	Consumer Goods Rental	5	T	1445	
+53231X	General Rental Centers	6	T	1454	
+5323XX	General Rental Centers	5	T	1453	
+532411	Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing	7	T	1457	
+532412	Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing	7	T	1458	
+53241X	Construction, Transportation, Mining, and Forestry Machinery and Equipment Rental and Leasing	6	T	1456	
+53249X	Other Commercial and Industrial Machinery and Equipment Rental and Leasing	6	T	1460	
+5324XX	Commercial and Industrial Machinery and Equipment Rental and Leasing	5	T	1455	
+532XXX	Rental and Leasing Services	4	T	1439	
+54111X	Offices of Lawyers	6	T	1468	
+541199	All Other Legal Services	7	T	1472	
+54119X	Other Legal Services	6	T	1470	
+5411XX	Legal Services	5	T	1467	
+541211	Offices of Certified Public Accountants	7	T	1475	
+54121X	Accounting, Tax Preparation, Bookkeeping, and Payroll Services	6	T	1474	
+5412XX	Accounting, Tax Preparation, Bookkeeping, and Payroll Services	5	T	1473	
+54131X	Architectural Services	6	T	1480	
+54132X	Landscape Architectural Services	6	T	1481	
+54133X	Engineering Services	6	T	1482	
+54135X	Building Inspection Services	6	T	1484	
+54136X	Geophysical Surveying and Mapping Services	6	T	1485	
+54137X	Surveying and Mapping (except Geophysical) Services	6	T	1486	
+54138X	Testing Laboratories	6	T	1487	
+5413XX	Architectural, Engineering, and Related Services	5	T	1479	
+5414XX	Specialized Design Services	5	T	1488	
+541511	Custom Computer Programming Services	7	T	1495	
+541512	Computer Systems Design Services	7	T	1496	
+541519	Other Computer Related Services	7	T	1498	
+54151X	Computer Systems Design and Related Services	6	T	1494	
+5415XX	Computer Systems Design and Related Services	5	T	1493	
+541611	Administrative Management and General Management Consulting Services	7	T	1501	
+541613	Marketing Consulting Services	7	T	1503	
+54161X	Management Consulting Services	6	T	1500	
+54162X	Environmental Consulting Services	6	T	1506	
+54169X	Other Scientific and Technical Consulting Services	6	T	1507	
+5416XX	Management, Scientific, and Technical Consulting Services	5	T	1499	
+54171X	Research and Development in the Physical, Engineering, and Life Sciences	6	T	1509	
+5417XX	Scientific Research and Development Services	5	T	1508	
+54181X	Advertising Agencies	6	T	1512	
+54185X	Display Advertising	6	T	1516	
+5418XX	Advertising and Related Services	5	T	1511	
+541921	Photography Studios, Portrait	7	T	1523	
+54192X	Photographic Services	6	T	1522	
+54194X	Veterinary Services	6	T	1526	
+5419XX	Other Professional, Scientific, and Technical Services	5	T	1520	
+541XXX	Professional, Scientific, and Technical Services	4	T	1466	
+55111X	Management of Companies and Enterprises	6	T	1531	
+5511XX	Management of Companies and Enterprises	5	T	1530	
+551XXX	Management of Companies and Enterprises	4	T	1529	
+56121X	Facilities Support Services	6	T	1540	
+5612XX	Facilities Support Services	5	T	1539	
+56131X	Employment Placement Agencies	6	T	1542	
+56132X	Temporary Help Services	6	T	1543	
+56133X	Professional Employer Organizations	6	T	1544	
+5613XX	Employment Services	5	T	1541	
+561431	Private Mail Centers	7	T	1551	
+56143X	Business Service Centers	6	T	1550	
+561491	Repossession Services	7	T	1556	
+56149X	Other Business Support Services	6	T	1555	
+5614XX	Business Support Services	5	T	1545	
+56151X	Travel Agencies	6	T	1560	
+5615XX	Travel Arrangement and Reservation Services	5	T	1559	
+561612	Security Guards and Patrol Services	7	T	1568	
+561613	Armored Car Services	7	T	1569	
+56161X	Investigation, Guard, and Armored Car Services	6	T	1566	
+561621	Security Systems Services (except Locksmiths)	7	T	1571	
+561622	Locksmiths	7	T	1572	
+56162X	Security Systems Services	6	T	1570	
+5616XX	Investigation and Security Services	5	T	1565	
+56171X	Exterminating and Pest Control Services	6	T	1574	
+56172X	Janitorial Services	6	T	1575	
+56173X	Landscaping Services	6	T	1576	
+56174X	Carpet and Upholstery Cleaning Services	6	T	1577	
+56179X	Other Services to Buildings and Dwellings	6	T	1578	
+5617XX	Services to Buildings and Dwellings	5	T	1573	
+56199X	All Other Support Services	6	T	1582	
+5619XX	Other Support Services	5	T	1579	
+561XXX	Administrative and Support Services	4	T	1536	
+562111	Solid Waste Collection	7	T	1586	
+562112	Hazardous Waste Collection	7	T	1587	
+562119	Other Waste Collection	7	T	1588	
+56211X	Waste Collection	6	T	1585	
+5621XX	Waste Collection	5	T	1584	
+562211	Hazardous Waste Treatment and Disposal	7	T	1591	
+562212	Solid Waste Landfill	7	T	1592	
+562219	Other Nonhazardous Waste Treatment and Disposal	7	T	1594	
+56221X	Waste Treatment and Disposal	6	T	1590	
+5622XX	Waste Treatment and Disposal	5	T	1589	
+56291X	Remediation Services	6	T	1596	
+56292X	Materials Recovery Facilities	6	T	1597	
+562991	Septic Tank and Related Services	7	T	1599	
+562998	All Other Miscellaneous Waste Management Services	7	T	1600	
+56299X	All Other Waste Management Services	6	T	1598	
+5629XX	Remediation and Other Waste Management Services	5	T	1595	
+562XXX	Waste Management and Remediation Services	4	T	1583	
+61111X	Elementary and Secondary Schools	6	T	1605	
+6111XX	Elementary and Secondary Schools	5	T	1604	
+61121X	Junior Colleges	6	T	1607	
+6112XX	Junior Colleges	5	T	1606	
+61131X	Colleges, Universities, and Professional Schools	6	T	1609	
+6113XX	Colleges, Universities, and Professional Schools	5	T	1608	
+611512	Flight Training	7	T	1617	
+611519	Other Technical and Trade Schools	7	T	1619	
+61151X	Technical and Trade Schools	6	T	1615	
+6115XX	Technical and Trade Schools	5	T	1614	
+61162X	Sports and Recreation Instruction	6	T	1622	
+611692	Automobile Driving Schools	7	T	1626	
+61169X	All Other Schools and Instruction	6	T	1624	
+6116XX	Other Schools and Instruction	5	T	1620	
+611XXX	Educational Services	4	T	1603	
+621111	Offices of Physicians (except Mental Health Specialists)	7	T	1634	
+621112	Offices of Physicians, Mental Health Specialists	7	T	1635	
+62111X	Offices of Physicians	6	T	1633	
+6211XX	Offices of Physicians	5	T	1632	
+62121X	Offices of Dentists	6	T	1637	
+6212XX	Offices of Dentists	5	T	1636	
+621399	Offices of All Other Miscellaneous Health Practitioners	7	T	1645	
+62139X	Offices of All Other Health Practitioners	6	T	1643	
+6213XX	Offices of Other Health Practitioners	5	T	1638	
+62142X	Outpatient Mental Health and Substance Abuse Centers	6	T	1648	
+62149X	Other Outpatient Care Centers	6	T	1649	
+6214XX	Outpatient Care Centers	5	T	1646	
+621511	Medical Laboratories	7	T	1656	
+62151X	Medical and Diagnostic Laboratories	6	T	1655	
+6215XX	Medical and Diagnostic Laboratories	5	T	1654	
+62161X	Home Health Care Services	6	T	1659	
+6216XX	Home Health Care Services	5	T	1658	
+62191X	Ambulance Services	6	T	1661	
+62199X	All Other Ambulatory Health Care Services	6	T	1662	
+6219XX	Other Ambulatory Health Care Services	5	T	1660	
+621XXX	Ambulatory Health Care Services	4	T	1631	
+62211X	General Medical and Surgical Hospitals	6	T	1667	
+6221XX	General Medical and Surgical Hospitals	5	T	1666	
+62221X	Psychiatric and Substance Abuse Hospitals	6	T	1669	
+6222XX	Psychiatric and Substance Abuse Hospitals	5	T	1668	
+622XXX	Hospitals	4	T	1665	
+62311X	Nursing Care Facilities	6	T	1674	
+6231XX	Nursing Care Facilities	5	T	1673	
+62321X	Residential Mental Retardation Facilities	6	T	1676	
+62322X	Residential Mental Health and Substance Abuse Facilities	6	T	1677	
+6232XX	Residential Mental Retardation, Mental Health and Substance Abuse Facilities	5	T	1675	
+623311	Continuing Care Retirement Communities	7	T	1680	
+623312	Homes for the Elderly	7	T	1681	
+62331X	Community Care Facilities for the Elderly	6	T	1679	
+6233XX	Community Care Facilities for the Elderly	5	T	1678	
+62399X	Other Residential Care Facilities	6	T	1683	
+6239XX	Other Residential Care Facilities	5	T	1682	
+623XXX	Nursing and Residential Care Facilities	4	T	1672	
+62411X	Child and Youth Services	6	T	1686	
+62412X	Services for the Elderly and Persons with Disabilities	6	T	1687	
+62419X	Other Individual and Family Services	6	T	1688	
+6241XX	Individual and Family Services	5	T	1685	
+62421X	Community Food Services	6	T	1690	
+6242XX	Community Food and Housing, and Emergency and Other Relief Services	5	T	1689	
+62431X	Vocational Rehabilitation Services	6	T	1696	
+6243XX	Vocational Rehabilitation Services	5	T	1695	
+62441X	Child Day Care Services	6	T	1698	
+6244XX	Child Day Care Services	5	T	1697	
+624XXX	Social Assistance	4	T	1684	
+71113X	Musical Groups and Artists	6	T	1705	
+71119X	Other Performing Arts Companies	6	T	1706	
+7111XX	Performing Arts Companies	5	T	1702	
+711211	Sports Teams and Clubs	7	T	1709	
+711212	Racetracks	7	T	1710	
+711219	Other Spectator Sports	7	T	1711	
+71121X	Spectator Sports	6	T	1708	
+7112XX	Spectator Sports	5	T	1707	
+71131X	Promoters of Performing Arts, Sports, and Similar Events with Facilities	6	T	1713	
+71132X	Promoters of Performing Arts, Sports, and Similar Events without Facilities	6	T	1714	
+7113XX	Promoters of Performing Arts, Sports, and Similar Events	5	T	1712	
+71151X	Independent Artists, Writers, and Performers	6	T	1718	
+7115XX	Independent Artists, Writers, and Performers	5	T	1717	
+711XXX	Performing Arts, Spectator Sports, and Related Industries	4	T	1701	
+71211X	Museums	6	T	1721	
+71213X	Zoos and Botanical Gardens	6	T	1723	
+71219X	Nature Parks and Other Similar Institutions	6	T	1724	
+7121XX	Museums, Historical Sites, and Similar Institutions	5	T	1720	
+712XXX	Museums, Historical Sites, and Similar Institutions	4	T	1719	
+71311X	Amusement and Theme Parks	6	T	1727	
+7131XX	Amusement Parks and Arcades	5	T	1726	
+7132XX	Gambling Industries	5	T	1729	
+71391X	Golf Courses and Country Clubs	6	T	1733	
+71392X	Skiing Facilities	6	T	1734	
+71393X	Marinas	6	T	1735	
+71394X	Fitness and Recreational Sports Centers	6	T	1736	
+71399X	All Other Amusement and Recreation Industries	6	T	1738	
+7139XX	Other Amusement and Recreation Industries	5	T	1732	
+713XXX	Amusement, Gambling, and Recreation Industries	4	T	1725	
+72111X	Hotels (except Casino Hotels) and Motels	6	T	1742	
+72112X	Casino Hotels	6	T	1743	
+7211XX	Traveler Accommodation	5	T	1741	
+721211	RV (Recreational Vehicle) Parks and Campgrounds	7	T	1749	
+721214	Recreational and Vacation Camps (except Campgrounds)	7	T	1750	
+72121X	RV (Recreational Vehicle) Parks and Recreational Camps	6	T	1748	
+7212XX	RV (Recreational Vehicle) Parks and Recreational Camps	5	T	1747	
+721XXX	Accommodation	4	T	1740	
+72211X	Full-Service Restaurants	6	T	1755	
+7221XX	Full-Service Restaurants	5	T	1754	
+722211	Limited-Service Restaurants	7	T	1758	
+722212	Cafeterias	7	T	1759	
+722213	Snack and Nonalcoholic Beverage Bars	7	T	1760	
+72221X	Limited-Service Eating Places	6	T	1757	
+7222XX	Limited-Service Eating Places	5	T	1756	
+72231X	Food Service Contractors	6	T	1762	
+72232X	Caterers	6	T	1763	
+72233X	Mobile Food Services	6	T	1764	
+7223XX	Special Food Services	5	T	1761	
+72241X	Drinking Places (Alcoholic Beverages)	6	T	1766	
+7224XX	Drinking Places (Alcoholic Beverages)	5	T	1765	
+722XXX	Food Services and Drinking Places	4	T	1753	
+811111	General Automotive Repair	7	T	1772	
+811118	Other Automotive Mechanical and Electrical Repair and Maintenance	7	T	1775	
+81111X	Automotive Mechanical and Electrical Repair and Maintenance	6	T	1771	
+811121	Automotive Body, Paint, and Interior Repair and Maintenance	7	T	1777	
+81112X	Automotive Body, Paint, Interior, and Glass Repair	6	T	1776	
+811191	Automotive Oil Change and Lubrication Shops	7	T	1780	
+811192	Car Washes	7	T	1781	
+811198	All Other Automotive Repair and Maintenance	7	T	1782	
+81119X	Other Automotive Repair and Maintenance	6	T	1779	
+8111XX	Automotive Repair and Maintenance	5	T	1770	
+811211	Consumer Electronics Repair and Maintenance	7	T	1785	
+81121X	Electronic and Precision Equipment Repair and Maintenance	6	T	1784	
+8112XX	Electronic and Precision Equipment Repair and Maintenance	5	T	1783	
+81131X	Commercial Machinery Repair and Maintenance	6	T	1790	
+8113XX	Commercial Machinery Repair and Maintenance	5	T	1789	
+811411	Home and Garden Equipment Repair and Maintenance	7	T	1793	
+811412	Appliance Repair and Maintenance	7	T	1794	
+81141X	Home and Garden Equipment and Appliance Repair and Maintenance	6	T	1792	
+81149X	Other Personal and Household Goods Repair and Maintenance	6	T	1797	
+8114XX	Personal and Household Goods Repair and Maintenance	5	T	1791	
+811XXX	Repair and Maintenance	4	T	1769	
+812111	Barber Shops	7	T	1801	
+812112	Beauty Salons	7	T	1802	
+812113	Nail Salons	7	T	1803	
+81211X	Hair, Nail, and Skin Care Services	6	T	1800	
+812199	Other Personal Care Services	7	T	1806	
+81219X	Other Personal Care Services	6	T	1804	
+8121XX	Personal Care Services	5	T	1799	
+81221X	Funeral Homes and Funeral Services	6	T	1808	
+81222X	Cemeteries and Crematories	6	T	1809	
+8122XX	Death Care Services	5	T	1807	
+81231X	Coin-Operated Laundries and Drycleaners	6	T	1811	
+81232X	Drycleaning and Laundry Services (except Coin-Operated)	6	T	1812	
+812331	Linen Supply	7	T	1814	
+812332	Industrial Launderers	7	T	1815	
+81233X	Linen and Uniform Supply	6	T	1813	
+8123XX	Drycleaning and Laundry Services	5	T	1810	
+81291X	Pet Care (except Veterinary) Services	6	T	1817	
+81293X	Parking Lots and Garages	6	T	1821	
+81299X	All Other Personal Services	6	T	1822	
+8129XX	Other Personal Services	5	T	1816	
+812XXX	Personal and Laundry Services	4	T	1798	
+81311X	Religious Organizations	6	T	1825	
+8131XX	Religious Organizations	5	T	1824	
+813319	Other Social Advocacy Organizations	7	T	1835	
+81331X	Social Advocacy Organizations	6	T	1832	
+8133XX	Social Advocacy Organizations	5	T	1831	
+81341X	Civic and Social Organizations	6	T	1837	
+8134XX	Civic and Social Organizations	5	T	1836	
+81393X	Labor Unions and Similar Labor Organizations	6	T	1841	
+81394X	Political Organizations	6	T	1842	
+8139XX	Business, Professional, Labor, Political, and Similar Organizations	5	T	1838	
+813XXX	Religious, Grantmaking, Civic, Professional, and Similar Organizations	4	T	1823	
+81411X	Private Households	6	T	1846	
+8141XX	Private Households	5	T	1845	
+814XXX	Private Households	4	T	1844	
+92111X	Executive Offices	6	T	1851	
+92112X	Legislative Bodies	6	T	1852	
+92113X	Public Finance Activities	6	T	1853	
+92114X	Executive and Legislative Offices, Combined	6	T	1854	
+92115X	American Indian and Alaska Native Tribal Governments	6	T	1855	
+92119X	Other General Government Support	6	T	1856	
+9211XX	Executive, Legislative, and Other General Government Support	5	T	1850	
+921XXX	Executive, Legislative, and Other General Government Support	4	T	1849	
+92211X	Courts	6	T	1859	
+92212X	Police Protection	6	T	1860	
+92213X	Legal Counsel and Prosecution	6	T	1861	
+92214X	Correctional Institutions	6	T	1862	
+92215X	Parole Offices and Probation Offices	6	T	1863	
+92216X	Fire Protection	6	T	1864	
+92219X	Other Justice, Public Order, and Safety Activities	6	T	1865	
+9221XX	Justice, Public Order, and Safety Activities	5	T	1858	
+922XXX	Justice, Public Order, and Safety Activities	4	T	1857	
+92312X	Administration of Public Health Programs	6	T	1869	
+92313X	Administration of Other Human Resource Programs	6	T	1870	
+9231XX	Administration of Human Resource Programs	5	T	1867	
+923XXX	Administration of Human Resource Programs	4	T	1866	
+92411X	Administration of Air and Water Resource and Solid Waste Management Programs	6	T	1874	
+92412X	Administration of Conservation Programs	6	T	1875	
+9241XX	Administration of Environmental Quality Programs	5	T	1873	
+924XXX	Administration of Environmental Quality Programs	4	T	1872	
+92511X	Administration of Housing Programs	6	T	1878	
+9251XX	Administration of Housing Programs, Urban Planning, and Community Development	5	T	1877	
+925XXX	Administration of Housing Programs, Urban Planning, and Community Development	4	T	1876	
+92611X	Administration of General Economic Programs	6	T	1882	
+92612X	Regulation and Administration of Transportation Programs	6	T	1883	
+92614X	Regulation of Agricultural Marketing and Commodities	6	T	1885	
+92615X	Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors	6	T	1886	
+9261XX	Administration of Economic Programs	5	T	1881	
+926XXX	Administration of Economic Programs	4	T	1880	
+92711X	Space Research and Technology	6	T	1889	
+9271XX	Space Research and Technology	5	T	1888	
+927XXX	Space Research and Technology	4	T	1887	
+92811X	National Security	6	T	1892	
+92812X	International Affairs	6	T	1893	
+9281XX	National Security and International Affairs	5	T	1891	
+928XXX	National Security and International Affairs	4	T	1890	
+GP1AAA	Goods producing	1	T	2	
+GP1CON	Construction	2	T	150	
+GP1MFG	Manufacturing	2	T	245	
+GP1NRM	Natural resources and mining	2	T	3	
+GP2AFH	Agriculture, forestry, fishing and hunting	3	T	4	
+GP2CON	Construction	3	T	151	
+GP2MFG	Manufacturing	3	T	246	
+GP2MIN	Mining	3	T	103	
+SP1AAA	Service producing	1	T	946	
+SP1EHS	Educational and health services	2	T	1601	
+SP1FIA	Financial activities	2	T	1359	
+SP1INF	Information	2	T	1292	
+SP1LEH	Leisure and hospitality	2	T	1699	
+SP1OTS	Other services, except public administration	2	T	1767	
+SP1PAD	Public administration	2	T	1847	
+SP1PBS	Professional and business services	2	T	1464	
+SP1TTU	Trade, transportation, and utilities	2	T	947	
+SP2ADW	Administrative and waste services	3	T	1535	
+SP2AER	Arts, entertainment, and recreation	3	T	1700	
+SP2AFS	Accommodation and food services	3	T	1739	
+SP2EDS	Educational services	3	T	1602	
+SP2FIN	Finance and insurance	3	T	1360	
+SP2HSA	Health care and social assistance	3	T	1630	
+SP2INF	Information	3	T	1293	
+SP2MCE	Management of companies and enterprises	3	T	1528	
+SP2OTS	Other services, except public administration	3	T	1768	
+SP2PAD	Public administration	3	T	1848	
+SP2PST	Professional and technical services	3	T	1465	
+SP2RET	Retail trade	3	T	1059	
+SP2RRL	Real estate and rental and leasing	3	T	1424	
+SP2TRW	Transportation and warehousing	3	T	1184	
+SP2UTL	Utilities	3	T	948	
+SP2WHT	Wholesale trade	3	T	965	

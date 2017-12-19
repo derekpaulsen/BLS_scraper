@@ -1,0 +1,643 @@
+estimate_code	estimate_text	display_level	selectable	sort_sequence
+00043	Percent of workers where type of interaction with regular contacts is very structured	0	T	32	
+00044	Percent of workers where type of interaction with regular contacts is structured	0	T	33	
+00045	Percent of workers where type of interaction with regular contacts is semi-structured	0	T	34	
+00046	Percent of workers where type of interaction with regular contacts is unstructured	0	T	35	
+00047	Percent of workers where type of interaction with regular contacts is very unstructured	0	T	36	
+00049	Percent of workers where type of interaction with regular contacts, mode	0	T	31	
+00057	Percent of workers where type of interaction with other contacts is very structured	0	T	45	
+00058	Percent of workers where type of interaction with other contacts is structured	0	T	46	
+00059	Percent of workers where type of interaction with other contacts is semi-structured	0	T	47	
+00060	Percent of workers where type of interaction with other contacts is unstructured	0	T	48	
+00061	Percent of workers where type of interaction with other contacts is very unstructured	0	T	49	
+00063	Percent of workers where type of interaction with other contacts, mode	0	T	44	
+00064	Percent of workers where svp is short demonstration only	0	T	820	
+00065	Percent of workers where svp is greater than short demonstration, less than or equal to 1 month	0	T	821	
+00066	Percent of workers where svp is greater than 1 month, less than or equal to 3 months	0	T	822	
+00067	Percent of workers where svp is greater than 3 months, less than or equal to 6 months	0	T	823	
+00068	Percent of workers where svp is greater than 6 months, less than or equal to 1 year	0	T	824	
+00069	Percent of workers where svp is greater than 1 year, less than or equal to 2 years	0	T	825	
+00070	Percent of workers where svp is greater than 2 years, less than or equal to 4 years	0	T	826	
+00071	Percent of workers where svp is greater than 4 years, less than or equal to 10 years	0	T	827	
+00072	Percent of workers where svp is over 10 years	0	T	828	
+00074	Percent of workers where svp requirement, mode	0	T	819	
+00075	Percent of workers where minimum education level is none	0	T	874	
+00076	Percent of workers where minimum education level is a high school diploma	0	T	875	
+00077	Percent of workers where minimum education level is an associate's degree	0	T	876	
+00079	Percent of workers where minimum education level is a master's degree	0	T	878	
+00080	Percent of workers where minimum education level is a professional degree	0	T	879	
+00081	Percent of workers where minimum education level is a doctorate degree	0	T	880	
+00084	Percent of workers where minimum education level requirement, mode	0	T	883	
+00085	Percent of workers where literacy is required	0	T	830	
+00086	Percent of workers where literacy is not required	0	T	831	
+00098	Percent of workers where pre-employment training is required	0	T	841	
+00099	Percent of workers where pre-employment training is not required	0	T	842	
+00101	Days of pre-employment training, mean	0	T	834	
+00102	Days of pre-employment training (10th Percentile)	0	T	835	
+00103	Days of pre-employment training (25th Percentile)	0	T	836	
+00104	Days of pre-employment training (50th Percentile - median)	0	T	837	
+00105	Days of pre-employment training (75th Percentile)	0	T	838	
+00106	Days of pre-employment training (90th Percentile)	0	T	839	
+00107	Percent of workers where prior work experience is required	0	T	851	
+00108	Days of prior work experience, mean	0	T	844	
+00109	Days of prior work experience (10th Percentile)	0	T	845	
+00110	Days of prior work experience (25th Percentile)	0	T	846	
+00111	Days of prior work experience (50th Percentile - median)	0	T	847	
+00112	Days of prior work experience (75th Percentile)	0	T	848	
+00113	Days of prior work experience (90th Percentile)	0	T	849	
+00114	Percent of workers where prior work experience is not required	0	T	852	
+00116	Days of post-employment training, mean	0	T	854	
+00117	Days of post-employment training (10th Percentile)	0	T	855	
+00118	Days of post-employment training (25th Percentile)	0	T	856	
+00119	Days of post-employment training (50th Percentile - median)	0	T	857	
+00120	Days of post-employment training (75th Percentile)	0	T	858	
+00121	Days of post-employment training (90th Percentile)	0	T	859	
+00122	Percent of workers where post-employment training is required	0	T	861	
+00123	Percent of workers where post-employment training is not required	0	T	862	
+00125	Hours of standing/walking, mean	0	T	786	
+00126	Hours of standing/walking (10th Percentile)	0	T	787	
+00127	Hours of standing/walking (25th Percentile)	0	T	788	
+00128	Hours of standing/walking (50th Percentile - median)	0	T	789	
+00129	Hours of standing/walking (75th Percentile)	0	T	790	
+00130	Hours of standing/walking (90th Percentile)	0	T	791	
+00132	Hours of sitting, mean	0	T	799	
+00133	Hours of sitting (10th Percentile)	0	T	800	
+00134	Hours of sitting (25th Percentile)	0	T	801	
+00135	Hours of sitting (50th Percentile - median)	0	T	802	
+00136	Hours of sitting (75th Percentile)	0	T	803	
+00137	Hours of sitting (90th Percentile)	0	T	804	
+00139	Percent of workers where sitting vs. standing/walking at will is allowed	0	T	266	
+00140	Percent of workers where sitting vs. standing/walking at will is not allowed	0	T	267	
+00142	Percent of workers where reaching overhead is not required	0	T	283	
+00143	Percent of workers where reaching overhead is required, seldom	0	T	284	
+00144	Percent of workers where reaching overhead is required, occasionally	0	T	285	
+00145	Percent of workers where reaching overhead is required, frequently	0	T	286	
+00149	Hours of reaching overhead, mean	0	T	269	
+00150	Hours of reaching overhead (10th Percentile)	0	T	270	
+00151	Hours of reaching overhead (25th Percentile)	0	T	271	
+00152	Hours of reaching overhead (50th Percentile - median)	0	T	272	
+00153	Hours of reaching overhead (75th Percentile)	0	T	273	
+00154	Hours of reaching overhead (90th Percentile)	0	T	274	
+00155	Percent of workers where reaching overhead, mode	0	T	275	
+00156	Percent of workers where reaching overhead is required, one hand	0	T	290	
+00157	Percent of workers where reaching overhead is required, both hands	0	T	291	
+00159	Percent of workers where reaching at/below the shoulder is not required	0	T	308	
+00160	Percent of workers where reaching at/below the shoulder is required, seldom	0	T	309	
+00161	Percent of workers where reaching at/below the shoulder is required, occasionally	0	T	310	
+00162	Percent of workers where reaching at/below the shoulder is required, frequently	0	T	311	
+00163	Percent of workers where reaching at/below the shoulder is required, constantly	0	T	312	
+00166	Hours of reaching at/below the shoulder, mean	0	T	294	
+00167	Hours of reaching at/below the shoulder (10th Percentile)	0	T	295	
+00168	Hours of reaching at/below the shoulder (25th Percentile)	0	T	296	
+00169	Hours of reaching at/below the shoulder (50th Percentile - median)	0	T	297	
+00170	Hours of reaching at/below the shoulder (75th Percentile)	0	T	298	
+00171	Hours of reaching at/below the shoulder (90th Percentile)	0	T	299	
+00172	Percent of workers where reaching at/below the shoulder, mode	0	T	300	
+00173	Percent of workers where reaching at/below the shoulder is required, one hand	0	T	315	
+00174	Percent of workers where reaching at/below the shoulder is required, both hands	0	T	316	
+00176	Percent of workers where traditional keyboarding is not required	0	T	333	
+00177	Percent of workers where traditional keyboarding is required, seldom	0	T	334	
+00178	Percent of workers where traditional keyboarding is required, occasionally	0	T	335	
+00179	Percent of workers where traditional keyboarding is required, frequently	0	T	336	
+00180	Percent of workers where traditional keyboarding is required, constantly	0	T	337	
+00183	Hours of traditional keyboarding, mean	0	T	319	
+00184	Hours of traditional keyboarding (10th Percentile)	0	T	320	
+00185	Hours of traditional keyboarding (25th Percentile)	0	T	321	
+00186	Hours of traditional keyboarding (50th Percentile - median)	0	T	322	
+00187	Hours of traditional keyboarding (75th Percentile)	0	T	323	
+00188	Hours of traditional keyboarding (90th Percentile)	0	T	324	
+00189	Percent of workers where traditional keyboarding, mode	0	T	325	
+00190	Percent of workers where touchpad keyboarding is not required	0	T	354	
+00192	Percent of workers where touchpad keyboarding is required, occasionally	0	T	356	
+00193	Percent of workers where touchpad keyboarding is required, frequently	0	T	357	
+00197	Hours of touchpad keyboarding, mean	0	T	340	
+00198	Hours of touchpad keyboarding (10th Percentile)	0	T	341	
+00199	Hours of touchpad keyboarding (25th Percentile)	0	T	342	
+00200	Hours of touchpad keyboarding (50th Percentile - median)	0	T	343	
+00201	Hours of touchpad keyboarding (75th Percentile)	0	T	344	
+00202	Hours of touchpad keyboarding (90th Percentile)	0	T	345	
+00203	Percent of workers where touchpad keyboarding, mode	0	T	346	
+00204	Percent of workers where 10-key pad keyboarding is not required	0	T	375	
+00206	Percent of workers where 10-key pad keyboarding is required, occasionally	0	T	377	
+00211	Hours of 10-key pad keyboarding, mean	0	T	361	
+00213	Hours of 10-key pad keyboarding (25th Percentile)	0	T	363	
+00214	Hours of 10-key pad keyboarding (50th Percentile - median)	0	T	364	
+00215	Hours of 10-key pad keyboarding (75th Percentile)	0	T	365	
+00216	Hours of 10-key pad keyboarding (90th Percentile)	0	T	366	
+00217	Percent of workers where 10-key pad keyboarding, mode	0	T	367	
+00218	Percent of workers where other keyboarding is not required	0	T	396	
+00231	Percent of workers where other keyboarding, mode	0	T	388	
+00233	Pounds maximum weight lifted/carried, mean	0	T	813	
+00234	Pounds maximum weight lifted/carried (10th Percentile)	0	T	814	
+00235	Pounds maximum weight lifted/carried (25th Percentile)	0	T	815	
+00236	Pounds maximum weight lifted/carried (50th Percentile - median)	0	T	816	
+00237	Pounds maximum weight lifted/carried (75th Percentile)	0	T	817	
+00238	Pounds maximum weight lifted/carried (90th Percentile)	0	T	818	
+00239	Percent of workers where lifting/carrying less than or equal to 10 lbs is required, seldom	0	T	404	
+00240	Percent of workers where lifting/carrying > 10 lbs and less than or equal to 20 lbs is required, seldom	0	T	405	
+00241	Percent of workers where lifting/carrying > 20 lbs and less than or equal to 50 lbs is required, seldom	0	T	406	
+00242	Percent of workers where lifting/carrying > 50 lbs and less than or equal to 100 lbs is required, seldom	0	T	407	
+00243	Percent of workers where lifting/carrying > 100 lbs is required, seldom	0	T	408	
+00245	Percent of workers where lifting/carrying seldom, mode	0	T	403	
+00246	Percent of workers where lifting/carrying less than or equal to 10 lbs is required, occasionally	0	T	411	
+00247	Percent of workers where lifting/carrying > 10 lbs and less than or equal to 20 lbs is required, occasionally	0	T	412	
+00248	Percent of workers where lifting/carrying > 20 lbs and less than or equal to 50 lbs is required, occasionally	0	T	413	
+00249	Percent of workers where lifting/carrying > 50 lbs and less than or equal to 100 lbs is required, occasionally	0	T	414	
+00250	Percent of workers where lifting/carrying > 100 lbs is required, occasionally	0	T	415	
+00252	Percent of workers where lifting/carrying occasionally, mode	0	T	410	
+00253	Percent of workers where lifting/carrying negligible is required, frequently	0	T	418	
+00254	Percent of workers where lifting/carrying less than or equal to 10 lbs is required, frequently	0	T	419	
+00255	Percent of workers where lifting/carrying > 10 lbs and less than or equal to 25 lbs is required, frequently	0	T	420	
+00256	Percent of workers where lifting/carrying > 25 lbs and less than or equal to 50 lbs is required, frequently	0	T	421	
+00257	Percent of workers where lifting/carrying > 50 lbs is required, frequently	0	T	422	
+00259	Percent of workers where lifting/carrying none is required, constantly	0	T	425	
+00260	Percent of workers where lifting/carrying frequently, mode	0	T	417	
+00261	Percent of workers where lifting/carrying negligible is required, constantly	0	T	426	
+00262	Percent of workers where lifting/carrying less than or equal to 10 lbs is required, constantly	0	T	427	
+00263	Percent of workers where lifting/carrying > 10 lbs and less than or equal to 20 lbs is required, constantly	0	T	428	
+00264	Percent of workers where lifting/carrying > 20 lbs is required, constantly	0	T	429	
+00266	Percent of workers where lifting/carrying constantly, mode	0	T	424	
+00267	Percent of workers where crawling is not required	0	T	445	
+00268	Percent of workers where crawling is required, seldom	0	T	446	
+00269	Percent of workers where crawling is required, occasionally	0	T	447	
+00274	Hours of crawling, mean	0	T	431	
+00275	Hours of crawling (10th Percentile)	0	T	432	
+00276	Hours of crawling (25th Percentile)	0	T	433	
+00277	Hours of crawling (50th Percentile - median)	0	T	434	
+00278	Hours of crawling (75th Percentile)	0	T	435	
+00279	Hours of crawling (90th Percentile)	0	T	436	
+00280	Percent of workers where crawling, mode	0	T	437	
+00281	Percent of workers where pushing/pulling with hands/arms is not required	0	T	466	
+00282	Percent of workers where pushing/pulling with hands/arms is required, seldom	0	T	467	
+00283	Percent of workers where pushing/pulling with hands/arms is required, occasionally	0	T	468	
+00284	Percent of workers where pushing/pulling with hands/arms is required, frequently	0	T	469	
+00288	Hours of pushing/pulling with hands/arms, mean	0	T	452	
+00289	Hours of pushing/pulling with hands/arms (10th Percentile)	0	T	453	
+00290	Hours of pushing/pulling with hands/arms (25th Percentile)	0	T	454	
+00291	Hours of pushing/pulling with hands/arms (50th Percentile - median)	0	T	455	
+00292	Hours of pushing/pulling with hands/arms (75th Percentile)	0	T	456	
+00293	Hours of pushing/pulling with hands/arms (90th Percentile)	0	T	457	
+00294	Percent of workers where pushing/pulling with hands/arms, mode	0	T	458	
+00295	Percent of workers where pushing/pulling with feet/legs is not required	0	T	487	
+00296	Percent of workers where pushing/pulling with feet/legs is required, seldom	0	T	488	
+00297	Percent of workers where pushing/pulling with feet/legs is required, occasionally	0	T	489	
+00298	Percent of workers where pushing/pulling with feet/legs is required, frequently	0	T	490	
+00302	Hours of pushing/pulling with feet/legs, mean	0	T	473	
+00303	Hours of pushing/pulling with feet/legs (10th Percentile)	0	T	474	
+00304	Hours of pushing/pulling with feet/legs (25th Percentile)	0	T	475	
+00305	Hours of pushing/pulling with feet/legs (50th Percentile - median)	0	T	476	
+00306	Hours of pushing/pulling with feet/legs (75th Percentile)	0	T	477	
+00307	Hours of pushing/pulling with feet/legs (90th Percentile)	0	T	478	
+00308	Percent of workers where pushing/pulling with feet/legs, mode	0	T	479	
+00309	Percent of workers where driving(passenger car) is required	0	T	496	
+00310	Percent of workers where driving(other vehicle) is required	0	T	497	
+00311	Percent of workers where driving is not required	0	T	498	
+00313	Percent of workers where foot/leg controls is not required	0	T	514	
+00314	Percent of workers where foot/leg controls is required, seldom	0	T	515	
+00315	Percent of workers where foot/leg controls is required, occasionally	0	T	516	
+00316	Percent of workers where foot/leg controls is required, frequently	0	T	517	
+00317	Percent of workers where foot/leg controls is required, constantly	0	T	518	
+00320	Hours of foot/leg controls, mean	0	T	500	
+00321	Hours of foot/leg controls (10th Percentile)	0	T	501	
+00322	Hours of foot/leg controls (25th Percentile)	0	T	502	
+00323	Hours of foot/leg controls (50th Percentile - median)	0	T	503	
+00324	Hours of foot/leg controls (75th Percentile)	0	T	504	
+00325	Hours of foot/leg controls (90th Percentile)	0	T	505	
+00326	Percent of workers where foot/leg controls, mode	0	T	506	
+00327	Percent of workers where foot/leg controls is required, one foot/leg	0	T	521	
+00328	Percent of workers where foot/leg controls is required, both feet/legs	0	T	522	
+00330	Percent of workers where gross manipulation is not required	0	T	539	
+00331	Percent of workers where gross manipulation is required, seldom	0	T	540	
+00332	Percent of workers where gross manipulation is required, occasionally	0	T	541	
+00333	Percent of workers where gross manipulation is required, frequently	0	T	542	
+00334	Percent of workers where gross manipulation is required, constantly	0	T	543	
+00337	Hours of gross manipulation, mean	0	T	525	
+00338	Hours of gross manipulation (10th Percentile)	0	T	526	
+00339	Hours of gross manipulation (25th Percentile)	0	T	527	
+00340	Hours of gross manipulation (50th Percentile - median)	0	T	528	
+00341	Hours of gross manipulation (75th Percentile)	0	T	529	
+00342	Hours of gross manipulation (90th Percentile)	0	T	530	
+00343	Percent of workers where gross manipulation, mode	0	T	531	
+00344	Percent of workers where gross manipulation is required, one hand	0	T	546	
+00345	Percent of workers where gross manipulation is required, both hands	0	T	547	
+00347	Percent of workers where fine manipulation is not required	0	T	564	
+00348	Percent of workers where fine manipulation is required, seldom	0	T	565	
+00349	Percent of workers where fine manipulation is required, occasionally	0	T	566	
+00350	Percent of workers where fine manipulation is required, frequently	0	T	567	
+00351	Percent of workers where fine manipulation is required, constantly	0	T	568	
+00354	Hours of fine manipulation, mean	0	T	550	
+00355	Hours of fine manipulation (10th Percentile)	0	T	551	
+00356	Hours of fine manipulation (25th Percentile)	0	T	552	
+00357	Hours of fine manipulation (50th Percentile - median)	0	T	553	
+00358	Hours of fine manipulation (75th Percentile)	0	T	554	
+00359	Hours of fine manipulation (90th Percentile)	0	T	555	
+00360	Percent of workers where fine manipulation, mode	0	T	556	
+00361	Percent of workers where fine manipulation is required, one hand	0	T	571	
+00362	Percent of workers where fine manipulation is required, both hands	0	T	572	
+00364	Percent of workers where climbing ramps or stairs (structure-related) is required	0	T	576	
+00365	Percent of workers where climbing ramps or stairs (structure-related) is not required	0	T	577	
+00367	Percent of workers where climbing ramps or stairs (work-related) is not required	0	T	593	
+00368	Percent of workers where climbing ramps or stairs (work-related) is required, seldom	0	T	594	
+00369	Percent of workers where climbing ramps or stairs (work-related) is required, occasionally	0	T	595	
+00374	Hours of climbing ramps or stairs (work-related), mean	0	T	579	
+00375	Hours of climbing ramps or stairs (work-related) (10th Percentile)	0	T	580	
+00376	Hours of climbing ramps or stairs (work-related) (25th Percentile)	0	T	581	
+00377	Hours of climbing ramps or stairs (work-related) (50th Percentile - median)	0	T	582	
+00378	Hours of climbing ramps or stairs (work-related) (75th Percentile)	0	T	583	
+00379	Hours of climbing ramps or stairs (work-related) (90th Percentile)	0	T	584	
+00380	Percent of workers where climbing ramps or stairs (work-related), mode	0	T	585	
+00381	Percent of workers where climbing ladders, ropes, or scaffolds is not required	0	T	614	
+00382	Percent of workers where climbing ladders, ropes, or scaffolds is required, seldom	0	T	615	
+00383	Percent of workers where climbing ladders, ropes, or scaffolds is required, occasionally	0	T	616	
+00388	Hours of climbing ladders, ropes, or scaffolds, mean	0	T	600	
+00390	Hours of climbing ladders, ropes, or scaffolds (25th Percentile)	0	T	602	
+00391	Hours of climbing ladders, ropes, or scaffolds (50th Percentile - median)	0	T	603	
+00393	Hours of climbing ladders, ropes, or scaffolds (90th Percentile)	0	T	605	
+00394	Percent of workers where climbing ladders, ropes, or scaffolds, mode	0	T	606	
+00395	Percent of workers where stooping is not required	0	T	635	
+00396	Percent of workers where stooping is required, seldom	0	T	636	
+00397	Percent of workers where stooping is required, occasionally	0	T	637	
+00398	Percent of workers where stooping is required, frequently	0	T	638	
+00402	Hours of stooping, mean	0	T	621	
+00403	Hours of stooping (10th Percentile)	0	T	622	
+00404	Hours of stooping (25th Percentile)	0	T	623	
+00405	Hours of stooping (50th Percentile - median)	0	T	624	
+00406	Hours of stooping (75th Percentile)	0	T	625	
+00407	Hours of stooping (90th Percentile)	0	T	626	
+00408	Percent of workers where stooping, mode	0	T	627	
+00409	Percent of workers where kneeling is not required	0	T	656	
+00410	Percent of workers where kneeling is required, seldom	0	T	657	
+00411	Percent of workers where kneeling is required, occasionally	0	T	658	
+00416	Hours of kneeling, mean	0	T	642	
+00417	Hours of kneeling (10th Percentile)	0	T	643	
+00418	Hours of kneeling (25th Percentile)	0	T	644	
+00419	Hours of kneeling (50th Percentile - median)	0	T	645	
+00420	Hours of kneeling (75th Percentile)	0	T	646	
+00421	Hours of kneeling (90th Percentile)	0	T	647	
+00422	Percent of workers where kneeling, mode	0	T	648	
+00423	Percent of workers not exposed to extreme cold	0	T	74	
+00424	Percent of workers exposed to extreme cold, seldom	0	T	75	
+00425	Percent of workers exposed to extreme cold, occasionally	0	T	76	
+00430	Hours exposed to extreme cold, mean	0	T	60	
+00431	Hours exposed to extreme cold (10th Percentile)	0	T	61	
+00432	Hours exposed to extreme cold (25th Percentile)	0	T	62	
+00433	Hours exposed to extreme cold (50th Percentile - median)	0	T	63	
+00434	Hours exposed to extreme cold (75th Percentile)	0	T	64	
+00435	Hours exposed to extreme cold (90th Percentile)	0	T	65	
+00436	Percent of workers exposed to extreme cold, mode	0	T	66	
+00437	Percent of workers not exposed to extreme heat	0	T	95	
+00450	Percent of workers exposed to extreme heat, mode	0	T	87	
+00451	Percent of workers not exposed to wetness	0	T	116	
+00452	Percent of workers exposed to wetness, seldom	0	T	117	
+00453	Percent of workers exposed to wetness, occasionally	0	T	118	
+00454	Percent of workers exposed to wetness, frequently	0	T	119	
+00455	Percent of workers exposed to wetness, constantly	0	T	120	
+00458	Hours exposed to wetness, mean	0	T	102	
+00459	Hours exposed to wetness (10th Percentile)	0	T	103	
+00460	Hours exposed to wetness (25th Percentile)	0	T	104	
+00461	Hours exposed to wetness (50th Percentile - median)	0	T	105	
+00462	Hours exposed to wetness (75th Percentile)	0	T	106	
+00463	Hours exposed to wetness (90th Percentile)	0	T	107	
+00464	Percent of workers exposed to wetness, mode	0	T	108	
+00465	Percent of workers not exposed to humidity	0	T	137	
+00478	Percent of workers exposed to humidity, mode	0	T	129	
+00479	Percent of workers not exposed to heavy vibrations	0	T	158	
+00481	Percent of workers exposed to heavy vibrations, occasionally	0	T	160	
+00492	Percent of workers exposed to heavy vibrations, mode	0	T	150	
+00520	Percent of workers not exposed to high, exposed places	0	T	181	
+00521	Percent of workers exposed to high, exposed places, seldom	0	T	182	
+00522	Percent of workers exposed to high, exposed places, occasionally	0	T	183	
+00531	Hours exposed to high, exposed places (75th Percentile)	0	T	169	
+00533	Percent of workers exposed to high, exposed places, mode	0	T	171	
+00534	Percent of workers not in proximity to moving mechanical parts	0	T	205	
+00538	Percent of workers in proximity to moving mechanical parts, constantly	0	T	209	
+00547	Percent of workers in proximity to moving mechanical parts, mode	0	T	195	
+00548	Percent of workers where near visual acuity is required	0	T	666	
+00549	Percent of workers where near visual acuity is not required	0	T	667	
+00551	Percent of workers where far visual acuity is required	0	T	670	
+00552	Percent of workers where far visual acuity is not required	0	T	671	
+00554	Percent of workers where peripheral vision is required	0	T	674	
+00555	Percent of workers where peripheral vision is not required	0	T	675	
+00559	Percent of workers where communicating verbally is required, occasionally	0	T	693	
+00560	Percent of workers where communicating verbally is required, frequently	0	T	694	
+00561	Percent of workers where communicating verbally is required, constantly	0	T	695	
+00564	Hours of communicating verbally, mean	0	T	677	
+00565	Hours of communicating verbally (10th Percentile)	0	T	678	
+00566	Hours of communicating verbally (25th Percentile)	0	T	679	
+00567	Hours of communicating verbally (50th Percentile - median)	0	T	680	
+00568	Hours of communicating verbally (75th Percentile)	0	T	681	
+00569	Hours of communicating verbally (90th Percentile)	0	T	682	
+00570	Percent of workers where communicating verbally, mode	0	T	683	
+00571	Percent of workers exposed to quiet noise intensity level	0	T	216	
+00572	Percent of workers exposed to moderate noise intensity level	0	T	217	
+00573	Percent of workers exposed to loud noise intensity level	0	T	218	
+00574	Percent of workers exposed to very loud noise intensity level	0	T	219	
+00576	Percent of workers exposed to noise intensity level, mode	0	T	213	
+00577	Percent of workers where hearing one-on-one is required	0	T	699	
+00578	Percent of workers where hearing one-on-one is not required	0	T	700	
+00580	Percent of workers where hearing in a group/conference is required	0	T	703	
+00581	Percent of workers where hearing in a group/conference is not required	0	T	704	
+00583	Percent of workers where hearing over the telephone is required	0	T	707	
+00584	Percent of workers where hearing over the telephone is not required	0	T	708	
+00586	Percent of workers where hearing other sounds is required	0	T	711	
+00587	Percent of workers where hearing other sounds is not required	0	T	712	
+00589	Percent of workers where hearing requirements: pass a hearing test is required	0	T	715	
+00590	Percent of workers where hearing requirements: pass a hearing test is not required	0	T	716	
+00592	Percent of workers where crouching is not required	0	T	732	
+00593	Percent of workers where crouching is required, seldom	0	T	733	
+00594	Percent of workers where crouching is required, occasionally	0	T	734	
+00599	Hours of crouching, mean	0	T	718	
+00600	Hours of crouching (10th Percentile)	0	T	719	
+00601	Hours of crouching (25th Percentile)	0	T	720	
+00602	Hours of crouching (50th Percentile - median)	0	T	721	
+00603	Hours of crouching (75th Percentile)	0	T	722	
+00604	Hours of crouching (90th Percentile)	0	T	723	
+00605	Percent of workers where crouching, mode	0	T	724	
+00606	Percent of workers where pushing/pulling is required, one hand/arm	0	T	739	
+00607	Percent of workers where pushing/pulling is required, both hands/arms	0	T	740	
+00609	Percent of workers where pushing/pulling is required, one foot/leg	0	T	743	
+00610	Percent of workers where pushing/pulling is required, both feet/legs	0	T	744	
+00612	Percent of workers not exposed to outdoors	0	T	236	
+00613	Percent of workers exposed to outdoors, seldom	0	T	237	
+00614	Percent of workers exposed to outdoors, occasionally	0	T	238	
+00615	Percent of workers exposed to outdoors, frequently	0	T	239	
+00616	Percent of workers exposed to outdoors, constantly	0	T	240	
+00619	Hours exposed to outdoors, mean	0	T	222	
+00620	Hours exposed to outdoors (10th Percentile)	0	T	223	
+00621	Hours exposed to outdoors (25th Percentile)	0	T	224	
+00622	Hours exposed to outdoors (50th Percentile - median)	0	T	225	
+00623	Hours exposed to outdoors (75th Percentile)	0	T	226	
+00624	Hours exposed to outdoors (90th Percentile)	0	T	227	
+00625	Percent of workers exposed to outdoors, mode	0	T	228	
+00626	Days of associates degree time, mean	0	T	887	
+00627	Days of associates degree time (10th Percentile)	0	T	888	
+00628	Days of associates degree time (25th Percentile)	0	T	889	
+00629	Days of associates degree time (50th Percentile - median)	0	T	890	
+00630	Days of associates degree time (75th Percentile)	0	T	891	
+00631	Days of associates degree time (90th Percentile)	0	T	892	
+00632	Days of vocational associates degree time, mean	0	T	893	
+00633	Days of vocational associates degree time (10th Percentile)	0	T	894	
+00634	Days of vocational associates degree time (25th Percentile)	0	T	895	
+00635	Days of vocational associates degree time (50th Percentile - median)	0	T	896	
+00636	Days of vocational associates degree time (75th Percentile)	0	T	897	
+00637	Days of vocational associates degree time (90th Percentile)	0	T	898	
+00638	Days of high school vocational time, mean	0	T	899	
+00640	Days of high school vocational time (25th Percentile)	0	T	901	
+00642	Days of high school vocational time (75th Percentile)	0	T	903	
+00643	Days of high school vocational time (90th Percentile)	0	T	904	
+00644	Percent of workers where pushing/pulling with feet only is not required	0	T	761	
+00648	Percent of workers where pushing/pulling with feet only is required, constantly	0	T	765	
+00657	Percent of workers where pushing/pulling with feet only, mode	0	T	753	
+00658	Percent of workers where pushing/pulling with feet only is required, one foot	0	T	768	
+00659	Percent of workers where pushing/pulling with feet only is required, both feet	0	T	769	
+00661	Percent of workers where strength is required, sedentary	0	T	773	
+00662	Percent of workers where strength is light work	0	T	774	
+00663	Percent of workers where strength is medium work	0	T	775	
+00664	Percent of workers where strength is heavy work	0	T	776	
+00665	Percent of workers where strength is very heavy work	0	T	777	
+00666	Percent of workers where strength, mode	0	T	772	
+00667	Percent of workers where literacy requirement, mode	0	T	833	
+00668	Percent of workers where pre-employment training requirement, mode	0	T	840	
+00669	Percent of workers where prior work experience requirement, mode	0	T	850	
+00670	Percent of workers where post-employment training requirement, mode	0	T	860	
+00671	Percent of workers where sitting vs. standing/walking at will, mode	0	T	265	
+00672	Percent of workers where reaching overhead with one or both hands, mode	0	T	293	
+00673	Percent of workers where reaching at/below the shoulder with one or both hands, mode	0	T	318	
+00674	Percent of workers where driving, mode	0	T	494	
+00675	Percent of workers where foot/leg controls with one or both feet/legs, mode	0	T	524	
+00676	Percent of workers where gross manipulation with one or both hands, mode	0	T	549	
+00677	Percent of workers where fine manipulation with one or both hands, mode	0	T	574	
+00678	Percent of workers where climbing ramps or stairs (structure-related), mode	0	T	575	
+00679	Percent of workers where near visual acuity, mode	0	T	665	
+00680	Percent of workers where far visual acuity, mode	0	T	669	
+00681	Percent of workers where peripheral vision, mode	0	T	673	
+00682	Percent of workers where hearing one-on-one, mode	0	T	698	
+00683	Percent of workers where hearing in a group/conference, mode	0	T	702	
+00684	Percent of workers where hearing over the telephone, mode	0	T	706	
+00685	Percent of workers where hearing other sounds, mode	0	T	710	
+00686	Percent of workers where hearing requirements: pass a hearing test, mode	0	T	714	
+00687	Percent of workers where pushing/pulling with one or both hands/arms, mode	0	T	742	
+00688	Percent of workers where pushing/pulling with one or both feet/legs, mode	0	T	746	
+00689	Percent of workers where pushing/pulling with one or both feet only, mode	0	T	771	
+00728	Percent of workers where type of contact with other contacts is not applicable	0	T	51	
+00732	Percent of workers where adaptability with work location rarely or never changes	0	T	2	
+00733	Percent of workers where adaptability with work location sometimes changes	0	T	3	
+00734	Percent of workers where adaptability with work location often changes	0	T	4	
+00735	Percent of workers where adaptability with work location always changes	0	T	5	
+00737	Percent of workers where adaptability with work location, mode	0	T	1	
+00738	Percent of workers where adaptability with work schedule rarely or never changes	0	T	7	
+00739	Percent of workers where adaptability with work schedule sometimes changes	0	T	8	
+00740	Percent of workers where adaptability with work schedule often changes	0	T	9	
+00741	Percent of workers where adaptability with work schedule always changes	0	T	10	
+00743	Percent of workers where adaptability with work schedule, mode	0	T	6	
+00744	Percent of workers where adaptability with work tasks rarely or never changes	0	T	12	
+00745	Percent of workers where adaptability with work tasks sometimes changes	0	T	13	
+00746	Percent of workers where adaptability with work tasks often changes	0	T	14	
+00747	Percent of workers where adaptability with work tasks always changes	0	T	15	
+00749	Percent of workers where adaptability with work tasks, mode	0	T	11	
+00750	Percent of workers where any keyboarding is required	0	T	663	
+00751	Percent of workers where climbing ladders, ropes, or scaffolds is required	0	T	607	
+00752	Percent of workers where climbing ramps or stairs (work-related) is required	0	T	586	
+00753	Percent of workers where communicating verbally is required	0	T	684	
+00754	Percent of workers where control of work pace is work-driven	0	T	58	
+00755	Percent of workers where control of work pace is worker-driven	0	T	59	
+00757	Percent of workers where control of work pace, mode	0	T	57	
+00758	Percent of workers where crawling is required	0	T	438	
+00759	Percent of workers where crouching is required	0	T	725	
+00760	Percent of workers where decision-making is little or no decision-making	0	T	17	
+00761	Percent of workers where decision-making is straightforward decisions from set choices	0	T	18	
+00762	Percent of workers where decision-making is assessing situations and possible outcomes	0	T	19	
+00763	Percent of workers where decision-making is assessing uncertain or conflicting situations	0	T	20	
+00765	Percent of workers where decision-making, mode	0	T	16	
+00766	Percent of workers where driving is required	0	T	495	
+00767	Percent of workers exposed to extreme cold	0	T	67	
+00768	Percent of workers exposed to extreme heat	0	T	88	
+00769	Percent of workers where fine manipulation is required	0	T	557	
+00770	Percent of workers where foot/leg controls is required	0	T	507	
+00771	Percent of workers where gross manipulation is required	0	T	532	
+00772	Percent of workers not exposed to hazardous contaminants	0	T	259	
+00785	Percent of workers exposed to hazardous contaminants, mode	0	T	249	
+00786	Percent of workers exposed to hazardous contaminants	0	T	250	
+00787	Percent of workers exposed to hazardous contaminants, fully mitigated	0	T	264	
+00788	Percent of workers that utilize personal protective equipment for hazardous contaminants	0	T	251	
+00789	Percent of workers that do not utilize personal protective equipment for hazardous contaminants	0	T	252	
+00791	Percent of workers exposed to heavy vibrations	0	T	151	
+00792	Percent of workers exposed to high, exposed places	0	T	172	
+00793	Percent of workers exposed to high, exposed places, fully mitigated	0	T	188	
+00794	Percent of workers that utilize personal protective equipment for high, exposed places	0	T	173	
+00795	Percent of workers that do not utilize personal protective equipment for high, exposed places	0	T	174	
+00797	Percent of workers exposed to humidity	0	T	130	
+00798	Percent of workers where 10-key pad keyboarding is required	0	T	368	
+00799	Percent of workers where other keyboarding is required	0	T	389	
+00800	Percent of workers where touchpad keyboarding is required	0	T	347	
+00801	Percent of workers where traditional keyboarding is required	0	T	326	
+00802	Percent of workers where kneeling is required	0	T	649	
+00803	Percent of workers where minimum education level is a high school vocational degree	0	T	884	
+00804	Percent of workers where minimum education level is an associate's vocational degree	0	T	885	
+00806	Percent of workers that utilize personal protective equipment for noise intensity level	0	T	214	
+00807	Percent of workers that do not utilize personal protective equipment for noise intensity level	0	T	215	
+00809	Percent of workers where frequency of contact with other contacts is ongoing	0	T	22	
+00810	Percent of workers where frequency of contact with other contacts is several times an hour	0	T	23	
+00811	Percent of workers where frequency of contact with other contacts is hourly or semi-hourly	0	T	24	
+00812	Percent of workers where frequency of contact with other contacts is daily or less	0	T	25	
+00814	Percent of workers where frequency of contact with other contacts, mode	0	T	21	
+00815	Percent of workers exposed to outdoors	0	T	229	
+00816	Percent of workers where pace of work is slow pace	0	T	27	
+00817	Percent of workers where pace of work is moderate pace	0	T	28	
+00818	Percent of workers where pace of work is fast pace	0	T	29	
+00819	Percent of workers where pace of work is variable pace	0	T	30	
+00821	Percent of workers where pace of work, mode	0	T	26	
+00822	Percent of workers in proximity to moving mechanical parts	0	T	196	
+00823	Percent of workers in proximity to moving mechanical parts, fully mitigated	0	T	212	
+00824	Percent of workers that utilize personal protective equipment for proximity to moving mechanical parts	0	T	197	
+00825	Percent of workers that do not utilize personal protective equipment for proximity to moving mechanical parts	0	T	198	
+00827	Percent of workers where pushing/pulling with feet only is required	0	T	754	
+00828	Percent of workers where pushing/pulling with feet/legs is required	0	T	480	
+00829	Percent of workers where pushing/pulling with hands/arms is required	0	T	459	
+00830	Percent of workers where reaching at/below the shoulder is required	0	T	301	
+00831	Percent of workers where reaching overhead is required	0	T	276	
+00832	Percent of workers where frequency of contact with regular contacts is ongoing	0	T	40	
+00833	Percent of workers where frequency of contact with regular contacts is several times an hour	0	T	41	
+00834	Percent of workers where frequency of contact with regular contacts is hourly or semi-hourly	0	T	42	
+00835	Percent of workers where frequency of contact with regular contacts is daily or less	0	T	43	
+00837	Percent of workers where frequency of contact with regular contacts, mode	0	T	39	
+00838	Percent of workers where stooping is required	0	T	628	
+00839	Percent of workers where supervision is detailed instruction and frequent review	0	T	53	
+00840	Percent of workers where supervision is detailed instruction and review of quality for completed assignments	0	T	54	
+00841	Percent of workers where supervision is general instruction and review of broad work objectives	0	T	55	
+00842	Percent of workers where supervision is broad objectives provided and review of results only	0	T	56	
+00844	Percent of workers where supervision, mode	0	T	52	
+00845	Percent of workers exposed to wetness	0	T	109	
+00853	Percent of day where climbing ladders, ropes, or scaffolds is required, mean	0	T	608	
+00855	Percent of day where climbing ladders, ropes, or scaffolds is required (25th Percentile)	0	T	610	
+00856	Percent of day where climbing ladders, ropes, or scaffolds is required (50th Percentile - median)	0	T	611	
+00857	Percent of day where climbing ladders, ropes, or scaffolds is required (75th Percentile)	0	T	612	
+00858	Percent of day where climbing ladders, ropes, or scaffolds is required (90th Percentile)	0	T	613	
+00859	Percent of day where climbing ramps or stairs (work-related) is required, mean	0	T	587	
+00860	Percent of day where climbing ramps or stairs (work-related) is required (10th Percentile)	0	T	588	
+00861	Percent of day where climbing ramps or stairs (work-related) is required (25th Percentile)	0	T	589	
+00862	Percent of day where climbing ramps or stairs (work-related) is required (50th Percentile - median)	0	T	590	
+00863	Percent of day where climbing ramps or stairs (work-related) is required (75th Percentile)	0	T	591	
+00864	Percent of day where climbing ramps or stairs (work-related) is required (90th Percentile)	0	T	592	
+00865	Percent of day where communicating verbally is required, mean	0	T	685	
+00866	Percent of day where communicating verbally is required (10th Percentile)	0	T	686	
+00867	Percent of day where communicating verbally is required (25th Percentile)	0	T	687	
+00868	Percent of day where communicating verbally is required (50th Percentile - median)	0	T	688	
+00869	Percent of day where communicating verbally is required (75th Percentile)	0	T	689	
+00870	Percent of day where communicating verbally is required (90th Percentile)	0	T	690	
+00871	Percent of day where crawling is required, mean	0	T	439	
+00872	Percent of day where crawling is required (10th Percentile)	0	T	440	
+00873	Percent of day where crawling is required (25th Percentile)	0	T	441	
+00874	Percent of day where crawling is required (50th Percentile - median)	0	T	442	
+00875	Percent of day where crawling is required (75th Percentile)	0	T	443	
+00876	Percent of day where crawling is required (90th Percentile)	0	T	444	
+00877	Percent of day where crouching is required, mean	0	T	726	
+00878	Percent of day where crouching is required (10th Percentile)	0	T	727	
+00879	Percent of day where crouching is required (25th Percentile)	0	T	728	
+00880	Percent of day where crouching is required (50th Percentile - median)	0	T	729	
+00881	Percent of day where crouching is required (75th Percentile)	0	T	730	
+00882	Percent of day where crouching is required (90th Percentile)	0	T	731	
+00887	Percent of day exposed to high, exposed places (75th Percentile)	0	T	179	
+00889	Percent of day exposed to extreme cold, mean	0	T	68	
+00890	Percent of day exposed to extreme cold (10th Percentile)	0	T	69	
+00891	Percent of day exposed to extreme cold (25th Percentile)	0	T	70	
+00892	Percent of day exposed to extreme cold (50th Percentile - median)	0	T	71	
+00893	Percent of day exposed to extreme cold (75th Percentile)	0	T	72	
+00894	Percent of day exposed to extreme cold (90th Percentile)	0	T	73	
+00901	Percent of day where fine manipulation is required, mean	0	T	558	
+00902	Percent of day where fine manipulation is required (10th Percentile)	0	T	559	
+00903	Percent of day where fine manipulation is required (25th Percentile)	0	T	560	
+00904	Percent of day where fine manipulation is required (50th Percentile - median)	0	T	561	
+00905	Percent of day where fine manipulation is required (75th Percentile)	0	T	562	
+00906	Percent of day where fine manipulation is required (90th Percentile)	0	T	563	
+00907	Percent of day where foot/leg controls is required, mean	0	T	508	
+00908	Percent of day where foot/leg controls is required (10th Percentile)	0	T	509	
+00909	Percent of day where foot/leg controls is required (25th Percentile)	0	T	510	
+00910	Percent of day where foot/leg controls is required (50th Percentile - median)	0	T	511	
+00911	Percent of day where foot/leg controls is required (75th Percentile)	0	T	512	
+00912	Percent of day where foot/leg controls is required (90th Percentile)	0	T	513	
+00913	Percent of day where gross manipulation is required, mean	0	T	533	
+00914	Percent of day where gross manipulation is required (10th Percentile)	0	T	534	
+00915	Percent of day where gross manipulation is required (25th Percentile)	0	T	535	
+00916	Percent of day where gross manipulation is required (50th Percentile - median)	0	T	536	
+00917	Percent of day where gross manipulation is required (75th Percentile)	0	T	537	
+00918	Percent of day where gross manipulation is required (90th Percentile)	0	T	538	
+00925	Percent of day where 10-key pad keyboarding is required, mean	0	T	369	
+00927	Percent of day where 10-key pad keyboarding is required (25th Percentile)	0	T	371	
+00928	Percent of day where 10-key pad keyboarding is required (50th Percentile - median)	0	T	372	
+00929	Percent of day where 10-key pad keyboarding is required (75th Percentile)	0	T	373	
+00930	Percent of day where 10-key pad keyboarding is required (90th Percentile)	0	T	374	
+00937	Percent of day where traditional keyboarding is required, mean	0	T	327	
+00938	Percent of day where traditional keyboarding is required (10th Percentile)	0	T	328	
+00939	Percent of day where traditional keyboarding is required (25th Percentile)	0	T	329	
+00940	Percent of day where traditional keyboarding is required (50th Percentile - median)	0	T	330	
+00941	Percent of day where traditional keyboarding is required (75th Percentile)	0	T	331	
+00942	Percent of day where traditional keyboarding is required (90th Percentile)	0	T	332	
+00943	Percent of day where touchpad keyboarding is required, mean	0	T	348	
+00944	Percent of day where touchpad keyboarding is required (10th Percentile)	0	T	349	
+00945	Percent of day where touchpad keyboarding is required (25th Percentile)	0	T	350	
+00946	Percent of day where touchpad keyboarding is required (50th Percentile - median)	0	T	351	
+00947	Percent of day where touchpad keyboarding is required (75th Percentile)	0	T	352	
+00948	Percent of day where touchpad keyboarding is required (90th Percentile)	0	T	353	
+00949	Percent of day where kneeling is required, mean	0	T	650	
+00950	Percent of day where kneeling is required (10th Percentile)	0	T	651	
+00951	Percent of day where kneeling is required (25th Percentile)	0	T	652	
+00952	Percent of day where kneeling is required (50th Percentile - median)	0	T	653	
+00953	Percent of day where kneeling is required (75th Percentile)	0	T	654	
+00954	Percent of day where kneeling is required (90th Percentile)	0	T	655	
+00961	Percent of day exposed to outdoors, mean	0	T	230	
+00962	Percent of day exposed to outdoors (10th Percentile)	0	T	231	
+00963	Percent of day exposed to outdoors (25th Percentile)	0	T	232	
+00964	Percent of day exposed to outdoors (50th Percentile - median)	0	T	233	
+00965	Percent of day exposed to outdoors (75th Percentile)	0	T	234	
+00966	Percent of day exposed to outdoors (90th Percentile)	0	T	235	
+00973	Percent of day where pushing/pulling with hands/arms is required, mean	0	T	460	
+00974	Percent of day where pushing/pulling with hands/arms is required (10th Percentile)	0	T	461	
+00975	Percent of day where pushing/pulling with hands/arms is required (25th Percentile)	0	T	462	
+00976	Percent of day where pushing/pulling with hands/arms is required (50th Percentile - median)	0	T	463	
+00977	Percent of day where pushing/pulling with hands/arms is required (75th Percentile)	0	T	464	
+00978	Percent of day where pushing/pulling with hands/arms is required (90th Percentile)	0	T	465	
+00979	Percent of day where pushing/pulling with feet/legs is required, mean	0	T	481	
+00980	Percent of day where pushing/pulling with feet/legs is required (10th Percentile)	0	T	482	
+00981	Percent of day where pushing/pulling with feet/legs is required (25th Percentile)	0	T	483	
+00982	Percent of day where pushing/pulling with feet/legs is required (50th Percentile - median)	0	T	484	
+00983	Percent of day where pushing/pulling with feet/legs is required (75th Percentile)	0	T	485	
+00984	Percent of day where pushing/pulling with feet/legs is required (90th Percentile)	0	T	486	
+00985	Percent of day where reaching overhead is required, mean	0	T	277	
+00986	Percent of day where reaching overhead is required (10th Percentile)	0	T	278	
+00987	Percent of day where reaching overhead is required (25th Percentile)	0	T	279	
+00988	Percent of day where reaching overhead is required (50th Percentile - median)	0	T	280	
+00989	Percent of day where reaching overhead is required (75th Percentile)	0	T	281	
+00990	Percent of day where reaching overhead is required (90th Percentile)	0	T	282	
+00991	Percent of day where reaching at/below the shoulder is required, mean	0	T	302	
+00992	Percent of day where reaching at/below the shoulder is required (10th Percentile)	0	T	303	
+00993	Percent of day where reaching at/below the shoulder is required (25th Percentile)	0	T	304	
+00994	Percent of day where reaching at/below the shoulder is required (50th Percentile - median)	0	T	305	
+00995	Percent of day where reaching at/below the shoulder is required (75th Percentile)	0	T	306	
+00996	Percent of day where reaching at/below the shoulder is required (90th Percentile)	0	T	307	
+00997	Percent of day where sitting is required, mean	0	T	806	
+00998	Percent of day where sitting is required (10th Percentile)	0	T	807	
+00999	Percent of day where sitting is required (25th Percentile)	0	T	808	
+01000	Percent of day where sitting is required (50th Percentile - median)	0	T	809	
+01001	Percent of day where sitting is required (75th Percentile)	0	T	810	
+01002	Percent of day where sitting is required (90th Percentile)	0	T	811	
+01003	Percent of day where standing/walking is required, mean	0	T	793	
+01004	Percent of day where standing/walking is required (10th Percentile)	0	T	794	
+01005	Percent of day where standing/walking is required (25th Percentile)	0	T	795	
+01006	Percent of day where standing/walking is required (50th Percentile - median)	0	T	796	
+01007	Percent of day where standing/walking is required (75th Percentile)	0	T	797	
+01008	Percent of day where standing/walking is required (90th Percentile)	0	T	798	
+01009	Percent of day where stooping is required, mean	0	T	629	
+01010	Percent of day where stooping is required (10th Percentile)	0	T	630	
+01011	Percent of day where stooping is required (25th Percentile)	0	T	631	
+01012	Percent of day where stooping is required (50th Percentile - median)	0	T	632	
+01013	Percent of day where stooping is required (75th Percentile)	0	T	633	
+01014	Percent of day where stooping is required (90th Percentile)	0	T	634	
+01021	Percent of day exposed to wetness, mean	0	T	110	
+01022	Percent of day exposed to wetness (10th Percentile)	0	T	111	
+01023	Percent of day exposed to wetness (25th Percentile)	0	T	112	
+01024	Percent of day exposed to wetness (50th Percentile - median)	0	T	113	
+01025	Percent of day exposed to wetness (75th Percentile)	0	T	114	
+01026	Percent of day exposed to wetness (90th Percentile)	0	T	115	
+01027	Percent of workers where any keyboarding is not required	0	T	664	
+01029	Percent of workers where minimum education level is a bachelor's degree	0	T	886	

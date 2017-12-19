@@ -1,0 +1,17 @@
+level_code	level_text	display_level	selectable	sort_sequence
+00	All levels	0	T	1	
+01	Level 01	0	T	2	
+02	Level 02	0	T	3	
+03	Level 03	0	T	4	
+04	Level 04	0	T	5	
+05	Level 05	0	T	6	
+06	Level 06	0	T	7	
+07	Level 07	0	T	8	
+08	Level 08	0	T	9	
+09	Level 09	0	T	10	
+10	Level 10	0	T	11	
+11	Level 11	0	T	12	
+12	Level 12	0	T	13	
+13	Level 13	0	T	14	
+14	Level 14	0	T	15	
+16	Not able to be leveled	0	T	17	

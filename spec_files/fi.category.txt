@@ -1,0 +1,1838 @@
+case_code	category_code	category_text
+0	00X	Ownership-- All	
+0	AAX	Age group-- 15 & under	
+0	ABX	Age group-- 16-17	
+0	ACX	Age group-- 18-19	
+0	ADX	Age group-- 20-24	
+0	AEX	Age group-- 25-34	
+0	AFX	Age group-- 35-44	
+0	AGX	Age group-- 45-54	
+0	AHX	Age group-- 55-64	
+0	AIX	Age group-- 65 & older	
+0	E1X	Event or exposure-- Shooting	
+0	E2X	Event or exposure-- Other homicides	
+0	E3X	Event or exposure-- Self-inflicted injuries	
+0	E4X	Event or exposure-- Other events or exposures	
+0	EAX	Event or exposure-- Contact with objects & equipment	
+0	EBX	Event or exposure-- Struck by object	
+0	ECX	Event or exposure-- Struck by falling object	
+0	EDX	Event or exposure-- Caught in equipment or object	
+0	EEX	Event or exposure-- Caught in running equipment or machinery	
+0	EFX	Event or exposure-- Falls	
+0	EGX	Event or exposure-- Fall to lower level	
+0	EHX	Event or exposure-- Fall from ladder	
+0	EIX	Event or exposure-- Fall from roof	
+0	EJX	Event or exposure-- Fall from scaffold	
+0	EKX	Event or exposure-- Harmful substances or environments	
+0	ELX	Event or exposure-- Contact with current	
+0	EMX	Event or exposure-- Caustic, noxious substances	
+0	ENX	Event or exposure-- Oxygen deficiency	
+0	EOX	Event or exposure-- Transportation incident	
+0	EPX	Event or exposure-- Highway transportation incident	
+0	EQX	Event or exposure-- Collision between vehicles	
+0	ERX	Event or exposure-- Noncollision highway incident	
+0	ESX	Event or exposure-- Nonhighway transportation incident	
+0	ETX	Event or exposure-- Overturned, nonhighway	
+0	EUX	Event or exposure-- Struck by vehicle	
+0	EVX	Event or exposure-- Other transportation incidents	
+0	EWX	Event or exposure-- Aircraft incidents	
+0	EXX	Event or exposure-- Fires & explosions	
+0	EYX	Event or exposure-- Assaults	
+0	EZX	Event or exposure-- Homicides	
+0	GFX	Gender-- Female	
+0	GMX	Gender-- Male	
+0	NAX	Nature-- Intracranial injuries	
+0	NBX	Nature-- Other traumatic injuries	
+0	NCX	Nature-- Internal injuries	
+0	NDX	Nature-- Asphyxiations, suffocations	
+0	NEX	Nature-- Drownings	
+0	NFX	Nature-- Electrocutions	
+0	NGX	Nature-- Poisonings, toxic effects	
+0	NHX	Nature-- Open wounds	
+0	NIX	Nature-- Gunshot wounds	
+0	NJX	Nature-- Burns (heat, chemical, etc.)	
+0	NKX	Nature-- Multiple traumatic injuries	
+0	NLX	Nature-- Intracranial injuries and injuries to internal organs	
+0	O00	Occupation-- Management, Professional, and Related Occupations (11--29)	
+0	O10	Occupation-- Management, Business, and Financial Occupations (11--13)	
+0	O11	Occupation-- Management Occupations	
+0	O13	Occupation-- Business and Financial Operations Occupations	
+0	O15	Occupation-- Computer and Mathematical Occupations	
+0	O17	Occupation-- Architecture and Engineering Occupations	
+0	O19	Occupation-- Life, Physical, and Social Science Occupations	
+0	O20	Occupation-- Professional and Related Occupations (15--29)	
+0	O21	Occupation-- Community and Social Services Occupations	
+0	O23	Occupation-- Legal Occupations	
+0	O25	Occupation-- Education, Training, and Library Occupations	
+0	O27	Occupation-- Arts, Design, Entertainment, Sports, and Media Occupations	
+0	O29	Occupation-- Healthcare Practitioner and Technical Occupations	
+0	O30	Occupation-- Service Occupations (31--39)	
+0	O31	Occupation-- Healthcare Support Occupations	
+0	O33	Occupation-- Protective Service Occupations	
+0	O35	Occupation-- Food Preparation and Serving Related Occupations	
+0	O37	Occupation-- Building and Grounds Cleaning and Maintenance Occupations	
+0	O39	Occupation-- Personal Care and Service Occupations	
+0	O40	Occupation-- Sales and Office Occupations (41--43)	
+0	O41	Occupation-- Sales and Related Occupations	
+0	O43	Occupation-- Office and Administrative Support Occupations	
+0	O44	Occupation-- Natural Resources, Construction, and Maintenance Occupations (45--49)	
+0	O45	Occupation-- Farming, Fishing, and Forestry Occupations	
+0	O47	Occupation-- Construction and Extraction Occupations	
+0	O49	Occupation-- Installation, Maintenance, and Repair Occupations	
+0	O50	Occupation-- Production, Transportation, and Material Moving Occupations (51--53)	
+0	O51	Occupation-- Production Occupations	
+0	O53	Occupation-- Transportation and Material Moving Occupations	
+0	O55	Occupation-- Military Specific Occupations	
+0	PAX	Part-- Head	
+0	PBX	Part-- Trunk	
+0	PCX	Part-- Chest	
+0	PDX	Part-- Back	
+0	PEX	Part-- Neck	
+0	PFX	Part-- Lower extremities	
+0	PGX	Part-- Upper extremities	
+0	PHX	Part-- Body systems	
+0	PIX	Part-- Multiple	
+0	RAX	Race-- White	
+0	RBX	Race-- Black	
+0	RCX	Race-- American Indian, Aleut, Eskimo	
+0	RDX	Race-- Asian	
+0	REX	Race-- Pacific Islander	
+0	RGX	Race-- Multiple	
+0	RHX	Race-- Other or not reported	
+0	RIX	Race-- Hispanic	
+0	SAX	Primary source of injury-- Vehicles	
+0	SBX	Primary source of injury-- Highway vehicles	
+0	SCX	Primary source of injury-- Automobiles	
+0	SDX	Primary source of injury-- Trucks	
+0	SEX	Primary source of injury-- Plant vehicles	
+0	SFX	Primary source of injury-- Forklifts	
+0	SGX	Primary source of injury-- Tractors	
+0	SHX	Primary source of injury-- Structures	
+0	SIX	Primary source of injury-- Floors	
+0	SJX	Primary source of injury-- Machinery	
+0	SKX	Primary source of injury-- Agricultural machinery	
+0	SLX	Primary source of injury-- Construction & mining machinery	
+0	SMX	Primary source of injury-- Material handling machinery	
+0	SNX	Primary source of injury-- Parts & materials	
+0	SOX	Primary source of injury-- Machine, tool, & electric parts	
+0	SPX	Primary source of injury-- Persons, plants, etc.	
+0	SQX	Primary source of injury-- Other persons	
+0	SRX	Primary source of injury-- Robber	
+0	SSX	Primary source of injury-- Co-worker	
+0	STX	Primary source of injury-- Trees, logs	
+0	SUX	Primary source of injury-- Chemicals	
+0	SVX	Primary source of injury-- Tools, instruments, & equipment	
+0	SWX	Primary source of injury-- Containers	
+0	SXX	Primary source of injury-- All other sources	
+0	SYX	Primary source of injury-- Bullets	
+0	SZX	Primary source of injury-- Fire	
+0	TAX	Secondary source of injury-- Vehicles	
+0	TBX	Secondary source of injury-- Highway vehicles	
+0	TCX	Secondary source of injury-- Plant vehicles	
+0	TDX	Secondary source of injury-- Structures & surfaces	
+0	TEX	Secondary source of injury-- Floors	
+0	TFX	Secondary source of injury-- Structures	
+0	TGX	Secondary source of injury-- Machinery	
+0	THX	Secondary source of injury-- Parts & materials	
+0	TIX	Secondary source of injury-- Machine, tool, & electric parts	
+0	TJX	Secondary source of injury-- Persons, plants, etc.	
+0	TKX	Secondary source of injury-- Other persons	
+0	TLX	Secondary source of injury-- Robber	
+0	TMX	Secondary source of injury-- Co-worker	
+0	TNX	Secondary source of injury-- Trees, logs	
+0	TOX	Secondary source of injury-- Chemicals	
+0	TPX	Secondary source of injury-- Tools, instruments, & equipment	
+0	TQX	Secondary source of injury-- Containers	
+0	TRX	Secondary source of injury-- Other sources	
+0	TSX	Secondary source of injury-- Liquids	
+0	TTX	Secondary source of injury-- Not reported	
+0	WAX	Worker status-- Wage and salary	
+0	WBX	Worker status-- Self-employed	
+0	XAX	Worker activity-- Transporting	
+0	XBX	Worker activity-- Tool use	
+0	XCX	Worker activity-- Constructing	
+0	XDX	Worker activity-- Protecting	
+0	XEX	Worker activity-- Handling	
+0	XFX	Worker activity-- Physical	
+0	XGX	Worker activity-- Other	
+0	XHX	Worker activity-- Tending	
+0	XIX	Worker activity-- Not reported	
+0	YAX	Worker location-- Residence	
+0	YBX	Worker location-- Farm	
+0	YCX	Worker location-- Mine	
+0	YDX	Worker location-- Industrial area	
+0	YEX	Worker location-- Recreation area	
+0	YFX	Worker location-- Street	
+0	YGX	Worker location-- Public building	
+0	YHX	Worker location-- Institution	
+0	YIX	Worker location-- Other or not reported	
+1	00X	Ownership-- All	
+1	50X	Ownership-- Private industry	
+1	AAX	Age group-- 15 & under	
+1	ABX	Age group-- 16-17	
+1	ACX	Age group-- 18-19	
+1	ADX	Age group-- 20-24	
+1	AEX	Age group-- 25-34	
+1	AFX	Age group-- 35-44	
+1	AGX	Age group-- 45-54	
+1	AHX	Age group-- 55-64	
+1	AIX	Age group-- 65 & older	
+1	E1X	Event or exposure-- Shooting	
+1	E2X	Event or exposure-- Other homicides	
+1	E3X	Event or exposure-- Self-inflicted injuries	
+1	E4X	Event or exposure-- Other events or exposures	
+1	EAX	Event or exposure-- Contact with objects & equipment	
+1	EBX	Event or exposure-- Struck by object	
+1	ECX	Event or exposure-- Struck by falling object	
+1	EDX	Event or exposure-- Caught in equipment or object	
+1	EEX	Event or exposure-- Caught in running equipment or machinery	
+1	EFX	Event or exposure-- Falls	
+1	EGX	Event or exposure-- Fall to lower level	
+1	EHX	Event or exposure-- Fall from ladder	
+1	EIX	Event or exposure-- Fall from roof	
+1	EJX	Event or exposure-- Fall from scaffold	
+1	EKX	Event or exposure-- Harmful substances or environments	
+1	ELX	Event or exposure-- Contact with current	
+1	EMX	Event or exposure-- Caustic, noxious substances	
+1	ENX	Event or exposure-- Oxygen deficiency	
+1	EOX	Event or exposure-- Transportation incident	
+1	EPX	Event or exposure-- Highway transportation incident	
+1	EQX	Event or exposure-- Collision between vehicles	
+1	ERX	Event or exposure-- Noncollision highway incident	
+1	ESX	Event or exposure-- Nonhighway transportation incident	
+1	ETX	Event or exposure-- Overturned, nonhighway	
+1	EUX	Event or exposure-- Struck by vehicle	
+1	EVX	Event or exposure-- Other transportation incidents	
+1	EWX	Event or exposure-- Aircraft incidents	
+1	EXX	Event or exposure-- Fires & explosions	
+1	EYX	Event or exposure-- Assaults	
+1	EZX	Event or exposure-- Homicides	
+1	GFX	Gender-- Female	
+1	GMX	Gender-- Male	
+1	NAX	Nature-- Intracranial injuries	
+1	NBX	Nature-- Other traumatic injuries	
+1	NCX	Nature-- Internal injuries	
+1	NDX	Nature-- Asphyxiations, suffocations	
+1	NEX	Nature-- Drownings	
+1	NFX	Nature-- Electrocutions	
+1	NGX	Nature-- Poisonings, toxic effects	
+1	NHX	Nature-- Open wounds	
+1	NIX	Nature-- Gunshot wounds	
+1	NJX	Nature-- Burns (heat, chemical, etc.)	
+1	NKX	Nature-- Multiple traumatic injuries	
+1	NLX	Nature-- Intracranial injuries and injuries to internal organs	
+1	O00	Occupation-- Management, Professional, and Related Occupations (11--29)	
+1	O10	Occupation-- Management, Business, and Financial Occupations (11--13)	
+1	O11	Occupation-- Management Occupations	
+1	O13	Occupation-- Business and Financial Operations Occupations	
+1	O15	Occupation-- Computer and Mathematical Occupations	
+1	O17	Occupation-- Architecture and Engineering Occupations	
+1	O19	Occupation-- Life, Physical, and Social Science Occupations	
+1	O20	Occupation-- Professional and Related Occupations (15--29)	
+1	O21	Occupation-- Community and Social Services Occupations	
+1	O23	Occupation-- Legal Occupations	
+1	O25	Occupation-- Education, Training, and Library Occupations	
+1	O27	Occupation-- Arts, Design, Entertainment, Sports, and Media Occupations	
+1	O29	Occupation-- Healthcare Practitioner and Technical Occupations	
+1	O30	Occupation-- Service Occupations (31--39)	
+1	O31	Occupation-- Healthcare Support Occupations	
+1	O33	Occupation-- Protective Service Occupations	
+1	O35	Occupation-- Food Preparation and Serving Related Occupations	
+1	O37	Occupation-- Building and Grounds Cleaning and Maintenance Occupations	
+1	O39	Occupation-- Personal Care and Service Occupations	
+1	O40	Occupation-- Sales and Office Occupations (41--43)	
+1	O41	Occupation-- Sales and Related Occupations	
+1	O43	Occupation-- Office and Administrative Support Occupations	
+1	O44	Occupation-- Natural Resources, Construction, and Maintenance Occupations (45--49)	
+1	O45	Occupation-- Farming, Fishing, and Forestry Occupations	
+1	O47	Occupation-- Construction and Extraction Occupations	
+1	O49	Occupation-- Installation, Maintenance, and Repair Occupations	
+1	O50	Occupation-- Production, Transportation, and Material Moving Occupations (51--53)	
+1	O51	Occupation-- Production Occupations	
+1	O53	Occupation-- Transportation and Material Moving Occupations	
+1	PAX	Part-- Head	
+1	PBX	Part-- Trunk	
+1	PCX	Part-- Chest	
+1	PDX	Part-- Back	
+1	PEX	Part-- Neck	
+1	PFX	Part-- Lower extremities	
+1	PGX	Part-- Upper extremities	
+1	PHX	Part-- Body systems	
+1	PIX	Part-- Multiple	
+1	RAX	Race-- White	
+1	RBX	Race-- Black	
+1	RCX	Race-- American Indian, Aleut, Eskimo	
+1	RDX	Race-- Asian	
+1	REX	Race-- Pacific Islander	
+1	RGX	Race-- Multiple	
+1	RHX	Race-- Other or not reported	
+1	RIX	Race-- Hispanic	
+1	SAX	Primary source of injury-- Vehicles	
+1	SBX	Primary source of injury-- Highway vehicles	
+1	SCX	Primary source of injury-- Automobiles	
+1	SDX	Primary source of injury-- Trucks	
+1	SEX	Primary source of injury-- Plant vehicles	
+1	SFX	Primary source of injury-- Forklifts	
+1	SGX	Primary source of injury-- Tractors	
+1	SHX	Primary source of injury-- Structures	
+1	SIX	Primary source of injury-- Floors	
+1	SJX	Primary source of injury-- Machinery	
+1	SKX	Primary source of injury-- Agricultural machinery	
+1	SLX	Primary source of injury-- Construction & mining machinery	
+1	SMX	Primary source of injury-- Material handling machinery	
+1	SNX	Primary source of injury-- Parts & materials	
+1	SOX	Primary source of injury-- Machine, tool, & electric parts	
+1	SPX	Primary source of injury-- Persons, plants, etc.	
+1	SQX	Primary source of injury-- Other persons	
+1	SRX	Primary source of injury-- Robber	
+1	SSX	Primary source of injury-- Co-worker	
+1	STX	Primary source of injury-- Trees, logs	
+1	SUX	Primary source of injury-- Chemicals	
+1	SVX	Primary source of injury-- Tools, instruments, & equipment	
+1	SWX	Primary source of injury-- Containers	
+1	SXX	Primary source of injury-- All other sources	
+1	SYX	Primary source of injury-- Bullets	
+1	SZX	Primary source of injury-- Fire	
+1	TAX	Secondary source of injury-- Vehicles	
+1	TBX	Secondary source of injury-- Highway vehicles	
+1	TCX	Secondary source of injury-- Plant vehicles	
+1	TDX	Secondary source of injury-- Structures & surfaces	
+1	TEX	Secondary source of injury-- Floors	
+1	TFX	Secondary source of injury-- Structures	
+1	TGX	Secondary source of injury-- Machinery	
+1	THX	Secondary source of injury-- Parts & materials	
+1	TIX	Secondary source of injury-- Machine, tool, & electric parts	
+1	TJX	Secondary source of injury-- Persons, plants, etc.	
+1	TKX	Secondary source of injury-- Other persons	
+1	TLX	Secondary source of injury-- Robber	
+1	TMX	Secondary source of injury-- Co-worker	
+1	TNX	Secondary source of injury-- Trees, logs	
+1	TOX	Secondary source of injury-- Chemicals	
+1	TPX	Secondary source of injury-- Tools, instruments, & equipment	
+1	TQX	Secondary source of injury-- Containers	
+1	TRX	Secondary source of injury-- Other sources	
+1	TSX	Secondary source of injury-- Liquids	
+1	TTX	Secondary source of injury-- Not reported	
+1	WAX	Worker status-- Wage and salary	
+1	WBX	Worker status-- Self-employed	
+1	XAX	Worker activity-- Transporting	
+1	XBX	Worker activity-- Tool use	
+1	XCX	Worker activity-- Constructing	
+1	XDX	Worker activity-- Protecting	
+1	XEX	Worker activity-- Handling	
+1	XFX	Worker activity-- Physical	
+1	XGX	Worker activity-- Other	
+1	XHX	Worker activity-- Tending	
+1	XIX	Worker activity-- Not reported	
+1	YAX	Worker location-- Residence	
+1	YBX	Worker location-- Farm	
+1	YCX	Worker location-- Mine	
+1	YDX	Worker location-- Industrial area	
+1	YEX	Worker location-- Recreation area	
+1	YFX	Worker location-- Street	
+1	YGX	Worker location-- Public building	
+1	YHX	Worker location-- Institution	
+1	YIX	Worker location-- Other or not reported	
+6	00X	Ownership-- All	
+6	10X	Ownership-- Federal government	
+6	ACX	Age group-- 18-19	
+6	ADX	Age group-- 20-24	
+6	AEX	Age group-- 25-34	
+6	AFX	Age group-- 35-44	
+6	AGX	Age group-- 45-54	
+6	AHX	Age group-- 55-64	
+6	AIX	Age group-- 65 & older	
+6	E1X	Event or exposure-- Shooting	
+6	E2X	Event or exposure-- Other homicides	
+6	E3X	Event or exposure-- Self-inflicted injuries	
+6	E4X	Event or exposure-- Other events or exposures	
+6	EAX	Event or exposure-- Contact with objects & equipment	
+6	EBX	Event or exposure-- Struck by object	
+6	ECX	Event or exposure-- Struck by falling object	
+6	EFX	Event or exposure-- Falls	
+6	EGX	Event or exposure-- Fall to lower level	
+6	EKX	Event or exposure-- Harmful substances or environments	
+6	ELX	Event or exposure-- Contact with current	
+6	EMX	Event or exposure-- Caustic, noxious substances	
+6	ENX	Event or exposure-- Oxygen deficiency	
+6	EOX	Event or exposure-- Transportation incident	
+6	EPX	Event or exposure-- Highway transportation incident	
+6	EQX	Event or exposure-- Collision between vehicles	
+6	ERX	Event or exposure-- Noncollision highway incident	
+6	ESX	Event or exposure-- Nonhighway transportation incident	
+6	ETX	Event or exposure-- Overturned, nonhighway	
+6	EUX	Event or exposure-- Struck by vehicle	
+6	EVX	Event or exposure-- Other transportation incidents	
+6	EWX	Event or exposure-- Aircraft incidents	
+6	EXX	Event or exposure-- Fires & explosions	
+6	EYX	Event or exposure-- Assaults	
+6	EZX	Event or exposure-- Homicides	
+6	GFX	Gender-- Female	
+6	GMX	Gender-- Male	
+6	NAX	Nature-- Intracranial injuries	
+6	NBX	Nature-- Other traumatic injuries	
+6	NCX	Nature-- Internal injuries	
+6	NDX	Nature-- Asphyxiations, suffocations	
+6	NEX	Nature-- Drownings	
+6	NFX	Nature-- Electrocutions	
+6	NGX	Nature-- Poisonings, toxic effects	
+6	NHX	Nature-- Open wounds	
+6	NIX	Nature-- Gunshot wounds	
+6	NJX	Nature-- Burns (heat, chemical, etc.)	
+6	NKX	Nature-- Multiple traumatic injuries	
+6	NLX	Nature-- Intracranial injuries and injuries to internal organs	
+6	O00	Occupation-- Management, Professional, and Related Occupations (11--29)	
+6	O10	Occupation-- Management, Business, and Financial Occupations (11--13)	
+6	O11	Occupation-- Management Occupations	
+6	O13	Occupation-- Business and Financial Operations Occupations	
+6	O15	Occupation-- Computer and Mathematical Occupations	
+6	O17	Occupation-- Architecture and Engineering Occupations	
+6	O19	Occupation-- Life, Physical, and Social Science Occupations	
+6	O20	Occupation-- Professional and Related Occupations (15--29)	
+6	O21	Occupation-- Community and Social Services Occupations	
+6	O29	Occupation-- Healthcare Practitioner and Technical Occupations	
+6	O30	Occupation-- Service Occupations (31--39)	
+6	O33	Occupation-- Protective Service Occupations	
+6	O37	Occupation-- Building and Grounds Cleaning and Maintenance Occupations	
+6	O40	Occupation-- Sales and Office Occupations (41--43)	
+6	O43	Occupation-- Office and Administrative Support Occupations	
+6	O44	Occupation-- Natural Resources, Construction, and Maintenance Occupations (45--49)	
+6	O49	Occupation-- Installation, Maintenance, and Repair Occupations	
+6	O50	Occupation-- Production, Transportation, and Material Moving Occupations (51--53)	
+6	O51	Occupation-- Production Occupations	
+6	O53	Occupation-- Transportation and Material Moving Occupations	
+6	O55	Occupation-- Military Specific Occupations	
+6	PAX	Part-- Head	
+6	PBX	Part-- Trunk	
+6	PCX	Part-- Chest	
+6	PDX	Part-- Back	
+6	PEX	Part-- Neck	
+6	PFX	Part-- Lower extremities	
+6	PHX	Part-- Body systems	
+6	PIX	Part-- Multiple	
+6	RAX	Race-- White	
+6	RBX	Race-- Black	
+6	RDX	Race-- Asian	
+6	RHX	Race-- Other or not reported	
+6	RIX	Race-- Hispanic	
+6	SAX	Primary source of injury-- Vehicles	
+6	SBX	Primary source of injury-- Highway vehicles	
+6	SCX	Primary source of injury-- Automobiles	
+6	SDX	Primary source of injury-- Trucks	
+6	SHX	Primary source of injury-- Structures	
+6	SIX	Primary source of injury-- Floors	
+6	SNX	Primary source of injury-- Parts & materials	
+6	SPX	Primary source of injury-- Persons, plants, etc.	
+6	SUX	Primary source of injury-- Chemicals	
+6	SXX	Primary source of injury-- All other sources	
+6	SYX	Primary source of injury-- Bullets	
+6	SZX	Primary source of injury-- Fire	
+6	TAX	Secondary source of injury-- Vehicles	
+6	TBX	Secondary source of injury-- Highway vehicles	
+6	TDX	Secondary source of injury-- Structures & surfaces	
+6	TEX	Secondary source of injury-- Floors	
+6	TFX	Secondary source of injury-- Structures	
+6	TGX	Secondary source of injury-- Machinery	
+6	THX	Secondary source of injury-- Parts & materials	
+6	TIX	Secondary source of injury-- Machine, tool, & electric parts	
+6	TJX	Secondary source of injury-- Persons, plants, etc.	
+6	TKX	Secondary source of injury-- Other persons	
+6	TMX	Secondary source of injury-- Co-worker	
+6	TNX	Secondary source of injury-- Trees, logs	
+6	TPX	Secondary source of injury-- Tools, instruments, & equipment	
+6	TRX	Secondary source of injury-- Other sources	
+6	TSX	Secondary source of injury-- Liquids	
+6	TTX	Secondary source of injury-- Not reported	
+6	WAX	Worker status-- Wage and salary	
+6	XAX	Worker activity-- Transporting	
+6	XCX	Worker activity-- Constructing	
+6	XDX	Worker activity-- Protecting	
+6	XEX	Worker activity-- Handling	
+6	XFX	Worker activity-- Physical	
+6	XGX	Worker activity-- Other	
+6	XIX	Worker activity-- Not reported	
+6	YAX	Worker location-- Residence	
+6	YBX	Worker location-- Farm	
+6	YDX	Worker location-- Industrial area	
+6	YFX	Worker location-- Street	
+6	YGX	Worker location-- Public building	
+6	YHX	Worker location-- Institution	
+6	YIX	Worker location-- Other or not reported	
+7	00X	Ownership-- All	
+7	20X	Ownership-- State government	
+7	ADX	Age group-- 20-24	
+7	AEX	Age group-- 25-34	
+7	AFX	Age group-- 35-44	
+7	AGX	Age group-- 45-54	
+7	AHX	Age group-- 55-64	
+7	AIX	Age group-- 65 & older	
+7	E1X	Event or exposure-- Shooting	
+7	E2X	Event or exposure-- Other homicides	
+7	E3X	Event or exposure-- Self-inflicted injuries	
+7	EAX	Event or exposure-- Contact with objects & equipment	
+7	EBX	Event or exposure-- Struck by object	
+7	ECX	Event or exposure-- Struck by falling object	
+7	EDX	Event or exposure-- Caught in equipment or object	
+7	EFX	Event or exposure-- Falls	
+7	EGX	Event or exposure-- Fall to lower level	
+7	EKX	Event or exposure-- Harmful substances or environments	
+7	ELX	Event or exposure-- Contact with current	
+7	EMX	Event or exposure-- Caustic, noxious substances	
+7	ENX	Event or exposure-- Oxygen deficiency	
+7	EOX	Event or exposure-- Transportation incident	
+7	EPX	Event or exposure-- Highway transportation incident	
+7	EQX	Event or exposure-- Collision between vehicles	
+7	ERX	Event or exposure-- Noncollision highway incident	
+7	ESX	Event or exposure-- Nonhighway transportation incident	
+7	ETX	Event or exposure-- Overturned, nonhighway	
+7	EUX	Event or exposure-- Struck by vehicle	
+7	EVX	Event or exposure-- Other transportation incidents	
+7	EWX	Event or exposure-- Aircraft incidents	
+7	EYX	Event or exposure-- Assaults	
+7	EZX	Event or exposure-- Homicides	
+7	GFX	Gender-- Female	
+7	GMX	Gender-- Male	
+7	NAX	Nature-- Intracranial injuries	
+7	NBX	Nature-- Other traumatic injuries	
+7	NCX	Nature-- Internal injuries	
+7	NDX	Nature-- Asphyxiations, suffocations	
+7	NEX	Nature-- Drownings	
+7	NFX	Nature-- Electrocutions	
+7	NGX	Nature-- Poisonings, toxic effects	
+7	NHX	Nature-- Open wounds	
+7	NIX	Nature-- Gunshot wounds	
+7	NKX	Nature-- Multiple traumatic injuries	
+7	NLX	Nature-- Intracranial injuries and injuries to internal organs	
+7	O00	Occupation-- Management, Professional, and Related Occupations (11--29)	
+7	O10	Occupation-- Management, Business, and Financial Occupations (11--13)	
+7	O11	Occupation-- Management Occupations	
+7	O13	Occupation-- Business and Financial Operations Occupations	
+7	O17	Occupation-- Architecture and Engineering Occupations	
+7	O19	Occupation-- Life, Physical, and Social Science Occupations	
+7	O20	Occupation-- Professional and Related Occupations (15--29)	
+7	O21	Occupation-- Community and Social Services Occupations	
+7	O25	Occupation-- Education, Training, and Library Occupations	
+7	O29	Occupation-- Healthcare Practitioner and Technical Occupations	
+7	O30	Occupation-- Service Occupations (31--39)	
+7	O33	Occupation-- Protective Service Occupations	
+7	O37	Occupation-- Building and Grounds Cleaning and Maintenance Occupations	
+7	O39	Occupation-- Personal Care and Service Occupations	
+7	O40	Occupation-- Sales and Office Occupations (41--43)	
+7	O43	Occupation-- Office and Administrative Support Occupations	
+7	O44	Occupation-- Natural Resources, Construction, and Maintenance Occupations (45--49)	
+7	O45	Occupation-- Farming, Fishing, and Forestry Occupations	
+7	O47	Occupation-- Construction and Extraction Occupations	
+7	O49	Occupation-- Installation, Maintenance, and Repair Occupations	
+7	O50	Occupation-- Production, Transportation, and Material Moving Occupations (51--53)	
+7	O51	Occupation-- Production Occupations	
+7	O53	Occupation-- Transportation and Material Moving Occupations	
+7	PAX	Part-- Head	
+7	PBX	Part-- Trunk	
+7	PCX	Part-- Chest	
+7	PDX	Part-- Back	
+7	PEX	Part-- Neck	
+7	PFX	Part-- Lower extremities	
+7	PHX	Part-- Body systems	
+7	PIX	Part-- Multiple	
+7	RAX	Race-- White	
+7	RBX	Race-- Black	
+7	RDX	Race-- Asian	
+7	RIX	Race-- Hispanic	
+7	SAX	Primary source of injury-- Vehicles	
+7	SBX	Primary source of injury-- Highway vehicles	
+7	SCX	Primary source of injury-- Automobiles	
+7	SDX	Primary source of injury-- Trucks	
+7	SHX	Primary source of injury-- Structures	
+7	SIX	Primary source of injury-- Floors	
+7	SJX	Primary source of injury-- Machinery	
+7	SLX	Primary source of injury-- Construction & mining machinery	
+7	SNX	Primary source of injury-- Parts & materials	
+7	SPX	Primary source of injury-- Persons, plants, etc.	
+7	SQX	Primary source of injury-- Other persons	
+7	STX	Primary source of injury-- Trees, logs	
+7	SUX	Primary source of injury-- Chemicals	
+7	SVX	Primary source of injury-- Tools, instruments, & equipment	
+7	SXX	Primary source of injury-- All other sources	
+7	SYX	Primary source of injury-- Bullets	
+7	TAX	Secondary source of injury-- Vehicles	
+7	TBX	Secondary source of injury-- Highway vehicles	
+7	TDX	Secondary source of injury-- Structures & surfaces	
+7	TEX	Secondary source of injury-- Floors	
+7	TFX	Secondary source of injury-- Structures	
+7	TGX	Secondary source of injury-- Machinery	
+7	THX	Secondary source of injury-- Parts & materials	
+7	TIX	Secondary source of injury-- Machine, tool, & electric parts	
+7	TJX	Secondary source of injury-- Persons, plants, etc.	
+7	TKX	Secondary source of injury-- Other persons	
+7	TNX	Secondary source of injury-- Trees, logs	
+7	TPX	Secondary source of injury-- Tools, instruments, & equipment	
+7	TRX	Secondary source of injury-- Other sources	
+7	TTX	Secondary source of injury-- Not reported	
+7	WAX	Worker status-- Wage and salary	
+7	XAX	Worker activity-- Transporting	
+7	XBX	Worker activity-- Tool use	
+7	XCX	Worker activity-- Constructing	
+7	XDX	Worker activity-- Protecting	
+7	XEX	Worker activity-- Handling	
+7	XFX	Worker activity-- Physical	
+7	XGX	Worker activity-- Other	
+7	XIX	Worker activity-- Not reported	
+7	YAX	Worker location-- Residence	
+7	YBX	Worker location-- Farm	
+7	YDX	Worker location-- Industrial area	
+7	YEX	Worker location-- Recreation area	
+7	YFX	Worker location-- Street	
+7	YGX	Worker location-- Public building	
+7	YHX	Worker location-- Institution	
+7	YIX	Worker location-- Other or not reported	
+8	00X	Ownership-- All	
+8	30X	Ownership-- Local government	
+8	ACX	Age group-- 18-19	
+8	ADX	Age group-- 20-24	
+8	AEX	Age group-- 25-34	
+8	AFX	Age group-- 35-44	
+8	AGX	Age group-- 45-54	
+8	AHX	Age group-- 55-64	
+8	AIX	Age group-- 65 & older	
+8	E1X	Event or exposure-- Shooting	
+8	E2X	Event or exposure-- Other homicides	
+8	E3X	Event or exposure-- Self-inflicted injuries	
+8	E4X	Event or exposure-- Other events or exposures	
+8	EAX	Event or exposure-- Contact with objects & equipment	
+8	EBX	Event or exposure-- Struck by object	
+8	ECX	Event or exposure-- Struck by falling object	
+8	EDX	Event or exposure-- Caught in equipment or object	
+8	EEX	Event or exposure-- Caught in running equipment or machinery	
+8	EFX	Event or exposure-- Falls	
+8	EGX	Event or exposure-- Fall to lower level	
+8	EHX	Event or exposure-- Fall from ladder	
+8	EIX	Event or exposure-- Fall from roof	
+8	EKX	Event or exposure-- Harmful substances or environments	
+8	ELX	Event or exposure-- Contact with current	
+8	EMX	Event or exposure-- Caustic, noxious substances	
+8	ENX	Event or exposure-- Oxygen deficiency	
+8	EOX	Event or exposure-- Transportation incident	
+8	EPX	Event or exposure-- Highway transportation incident	
+8	EQX	Event or exposure-- Collision between vehicles	
+8	ERX	Event or exposure-- Noncollision highway incident	
+8	ESX	Event or exposure-- Nonhighway transportation incident	
+8	ETX	Event or exposure-- Overturned, nonhighway	
+8	EUX	Event or exposure-- Struck by vehicle	
+8	EVX	Event or exposure-- Other transportation incidents	
+8	EWX	Event or exposure-- Aircraft incidents	
+8	EXX	Event or exposure-- Fires & explosions	
+8	EYX	Event or exposure-- Assaults	
+8	EZX	Event or exposure-- Homicides	
+8	GFX	Gender-- Female	
+8	GMX	Gender-- Male	
+8	NAX	Nature-- Intracranial injuries	
+8	NBX	Nature-- Other traumatic injuries	
+8	NCX	Nature-- Internal injuries	
+8	NDX	Nature-- Asphyxiations, suffocations	
+8	NEX	Nature-- Drownings	
+8	NFX	Nature-- Electrocutions	
+8	NGX	Nature-- Poisonings, toxic effects	
+8	NHX	Nature-- Open wounds	
+8	NIX	Nature-- Gunshot wounds	
+8	NJX	Nature-- Burns (heat, chemical, etc.)	
+8	NKX	Nature-- Multiple traumatic injuries	
+8	NLX	Nature-- Intracranial injuries and injuries to internal organs	
+8	O00	Occupation-- Management, Professional, and Related Occupations (11--29)	
+8	O10	Occupation-- Management, Business, and Financial Occupations (11--13)	
+8	O11	Occupation-- Management Occupations	
+8	O13	Occupation-- Business and Financial Operations Occupations	
+8	O17	Occupation-- Architecture and Engineering Occupations	
+8	O19	Occupation-- Life, Physical, and Social Science Occupations	
+8	O20	Occupation-- Professional and Related Occupations (15--29)	
+8	O21	Occupation-- Community and Social Services Occupations	
+8	O23	Occupation-- Legal Occupations	
+8	O25	Occupation-- Education, Training, and Library Occupations	
+8	O27	Occupation-- Arts, Design, Entertainment, Sports, and Media Occupations	
+8	O29	Occupation-- Healthcare Practitioner and Technical Occupations	
+8	O30	Occupation-- Service Occupations (31--39)	
+8	O31	Occupation-- Healthcare Support Occupations	
+8	O33	Occupation-- Protective Service Occupations	
+8	O35	Occupation-- Food Preparation and Serving Related Occupations	
+8	O37	Occupation-- Building and Grounds Cleaning and Maintenance Occupations	
+8	O39	Occupation-- Personal Care and Service Occupations	
+8	O40	Occupation-- Sales and Office Occupations (41--43)	
+8	O43	Occupation-- Office and Administrative Support Occupations	
+8	O44	Occupation-- Natural Resources, Construction, and Maintenance Occupations (45--49)	
+8	O45	Occupation-- Farming, Fishing, and Forestry Occupations	
+8	O47	Occupation-- Construction and Extraction Occupations	
+8	O49	Occupation-- Installation, Maintenance, and Repair Occupations	
+8	O50	Occupation-- Production, Transportation, and Material Moving Occupations (51--53)	
+8	O51	Occupation-- Production Occupations	
+8	O53	Occupation-- Transportation and Material Moving Occupations	
+8	PAX	Part-- Head	
+8	PBX	Part-- Trunk	
+8	PCX	Part-- Chest	
+8	PDX	Part-- Back	
+8	PEX	Part-- Neck	
+8	PFX	Part-- Lower extremities	
+8	PGX	Part-- Upper extremities	
+8	PHX	Part-- Body systems	
+8	PIX	Part-- Multiple	
+8	RAX	Race-- White	
+8	RBX	Race-- Black	
+8	RCX	Race-- American Indian, Aleut, Eskimo	
+8	RDX	Race-- Asian	
+8	RIX	Race-- Hispanic	
+8	SAX	Primary source of injury-- Vehicles	
+8	SBX	Primary source of injury-- Highway vehicles	
+8	SCX	Primary source of injury-- Automobiles	
+8	SDX	Primary source of injury-- Trucks	
+8	SEX	Primary source of injury-- Plant vehicles	
+8	SGX	Primary source of injury-- Tractors	
+8	SHX	Primary source of injury-- Structures	
+8	SIX	Primary source of injury-- Floors	
+8	SJX	Primary source of injury-- Machinery	
+8	SKX	Primary source of injury-- Agricultural machinery	
+8	SLX	Primary source of injury-- Construction & mining machinery	
+8	SMX	Primary source of injury-- Material handling machinery	
+8	SNX	Primary source of injury-- Parts & materials	
+8	SOX	Primary source of injury-- Machine, tool, & electric parts	
+8	SPX	Primary source of injury-- Persons, plants, etc.	
+8	SQX	Primary source of injury-- Other persons	
+8	SSX	Primary source of injury-- Co-worker	
+8	STX	Primary source of injury-- Trees, logs	
+8	SUX	Primary source of injury-- Chemicals	
+8	SVX	Primary source of injury-- Tools, instruments, & equipment	
+8	SWX	Primary source of injury-- Containers	
+8	SXX	Primary source of injury-- All other sources	
+8	SYX	Primary source of injury-- Bullets	
+8	SZX	Primary source of injury-- Fire	
+8	TAX	Secondary source of injury-- Vehicles	
+8	TBX	Secondary source of injury-- Highway vehicles	
+8	TDX	Secondary source of injury-- Structures & surfaces	
+8	TEX	Secondary source of injury-- Floors	
+8	TFX	Secondary source of injury-- Structures	
+8	TGX	Secondary source of injury-- Machinery	
+8	THX	Secondary source of injury-- Parts & materials	
+8	TIX	Secondary source of injury-- Machine, tool, & electric parts	
+8	TJX	Secondary source of injury-- Persons, plants, etc.	
+8	TKX	Secondary source of injury-- Other persons	
+8	TLX	Secondary source of injury-- Robber	
+8	TMX	Secondary source of injury-- Co-worker	
+8	TNX	Secondary source of injury-- Trees, logs	
+8	TOX	Secondary source of injury-- Chemicals	
+8	TPX	Secondary source of injury-- Tools, instruments, & equipment	
+8	TQX	Secondary source of injury-- Containers	
+8	TRX	Secondary source of injury-- Other sources	
+8	TSX	Secondary source of injury-- Liquids	
+8	TTX	Secondary source of injury-- Not reported	
+8	WAX	Worker status-- Wage and salary	
+8	XAX	Worker activity-- Transporting	
+8	XBX	Worker activity-- Tool use	
+8	XCX	Worker activity-- Constructing	
+8	XDX	Worker activity-- Protecting	
+8	XEX	Worker activity-- Handling	
+8	XFX	Worker activity-- Physical	
+8	XGX	Worker activity-- Other	
+8	XIX	Worker activity-- Not reported	
+8	YAX	Worker location-- Residence	
+8	YBX	Worker location-- Farm	
+8	YDX	Worker location-- Industrial area	
+8	YEX	Worker location-- Recreation area	
+8	YFX	Worker location-- Street	
+8	YGX	Worker location-- Public building	
+8	YHX	Worker location-- Institution	
+8	YIX	Worker location-- Other or not reported	
+9	00X	Ownership-- All	
+9	05X	Ownership-- All government	
+9	ACX	Age group-- 18-19	
+9	ADX	Age group-- 20-24	
+9	AEX	Age group-- 25-34	
+9	AFX	Age group-- 35-44	
+9	AGX	Age group-- 45-54	
+9	AHX	Age group-- 55-64	
+9	AIX	Age group-- 65 & older	
+9	E1X	Event or exposure-- Shooting	
+9	E2X	Event or exposure-- Other homicides	
+9	E3X	Event or exposure-- Self-inflicted injuries	
+9	E4X	Event or exposure-- Other events or exposures	
+9	EAX	Event or exposure-- Contact with objects & equipment	
+9	EBX	Event or exposure-- Struck by object	
+9	ECX	Event or exposure-- Struck by falling object	
+9	EDX	Event or exposure-- Caught in equipment or object	
+9	EEX	Event or exposure-- Caught in running equipment or machinery	
+9	EFX	Event or exposure-- Falls	
+9	EGX	Event or exposure-- Fall to lower level	
+9	EHX	Event or exposure-- Fall from ladder	
+9	EIX	Event or exposure-- Fall from roof	
+9	EKX	Event or exposure-- Harmful substances or environments	
+9	ELX	Event or exposure-- Contact with current	
+9	EMX	Event or exposure-- Caustic, noxious substances	
+9	ENX	Event or exposure-- Oxygen deficiency	
+9	EOX	Event or exposure-- Transportation incident	
+9	EPX	Event or exposure-- Highway transportation incident	
+9	EQX	Event or exposure-- Collision between vehicles	
+9	ERX	Event or exposure-- Noncollision highway incident	
+9	ESX	Event or exposure-- Nonhighway transportation incident	
+9	ETX	Event or exposure-- Overturned, nonhighway	
+9	EUX	Event or exposure-- Struck by vehicle	
+9	EVX	Event or exposure-- Other transportation incidents	
+9	EWX	Event or exposure-- Aircraft incidents	
+9	EXX	Event or exposure-- Fires & explosions	
+9	EYX	Event or exposure-- Assaults	
+9	EZX	Event or exposure-- Homicides	
+9	GFX	Gender-- Female	
+9	GMX	Gender-- Male	
+9	NAX	Nature-- Intracranial injuries	
+9	NBX	Nature-- Other traumatic injuries	
+9	NCX	Nature-- Internal injuries	
+9	NDX	Nature-- Asphyxiations, suffocations	
+9	NEX	Nature-- Drownings	
+9	NFX	Nature-- Electrocutions	
+9	NGX	Nature-- Poisonings, toxic effects	
+9	NHX	Nature-- Open wounds	
+9	NIX	Nature-- Gunshot wounds	
+9	NJX	Nature-- Burns (heat, chemical, etc.)	
+9	NKX	Nature-- Multiple traumatic injuries	
+9	NLX	Nature-- Intracranial injuries and injuries to internal organs	
+9	O00	Occupation-- Management, Professional, and Related Occupations (11--29)	
+9	O10	Occupation-- Management, Business, and Financial Occupations (11--13)	
+9	O11	Occupation-- Management Occupations	
+9	O13	Occupation-- Business and Financial Operations Occupations	
+9	O15	Occupation-- Computer and Mathematical Occupations	
+9	O17	Occupation-- Architecture and Engineering Occupations	
+9	O19	Occupation-- Life, Physical, and Social Science Occupations	
+9	O20	Occupation-- Professional and Related Occupations (15--29)	
+9	O21	Occupation-- Community and Social Services Occupations	
+9	O23	Occupation-- Legal Occupations	
+9	O25	Occupation-- Education, Training, and Library Occupations	
+9	O27	Occupation-- Arts, Design, Entertainment, Sports, and Media Occupations	
+9	O29	Occupation-- Healthcare Practitioner and Technical Occupations	
+9	O30	Occupation-- Service Occupations (31--39)	
+9	O31	Occupation-- Healthcare Support Occupations	
+9	O33	Occupation-- Protective Service Occupations	
+9	O35	Occupation-- Food Preparation and Serving Related Occupations	
+9	O37	Occupation-- Building and Grounds Cleaning and Maintenance Occupations	
+9	O39	Occupation-- Personal Care and Service Occupations	
+9	O40	Occupation-- Sales and Office Occupations (41--43)	
+9	O41	Occupation-- Sales and Related Occupations	
+9	O43	Occupation-- Office and Administrative Support Occupations	
+9	O44	Occupation-- Natural Resources, Construction, and Maintenance Occupations (45--49)	
+9	O45	Occupation-- Farming, Fishing, and Forestry Occupations	
+9	O47	Occupation-- Construction and Extraction Occupations	
+9	O49	Occupation-- Installation, Maintenance, and Repair Occupations	
+9	O50	Occupation-- Production, Transportation, and Material Moving Occupations (51--53)	
+9	O51	Occupation-- Production Occupations	
+9	O53	Occupation-- Transportation and Material Moving Occupations	
+9	O55	Occupation-- Military Specific Occupations	
+9	PAX	Part-- Head	
+9	PBX	Part-- Trunk	
+9	PCX	Part-- Chest	
+9	PDX	Part-- Back	
+9	PEX	Part-- Neck	
+9	PFX	Part-- Lower extremities	
+9	PGX	Part-- Upper extremities	
+9	PHX	Part-- Body systems	
+9	PIX	Part-- Multiple	
+9	RAX	Race-- White	
+9	RBX	Race-- Black	
+9	RCX	Race-- American Indian, Aleut, Eskimo	
+9	RDX	Race-- Asian	
+9	RGX	Race-- Multiple	
+9	RHX	Race-- Other or not reported	
+9	RIX	Race-- Hispanic	
+9	SAX	Primary source of injury-- Vehicles	
+9	SBX	Primary source of injury-- Highway vehicles	
+9	SCX	Primary source of injury-- Automobiles	
+9	SDX	Primary source of injury-- Trucks	
+9	SEX	Primary source of injury-- Plant vehicles	
+9	SGX	Primary source of injury-- Tractors	
+9	SHX	Primary source of injury-- Structures	
+9	SIX	Primary source of injury-- Floors	
+9	SJX	Primary source of injury-- Machinery	
+9	SKX	Primary source of injury-- Agricultural machinery	
+9	SLX	Primary source of injury-- Construction & mining machinery	
+9	SMX	Primary source of injury-- Material handling machinery	
+9	SNX	Primary source of injury-- Parts & materials	
+9	SOX	Primary source of injury-- Machine, tool, & electric parts	
+9	SPX	Primary source of injury-- Persons, plants, etc.	
+9	SQX	Primary source of injury-- Other persons	
+9	SSX	Primary source of injury-- Co-worker	
+9	STX	Primary source of injury-- Trees, logs	
+9	SUX	Primary source of injury-- Chemicals	
+9	SVX	Primary source of injury-- Tools, instruments, & equipment	
+9	SWX	Primary source of injury-- Containers	
+9	SXX	Primary source of injury-- All other sources	
+9	SYX	Primary source of injury-- Bullets	
+9	SZX	Primary source of injury-- Fire	
+9	TAX	Secondary source of injury-- Vehicles	
+9	TBX	Secondary source of injury-- Highway vehicles	
+9	TDX	Secondary source of injury-- Structures & surfaces	
+9	TEX	Secondary source of injury-- Floors	
+9	TFX	Secondary source of injury-- Structures	
+9	TGX	Secondary source of injury-- Machinery	
+9	THX	Secondary source of injury-- Parts & materials	
+9	TIX	Secondary source of injury-- Machine, tool, & electric parts	
+9	TJX	Secondary source of injury-- Persons, plants, etc.	
+9	TKX	Secondary source of injury-- Other persons	
+9	TLX	Secondary source of injury-- Robber	
+9	TMX	Secondary source of injury-- Co-worker	
+9	TNX	Secondary source of injury-- Trees, logs	
+9	TOX	Secondary source of injury-- Chemicals	
+9	TPX	Secondary source of injury-- Tools, instruments, & equipment	
+9	TQX	Secondary source of injury-- Containers	
+9	TRX	Secondary source of injury-- Other sources	
+9	TSX	Secondary source of injury-- Liquids	
+9	TTX	Secondary source of injury-- Not reported	
+9	WAX	Worker status-- Wage and salary	
+9	XAX	Worker activity-- Transporting	
+9	XBX	Worker activity-- Tool use	
+9	XCX	Worker activity-- Constructing	
+9	XDX	Worker activity-- Protecting	
+9	XEX	Worker activity-- Handling	
+9	XFX	Worker activity-- Physical	
+9	XGX	Worker activity-- Other	
+9	XIX	Worker activity-- Not reported	
+9	YAX	Worker location-- Residence	
+9	YBX	Worker location-- Farm	
+9	YDX	Worker location-- Industrial area	
+9	YEX	Worker location-- Recreation area	
+9	YFX	Worker location-- Street	
+9	YGX	Worker location-- Public building	
+9	YHX	Worker location-- Institution	
+9	YIX	Worker location-- Other or not reported	
+E	00X	Ownership-- All	
+E	05X	Ownership-- All government	
+E	10X	Ownership-- Federal government	
+E	20X	Ownership-- State government	
+E	30X	Ownership-- Local government	
+E	50X	Ownership-- Private industry	
+E	AAX	Age group-- 15 & under	
+E	ABX	Age group-- 16-17	
+E	ACX	Age group-- 18-19	
+E	ADW	Private industry-- Administration and support and waste management and remediation services	
+E	ADX	Age group-- 20-24	
+E	AER	Private industry-- Arts, entertainment, and recreation	
+E	AEX	Age group-- 25-34	
+E	AFH	Private industry-- Agriculture, forestry, fishing, and hunting	
+E	AFS	Private industry-- Accommodation and food services	
+E	AFX	Age group-- 35-44	
+E	AGX	Age group-- 45-54	
+E	AHX	Age group-- 55-64	
+E	AIX	Age group-- 65 & older	
+E	CON	Private industry-- Construction	
+E	EDS	Private industry-- Educational services	
+E	EHS	Private industry-- Education and health services	
+E	FIA	Private industry-- Financial activities	
+E	FIN	Private industry-- Finance and insurance	
+E	GFX	Gender-- Female	
+E	GMX	Gender-- Male	
+E	GP1	Private industry-- Goods producing	
+E	HSA	Private industry-- Health care and social assistance	
+E	INF	Private industry-- Information	
+E	LEH	Private industry-- Leisure and hospitality	
+E	MCE	Private industry-- Management of companies and enterprises	
+E	MFG	Private industry-- Manufacturing	
+E	MIN	Private industry-- Mining	
+E	NAX	Nature-- Intracranial injuries	
+E	NBX	Nature-- Other traumatic injuries	
+E	NCX	Nature-- Internal injuries	
+E	NDX	Nature-- Asphyxiations, suffocations	
+E	NEX	Nature-- Drownings	
+E	NFX	Nature-- Electrocutions	
+E	NGX	Nature-- Poisonings, toxic effects	
+E	NHX	Nature-- Open wounds	
+E	NIX	Nature-- Gunshot wounds	
+E	NJX	Nature-- Burns (heat, chemical, etc.)	
+E	NKX	Nature-- Multiple traumatic injuries	
+E	NLX	Nature-- Intracranial injuries and injuries to internal organs	
+E	NRM	Private industry-- Natural resources and mining	
+E	O00	Occupation-- Management, Professional, and Related Occupations (11--29)	
+E	O10	Occupation-- Management, Business, and Financial Occupations (11--13)	
+E	O11	Occupation-- Management Occupations	
+E	O13	Occupation-- Business and Financial Operations Occupations	
+E	O15	Occupation-- Computer and Mathematical Occupations	
+E	O17	Occupation-- Architecture and Engineering Occupations	
+E	O19	Occupation-- Life, Physical, and Social Science Occupations	
+E	O20	Occupation-- Professional and Related Occupations (15--29)	
+E	O21	Occupation-- Community and Social Services Occupations	
+E	O23	Occupation-- Legal Occupations	
+E	O25	Occupation-- Education, Training, and Library Occupations	
+E	O27	Occupation-- Arts, Design, Entertainment, Sports, and Media Occupations	
+E	O29	Occupation-- Healthcare Practitioner and Technical Occupations	
+E	O30	Occupation-- Service Occupations (31--39)	
+E	O31	Occupation-- Healthcare Support Occupations	
+E	O33	Occupation-- Protective Service Occupations	
+E	O35	Occupation-- Food Preparation and Serving Related Occupations	
+E	O37	Occupation-- Building and Grounds Cleaning and Maintenance Occupations	
+E	O39	Occupation-- Personal Care and Service Occupations	
+E	O40	Occupation-- Sales and Office Occupations (41--43)	
+E	O41	Occupation-- Sales and Related Occupations	
+E	O43	Occupation-- Office and Administrative Support Occupations	
+E	O44	Occupation-- Natural Resources, Construction, and Maintenance Occupations (45--49)	
+E	O45	Occupation-- Farming, Fishing, and Forestry Occupations	
+E	O47	Occupation-- Construction and Extraction Occupations	
+E	O49	Occupation-- Installation, Maintenance, and Repair Occupations	
+E	O50	Occupation-- Production, Transportation, and Material Moving Occupations (51--53)	
+E	O51	Occupation-- Production Occupations	
+E	O53	Occupation-- Transportation and Material Moving Occupations	
+E	O55	Occupation-- Military Specific Occupations	
+E	OTS	Private industry-- Other services	
+E	PAX	Part-- Head	
+E	PBS	Private industry-- Professional and business services	
+E	PBX	Part-- Trunk	
+E	PCX	Part-- Chest	
+E	PDX	Part-- Back	
+E	PEX	Part-- Neck	
+E	PFX	Part-- Lower extremities	
+E	PGX	Part-- Upper extremities	
+E	PHX	Part-- Body systems	
+E	PIX	Part-- Multiple	
+E	PST	Private industry-- Professional, scientific, and technical services	
+E	RAX	Race-- White	
+E	RBX	Race-- Black	
+E	RCX	Race-- American Indian, Aleut, Eskimo	
+E	RDX	Race-- Asian	
+E	RET	Private industry-- Retail trade	
+E	REX	Race-- Pacific Islander	
+E	RGX	Race-- Multiple	
+E	RHX	Race-- Other or not reported	
+E	RIX	Race-- Hispanic	
+E	RRL	Private industry-- Real estate and rental and leasing	
+E	SAX	Primary source of injury-- Vehicles	
+E	SBX	Primary source of injury-- Highway vehicles	
+E	SCX	Primary source of injury-- Automobiles	
+E	SDX	Primary source of injury-- Trucks	
+E	SEX	Primary source of injury-- Plant vehicles	
+E	SFX	Primary source of injury-- Forklifts	
+E	SGX	Primary source of injury-- Tractors	
+E	SHX	Primary source of injury-- Structures	
+E	SIX	Primary source of injury-- Floors	
+E	SJX	Primary source of injury-- Machinery	
+E	SKX	Primary source of injury-- Agricultural machinery	
+E	SLX	Primary source of injury-- Construction & mining machinery	
+E	SMX	Primary source of injury-- Material handling machinery	
+E	SNX	Primary source of injury-- Parts & materials	
+E	SOX	Primary source of injury-- Machine, tool, & electric parts	
+E	SP1	Private industry-- Service producing	
+E	SPX	Primary source of injury-- Persons, plants, etc.	
+E	SQX	Primary source of injury-- Other persons	
+E	SRX	Primary source of injury-- Robber	
+E	SSX	Primary source of injury-- Co-worker	
+E	STX	Primary source of injury-- Trees, logs	
+E	SUX	Primary source of injury-- Chemicals	
+E	SVX	Primary source of injury-- Tools, instruments, & equipment	
+E	SWX	Primary source of injury-- Containers	
+E	SXX	Primary source of injury-- All other sources	
+E	SYX	Primary source of injury-- Bullets	
+E	SZX	Primary source of injury-- Fire	
+E	TAX	Secondary source of injury-- Vehicles	
+E	TBX	Secondary source of injury-- Highway vehicles	
+E	TCX	Secondary source of injury-- Plant vehicles	
+E	TDX	Secondary source of injury-- Structures & surfaces	
+E	TEX	Secondary source of injury-- Floors	
+E	TFX	Secondary source of injury-- Structures	
+E	TGX	Secondary source of injury-- Machinery	
+E	THX	Secondary source of injury-- Parts & materials	
+E	TIX	Secondary source of injury-- Machine, tool, & electric parts	
+E	TJX	Secondary source of injury-- Persons, plants, etc.	
+E	TKX	Secondary source of injury-- Other persons	
+E	TLX	Secondary source of injury-- Robber	
+E	TMX	Secondary source of injury-- Co-worker	
+E	TNX	Secondary source of injury-- Trees, logs	
+E	TOX	Secondary source of injury-- Chemicals	
+E	TPX	Secondary source of injury-- Tools, instruments, & equipment	
+E	TQX	Secondary source of injury-- Containers	
+E	TRW	Private industry-- Transportation and warehousing	
+E	TRX	Secondary source of injury-- Other sources	
+E	TSX	Secondary source of injury-- Liquids	
+E	TTU	Private industry-- Trade, transportation, and utilities	
+E	TTX	Secondary source of injury-- Not reported	
+E	UTL	Private industry -- Utilities	
+E	WAX	Worker status-- Wage and salary	
+E	WBX	Worker status-- Self-employed	
+E	WHT	Private industry-- Wholesale trade	
+E	XAX	Worker activity-- Transporting	
+E	XBX	Worker activity-- Tool use	
+E	XCX	Worker activity-- Constructing	
+E	XDX	Worker activity-- Protecting	
+E	XEX	Worker activity-- Handling	
+E	XFX	Worker activity-- Physical	
+E	XGX	Worker activity-- Other	
+E	XHX	Worker activity-- Tending	
+E	XIX	Worker activity-- Not reported	
+E	YAX	Worker location-- Residence	
+E	YBX	Worker location-- Farm	
+E	YCX	Worker location-- Mine	
+E	YDX	Worker location-- Industrial area	
+E	YEX	Worker location-- Recreation area	
+E	YFX	Worker location-- Street	
+E	YGX	Worker location-- Public building	
+E	YHX	Worker location-- Institution	
+E	YIX	Worker location-- Other or not reported	
+G	00X	Ownership-- All	
+G	05X	Ownership-- All government	
+G	10X	Ownership-- Federal government	
+G	20X	Ownership-- State government	
+G	30X	Ownership-- Local government	
+G	ACX	Age group-- 18-19	
+G	ADX	Age group-- 20-24	
+G	AEX	Age group-- 25-34	
+G	AFX	Age group-- 35-44	
+G	AGX	Age group-- 45-54	
+G	AHX	Age group-- 55-64	
+G	AIX	Age group-- 65 & older	
+G	E1X	Event or exposure-- Shooting	
+G	E2X	Event or exposure-- Other homicides	
+G	E3X	Event or exposure-- Self-inflicted injuries	
+G	E4X	Event or exposure-- Other events or exposures	
+G	EAX	Event or exposure-- Contact with objects & equipment	
+G	EBX	Event or exposure-- Struck by object	
+G	ECX	Event or exposure-- Struck by falling object	
+G	EDX	Event or exposure-- Caught in equipment or object	
+G	EEX	Event or exposure-- Caught in running equipment or machinery	
+G	EFX	Event or exposure-- Falls	
+G	EGX	Event or exposure-- Fall to lower level	
+G	EHX	Event or exposure-- Fall from ladder	
+G	EIX	Event or exposure-- Fall from roof	
+G	EKX	Event or exposure-- Harmful substances or environments	
+G	ELX	Event or exposure-- Contact with current	
+G	EMX	Event or exposure-- Caustic, noxious substances	
+G	ENX	Event or exposure-- Oxygen deficiency	
+G	EOX	Event or exposure-- Transportation incident	
+G	EPX	Event or exposure-- Highway transportation incident	
+G	EQX	Event or exposure-- Collision between vehicles	
+G	ERX	Event or exposure-- Noncollision highway incident	
+G	ESX	Event or exposure-- Nonhighway transportation incident	
+G	ETX	Event or exposure-- Overturned, nonhighway	
+G	EUX	Event or exposure-- Struck by vehicle	
+G	EVX	Event or exposure-- Other transportation incidents	
+G	EWX	Event or exposure-- Aircraft incidents	
+G	EXX	Event or exposure-- Fires & explosions	
+G	EYX	Event or exposure-- Assaults	
+G	EZX	Event or exposure-- Homicides	
+G	GFX	Gender-- Female	
+G	GMX	Gender-- Male	
+G	NAX	Nature-- Intracranial injuries	
+G	NBX	Nature-- Other traumatic injuries	
+G	NCX	Nature-- Internal injuries	
+G	NDX	Nature-- Asphyxiations, suffocations	
+G	NEX	Nature-- Drownings	
+G	NFX	Nature-- Electrocutions	
+G	NGX	Nature-- Poisonings, toxic effects	
+G	NHX	Nature-- Open wounds	
+G	NIX	Nature-- Gunshot wounds	
+G	NJX	Nature-- Burns (heat, chemical, etc.)	
+G	NKX	Nature-- Multiple traumatic injuries	
+G	NLX	Nature-- Intracranial injuries and injuries to internal organs	
+G	PAX	Part-- Head	
+G	PBX	Part-- Trunk	
+G	PCX	Part-- Chest	
+G	PDX	Part-- Back	
+G	PEX	Part-- Neck	
+G	PFX	Part-- Lower extremities	
+G	PGX	Part-- Upper extremities	
+G	PHX	Part-- Body systems	
+G	PIX	Part-- Multiple	
+G	RAX	Race-- White	
+G	RBX	Race-- Black	
+G	RCX	Race-- American Indian, Aleut, Eskimo	
+G	RDX	Race-- Asian	
+G	RGX	Race-- Multiple	
+G	RHX	Race-- Other or not reported	
+G	RIX	Race-- Hispanic	
+G	SAX	Primary source of injury-- Vehicles	
+G	SBX	Primary source of injury-- Highway vehicles	
+G	SCX	Primary source of injury-- Automobiles	
+G	SDX	Primary source of injury-- Trucks	
+G	SEX	Primary source of injury-- Plant vehicles	
+G	SGX	Primary source of injury-- Tractors	
+G	SHX	Primary source of injury-- Structures	
+G	SIX	Primary source of injury-- Floors	
+G	SJX	Primary source of injury-- Machinery	
+G	SKX	Primary source of injury-- Agricultural machinery	
+G	SLX	Primary source of injury-- Construction & mining machinery	
+G	SMX	Primary source of injury-- Material handling machinery	
+G	SNX	Primary source of injury-- Parts & materials	
+G	SOX	Primary source of injury-- Machine, tool, & electric parts	
+G	SPX	Primary source of injury-- Persons, plants, etc.	
+G	SQX	Primary source of injury-- Other persons	
+G	SSX	Primary source of injury-- Co-worker	
+G	STX	Primary source of injury-- Trees, logs	
+G	SUX	Primary source of injury-- Chemicals	
+G	SVX	Primary source of injury-- Tools, instruments, & equipment	
+G	SWX	Primary source of injury-- Containers	
+G	SXX	Primary source of injury-- All other sources	
+G	SYX	Primary source of injury-- Bullets	
+G	SZX	Primary source of injury-- Fire	
+G	TAX	Secondary source of injury-- Vehicles	
+G	TBX	Secondary source of injury-- Highway vehicles	
+G	TDX	Secondary source of injury-- Structures & surfaces	
+G	TEX	Secondary source of injury-- Floors	
+G	TFX	Secondary source of injury-- Structures	
+G	TGX	Secondary source of injury-- Machinery	
+G	THX	Secondary source of injury-- Parts & materials	
+G	TIX	Secondary source of injury-- Machine, tool, & electric parts	
+G	TJX	Secondary source of injury-- Persons, plants, etc.	
+G	TKX	Secondary source of injury-- Other persons	
+G	TLX	Secondary source of injury-- Robber	
+G	TMX	Secondary source of injury-- Co-worker	
+G	TNX	Secondary source of injury-- Trees, logs	
+G	TOX	Secondary source of injury-- Chemicals	
+G	TPX	Secondary source of injury-- Tools, instruments, & equipment	
+G	TQX	Secondary source of injury-- Containers	
+G	TRX	Secondary source of injury-- Other sources	
+G	TSX	Secondary source of injury-- Liquids	
+G	TTX	Secondary source of injury-- Not reported	
+G	WAX	Worker status-- Wage and salary	
+G	XAX	Worker activity-- Transporting	
+G	XBX	Worker activity-- Tool use	
+G	XCX	Worker activity-- Constructing	
+G	XDX	Worker activity-- Protecting	
+G	XEX	Worker activity-- Handling	
+G	XFX	Worker activity-- Physical	
+G	XGX	Worker activity-- Other	
+G	XIX	Worker activity-- Not reported	
+G	YAX	Worker location-- Residence	
+G	YBX	Worker location-- Farm	
+G	YDX	Worker location-- Industrial area	
+G	YEX	Worker location-- Recreation area	
+G	YFX	Worker location-- Street	
+G	YGX	Worker location-- Public building	
+G	YHX	Worker location-- Institution	
+G	YIX	Worker location-- Other or not reported	
+O	00X	Ownership-- All	
+O	05X	Ownership-- All government	
+O	10X	Ownership-- Federal government	
+O	20X	Ownership-- State government	
+O	30X	Ownership-- Local government	
+O	50X	Ownership-- Private industry	
+O	AAX	Age group-- 15 & under	
+O	ABX	Age group-- 16-17	
+O	ACX	Age group-- 18-19	
+O	ADW	Private industry-- Administration and support and waste management and remediation services	
+O	ADX	Age group-- 20-24	
+O	AER	Private industry-- Arts, entertainment, and recreation	
+O	AEX	Age group-- 25-34	
+O	AFH	Private industry-- Agriculture, forestry, fishing, and hunting	
+O	AFS	Private industry-- Accommodation and food services	
+O	AFX	Age group-- 35-44	
+O	AGX	Age group-- 45-54	
+O	AHX	Age group-- 55-64	
+O	AIX	Age group-- 65 & older	
+O	CON	Private industry-- Construction	
+O	E1X	Event or exposure-- Shooting	
+O	E2X	Event or exposure-- Other homicides	
+O	E3X	Event or exposure-- Self-inflicted injuries	
+O	E4X	Event or exposure-- Other events or exposures	
+O	EAX	Event or exposure-- Contact with objects & equipment	
+O	EBX	Event or exposure-- Struck by object	
+O	ECX	Event or exposure-- Struck by falling object	
+O	EDS	Private industry-- Educational services	
+O	EDX	Event or exposure-- Caught in equipment or object	
+O	EEX	Event or exposure-- Caught in running equipment or machinery	
+O	EFX	Event or exposure-- Falls	
+O	EGX	Event or exposure-- Fall to lower level	
+O	EHS	Private industry-- Education and health services	
+O	EHX	Event or exposure-- Fall from ladder	
+O	EIX	Event or exposure-- Fall from roof	
+O	EJX	Event or exposure-- Fall from scaffold	
+O	EKX	Event or exposure-- Harmful substances or environments	
+O	ELX	Event or exposure-- Contact with current	
+O	EMX	Event or exposure-- Caustic, noxious substances	
+O	ENX	Event or exposure-- Oxygen deficiency	
+O	EOX	Event or exposure-- Transportation incident	
+O	EPX	Event or exposure-- Highway transportation incident	
+O	EQX	Event or exposure-- Collision between vehicles	
+O	ERX	Event or exposure-- Noncollision highway incident	
+O	ESX	Event or exposure-- Nonhighway transportation incident	
+O	ETX	Event or exposure-- Overturned, nonhighway	
+O	EUX	Event or exposure-- Struck by vehicle	
+O	EVX	Event or exposure-- Other transportation incidents	
+O	EWX	Event or exposure-- Aircraft incidents	
+O	EXX	Event or exposure-- Fires & explosions	
+O	EYX	Event or exposure-- Assaults	
+O	EZX	Event or exposure-- Homicides	
+O	FIA	Private industry-- Financial activities	
+O	FIN	Private industry-- Finance and insurance	
+O	GFX	Gender-- Female	
+O	GMX	Gender-- Male	
+O	GP1	Private industry-- Goods producing	
+O	HSA	Private industry-- Health care and social assistance	
+O	INF	Private industry-- Information	
+O	LEH	Private industry-- Leisure and hospitality	
+O	MCE	Private industry-- Management of companies and enterprises	
+O	MFG	Private industry-- Manufacturing	
+O	MIN	Private industry-- Mining	
+O	NAX	Nature-- Intracranial injuries	
+O	NBX	Nature-- Other traumatic injuries	
+O	NCX	Nature-- Internal injuries	
+O	NDX	Nature-- Asphyxiations, suffocations	
+O	NEX	Nature-- Drownings	
+O	NFX	Nature-- Electrocutions	
+O	NGX	Nature-- Poisonings, toxic effects	
+O	NHX	Nature-- Open wounds	
+O	NIX	Nature-- Gunshot wounds	
+O	NJX	Nature-- Burns (heat, chemical, etc.)	
+O	NKX	Nature-- Multiple traumatic injuries	
+O	NLX	Nature-- Intracranial injuries and injuries to internal organs	
+O	NRM	Private industry-- Natural resources and mining	
+O	OTS	Private industry-- Other services	
+O	PAX	Part-- Head	
+O	PBS	Private industry-- Professional and business services	
+O	PBX	Part-- Trunk	
+O	PCX	Part-- Chest	
+O	PDX	Part-- Back	
+O	PEX	Part-- Neck	
+O	PFX	Part-- Lower extremities	
+O	PGX	Part-- Upper extremities	
+O	PHX	Part-- Body systems	
+O	PIX	Part-- Multiple	
+O	PST	Private industry-- Professional, scientific, and technical services	
+O	RAX	Race-- White	
+O	RBX	Race-- Black	
+O	RCX	Race-- American Indian, Aleut, Eskimo	
+O	RDX	Race-- Asian	
+O	RET	Private industry-- Retail trade	
+O	REX	Race-- Pacific Islander	
+O	RGX	Race-- Multiple	
+O	RHX	Race-- Other or not reported	
+O	RIX	Race-- Hispanic	
+O	RRL	Private industry-- Real estate and rental and leasing	
+O	SAX	Primary source of injury-- Vehicles	
+O	SBX	Primary source of injury-- Highway vehicles	
+O	SCX	Primary source of injury-- Automobiles	
+O	SDX	Primary source of injury-- Trucks	
+O	SEX	Primary source of injury-- Plant vehicles	
+O	SFX	Primary source of injury-- Forklifts	
+O	SGX	Primary source of injury-- Tractors	
+O	SHX	Primary source of injury-- Structures	
+O	SIX	Primary source of injury-- Floors	
+O	SJX	Primary source of injury-- Machinery	
+O	SKX	Primary source of injury-- Agricultural machinery	
+O	SLX	Primary source of injury-- Construction & mining machinery	
+O	SMX	Primary source of injury-- Material handling machinery	
+O	SNX	Primary source of injury-- Parts & materials	
+O	SOX	Primary source of injury-- Machine, tool, & electric parts	
+O	SP1	Private industry-- Service producing	
+O	SPX	Primary source of injury-- Persons, plants, etc.	
+O	SQX	Primary source of injury-- Other persons	
+O	SRX	Primary source of injury-- Robber	
+O	SSX	Primary source of injury-- Co-worker	
+O	STX	Primary source of injury-- Trees, logs	
+O	SUX	Primary source of injury-- Chemicals	
+O	SVX	Primary source of injury-- Tools, instruments, & equipment	
+O	SWX	Primary source of injury-- Containers	
+O	SXX	Primary source of injury-- All other sources	
+O	SYX	Primary source of injury-- Bullets	
+O	SZX	Primary source of injury-- Fire	
+O	TAX	Secondary source of injury-- Vehicles	
+O	TBX	Secondary source of injury-- Highway vehicles	
+O	TCX	Secondary source of injury-- Plant vehicles	
+O	TDX	Secondary source of injury-- Structures & surfaces	
+O	TEX	Secondary source of injury-- Floors	
+O	TFX	Secondary source of injury-- Structures	
+O	TGX	Secondary source of injury-- Machinery	
+O	THX	Secondary source of injury-- Parts & materials	
+O	TIX	Secondary source of injury-- Machine, tool, & electric parts	
+O	TJX	Secondary source of injury-- Persons, plants, etc.	
+O	TKX	Secondary source of injury-- Other persons	
+O	TLX	Secondary source of injury-- Robber	
+O	TMX	Secondary source of injury-- Co-worker	
+O	TNX	Secondary source of injury-- Trees, logs	
+O	TOX	Secondary source of injury-- Chemicals	
+O	TPX	Secondary source of injury-- Tools, instruments, & equipment	
+O	TQX	Secondary source of injury-- Containers	
+O	TRW	Private industry-- Transportation and warehousing	
+O	TRX	Secondary source of injury-- Other sources	
+O	TSX	Secondary source of injury-- Liquids	
+O	TTU	Private industry-- Trade, transportation, and utilities	
+O	TTX	Secondary source of injury-- Not reported	
+O	UTL	Private industry -- Utilities	
+O	WAX	Worker status-- Wage and salary	
+O	WBX	Worker status-- Self-employed	
+O	WHT	Private industry-- Wholesale trade	
+O	XAX	Worker activity-- Transporting	
+O	XBX	Worker activity-- Tool use	
+O	XCX	Worker activity-- Constructing	
+O	XDX	Worker activity-- Protecting	
+O	XEX	Worker activity-- Handling	
+O	XFX	Worker activity-- Physical	
+O	XGX	Worker activity-- Other	
+O	XHX	Worker activity-- Tending	
+O	XIX	Worker activity-- Not reported	
+O	YAX	Worker location-- Residence	
+O	YBX	Worker location-- Farm	
+O	YCX	Worker location-- Mine	
+O	YDX	Worker location-- Industrial area	
+O	YEX	Worker location-- Recreation area	
+O	YFX	Worker location-- Street	
+O	YGX	Worker location-- Public building	
+O	YHX	Worker location-- Institution	
+O	YIX	Worker location-- Other or not reported	
+P	00X	Ownership-- All	
+P	50X	Ownership-- Private industry	
+P	AAX	Age group-- 15 & under	
+P	ABX	Age group-- 16-17	
+P	ACX	Age group-- 18-19	
+P	ADW	Private industry-- Administration and support and waste management and remediation services	
+P	ADX	Age group-- 20-24	
+P	AER	Private industry-- Arts, entertainment, and recreation	
+P	AEX	Age group-- 25-34	
+P	AFH	Private industry-- Agriculture, forestry, fishing, and hunting	
+P	AFS	Private industry-- Accommodation and food services	
+P	AFX	Age group-- 35-44	
+P	AGX	Age group-- 45-54	
+P	AHX	Age group-- 55-64	
+P	AIX	Age group-- 65 & older	
+P	CON	Private industry-- Construction	
+P	E1X	Event or exposure-- Shooting	
+P	E2X	Event or exposure-- Other homicides	
+P	E3X	Event or exposure-- Self-inflicted injuries	
+P	E4X	Event or exposure-- Other events or exposures	
+P	EAX	Event or exposure-- Contact with objects & equipment	
+P	EBX	Event or exposure-- Struck by object	
+P	ECX	Event or exposure-- Struck by falling object	
+P	EDS	Private industry-- Educational services	
+P	EDX	Event or exposure-- Caught in equipment or object	
+P	EEX	Event or exposure-- Caught in running equipment or machinery	
+P	EFX	Event or exposure-- Falls	
+P	EGX	Event or exposure-- Fall to lower level	
+P	EHS	Private industry-- Education and health services	
+P	EHX	Event or exposure-- Fall from ladder	
+P	EIX	Event or exposure-- Fall from roof	
+P	EJX	Event or exposure-- Fall from scaffold	
+P	EKX	Event or exposure-- Harmful substances or environments	
+P	ELX	Event or exposure-- Contact with current	
+P	EMX	Event or exposure-- Caustic, noxious substances	
+P	ENX	Event or exposure-- Oxygen deficiency	
+P	EOX	Event or exposure-- Transportation incident	
+P	EPX	Event or exposure-- Highway transportation incident	
+P	EQX	Event or exposure-- Collision between vehicles	
+P	ERX	Event or exposure-- Noncollision highway incident	
+P	ESX	Event or exposure-- Nonhighway transportation incident	
+P	ETX	Event or exposure-- Overturned, nonhighway	
+P	EUX	Event or exposure-- Struck by vehicle	
+P	EVX	Event or exposure-- Other transportation incidents	
+P	EWX	Event or exposure-- Aircraft incidents	
+P	EXX	Event or exposure-- Fires & explosions	
+P	EYX	Event or exposure-- Assaults	
+P	EZX	Event or exposure-- Homicides	
+P	FIA	Private industry-- Financial activities	
+P	FIN	Private industry-- Finance and insurance	
+P	GFX	Gender-- Female	
+P	GMX	Gender-- Male	
+P	GP1	Private industry-- Goods producing	
+P	HSA	Private industry-- Health care and social assistance	
+P	INF	Private industry-- Information	
+P	LEH	Private industry-- Leisure and hospitality	
+P	MCE	Private industry-- Management of companies and enterprises	
+P	MFG	Private industry-- Manufacturing	
+P	MIN	Private industry-- Mining	
+P	NAX	Nature-- Intracranial injuries	
+P	NBX	Nature-- Other traumatic injuries	
+P	NCX	Nature-- Internal injuries	
+P	NDX	Nature-- Asphyxiations, suffocations	
+P	NEX	Nature-- Drownings	
+P	NFX	Nature-- Electrocutions	
+P	NGX	Nature-- Poisonings, toxic effects	
+P	NHX	Nature-- Open wounds	
+P	NIX	Nature-- Gunshot wounds	
+P	NJX	Nature-- Burns (heat, chemical, etc.)	
+P	NKX	Nature-- Multiple traumatic injuries	
+P	NLX	Nature-- Intracranial injuries and injuries to internal organs	
+P	NRM	Private industry-- Natural resources and mining	
+P	OTS	Private industry-- Other services	
+P	PAX	Part-- Head	
+P	PBS	Private industry-- Professional and business services	
+P	PBX	Part-- Trunk	
+P	PCX	Part-- Chest	
+P	PDX	Part-- Back	
+P	PEX	Part-- Neck	
+P	PFX	Part-- Lower extremities	
+P	PGX	Part-- Upper extremities	
+P	PHX	Part-- Body systems	
+P	PIX	Part-- Multiple	
+P	PST	Private industry-- Professional, scientific, and technical services	
+P	RAX	Race-- White	
+P	RBX	Race-- Black	
+P	RCX	Race-- American Indian, Aleut, Eskimo	
+P	RDX	Race-- Asian	
+P	RET	Private industry-- Retail trade	
+P	REX	Race-- Pacific Islander	
+P	RGX	Race-- Multiple	
+P	RHX	Race-- Other or not reported	
+P	RIX	Race-- Hispanic	
+P	RRL	Private industry-- Real estate and rental and leasing	
+P	SAX	Primary source of injury-- Vehicles	
+P	SBX	Primary source of injury-- Highway vehicles	
+P	SCX	Primary source of injury-- Automobiles	
+P	SDX	Primary source of injury-- Trucks	
+P	SEX	Primary source of injury-- Plant vehicles	
+P	SFX	Primary source of injury-- Forklifts	
+P	SGX	Primary source of injury-- Tractors	
+P	SHX	Primary source of injury-- Structures	
+P	SIX	Primary source of injury-- Floors	
+P	SJX	Primary source of injury-- Machinery	
+P	SKX	Primary source of injury-- Agricultural machinery	
+P	SLX	Primary source of injury-- Construction & mining machinery	
+P	SMX	Primary source of injury-- Material handling machinery	
+P	SNX	Primary source of injury-- Parts & materials	
+P	SOX	Primary source of injury-- Machine, tool, & electric parts	
+P	SP1	Private industry-- Service producing	
+P	SPX	Primary source of injury-- Persons, plants, etc.	
+P	SQX	Primary source of injury-- Other persons	
+P	SRX	Primary source of injury-- Robber	
+P	SSX	Primary source of injury-- Co-worker	
+P	STX	Primary source of injury-- Trees, logs	
+P	SUX	Primary source of injury-- Chemicals	
+P	SVX	Primary source of injury-- Tools, instruments, & equipment	
+P	SWX	Primary source of injury-- Containers	
+P	SXX	Primary source of injury-- All other sources	
+P	SYX	Primary source of injury-- Bullets	
+P	SZX	Primary source of injury-- Fire	
+P	TAX	Secondary source of injury-- Vehicles	
+P	TBX	Secondary source of injury-- Highway vehicles	
+P	TCX	Secondary source of injury-- Plant vehicles	
+P	TDX	Secondary source of injury-- Structures & surfaces	
+P	TEX	Secondary source of injury-- Floors	
+P	TFX	Secondary source of injury-- Structures	
+P	TGX	Secondary source of injury-- Machinery	
+P	THX	Secondary source of injury-- Parts & materials	
+P	TIX	Secondary source of injury-- Machine, tool, & electric parts	
+P	TJX	Secondary source of injury-- Persons, plants, etc.	
+P	TKX	Secondary source of injury-- Other persons	
+P	TLX	Secondary source of injury-- Robber	
+P	TMX	Secondary source of injury-- Co-worker	
+P	TNX	Secondary source of injury-- Trees, logs	
+P	TOX	Secondary source of injury-- Chemicals	
+P	TPX	Secondary source of injury-- Tools, instruments, & equipment	
+P	TQX	Secondary source of injury-- Containers	
+P	TRW	Private industry-- Transportation and warehousing	
+P	TRX	Secondary source of injury-- Other sources	
+P	TSX	Secondary source of injury-- Liquids	
+P	TTU	Private industry-- Trade, transportation, and utilities	
+P	TTX	Secondary source of injury-- Not reported	
+P	UTL	Private industry -- Utilities	
+P	WAX	Worker status-- Wage and salary	
+P	WBX	Worker status-- Self-employed	
+P	WHT	Private industry-- Wholesale trade	
+P	XAX	Worker activity-- Transporting	
+P	XBX	Worker activity-- Tool use	
+P	XCX	Worker activity-- Constructing	
+P	XDX	Worker activity-- Protecting	
+P	XEX	Worker activity-- Handling	
+P	XFX	Worker activity-- Physical	
+P	XGX	Worker activity-- Other	
+P	XHX	Worker activity-- Tending	
+P	XIX	Worker activity-- Not reported	
+P	YAX	Worker location-- Residence	
+P	YBX	Worker location-- Farm	
+P	YCX	Worker location-- Mine	
+P	YDX	Worker location-- Industrial area	
+P	YEX	Worker location-- Recreation area	
+P	YFX	Worker location-- Street	
+P	YGX	Worker location-- Public building	
+P	YHX	Worker location-- Institution	
+P	YIX	Worker location-- Other or not reported	
+S	00X	Ownership-- All	
+S	05X	Ownership-- All government	
+S	10X	Ownership-- Federal government	
+S	20X	Ownership-- State government	
+S	30X	Ownership-- Local government	
+S	50X	Ownership-- Private industry	
+S	AAX	Age group-- 15 & under	
+S	ABX	Age group-- 16-17	
+S	ACX	Age group-- 18-19	
+S	ADW	Private industry-- Administration and support and waste management and remediation services	
+S	ADX	Age group-- 20-24	
+S	AER	Private industry-- Arts, entertainment, and recreation	
+S	AEX	Age group-- 25-34	
+S	AFH	Private industry-- Agriculture, forestry, fishing, and hunting	
+S	AFS	Private industry-- Accommodation and food services	
+S	AFX	Age group-- 35-44	
+S	AGX	Age group-- 45-54	
+S	AHX	Age group-- 55-64	
+S	AIX	Age group-- 65 & older	
+S	CON	Private industry-- Construction	
+S	E1X	Event or exposure-- Shooting	
+S	E2X	Event or exposure-- Other homicides	
+S	E3X	Event or exposure-- Self-inflicted injuries	
+S	E4X	Event or exposure-- Other events or exposures	
+S	EAX	Event or exposure-- Contact with objects & equipment	
+S	EBX	Event or exposure-- Struck by object	
+S	ECX	Event or exposure-- Struck by falling object	
+S	EDS	Private industry-- Educational services	
+S	EDX	Event or exposure-- Caught in equipment or object	
+S	EEX	Event or exposure-- Caught in running equipment or machinery	
+S	EFX	Event or exposure-- Falls	
+S	EGX	Event or exposure-- Fall to lower level	
+S	EHS	Private industry-- Education and health services	
+S	EHX	Event or exposure-- Fall from ladder	
+S	EIX	Event or exposure-- Fall from roof	
+S	EJX	Event or exposure-- Fall from scaffold	
+S	EKX	Event or exposure-- Harmful substances or environments	
+S	ELX	Event or exposure-- Contact with current	
+S	EMX	Event or exposure-- Caustic, noxious substances	
+S	ENX	Event or exposure-- Oxygen deficiency	
+S	EOX	Event or exposure-- Transportation incident	
+S	EPX	Event or exposure-- Highway transportation incident	
+S	EQX	Event or exposure-- Collision between vehicles	
+S	ERX	Event or exposure-- Noncollision highway incident	
+S	ESX	Event or exposure-- Nonhighway transportation incident	
+S	ETX	Event or exposure-- Overturned, nonhighway	
+S	EUX	Event or exposure-- Struck by vehicle	
+S	EVX	Event or exposure-- Other transportation incidents	
+S	EWX	Event or exposure-- Aircraft incidents	
+S	EXX	Event or exposure-- Fires & explosions	
+S	EYX	Event or exposure-- Assaults	
+S	EZX	Event or exposure-- Homicides	
+S	FIA	Private industry-- Financial activities	
+S	FIN	Private industry-- Finance and insurance	
+S	GFX	Gender-- Female	
+S	GMX	Gender-- Male	
+S	GP1	Private industry-- Goods producing	
+S	HSA	Private industry-- Health care and social assistance	
+S	INF	Private industry-- Information	
+S	LEH	Private industry-- Leisure and hospitality	
+S	MCE	Private industry-- Management of companies and enterprises	
+S	MFG	Private industry-- Manufacturing	
+S	MIN	Private industry-- Mining	
+S	NAX	Nature-- Intracranial injuries	
+S	NBX	Nature-- Other traumatic injuries	
+S	NCX	Nature-- Internal injuries	
+S	NDX	Nature-- Asphyxiations, suffocations	
+S	NEX	Nature-- Drownings	
+S	NFX	Nature-- Electrocutions	
+S	NGX	Nature-- Poisonings, toxic effects	
+S	NHX	Nature-- Open wounds	
+S	NIX	Nature-- Gunshot wounds	
+S	NJX	Nature-- Burns (heat, chemical, etc.)	
+S	NKX	Nature-- Multiple traumatic injuries	
+S	NLX	Nature-- Intracranial injuries and injuries to internal organs	
+S	NRM	Private industry-- Natural resources and mining	
+S	O00	Occupation-- Management, Professional, and Related Occupations (11--29)	
+S	O10	Occupation-- Management, Business, and Financial Occupations (11--13)	
+S	O11	Occupation-- Management Occupations	
+S	O13	Occupation-- Business and Financial Operations Occupations	
+S	O15	Occupation-- Computer and Mathematical Occupations	
+S	O17	Occupation-- Architecture and Engineering Occupations	
+S	O19	Occupation-- Life, Physical, and Social Science Occupations	
+S	O20	Occupation-- Professional and Related Occupations (15--29)	
+S	O21	Occupation-- Community and Social Services Occupations	
+S	O23	Occupation-- Legal Occupations	
+S	O25	Occupation-- Education, Training, and Library Occupations	
+S	O27	Occupation-- Arts, Design, Entertainment, Sports, and Media Occupations	
+S	O29	Occupation-- Healthcare Practitioner and Technical Occupations	
+S	O30	Occupation-- Service Occupations (31--39)	
+S	O31	Occupation-- Healthcare Support Occupations	
+S	O33	Occupation-- Protective Service Occupations	
+S	O35	Occupation-- Food Preparation and Serving Related Occupations	
+S	O37	Occupation-- Building and Grounds Cleaning and Maintenance Occupations	
+S	O39	Occupation-- Personal Care and Service Occupations	
+S	O40	Occupation-- Sales and Office Occupations (41--43)	
+S	O41	Occupation-- Sales and Related Occupations	
+S	O43	Occupation-- Office and Administrative Support Occupations	
+S	O44	Occupation-- Natural Resources, Construction, and Maintenance Occupations (45--49)	
+S	O45	Occupation-- Farming, Fishing, and Forestry Occupations	
+S	O47	Occupation-- Construction and Extraction Occupations	
+S	O49	Occupation-- Installation, Maintenance, and Repair Occupations	
+S	O50	Occupation-- Production, Transportation, and Material Moving Occupations (51--53)	
+S	O51	Occupation-- Production Occupations	
+S	O53	Occupation-- Transportation and Material Moving Occupations	
+S	O55	Occupation-- Military Specific Occupations	
+S	OTS	Private industry-- Other services	
+S	PAX	Part-- Head	
+S	PBS	Private industry-- Professional and business services	
+S	PBX	Part-- Trunk	
+S	PCX	Part-- Chest	
+S	PDX	Part-- Back	
+S	PEX	Part-- Neck	
+S	PFX	Part-- Lower extremities	
+S	PGX	Part-- Upper extremities	
+S	PHX	Part-- Body systems	
+S	PIX	Part-- Multiple	
+S	PST	Private industry-- Professional, scientific, and technical services	
+S	RAX	Race-- White	
+S	RBX	Race-- Black	
+S	RCX	Race-- American Indian, Aleut, Eskimo	
+S	RDX	Race-- Asian	
+S	RET	Private industry-- Retail trade	
+S	REX	Race-- Pacific Islander	
+S	RGX	Race-- Multiple	
+S	RHX	Race-- Other or not reported	
+S	RIX	Race-- Hispanic	
+S	RRL	Private industry-- Real estate and rental and leasing	
+S	SP1	Private industry-- Service producing	
+S	TRW	Private industry-- Transportation and warehousing	
+S	TTU	Private industry-- Trade, transportation, and utilities	
+S	UTL	Private industry -- Utilities	
+S	WAX	Worker status-- Wage and salary	
+S	WBX	Worker status-- Self-employed	
+S	WHT	Private industry-- Wholesale trade	
+S	XAX	Worker activity-- Transporting	
+S	XBX	Worker activity-- Tool use	
+S	XCX	Worker activity-- Constructing	
+S	XDX	Worker activity-- Protecting	
+S	XEX	Worker activity-- Handling	
+S	XFX	Worker activity-- Physical	
+S	XGX	Worker activity-- Other	
+S	XHX	Worker activity-- Tending	
+S	XIX	Worker activity-- Not reported	
+S	YAX	Worker location-- Residence	
+S	YBX	Worker location-- Farm	
+S	YCX	Worker location-- Mine	
+S	YDX	Worker location-- Industrial area	
+S	YEX	Worker location-- Recreation area	
+S	YFX	Worker location-- Street	
+S	YGX	Worker location-- Public building	
+S	YHX	Worker location-- Institution	
+S	YIX	Worker location-- Other or not reported	
+T	00X	Ownership-- All	
+T	05X	Ownership-- All government	
+T	10X	Ownership-- Federal government	
+T	20X	Ownership-- State government	
+T	30X	Ownership-- Local government	
+T	50X	Ownership-- Private industry	
+T	AAX	Age group-- 15 & under	
+T	ABX	Age group-- 16-17	
+T	ACX	Age group-- 18-19	
+T	ADW	Private industry-- Administration and support and waste management and remediation services	
+T	ADX	Age group-- 20-24	
+T	AER	Private industry-- Arts, entertainment, and recreation	
+T	AEX	Age group-- 25-34	
+T	AFH	Private industry-- Agriculture, forestry, fishing, and hunting	
+T	AFS	Private industry-- Accommodation and food services	
+T	AFX	Age group-- 35-44	
+T	AGX	Age group-- 45-54	
+T	AHX	Age group-- 55-64	
+T	AIX	Age group-- 65 & older	
+T	CON	Private industry-- Construction	
+T	E1X	Event or exposure-- Shooting	
+T	E2X	Event or exposure-- Other homicides	
+T	E3X	Event or exposure-- Self-inflicted injuries	
+T	E4X	Event or exposure-- Other events or exposures	
+T	EAX	Event or exposure-- Contact with objects & equipment	
+T	EBX	Event or exposure-- Struck by object	
+T	ECX	Event or exposure-- Struck by falling object	
+T	EDS	Private industry-- Educational services	
+T	EDX	Event or exposure-- Caught in equipment or object	
+T	EEX	Event or exposure-- Caught in running equipment or machinery	
+T	EFX	Event or exposure-- Falls	
+T	EGX	Event or exposure-- Fall to lower level	
+T	EHS	Private industry-- Education and health services	
+T	EHX	Event or exposure-- Fall from ladder	
+T	EIX	Event or exposure-- Fall from roof	
+T	EJX	Event or exposure-- Fall from scaffold	
+T	EKX	Event or exposure-- Harmful substances or environments	
+T	ELX	Event or exposure-- Contact with current	
+T	EMX	Event or exposure-- Caustic, noxious substances	
+T	ENX	Event or exposure-- Oxygen deficiency	
+T	EOX	Event or exposure-- Transportation incident	
+T	EPX	Event or exposure-- Highway transportation incident	
+T	EQX	Event or exposure-- Collision between vehicles	
+T	ERX	Event or exposure-- Noncollision highway incident	
+T	ESX	Event or exposure-- Nonhighway transportation incident	
+T	ETX	Event or exposure-- Overturned, nonhighway	
+T	EUX	Event or exposure-- Struck by vehicle	
+T	EVX	Event or exposure-- Other transportation incidents	
+T	EWX	Event or exposure-- Aircraft incidents	
+T	EXX	Event or exposure-- Fires & explosions	
+T	EYX	Event or exposure-- Assaults	
+T	EZX	Event or exposure-- Homicides	
+T	FIA	Private industry-- Financial activities	
+T	FIN	Private industry-- Finance and insurance	
+T	GFX	Gender-- Female	
+T	GMX	Gender-- Male	
+T	GP1	Private industry-- Goods producing	
+T	HSA	Private industry-- Health care and social assistance	
+T	INF	Private industry-- Information	
+T	LEH	Private industry-- Leisure and hospitality	
+T	MCE	Private industry-- Management of companies and enterprises	
+T	MFG	Private industry-- Manufacturing	
+T	MIN	Private industry-- Mining	
+T	NAX	Nature-- Intracranial injuries	
+T	NBX	Nature-- Other traumatic injuries	
+T	NCX	Nature-- Internal injuries	
+T	NDX	Nature-- Asphyxiations, suffocations	
+T	NEX	Nature-- Drownings	
+T	NFX	Nature-- Electrocutions	
+T	NGX	Nature-- Poisonings, toxic effects	
+T	NHX	Nature-- Open wounds	
+T	NIX	Nature-- Gunshot wounds	
+T	NJX	Nature-- Burns (heat, chemical, etc.)	
+T	NKX	Nature-- Multiple traumatic injuries	
+T	NLX	Nature-- Intracranial injuries and injuries to internal organs	
+T	NRM	Private industry-- Natural resources and mining	
+T	O00	Occupation-- Management, Professional, and Related Occupations (11--29)	
+T	O10	Occupation-- Management, Business, and Financial Occupations (11--13)	
+T	O11	Occupation-- Management Occupations	
+T	O13	Occupation-- Business and Financial Operations Occupations	
+T	O15	Occupation-- Computer and Mathematical Occupations	
+T	O17	Occupation-- Architecture and Engineering Occupations	
+T	O19	Occupation-- Life, Physical, and Social Science Occupations	
+T	O20	Occupation-- Professional and Related Occupations (15--29)	
+T	O21	Occupation-- Community and Social Services Occupations	
+T	O23	Occupation-- Legal Occupations	
+T	O25	Occupation-- Education, Training, and Library Occupations	
+T	O27	Occupation-- Arts, Design, Entertainment, Sports, and Media Occupations	
+T	O29	Occupation-- Healthcare Practitioner and Technical Occupations	
+T	O30	Occupation-- Service Occupations (31--39)	
+T	O31	Occupation-- Healthcare Support Occupations	
+T	O33	Occupation-- Protective Service Occupations	
+T	O35	Occupation-- Food Preparation and Serving Related Occupations	
+T	O37	Occupation-- Building and Grounds Cleaning and Maintenance Occupations	
+T	O39	Occupation-- Personal Care and Service Occupations	
+T	O40	Occupation-- Sales and Office Occupations (41--43)	
+T	O41	Occupation-- Sales and Related Occupations	
+T	O43	Occupation-- Office and Administrative Support Occupations	
+T	O44	Occupation-- Natural Resources, Construction, and Maintenance Occupations (45--49)	
+T	O45	Occupation-- Farming, Fishing, and Forestry Occupations	
+T	O47	Occupation-- Construction and Extraction Occupations	
+T	O49	Occupation-- Installation, Maintenance, and Repair Occupations	
+T	O50	Occupation-- Production, Transportation, and Material Moving Occupations (51--53)	
+T	O51	Occupation-- Production Occupations	
+T	O53	Occupation-- Transportation and Material Moving Occupations	
+T	O55	Occupation-- Military Specific Occupations	
+T	OTS	Private industry-- Other services	
+T	PAX	Part-- Head	
+T	PBS	Private industry-- Professional and business services	
+T	PBX	Part-- Trunk	
+T	PCX	Part-- Chest	
+T	PDX	Part-- Back	
+T	PEX	Part-- Neck	
+T	PFX	Part-- Lower extremities	
+T	PGX	Part-- Upper extremities	
+T	PHX	Part-- Body systems	
+T	PIX	Part-- Multiple	
+T	PST	Private industry-- Professional, scientific, and technical services	
+T	RAX	Race-- White	
+T	RBX	Race-- Black	
+T	RCX	Race-- American Indian, Aleut, Eskimo	
+T	RDX	Race-- Asian	
+T	RET	Private industry-- Retail trade	
+T	REX	Race-- Pacific Islander	
+T	RGX	Race-- Multiple	
+T	RHX	Race-- Other or not reported	
+T	RIX	Race-- Hispanic	
+T	RRL	Private industry-- Real estate and rental and leasing	
+T	SP1	Private industry-- Service producing	
+T	TRW	Private industry-- Transportation and warehousing	
+T	TTU	Private industry-- Trade, transportation, and utilities	
+T	UTL	Private industry -- Utilities	
+T	WAX	Worker status-- Wage and salary	
+T	WBX	Worker status-- Self-employed	
+T	WHT	Private industry-- Wholesale trade	
+T	XAX	Worker activity-- Transporting	
+T	XBX	Worker activity-- Tool use	
+T	XCX	Worker activity-- Constructing	
+T	XDX	Worker activity-- Protecting	
+T	XEX	Worker activity-- Handling	
+T	XFX	Worker activity-- Physical	
+T	XGX	Worker activity-- Other	
+T	XHX	Worker activity-- Tending	
+T	XIX	Worker activity-- Not reported	
+T	YAX	Worker location-- Residence	
+T	YBX	Worker location-- Farm	
+T	YCX	Worker location-- Mine	
+T	YDX	Worker location-- Industrial area	
+T	YEX	Worker location-- Recreation area	
+T	YFX	Worker location-- Street	
+T	YGX	Worker location-- Public building	
+T	YHX	Worker location-- Institution	
+T	YIX	Worker location-- Other or not reported	

@@ -1,0 +1,20 @@
+occupation_code	occupation_text	display_level	selectable	sort_sequence
+000000	All workers	0	T	1	
+111300	Management, business, and financial occupations	2	T	3	
+112900	Management, professional and related occupations	1	T	2	
+152900	Professional and related occupations	2	T	126	
+250001	Teachers	4	T	337	
+252000	Primary, secondary, and special education school teachers	5	T	388	
+291111	Registered nurses	4	T	527	
+313900	Service occupations	1	T	577	
+330000	Protective service occupations	2	T	602	
+410000	Sales and related occupations	2	T	761	
+414300	Sales and office occupations	1	T	760	
+430000	Office and administrative support occupations	2	T	805	
+454700	Construction, and extraction, farming, fishing, and forestry occupations	2	T	918	
+454900	Natural resources, construction, and maintenance occupations	1	T	917	
+490000	Installation, maintenance, and repair occupations	2	T	1051	
+510000	Production occupations	2	T	1125	
+515300	Production, transportation, and material moving occupations	1	T	1124	
+530000	Transportation and material moving occupations	2	T	1296	
+DISCON	Discontinued Codes	0	F	1417	

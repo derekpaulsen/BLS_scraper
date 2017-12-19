@@ -1,0 +1,267 @@
+irc_code	irc_text	display_level	selectable	sort_sequence
+C00A1	Persons age under 30, total	0 	T	262	
+C00A2	Persons age 30 to 44, total	0 	T	263	
+C00A3	Persons age 45 to 54, total	0 	T	264	
+C00A4	Persons age 55 and over, total	0 	T	265	
+C00A5	Persons age not available, total	0 	T	266	
+C00G1	Men, total	0 	T	259	
+C00G2	Women, total	0 	T	260	
+C00G3	Gender not available, total	0 	T	261	
+C00R1	White, total	0 	T	253	
+C00R2	Black, total	0 	T	254	
+C00R3	Hispanic origin, total	0 	T	255	
+C00R4	American Indian or Alaskan Native, total	0 	T	256	
+C00R5	Asian or Pacific Islander, total	0 	T	257	
+C00R6	Race and ethnicity not available, total	0 	T	258	
+C01A1	Persons age under 30, private nonfarm	0 	T	248	
+C01A2	Persons age 30 to 44, private nonfarm	0 	T	249	
+C01A3	Persons age 45 to 54, private nonfarm	0 	T	250	
+C01A4	Persons age 55 and over, private nonfarm	0 	T	251	
+C01A5	Persons age not available, private nonfarm	0 	T	252	
+C01G1	Men, private nonfarm	0 	T	245	
+C01G2	Women, private nonfarm	0 	T	246	
+C01G3	Gender not available, private nonfarm	0 	T	247	
+C01R1	White, private nonfarm	0 	T	239	
+C01R2	Black, private nonfarm	0 	T	240	
+C01R3	Hispanic origin, private nonfarm	0 	T	241	
+C01R4	American Indian or Alaskan Native, private nonfarm	0 	T	242	
+C01R5	Asian or Pacific Islander, private nonfarm	0 	T	243	
+C01R6	Race and ethnicity not available, private nonfarm	0 	T	244	
+N0001	Total all industries	0 	T	1	
+N0002	Total, private	1 	T	3	
+N0003	Agriculture, forestry, fishing and hunting	3 	T	4	
+N0004	Mining, quarrying, and oil and gas extraction	3 	T	12	
+N0005	Utilities	3 	T	16	
+N0006	Construction	3 	T	17	
+N0007	Manufacturing	3 	T	21	
+N0008	Food	4 	T	23	
+N0009	Beverage and tobacco products	4 	T	24	
+N0010	Textile mills	4 	T	25	
+N0011	Textile product mills	4 	T	26	
+N0012	Apparel	4 	T	27	
+N0013	Leather and allied products	4 	T	28	
+N0014	Wood products	4 	T	29	
+N0015	Paper	4 	T	30	
+N0016	Printing and related support activities	4 	T	31	
+N0017	Petroleum and coal products	4 	T	32	
+N0018	Chemicals	4 	T	33	
+N0019	Plastics and rubber products	4 	T	34	
+N0020	Nonmetallic mineral products	4 	T	35	
+N0021	Primary metals	4 	T	36	
+N0022	Fabricated metal products	4 	T	37	
+N0023	Machinery	4 	T	38	
+N0024	Computer and electronic products	4 	T	39	
+N0025	Electrical equipment and appliance mfg.	4 	T	40	
+N0026	Transportation equipment	4 	T	41	
+N0027	Furniture and related products	4 	T	42	
+N0028	Miscellaneous manufacturing	4 	T	43	
+N0029	Wholesale trade	3 	T	44	
+N0030	Retail trade	3 	T	48	
+N0031	Transportation and warehousing	3 	T	61	
+N0032	Information	3 	T	73	
+N0033	Finance and insurance	3 	T	81	
+N0034	Real estate and rental and leasing	3 	T	87	
+N0035	Professional and technical services	3 	T	91	
+N0036	Management of companies and enterprises	3 	T	93	
+N0037	Administrative and waste services	3 	T	95	
+N0038	Educational services	3 	T	98	
+N0039	Health care and social assistance	3 	T	100	
+N0040	Arts, entertainment, and recreation	3 	T	105	
+N0041	Accommodation and food services	3 	T	109	
+N0042	Other services, except public administration	3 	T	112	
+N0043	Unclassified	3 	T	117	
+N0044	Government	1 	T	118	
+N0045	Federal	3 	T	119	
+N0046	State	3 	T	120	
+N0047	Local	3 	T	121	
+N0048	Total, private nonfarm	2 	T	10	
+N0049	Crop production	4 	T	5	
+N0050	Animal production and aquaculture	4 	T	6	
+N0051	Forestry and logging	4 	T	7	
+N0052	Fishing, hunting and trapping	4 	T	8	
+N0053	Agriculture and forestry support activities	4 	T	9	
+N0054	Oil and gas extraction	4 	T	13	
+N0055	Mining, except oil and gas	4 	T	14	
+N0056	Support activities for mining	4 	T	15	
+N0057	Construction of buildings	4 	T	18	
+N0058	Heavy and civil engineering construction	4 	T	19	
+N0059	Specialty trade contractors	4 	T	20	
+N0060	Merchant wholesalers, durable goods	4 	T	45	
+N0061	Merchant wholesalers, nondurable goods	4 	T	46	
+N0062	Electronic markets and agents and brokers	4 	T	47	
+N0063	Motor vehicle and parts dealers	4 	T	49	
+N0064	Furniture and home furnishings stores	4 	T	50	
+N0065	Electronics and appliance stores	4 	T	51	
+N0066	Building material and garden supply stores	4 	T	52	
+N0067	Food and beverage stores	4 	T	53	
+N0068	Health and personal care stores	4 	T	54	
+N0069	Gasoline stations	4 	T	55	
+N0070	Clothing and clothing accessories stores	4 	T	56	
+N0071	Sports, hobby, music instrument, book stores	4 	T	57	
+N0072	General merchandise stores	4 	T	58	
+N0073	Miscellaneous store retailers	4 	T	59	
+N0074	Nonstore retailers	4 	T	60	
+N0075	Air transportation	4 	T	62	
+N0076	Rail transportation	4 	T	63	
+N0077	Water transportation	4 	T	64	
+N0078	Truck transportation	4 	T	65	
+N0079	Transit and ground passenger transportation	4 	T	66	
+N0080	Pipeline transportation	4 	T	67	
+N0081	Scenic and sightseeing transportation	4 	T	68	
+N0082	Support activities for transportation	4 	T	69	
+N0083	Postal service	4 	T	70	
+N0084	Couriers and messengers	4 	T	71	
+N0085	Warehousing and storage	4 	T	72	
+N0086	Publishing industries, except Internet	4 	T	74	
+N0087	Motion picture and sound recording industries	4 	T	75	
+N0088	Broadcasting, except Internet	4 	T	76	
+N0089	Internet publishing and broadcasting	4 	T	77	
+N0090	Telecommunications	4 	T	78	
+N0091	Data processing, hosting and related services	4 	T	79	
+N0092	Other information services	4 	T	80	
+N0093	Monetary authorities - central bank	4 	T	82	
+N0094	Credit intermediation and related activities	4 	T	83	
+N0095	Securities, commodity contracts, investments	4 	T	84	
+N0096	Insurance carriers and related activities	4 	T	85	
+N0097	Funds, trusts, and other financial vehicles	4 	T	86	
+N0098	Real estate	4 	T	88	
+N0099	Rental and leasing services	4 	T	89	
+N0100	Lessors of nonfinancial intangible assets	4 	T	90	
+N0101	Professional and technical services	4 	T	92	
+N0102	Management of companies and enterprises	4 	T	94	
+N0103	Administrative and support services	4 	T	96	
+N0104	Waste management and remediation services	4 	T	97	
+N0105	Educational services	4 	T	99	
+N0106	Ambulatory health care services	4 	T	101	
+N0107	Hospitals	4 	T	102	
+N0108	Nursing and residential care facilities	4 	T	103	
+N0109	Social assistance	4 	T	104	
+N0110	Performing arts and spectator sports	4 	T	106	
+N0111	Museums, historical sites, zoos, and parks	4 	T	107	
+N0112	Amusements, gambling, and recreation	4 	T	108	
+N0113	Accommodations	4 	T	110	
+N0114	Food services and drinking places	4 	T	111	
+N0115	Repair and maintenance	4 	T	113	
+N0116	Personal and laundry services	4 	T	114	
+N0117	Membership associations and organizations	4 	T	115	
+N0118	Private households	4 	T	116	
+N0119	Total all industries (seasonally adjusted)	0 	T	2	
+N0120	Total, private nonfarm (seasonally adjusted)	2 	T	11	
+N0121	Manufacturing (seasonally adjusted)	3 	T	22	
+R0000	Total, all reasons	0 	T	201	
+R0010	Business demand, total	1 	T	202	
+R0011	Contract cancellation, total	2 	T	203	
+R0012	Contract completion, total	2 	T	204	
+R0013	Domestic competition, total	2 	T	205	
+R0014	Excess inventory/saturated market, total	2 	T	206	
+R0015	Import competition, total	2 	T	207	
+R0016	Slack work/insufficient demand/non-seasonal business slowdown, total	2 	T	208	
+R0020	Disaster/safety, total	1 	T	209	
+R0021	Hazardous work environment, total	2 	T	210	
+R0022	Natural disaster (not weather related), total	2 	T	211	
+R0023	Non-natural disaster, total	2 	T	212	
+R0024	Extreme weather-related event, total	2 	T	213	
+R0030	Financial, total	1 	T	214	
+R0031	Bankruptcy, total	2 	T	215	
+R0032	Cost control/cost cutting/increase profitability, total	2 	T	216	
+R0033	Financial difficulty, total	2 	T	217	
+R0040	Organizational, total	1 	T	218	
+R0041	Business-ownership change, total	2 	T	219	
+R0042	Reorganization or restructuring of company, total	2 	T	220	
+R0050	Production, total	1 	T	221	
+R0051	Automation/technological advances, total	2 	T	222	
+R0052	Energy related, total	2 	T	223	
+R0053	Governmental regulations/intervention, total	2 	T	224	
+R0054	Labor dispute/contract negotiations/strike, total	2 	T	225	
+R0055	Material or supply shortage, total	2 	T	226	
+R0056	Model changeover, total	2 	T	227	
+R0057	Plant or machine repair/maintenance, total	2 	T	228	
+R0058	Product line discontinued, total	2 	T	229	
+R0060	Seasonal, total	1 	T	230	
+R0061	Seasonal, total	2 	T	231	
+R0062	Vacation period - school related or otherwise, total	2 	T	232	
+R0090	Other/miscellaneous, total	1 	T	233	
+R0091	Other, total	2 	T	234	
+R0098	Data not provided: REFUSAL, total	2 	T	235	
+R0099	Data not provided: DOES NOT KNOW, total	2 	T	236	
+R00AA	Domestic relocation, total	1 	T	237	
+R00AB	Overseas relocation, total	1 	T	238	
+R0100	Total, private nonfarm	0 	T	163	
+R0110	Business demand	1 	T	164	
+R0111	Contract cancellation	2 	T	165	
+R0112	Contract completion	2 	T	166	
+R0113	Domestic competition	2 	T	167	
+R0114	Excess inventory/saturated market	2 	T	168	
+R0115	Import competition	2 	T	169	
+R0116	Slack work/insufficient demand/non-seasonal business slowdown	2 	T	170	
+R0120	Disaster/safety	1 	T	171	
+R0121	Hazardous work environment	2 	T	172	
+R0122	Natural disaster (not weather related)	2 	T	173	
+R0123	Non-natural disaster	2 	T	174	
+R0124	Extreme weather-related event	2 	T	175	
+R0130	Financial	1 	T	176	
+R0131	Bankruptcy	2 	T	177	
+R0132	Cost control/cost cutting/increase profitability	2 	T	178	
+R0133	Financial difficulty	2 	T	179	
+R0140	Organizational	1 	T	180	
+R0141	Business-ownership change	2 	T	181	
+R0142	Reorganization or restructuring of company	2 	T	182	
+R0150	Production	1 	T	183	
+R0151	Automation/technological advances	2 	T	184	
+R0152	Energy related	2 	T	185	
+R0153	Governmental regulations/intervention	2 	T	186	
+R0154	Labor dispute/contract negotiations/strike	2 	T	187	
+R0155	Material or supply shortage	2 	T	188	
+R0156	Model changeover	2 	T	189	
+R0157	Plant or machine repair/maintenance	2 	T	190	
+R0158	Product line discontinued	2 	T	191	
+R0160	Seasonal	1 	T	192	
+R0161	Seasonal	2 	T	193	
+R0162	Vacation period - school related or otherwise	2 	T	194	
+R0190	Other/miscellaneous	1 	T	195	
+R0191	Other	2 	T	196	
+R0198	Data not provided: REFUSAL	2 	T	197	
+R0199	Data not provided: DOES NOT KNOW	2 	T	198	
+R01AA	Domestic relocation	1 	T	199	
+R01AB	Overseas relocation	1 	T	200	
+S0001	Total all industries	0 	T	122	
+S0002	Total all industries, private	1 	T	123	
+S0003	Agriculture	2 	T	124	
+S0004	Nonagriculture	2 	T	125	
+S0005	Manufacturing	3 	T	126	
+S0006	Durable goods	4 	T	127	
+S0010	Lumber and wood products	5 	T	128	
+S0011	Furniture and fixtures	5 	T	129	
+S0018	Stone, clay and glass products	5 	T	130	
+S0019	Primary metal industries	5 	T	131	
+S0020	Fabricated metal products	5 	T	132	
+S0021	Industrial machinery and equipment	5 	T	133	
+S0022	Electronic and other electrical equipment	5 	T	134	
+S0023	Transportation equipment	5 	T	135	
+S0024	Instruments and related products	5 	T	136	
+S0025	Miscellaneous manufacturing industries	5 	T	137	
+S0026	Nondurable goods	4 	T	138	
+S0027	Food and kindred products	5 	T	139	
+S0028	Tobacco products	5 	T	140	
+S0029	Textile mill products	5 	T	141	
+S0030	Apparel and other textile products	5 	T	142	
+S0033	Paper and allied products	5 	T	143	
+S0034	Printing and publishing	5 	T	144	
+S0035	Chemicals and allied products	5 	T	145	
+S0036	Petroleum and coal products	5 	T	146	
+S0037	Rubber and miscellaneous plastics products	5 	T	147	
+S0038	Leather and leather products	5 	T	148	
+S0039	Nonmanufacturing	3 	T	149	
+S0040	Mining	4 	T	150	
+S0041	Construction	4 	T	151	
+S0042	Transportation and public utilities	4 	T	152	
+S0043	Wholesale and retail trade	4 	T	153	
+S0044	Wholesale trade	5 	T	154	
+S0045	Retail trade	5 	T	155	
+S0046	Finance, insurance, and real estate	4 	T	156	
+S0047	Services	4 	T	157	
+S0048	Not identified	2 	T	158	
+S0049	Government	1 	T	159	
+S0050	Federal government	4 	T	160	
+S0051	State government	4 	T	161	
+S0052	Local government	4 	T	162	

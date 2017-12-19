@@ -1,0 +1,13 @@
+division_code	division_name
+
+00	Private industry
+09	Agriculture, forestry, and fishing
+10	Mining
+20	Construction
+30	Manufacturing
+40	Transportation and public utilities
+45	Wholesale and retail trade
+50	Wholesale trade
+60	Retail trade
+70	Finance, insurance, and real estate
+80	Services

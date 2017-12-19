@@ -1,0 +1,6 @@
+0	Fatalities by detailed industry (all sectors)
+1	Fatalities by detailed private industry
+9	Fatalities by detailed government industry
+E	Fatalities by detailed event or exposure
+O	Fatalities by detailed occupation
+S	Fatalities by detailed source of injury

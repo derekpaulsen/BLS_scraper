@@ -1,0 +1,7 @@
+data_type_code	date_type_text
+0	Rate of illness cases per 10,000 full-time workers
+1	Rate of injury cases per 100 full-time workers
+3	Rate of injury & illness cases per 100 f-t workers
+4	Number of illness cases (000's)
+5	Number of injury cases (000's)
+6	Number of injury & illness cases (000's)

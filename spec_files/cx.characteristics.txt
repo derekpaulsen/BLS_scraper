@@ -1,0 +1,132 @@
+demographics_code	characteristics_code	characteristics_text	display_level	selectable	sort_sequence
+LB01	01	All Consumer Units	0	T	1010	
+LB01	02	Lowest 20 percent income quintile	0	T	1020	
+LB01	03	Second 20 percent income quintile	0	T	1030	
+LB01	04	Third 20 percent income quintile	0	T	1040	
+LB01	05	Fourth 20 percent income quintile	0	T	1050	
+LB01	06	Highest 20 percent income quintile	0	T	1060	
+LB01	A1	Total complete income reporters	0	T	1070	
+LB01	A2	Incomplete income reports	0	T	1080	
+LB02	01	All Consumer Units	0	T	2010	
+LB02	02	Before tax income of less than $5,000	0	T	2020	
+LB02	03	$5,000 to $9,999 before tax income	0	T	2030	
+LB02	04	$10,000 to $14,999 before tax income	0	T	2040	
+LB02	05	$15,000 to $19,999 before tax income	0	T	2050	
+LB02	06	$20,000 to $29,999 before tax income	0	T	2060	
+LB02	07	$30,000 to $39,999 before tax income	0	T	2070	
+LB02	08	$40,000 to $49,999 before tax income	0	T	2080	
+LB02	09	$50,000 to $69,999 before tax income	0	T	2090	
+LB02	10	Before tax income of $70,000 and over	0	T	2100	
+LB02	11	Before tax income of less than $70,000(from 2003)	0	T	2110	
+LB02	12	$70,000 to $79,999 before tax income(from 2003)	0	T	2120	
+LB02	13	$80,000 to $99,999 before tax income(from 2003)	0	T	2130	
+LB02	14	Before tax income of $100,000 and over(from 2003)	0	T	2140	
+LB02	15	$100,000 to $119,999 before tax income(from 2003)	0	T	2150	
+LB02	16	$120,000 to $149,999 before tax income(from 2003)	0	T	2160	
+LB02	17	Before tax income of $150,000 and over(from 2003)	0	T	2170	
+LB02	18	Less than $15,000	0	T	2181	
+LB02	19	$15,000 to $29,999	0	T	2191	
+LB02	20	$70,000 to $99,999	0	T	2200	
+LB02	21	$100,000 to $149,999	0	T	2210	
+LB02	22	$150,000 to $199,999	0	T	2220	
+LB02	23	$200,000 and more	0	T	2230	
+LB02	A1	Before tax income of $50,000 and over	0	T	2180	
+LB02	A2	Total complete income reporters	0	T	2190	
+LB04	01	All Consumer Units	0	T	4010	
+LB04	02	Reference person under age 25	0	T	4020	
+LB04	03	Reference person between age 25 and 34	0	T	4030	
+LB04	04	Reference person between age 35 and 44	0	T	4040	
+LB04	05	Reference person between age 45 and 54	0	T	4050	
+LB04	06	Reference person between age 55 and 64	0	T	4060	
+LB04	07	Reference person over age 65	0	T	4070	
+LB04	08	Reference person between age 65 and 74	0	T	4080	
+LB04	09	Reference person over the age of 75	0	T	4090	
+LB05	01	All Consumer Units	0	T	5010	
+LB05	02	One person consumer unit	0	T	5020	
+LB05	03	Two or more people in consumer unit	0	T	5030	
+LB05	04	Two people in consumer unit	1	T	5040	
+LB05	05	Three people in consumer unit	1	T	5050	
+LB05	06	Four people in consumer unit	1	T	5060	
+LB05	07	Five or more people in consumer unit	1	T	5070	
+LB05	A1	Five people in consumer unit	1	T	5080	
+LB05	A2	Six or more people in consumer unit	1	T	5090	
+LB06	01	All Consumer Units	0	T	6100	
+LB06	02	Total married couple consumer units	0	T	6010	
+LB06	03	Married couple only consumer units	1	T	6020	
+LB06	04	Total married couple with children cons. units	1	T	6030	
+LB06	05	Married couple w/ children, oldest child under 6	2	T	6040	
+LB06	06	Married couple w/ children, oldest child 6 to 17	2	T	6050	
+LB06	07	Married couple w/ children, old. child 18 or over	2	T	6060	
+LB06	08	Other married couple consumer units	1	T	6070	
+LB06	09	One parent, at least one child under 18	0	T	6080	
+LB06	10	Single person and other consumer units	0	T	6090	
+LB07	01	All Consumer Units	0	T	7010	
+LB07	02	Single Consumers, no earner	0	T	7020	
+LB07	03	Single Consumers, one earner	0	T	7030	
+LB07	04	Consumer units of two or more people, no earners	0	T	7040	
+LB07	05	CUs of two or more people, one earner	0	T	7050	
+LB07	06	CUs of two or more people, two earners	0	T	7060	
+LB07	07	CUs of two or more people, three or more earners	0	T	7070	
+LB08	01	All Consumer Units	0	T	8010	
+LB08	02	Housing tenure: home owner	0	T	8020	
+LB08	03	Housing tenure: homeowner with mortgage(from 2003)	1	T	8030	
+LB08	04	Housing tenure: homeowner w/o mortgage(from 2003)	1	T	8040	
+LB08	05	Housing tenure: renter	0	T	8050	
+LB08	06	Type of area: urban	0	T	8060	
+LB08	07	Type of area: urban: central city(from 2003)	1	T	8070	
+LB08	08	Type of area: urban: other urban(from 2003)	1	T	8080	
+LB08	09	Type of area: rural	0	T	8090	
+LB09	01	All Consumer Units	0	T	9010	
+LB09	02	Race of ref. person: White, Asian, and All Others	0	T	9020	
+LB09	03	Race of rf. pers.: White and All Others(from 2003)	1	T	9030	
+LB09	04	Race of reference person: Asian(from 2003)	1	T	9040	
+LB09	05	Race of ref. person: Black or African American	0	T	9050	
+LB10	01	All Consumer Units	0	T	10010	
+LB10	02	Origin of reference person: Hispanic or Latino	0	T	10020	
+LB10	03	Origin of reference person: Not Hispanic or Latino	0	T	10030	
+LB10	04	Not Hispanic or Latino: White and All Other Races	1	T	10040	
+LB10	05	Not Hispanic or Latino: Black or African-American	1	T	10050	
+LB11	01	All Consumer Units	0	T	11010	
+LB11	02	Region of residence: northeast	0	T	11020	
+LB11	03	Region of residence: midwest	0	T	11030	
+LB11	04	Region of residence: south	0	T	11040	
+LB11	05	Region of residence: west	0	T	11050	
+LB12	01	All Consumer Units	0	T	6100	
+LB12	02	Self-employed workers	0	T	12010	
+LB12	03	Total wage and salary earners	0	T	12020	
+LB12	04	Wage & salary earners: managers and professionals	1	T	12030	
+LB12	05	Wage & salary: tech., sales, and clerical workers	1	T	12040	
+LB12	06	Wage & salary earners: service workers	1	T	12050	
+LB12	07	Wage & salary: construction workers & mechanics	1	T	12060	
+LB12	08	Wage & salary: Operators, fabricators & laborers	1	T	12070	
+LB12	09	Retired	0	T	12080	
+LB12	10	Occupation: all other, including not reporting	0	T	12090	
+LB13	01	All Consumer Units	0	T	13010	
+LB13	02	Total, less than college graduate	0	T	13020	
+LB13	03	Less than high school graduate	1	T	13030	
+LB13	04	High school graduate	1	T	13040	
+LB13	05	High school graduate with some college	1	T	13050	
+LB13	06	Associate degree	1	T	13060	
+LB13	07	Total, college graduate	0	T	13070	
+LB13	08	Bachelor's degree	1	T	13080	
+LB13	09	Master's, professional, doctorate	1	T	13090	
+LB14	01	All Consumer Units	0	T	14010	
+LB14	02	Less than college graduate: Total	1	T	14020	
+LB14	03	Less than college graduate: Less than high school graduate	1	T	14030	
+LB14	04	Less than college graduate: High school graduate	1	T	14040	
+LB14	05	Less than college graduate: High schoo graduate with some college	1	T	14050	
+LB14	06	Less than college graduate: Associate's degree	1	T	14060	
+LB14	07	College graduate: Total	1	T	14070	
+LB14	08	College graduate: Bachelor's degree	1	T	14080	
+LB14	09	College graduate: Master's, professional, doctoral degree	1	T	14090	
+LB15	01	All consumer units	0	T	15010	
+LB15	02	Lowest 10 percent	0	T	15020	
+LB15	03	Second 10 percent	0	T	15030	
+LB15	04	Third 10 percent	0	T	15040	
+LB15	05	Fourth 10 percent	0	T	15050	
+LB15	06	Fifth 10 percent	0	T	15060	
+LB15	07	Sixth 10 percent	0	T	15070	
+LB15	08	Seventh 10 percent	0	T	15080	
+LB15	09	Eighth 10 percent	0	T	15090	
+LB15	10	Ninth 10 percent	0	T	15100	
+LB15	11	Highest 10 percent	0	T	15110	

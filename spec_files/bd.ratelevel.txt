@@ -1,0 +1,3 @@
+ratelevel_code	ratelevel_name
+L	Level	
+R	Rate	

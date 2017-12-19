@@ -1,0 +1,18 @@
+datatype_code	datatype_name
+01	Employment	
+02	Employment percent relative standard error	
+03	Hourly mean wage	
+04	Annual mean wage	
+05	Wage percent relative standard error	
+06	Hourly 10th percentile wage	
+07	Hourly 25th percentile wage	
+08	Hourly median wage	
+09	Hourly 75th percentile wage	
+10	Hourly 90th percentile wage	
+11	Annual 10th percentile wage	
+12	Annual 25th percentile wage	
+13	Annual median wage	
+14	Annual 75th percentile wage	
+15	Annual 90th percentile wage	
+16	Employment per 1,000 jobs	
+17	Location Quotient	

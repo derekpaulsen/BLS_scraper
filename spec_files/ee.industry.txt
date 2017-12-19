@@ -1,0 +1,671 @@
+industry_code	SIC_code	publishing_status	industry_name
+
+000000	N/A	B	Total nonfarm	1 	T	1    
+005000	N/A	A	Total private	1 	T	2    
+005100	N/A	A	Goods-producing	1 	T	3    
+100000	10-14	A	Mining	2 	T	4    
+101000	10	A	Metal mining	3 	T	5    
+101010	101	D	Iron ores	4 	T	6    
+101020	102	D	Copper ores	4 	T	7    
+101200	12	A	Coal mining	3 	T	8    
+101220	122	D	Bituminous coal and lignite mining	4 	T	9    
+101300	13	A	Oil and gas extraction	3 	T	10   
+101310	131	A	Crude petroleum and natural gas	4 	T	11   
+101380	138	A	Oil and gas field services	4 	T	12   
+101400	14	A	Nonmetallic minerals, except fuels	3 	T	13   
+101420	142	A	Crushed and broken stone	4 	T	14   
+101440	144	B	Sand and gravel	4 	T	15   
+101470	147	C	Chemical and fertilizer minerals	4 	T	16   
+200000	15-17	A	Construction	2 	T	17   
+201500	15	A	General building contractors	3 	T	18   
+201520	152	A	Residential building construction	4 	T	19   
+201530	153	A	Operative builders	4 	T	20   
+201540	154	A	Nonresidential building construction	4 	T	21   
+201600	16	A	Heavy construction, except building	3 	T	22   
+201610	161	A	Highway and street construction	4 	T	23   
+201620	162	A	Heavy construction, except highway	4 	T	24   
+201700	17	A	Special trade contractors	3 	T	25   
+201710	171	A	Plumbing, heating, and air-conditioning	4 	T	26   
+201720	172	A	Painting and paper hanging	4 	T	27   
+201730	173	A	Electrical work	4 	T	28   
+201740	174	A	Masonry, stonework, and plastering	4 	T	29   
+201750	175	A	Carpentry and floor work	4 	T	30   
+201760	176	A	Roofing, siding, and sheet metal work	4 	T	31   
+300000	20-39	AO	Manufacturing	2 	T	32   
+310000	24, 25, 32-39	AO	Manufacturing-durable goods	2 	T	33   
+312400	24	AO	Lumber and wood products	3 	T	34   
+312410	241	AO	Logging	4 	T	35   
+312420	242	AO	Sawmills and planing mills	4 	T	36   
+312421	2421	AO	Sawmills and planing mills, general	5 	T	37   
+312426	2426	DO	Hardwood dimension and flooring mills	5 	T	38   
+312430	243	AO	Millwork, plywood, and structural members	4 	T	39   
+312431	2431	DO	Millwork	5 	T	40   
+312434	2434	DO	Wood kitchen cabinets	5 	T	41   
+312435	2435	DO	Hardwood veneer and plywood	5 	T	42   
+312436	2436	DO	Softwood veneer and plywood	5 	T	43   
+312440	244	AO	Wood containers	4 	T	44   
+312450	245	AO	Wood buildings and mobile homes	4 	T	45   
+312451	2451	DO	Mobile homes	5 	T	46   
+312490	249	AO	Miscellaneous wood products	4 	T	47   
+312500	25	AO	Furniture and fixtures	3 	T	48   
+312510	251	AO	Household furniture	4 	T	49   
+312511	2511	AO	Wood household furniture	5 	T	50   
+312512	2512	AO	Upholstered household furniture	5 	T	51   
+312514	2514	DO	Metal household furniture	5 	T	52   
+312515	2515	AO	Mattresses and bedsprings	5 	T	53   
+312520	252	AO	Office furniture	4 	T	54   
+312530	253	AO	Public building and related furniture	4 	T	55   
+312540	254	AO	Partitions and fixtures	4 	T	56   
+312590	259	AO	Miscellaneous furniture and fixtures	4 	T	57   
+313200	32	AO	Stone, clay, and glass products	3 	T	58   
+313210	321	DO	Flat glass	4 	T	59   
+313220	322	AO	Glass and glassware, pressed or blown	4 	T	60   
+313221	3221	AO	Glass containers	5 	T	61   
+313229	3229	AO	Pressed and blown glass, nec	5 	T	62   
+313230	323	AO	Products of purchased glass	4 	T	63   
+313240	324	AO	Cement, hydraulic	4 	T	64   
+313250	325	AO	Structural clay products	4 	T	65   
+313260	326	AO	Pottery and related products	4 	T	66   
+313270	327	AO	Concrete, gypsum, and plaster products	4 	T	67   
+313271	3271	DO	Concrete block and brick	5 	T	68   
+313272	3273	DO	Concrete products, nec	5 	T	69   
+313273	3273	DO	Ready-mixed concrete	5 	T	70   
+313290	329	AO	Miscellaneous nonmetallic mineral products	4 	T	71   
+313291	3291	DO	Abrasive products	5 	T	72   
+313296	3296	C	Mineral wool	5 	T	73   
+313300	33	AO	Primary metal industries	3 	T	74   
+313310	331	AO	Blast furnaces and basic steel products	4 	T	75   
+313312	3312	AO	Blast furnaces and steel mills	5 	T	76   
+313317	3317	DO	Steel pipe and tubes	5 	T	77   
+313320	332	AO	Iron and steel foundries	4 	T	78   
+313321	3321	AO	Gray and ductile iron foundries	5 	T	79   
+313322	3322	AO	Malleable iron foundries	5 	T	80   
+313325	3325	AO	Steel foundries, nec	5 	T	81   
+313330	333	AO	Primary nonferrous metals	4 	T	82   
+313334	3334	AO	Primary aluminum	5 	T	83   
+313350	335	AO	Nonferrous rolling and drawing	4 	T	84   
+313351	3351	AO	Copper rolling and drawing	5 	T	85   
+313353	3353	AO	Aluminum sheet, plate, and foil	5 	T	86   
+313357	3357	AO	Nonferrous wire drawing and insulating	5 	T	87   
+313360	336	AO	Nonferrous foundries (castings)	4 	T	88   
+313365	3365	DO	Aluminum foundries	5 	T	89   
+313400	34	AO	Fabricated metal products	3 	T	90   
+313410	341	AO	Metal cans and shipping containers	4 	T	91   
+313411	3411	AO	Metal cans	5 	T	92   
+313420	342	AO	Cutlery, handtools, and hardware	4 	T	93   
+313425	3423,5	AO	Hand and edge tools, blades, and handsaws	5 	T	94   
+313429	3429	AO	Hardware, nec	5 	T	95   
+313430	343	AO	Plumbing and heating, except electric	4 	T	96   
+313432	3432	DO	Plumbing fixture fittings and trim	5 	T	97   
+313433	3433	DO	Heating equipment, except electric	5 	T	98   
+313440	344	AO	Fabricated structural metal products	4 	T	99   
+313441	3441	AO	Fabricated structural metal	5 	T	100  
+313442	3442	AO	Metal doors, sash, and trim	5 	T	101  
+313443	3443	AO	Fabricated plate work (boiler shops)	5 	T	102  
+313444	3444	AO	Sheet metal work	5 	T	103  
+313446	3446	DO	Architectural metal work	5 	T	104  
+313450	345	AO	Screw machine products, bolts, etc	4 	T	105  
+313451	3451	AO	Screw machine products	5 	T	106  
+313452	3452	AO	Bolts, nuts, rivets, and washers	5 	T	107  
+313460	346	AO	Metal forgings and stampings	4 	T	108  
+313462	3462	AO	Iron and steel forgings	5 	T	109  
+313465	3465	AO	Automotive stampings	5 	T	110  
+313469	3469	AO	Metal stampings, nec	5 	T	111  
+313470	347	AO	Metal services, nec	4 	T	112  
+313471	3471	AO	Plating and polishing	5 	T	113  
+313479	3479	AO	Metal coating and allied services	5 	T	114  
+313480	348	AO	Ordnance and accessories, nec	4 	T	115  
+313483	3483	DO	Ammunition, except for small arms, nec	5 	T	116  
+313490	349	AO	Miscellaneous fabricated metal products	4 	T	117  
+313494	3494	AO	Valves and pipe fittings, nec	5 	T	118  
+313496	3496	AO	Miscellaneous fabricated wire products	5 	T	119  
+313500	35	AO	Industrial machinery and equipment	3 	T	120  
+313510	351	AO	Engines and turbines	4 	T	121  
+313511	3511	AO	Turbines and turbine generator sets	5 	T	122  
+313519	3519	AO	Internal combustion engines, nec	5 	T	123  
+313520	352	AO	Farm and garden machinery	4 	T	124  
+313523	3523	AO	Farm machinery and equipment	5 	T	125  
+313530	353	AO	Construction and related machinery	4 	T	126  
+313531	3531	AO	Construction machinery	5 	T	127  
+313532	3532	DO	Mining machinery	5 	T	128  
+313533	3533	AO	Oil and gas field machinery	5 	T	129  
+313535	3535	DO	Conveyors and conveying equipment	5 	T	130  
+313537	3537	DO	Industrial trucks and tractors	5 	T	131  
+313540	354	AO	Metalworking machinery	4 	T	132  
+313541	3541	AO	Machine tools, metal cutting types	5 	T	133  
+313542	3542	DO	Machine tools, metal forming types	5 	T	134  
+313544	3544	AO	Special dies, tools, jigs, and fixtures	5 	T	135  
+313545	3545	AO	Machine tool accessories	5 	T	136  
+313546	3546	DO	Power driven handtools	5 	T	137  
+313550	355	AO	Special industry machinery	4 	T	138  
+313552	3552	AO	Textile machinery	5 	T	139  
+313555	3555	AO	Printing trades machinery	5 	T	140  
+313556	3556	DO	Food products machinery	5 	T	141  
+313560	356	AO	General industrial machinery	4 	T	142  
+313561	3561	AO	Pumps and pumping equipment	5 	T	143  
+313562	3562	AO	Ball and roller bearings	5 	T	144  
+313563	3563	DO	Air and gas compressors	5 	T	145  
+313564	3564	DO	Blowers and fans	5 	T	146  
+313566	3566	DO	Speed changers, drives, and gears	5 	T	147  
+313568	3568	DO	Power transmission equipment, nec	5 	T	148  
+313570	357	AO	Computer and office equipment	4 	T	149  
+313571	3571	AO	Electronic computers	5 	T	150  
+313579	3575, 8, 9	AO	Computer terminals, calculators, office machines	5 	T	151  
+313580	358	AO	Refrigeration and service machinery	4 	T	152  
+313585	3585	AO	Refrigeration and heating equipment	5 	T	153  
+313590	359	AO	Misc. industrial and commercial machinery	4 	T	154  
+313592	3592	DO	Carburetors, pistons, rings, valves	5 	T	155  
+313599	3596, 9	AO	Scales, balances, and industrial machinery	5 	T	156  
+313600	36	AO	Electronic and other electrical equipment	3 	T	157  
+313610	361	AO	Electric distribution equipment	4 	T	158  
+313612	3612	AO	Transformers, except electronic	5 	T	159  
+313613	3613	AO	Switchgear and switchboard apparatus	5 	T	160  
+313620	362	AO	Electrical industrial apparatus	4 	T	161  
+313621	3621	AO	Motors and generators	5 	T	162  
+313625	3625	AO	Relays and industrial controls	5 	T	163  
+313630	363	AO	Household appliances	4 	T	164  
+313632	3632	AO	Household refrigerators and freezers	5 	T	165  
+313633	3633	AO	Household laundry equipment	5 	T	166  
+313634	3634	AO	Electric housewares and fans	5 	T	167  
+313640	364	AO	Electric lighting and wiring equipment	4 	T	168  
+313641	3641	AO	Electric lamps	5 	T	169  
+313643	3643	AO	Current-carrying wiring devices	5 	T	170  
+313644	3644	DO	Noncurrent-carrying wiring devices	5 	T	171  
+313645	3645	DO	Residential lighting fixtures	5 	T	172  
+313650	365	AO	Household audio and video equipment	4 	T	173  
+313651	3651	AO	Household audio and video equipment	5 	T	174  
+313660	366	AO	Communications equipment	4 	T	175  
+313661	3661	AO	Telephone and telegraph apparatus	5 	T	176  
+313670	367	AO	Electronic components and accessories	4 	T	177  
+313671	3671	AO	Electron tubes	5 	T	178  
+313674	3674	AO	Semiconductors and related devices	5 	T	179  
+313679	3679	AO	Electronic components, nec	5 	T	180  
+313690	369	AO	Misc. electrical equipment and supplies	4 	T	181  
+313691	3691	DO	Storage batteries	5 	T	182  
+313694	3694	AO	Engine electrical equipment	5 	T	183  
+313700	37	AO	Transportation equipment	3 	T	184  
+313710	371	AO	Motor vehicles and equipment	4 	T	185  
+313711	3711	AO	Motor vehicles and car bodies	5 	T	186  
+313713	3713	AO	Truck and bus bodies	5 	T	187  
+313714	3714	AO	Motor vehicle parts and accessories	5 	T	188  
+313715	3715	DO	Truck trailers	5 	T	189  
+313720	372	AO	Aircraft and parts	4 	T	190  
+313721	3721	AO	Aircraft	5 	T	191  
+313722	3722		Aircraft, including lump-sum payments	5 	T	192  
+313724	3724	AO	Aircraft engines and engine parts	5 	T	193  
+313728	3728	AO	Aircraft parts and equipment, nec	5 	T	194  
+313730	373	AO	Ship and boat building and repairing	4 	T	195  
+313731	3731	AO	Ship building and repairing	5 	T	196  
+313732	3732	DO	Boat building and repairing	5 	T	197  
+313740	374	AO	Railroad equipment	4 	T	198  
+313760	376	AO	Guided missiles, space vehicles, and parts	4 	T	199  
+313761	3761	AO	Guided missiles and space vehicles	5 	T	200  
+313762	3762		Guided miss. and space veh.,incl. lump-sum pmts	5 	T	201  
+313790	379	AO	Miscellaneous transportation equipment	4 	T	202  
+313792	3792	DO	Travel trailers and campers	5 	T	203  
+313800	38	AO	Instruments and related products	3 	T	204  
+313810	381	AO	Search and navigation equipment	4 	T	205  
+313820	382	AO	Measuring and controlling devices	4 	T	206  
+313822	3822	AO	Environmental controls	5 	T	207  
+313823	3823	AO	Process control instruments	5 	T	208  
+313825	3825	AO	Instruments to measure electricity	5 	T	209  
+313840	384	AO	Medical instruments and supplies	4 	T	210  
+313841	3841	AO	Surgical and medical instruments	5 	T	211  
+313842	3842	AO	Surgical appliances and supplies	5 	T	212  
+313850	385	AO	Ophthalmic goods	4 	T	213  
+313860	386	AO	Photographic equipment and supplies	4 	T	214  
+313870	387	AO	Watches, clocks, watchcases, and parts	4 	T	215  
+313900	39	AO	Miscellaneous manufacturing industries	3 	T	216  
+313910	391	AO	Jewelry, silverware, and plated ware	4 	T	217  
+313911	3911	DO	Jewelry, precious metal	5 	T	218  
+313930	393	AO	Musical instruments	4 	T	219  
+313940	394	AO	Toys and sporting goods	4 	T	220  
+313944	3942, 4	AO	Dolls, games, toys, and children's vehicles	5 	T	221  
+313949	3949	AO	Sporting and athletic goods, nec	5 	T	222  
+313950	395	AO	Pens, pencils, office, and art supplies	4 	T	223  
+313960	396	AO	Costume jewelry and notions	4 	T	224  
+313961	3961	DO	Costume jewelry	5 	T	225  
+313990	399	AO	Miscellaneous manufactures	4 	T	226  
+313993	3993	DO	Signs and advertising specialties	5 	T	227  
+320000	20-23, 26-31	AO	Manufacturing-Nondurable goods	2 	T	228  
+322000	20	AO	Food and kindred products	3 	T	229  
+322010	201	AO	Meat products	4 	T	230  
+322011	2011	AO	Meat packing plants	5 	T	231  
+322013	2013	AO	Sausages and other prepared meats	5 	T	232  
+322015	2015	AO	Poultry slaughtering and processing	5 	T	233  
+322020	202	AO	Dairy products	4 	T	234  
+322022	2022	DO	Cheese, natural and processed	5 	T	235  
+322026	2026	AO	Fluid milk	5 	T	236  
+322030	203	AO	Preserved fruits and vegetables	4 	T	237  
+322032	2032	AO	Canned specialties	5 	T	238  
+322033	2033	AO	Canned fruits and vegetables	5 	T	239  
+322037	2037	AO	Frozen fruits and vegetables	5 	T	240  
+322040	204	AO	Grain mill products	4 	T	241  
+322041	2041	DO	Flour and other grain mill products	5 	T	242  
+322048	2048	DO	Prepared feeds, nec	5 	T	243  
+322050	205	AO	Bakery products	4 	T	244  
+322051	2051	AO	Bread, cake, and related products	5 	T	245  
+322053	2052, 3	AO	Cookies, crackers, and frozen bakery prods	5 	T	246  
+322060	206	AO	Sugar and confectionery products	4 	T	247  
+322061	2061, 2	AO	Cane sugar	5 	T	248  
+322063	2063	AO	Beet sugar	5 	T	249  
+322064	2064	AO	Candy and other confectionery products	5 	T	250  
+322070	207	AO	Fats and oils	4 	T	251  
+322080	208	AO	Beverages	4 	T	252  
+322082	2082	AO	Malt beverages	5 	T	253  
+322086	2086	AO	Bottled and canned soft drinks	5 	T	254  
+322090	209	AO	Miscellaneous food and kindred products	4 	T	255  
+322100	21	AO	Tobacco products	3 	T	256  
+322110	211	AO	Cigarettes	4 	T	257  
+322200	22	AO	Textile mill products	3 	T	258  
+322210	221	AO	Broadwoven fabric mills, cotton	4 	T	259  
+322220	222	AO	Broadwoven fabric mills, synthetics	4 	T	260  
+322230	223	AO	Broadwoven fabric mills, wool	4 	T	261  
+322240	224	AO	Narrow fabric mills	4 	T	262  
+322250	225	AO	Knitting mills	4 	T	263  
+322251	2251	AO	Women's hosiery, except socks	5 	T	264  
+322252	2252	AO	Hosiery, nec	5 	T	265  
+322253	2253	AO	Knit outerwear mills	5 	T	266  
+322257	2257	AO	Weft knit fabric mills	5 	T	267  
+322260	226	AO	Textile finishing, except wool	4 	T	268  
+322261	2261	AO	Finishing plants, cotton	5 	T	269  
+322262	2262	AO	Finishing plants, synthetics	5 	T	270  
+322270	227	AO	Carpets and rugs	4 	T	271  
+322280	228	AO	Yarn and thread mills	4 	T	272  
+322281	2281	AO	Yarn spinning mills	5 	T	273  
+322282	2282	AO	Throwing and winding mills	5 	T	274  
+322290	229	AO	Miscellaneous textile goods	4 	T	275  
+322300	23	AO	Apparel and other textile products	3 	T	276  
+322310	231	AO	Men's and boys' suits and coats	4 	T	277  
+322320	232	AO	Men's and boys' furnishings	4 	T	278  
+322321	2321	AO	Men's and boys' shirts	5 	T	279  
+322325	2325	AO	Men's and boys' trousers and slacks	5 	T	280  
+322326	2326	AO	Men's and boys' work clothing	5 	T	281  
+322330	233	AO	Women's and misses' outerwear	4 	T	282  
+322331	2331	AO	Women's and misses' blouses and shirts	5 	T	283  
+322335	2335	AO	Women's, juniors', and misses' dresses	5 	T	284  
+322337	2337	AO	Women's and misses' suits and coats	5 	T	285  
+322339	2339	AO	Women's and misses' outerwear, nec	5 	T	286  
+322340	234	AO	Women's and children's undergarments	4 	T	287  
+322341	2341	AO	Women's and children's underwear	5 	T	288  
+322342	2342	AO	Brassieres, girdles, and allied garments	5 	T	289  
+322360	236	AO	Girls' and children's outerwear	4 	T	290  
+322361	2361	AO	Girls' and children's dresses and blouses	5 	T	291  
+322380	237, 8	AO	Fur goods, and miscellaneous apparel and accessories	4 	T	292  
+322390	239	AO	Miscellaneous fabricated textile products	4 	T	293  
+322391	2391	AO	Curtains and draperies	5 	T	294  
+322392	2392	AO	House furnishings, nec	5 	T	295  
+322396	2396	AO	Automotive and apparel trimmings	5 	T	296  
+322600	26	AO	Paper and allied products	3 	T	297  
+322620	262	AO	Paper mills	4 	T	298  
+322630	263	AO	Paperboard mills	4 	T	299  
+322650	265	AO	Paperboard containers and boxes	4 	T	300  
+322653	2653	DO	Corrugated and solid fiber boxes	5 	T	301  
+322656	2656	AO	Sanitary food containers	5 	T	302  
+322657	2657	AO	Folding paperboard boxes	5 	T	303  
+322670	267	AO	Miscellaneous converted paper products	4 	T	304  
+322672	2672	AO	Paper, coated and laminated, nec	5 	T	305  
+322673	2673	AO	Bags: plastics, laminated, and coated	5 	T	306  
+322677	2677	DO	Envelopes	5 	T	307  
+322700	27	AO	Printing and publishing	3 	T	308  
+322710	271	AO	Newspapers	4 	T	309  
+322720	272	AO	Periodicals	4 	T	310  
+322730	273	AO	Books	4 	T	311  
+322731	2731	DO	Book publishing	5 	T	312  
+322732	2732	DO	Book printing	5 	T	313  
+322740	274	AO	Miscellaneous publishing	4 	T	314  
+322750	275	AO	Commercial printing	4 	T	315  
+322752	2752	AO	Commercial printing, lithographic	5 	T	316  
+322759	2759	AO	Commercial printing, nec	5 	T	317  
+322760	276	AO	Manifold business forms	4 	T	318  
+322780	278	AO	Blankbooks and bookbinding	4 	T	319  
+322790	279	AO	Printing trade services	4 	T	320  
+322800	28	AO	Chemicals and allied products	3 	T	321  
+322810	281	AO	Industrial inorganic chemicals	4 	T	322  
+322819	2819	AO	Industrial inorganic chemicals, nec	5 	T	323  
+322820	282	AO	Plastics materials and synthetics	4 	T	324  
+322821	2821	AO	Plastics materials and resins	5 	T	325  
+322824	2824	AO	Organic fibers, noncellulosic	5 	T	326  
+322830	283	AO	Drugs	4 	T	327  
+322834	2834	AO	Pharmaceutical preparations	5 	T	328  
+322840	284	AO	Soap, cleaners, and toilet goods	4 	T	329  
+322841	2841	AO	Soap and other detergents	5 	T	330  
+322843	2842, 3	DO	Polishing, sanitation, and finishing preps	5 	T	331  
+322844	2844	AO	Toilet preparations	5 	T	332  
+322850	285	AO	Paints and allied products	4 	T	333  
+322860	286	AO	Industrial organic chemicals	4 	T	334  
+322865	2865	DO	Cyclic crudes and intermediates	5 	T	335  
+322869	2861, 9	AO	Other industrial organic chemicals	5 	T	336  
+322870	287	AO	Agricultural chemicals	4 	T	337  
+322890	289	AO	Miscellaneous chemical products	4 	T	338  
+322900	29	AO	Petroleum and coal products	3 	T	339  
+322910	291	AO	Petroleum refining	4 	T	340  
+322950	295	DO	Asphalt paving and roofing materials	4 	T	341  
+323000	30	AO	Rubber and miscellaneous plastics products	3 	T	342  
+323010	301	AO	Tires and inner tubes	4 	T	343  
+323020	302	AO	Rubber and plastics footwear	4 	T	344  
+323050	305	AO	Hose, belting, gaskets, and packing	4 	T	345  
+323052	3052	AO	Rubber and plastics hose and belting	5 	T	346  
+323060	306	AO	Fabricated rubber products, nec	4 	T	347  
+323080	308	AO	Miscellaneous plastics products, nec	4 	T	348  
+323100	31	AO	Leather and leather products	3 	T	349  
+323110	311	AO	Leather tanning and finishing	4 	T	350  
+323140	313, 4	AO	Footwear cut stock and other footwear, except rubber	4 	T	351  
+323143	3143	AO	Men's footwear, except athletic	5 	T	352  
+323144	3144	AO	Women's footwear, except athletic	5 	T	353  
+323160	316	AO	Luggage	4 	T	354  
+323170	317	AO	Handbags and personal leather goods	4 	T	355  
+390000	N/A	B	Service-producing	1 	T	356  
+391000	N/A	A	Private service-producing	1 	T	357  
+400000	40-42, 44-49	A	Transportation and public utilities	2 	T	358  
+410000	40-42, 44-47	C	Transportation	2 	T	359  
+414000	40	C	Railroad transportation	3 	T	360  
+414011	4011	E	Class I railroads	5 	T	361  
+414100	41	A	Local and interurban passenger transit	3 	T	362  
+414110	411	A	Local and suburban transportation	4 	T	363  
+414120	412	B	Taxicabs	4 	T	364  
+414130	413	A	Intercity and rural bus transportation	4 	T	365  
+414150	415	B	School buses	4 	T	366  
+414200	42	A	Trucking and warehousing	3 	T	367  
+414210	421	A	Trucking and courier services, except air	4 	T	368  
+414220	422	A	Public warehousing and storage	4 	T	369  
+414400	44	B	Water transportation	3 	T	370  
+414440	444	C	Water transportation of freight, nec	4 	T	371  
+414490	449	D	Water transportation services	4 	T	372  
+414500	45	B	Transportation by air	3 	T	373  
+414510	451	B	Air transportation, scheduled	4 	T	374  
+414512	4512	B	Air transportation, scheduled	5 	T	375  
+414580	458	B	Airports, flying fields, and services	4 	T	376  
+414600	46	A	Pipelines, except natural gas	3 	T	377  
+414700	47	A	Transportation services	3 	T	378  
+414720	472	A	Passenger transportation arrangement	4 	T	379  
+414724	4724	A	Travel agencies	5 	T	380  
+414730	473	A	Freight transportation arrangement	4 	T	381  
+420000	48, 49	B	Communications and public utilities	2 	T	382  
+424800	48	A	Communications	3 	T	383  
+424810	481	A	Telephone communications	4 	T	384  
+424813	4813	A	Telephone communications, except radio	5 	T	385  
+424830	483	A	Radio and television broadcasting	4 	T	386  
+424832	4832	B	Radio broadcasting stations	5 	T	387  
+424833	4833	B	Television broadcasting stations	5 	T	388  
+424840	484	A	Cable and other pay television services	4 	T	389  
+424900	49	A	Electric, gas, and sanitary services	3 	T	390  
+424910	491	A	Electric services	4 	T	391  
+424920	492	A	Gas production and distribution	4 	T	392  
+424930	493	A	Combination utility services	4 	T	393  
+424950	495	A	Sanitary services	4 	T	394  
+500000	50-59		Wholesale and retail trade	2 	T	395  
+510000	50-51	A	Wholesale trade	2 	T	396  
+525000	50	A	Wholesale trade-durable goods	3 	T	397  
+525010	501	A	Motor vehicles, parts, and supplies	4 	T	398  
+525012	5012	B	Automobiles and other motor vehicles	5 	T	399  
+525013	5013	B	Motor vehicle supplies and new parts	5 	T	400  
+525020	502	A	Furniture and home furnishings	4 	T	401  
+525021	5021	B	Furniture	5 	T	402  
+525023	5023	B	Home furnishings	5 	T	403  
+525030	503	A	Lumber and other construction materials	4 	T	404  
+525031	5031	B	Lumber, plywood, and millwork	5 	T	405  
+525039	5039	B	Construction materials, nec	5 	T	406  
+525040	504	A	Professional and commercial equipment	4 	T	407  
+525044	5044	B	Office equipment	5 	T	408  
+525045	5045	B	Computers, peripherals and software	5 	T	409  
+525047	5047	A	Medical and hospital equipment	5 	T	410  
+525050	505	A	Metals and minerals, except petroleum	4 	T	411  
+525060	506	A	Electrical goods	4 	T	412  
+525063	5063	B	Electrical apparatus and equipment	5 	T	413  
+525064	5064	B	Electrical appliances, TV, and radio sets	5 	T	414  
+525065	5065	B	Electronic parts and equipment	5 	T	415  
+525070	507	A	Hardware, plumbing, and heating equipment	4 	T	416  
+525072	5072	B	Hardware	5 	T	417  
+525074	5074	B	Plumbing and hydronic heating supplies	5 	T	418  
+525080	508	A	Machinery, equipment, and supplies	4 	T	419  
+525082	5082	B	Construction and mining machinery	5 	T	420  
+525083	5083	B	Farm and garden machinery	5 	T	421  
+525084	5084	B	Industrial machinery and equipment	5 	T	422  
+525085	5085	B	Industrial supplies	5 	T	423  
+525090	509	A	Misc. wholesale trade durable goods	4 	T	424  
+525093	5093	B	Scrap and waste materials	5 	T	425  
+535100	51	A	Wholesale trade-nondurable goods	3 	T	426  
+535110	511	A	Paper and paper products	4 	T	427  
+535112	5112	B	Stationery and office supplies	5 	T	428  
+535120	512	A	Drugs, proprietaries, and sundries	4 	T	429  
+535130	513	A	Apparel, piece goods, and notions	4 	T	430  
+535140	514	A	Groceries and related products	4 	T	431  
+535141	5141	B	Groceries, general line	5 	T	432  
+535147	5147	B	Meats and meat products	5 	T	433  
+535148	5148	B	Fresh fruits and vegetables	5 	T	434  
+535150	515	A	Farm-product raw materials	4 	T	435  
+535160	516	A	Chemicals and allied products	4 	T	436  
+535170	517	A	Petroleum and petroleum products	4 	T	437  
+535171	5171	B	Petroleum bulk stations and terminals	5 	T	438  
+535172	5172	B	Petroleum products, nec	5 	T	439  
+535180	518	A	Beer, wine, and distilled beverages	4 	T	440  
+535181	5181	B	Beer and ale	5 	T	441  
+535182	5182	B	Wine and distilled beverages	5 	T	442  
+535190	519	A	Misc. wholesale trade nondurable goods	4 	T	443  
+535191	5191	B	Farm supplies	5 	T	444  
+600000	52-59	A	Retail trade	2 	T	445  
+605200	52	A	Building materials and garden supplies	3 	T	446  
+605210	521	A	Lumber and other building materials	4 	T	447  
+605230	523	A	Paint, glass, and wallpaper stores	4 	T	448  
+605250	525	A	Hardware stores	4 	T	449  
+605260	526	A	Retail nurseries and garden stores	4 	T	450  
+605300	53	A	General merchandise stores	3 	T	451  
+605310	531	A	Department stores	4 	T	452  
+605330	533	A	Variety stores	4 	T	453  
+605390	539	A	Miscellaneous general merchandise stores	4 	T	454  
+605400	54	A	Food stores	3 	T	455  
+605410	541	A	Grocery stores	4 	T	456  
+605420	542	B	Meat and fish markets	4 	T	457  
+605450	545	B	Dairy products stores	4 	T	458  
+605460	546	A	Retail bakeries	4 	T	459  
+605500	55	A	Automotive dealers and service stations	3 	T	460  
+605510	551	A	New and used car dealers	4 	T	461  
+605530	553	A	Auto and home supply stores	4 	T	462  
+605540	554	A	Gasoline service stations	4 	T	463  
+605590	559	A	Automotive dealers, nec	4 	T	464  
+605600	56	A	Apparel and accessory stores	3 	T	465  
+605610	561	A	Men's and boys' clothing stores	4 	T	466  
+605620	562	A	Women's clothing stores	4 	T	467  
+605650	565	A	Family clothing stores	4 	T	468  
+605660	566	A	Shoe stores	4 	T	469  
+605700	57	A	Furniture and home furnishings stores	3 	T	470  
+605710	571	A	Furniture and home furnishings stores	4 	T	471  
+605712	5712	B	Furniture stores	5 	T	472  
+605720	572	A	Household appliance stores	4 	T	473  
+605730	573	A	Radio, television, and computer stores	4 	T	474  
+605731	5731	A	Radio, television, and electronic stores	5 	T	475  
+605735	5735	A	Record and prerecorded tape stores	5 	T	476  
+605800	58	A	Eating and drinking places	3 	T	477  
+605900	59	A	Miscellaneous retail establishments	3 	T	478  
+605910	591	A	Drug stores and proprietary stores	4 	T	479  
+605920	592	B	Liquor stores	4 	T	480  
+605930	593	A	Used merchandise stores	4 	T	481  
+605940	594	A	Miscellaneous shopping goods stores	4 	T	482  
+605941	5941	B	Sporting goods and bicycle shops	5 	T	483  
+605942	5942	B	Book stores	5 	T	484  
+605943	5943	B	Stationery stores	5 	T	485  
+605944	5944	B	Jewelry stores	5 	T	486  
+605947	5947	B	Gift, novelty, and souvenir shops	5 	T	487  
+605949	5949	B	Sewing, needlework, and piece goods	5 	T	488  
+605960	596	A	Nonstore retailers	4 	T	489  
+605961	5961	B	Catalog and mail-order houses	5 	T	490  
+605962	5962	B	Merchandising machine operators	5 	T	491  
+605980	598	A	Fuel dealers	4 	T	492  
+605990	599	A	Retail stores, nec	4 	T	493  
+605994	5992, 3, 4	B	Florists, tobacco stores, and newsstands	5 	T	494  
+605995	5995	A	Optical goods stores	5 	T	495  
+605999	5999	A	Miscellaneous retail stores, nec	5 	T	496  
+700000	60-65, 67	A	Finance, insurance, and real estate	2 	T	497  
+710000	60-62, 67	B	Finance	2 	T	498  
+716000	60	A	Depository institutions	3 	T	499  
+716020	602	A	Commercial banks	4 	T	500  
+716022	6022	A	State commercial banks	5 	T	501  
+716029	6021, 9	A	National and commercial banks, nec	5 	T	502  
+716030	603	B	Savings institutions	4 	T	503  
+716035	6035	B	Federal savings institutions	5 	T	504  
+716036	6036	B	Savings institutions, except federal	5 	T	505  
+716060	6061, 2	A	Credit unions	4 	T	506  
+716100	61	A	Nondepository institutions	3 	T	507  
+716140	614	A	Personal credit institutions	4 	T	508  
+716150	615	B	Business credit institutions	4 	T	509  
+716160	616	B	Mortgage bankers and brokers	4 	T	510  
+716200	62	B	Security and commodity brokers	3 	T	511  
+716210	621	B	Security brokers and dealers	4 	T	512  
+716230	622, 3	B	Commodity contracts brokers, dealers, exchanges	4 	T	513  
+716280	628	A	Security and commodity services	4 	T	514  
+716700	67	B	Holding and other investment offices	3 	T	515  
+716710	671	B	Holding offices	4 	T	516  
+720000	63, 64	B	Insurance	2 	T	517  
+726300	63	A	Insurance carriers	3 	T	518  
+726310	631	A	Life insurance	4 	T	519  
+726320	632	A	Medical service and health insurance	4 	T	520  
+726324	6324	A	Hospital and medical service plans	5 	T	521  
+726330	633	A	Fire, marine, and casualty insurance	4 	T	522  
+726360	636	B	Title insurance	4 	T	523  
+726400	64	B	Insurance agents, brokers, and service	3 	T	524  
+730000	65	B	Real estate	2 	T	525  
+736500	65	B	Real estate	3 	T	526  
+736510	651	B	Real estate operators and lessors	4 	T	527  
+736530	653	B	Real estate agents and managers	4 	T	528  
+736550	655	B	Subdividers and developers	4 	T	529  
+800000	07, 70-87, 89	A	Services	2 	T	530  
+800700	07	A	Agricultural services	3 	T	531  
+800740	074	A	Veterinary services	4 	T	532  
+800780	078	A	Landscape and horticultural services	4 	T	533  
+807000	70	B	Hotels and other lodging places	3 	T	534  
+807010	701	A	Hotels and motels	4 	T	535  
+807200	72	B	Personal services	3 	T	536  
+807210	721	A	Laundry, cleaning, and garment services	4 	T	537  
+807220	722	B	Photographic studios, portrait	4 	T	538  
+807230	723	A	Beauty shops	4 	T	539  
+807260	726	B	Funeral service and crematories	4 	T	540  
+807290	729	A	Miscellaneous personal services	4 	T	541  
+807300	73	A	Business services	3 	T	542  
+807310	731	A	Advertising	4 	T	543  
+807311	7311	B	Advertising agencies	5 	T	544  
+807320	732	B	Credit reporting and collection	4 	T	545  
+807330	733	B	Mailing, reproduction, and stenographic services	4 	T	546  
+807334	7334	A	Photocopying and duplicating services	5 	T	547  
+807340	734	A	Services to buildings	4 	T	548  
+807342	7342	A	Disinfecting and pest control services	5 	T	549  
+807349	7349	A	Building maintenance services, nec	5 	T	550  
+807350	735	A	Misc. equipment rental and leasing	4 	T	551  
+807352	7352	A	Medical equipment rental	5 	T	552  
+807353	7353	A	Heavy construction equipment rental	5 	T	553  
+807359	7359	A	Equipment rental and leasing, nec	5 	T	554  
+807360	736	B	Personnel supply services	4 	T	555  
+807361	7361	B	Employment agencies	5 	T	556  
+807363	7363	A	Help supply services	5 	T	557  
+807370	737	A	Computer and data processing services	4 	T	558  
+807371	7371	A	Computer programming services	5 	T	559  
+807372	7372	B	Prepackaged software	5 	T	560  
+807373	7373	A	Computer integrated systems design	5 	T	561  
+807374	7374	B	Data processing and preparation	5 	T	562  
+807375	7375	A	Information retrieval services	5 	T	563  
+807378	7378	A	Computer maintenance and repair	5 	T	564  
+807380	738	A	Miscellaneous business services	4 	T	565  
+807381	7381	D	Detective and armored car services	5 	T	566  
+807382	7382	A	Security systems services	5 	T	567  
+807384	7384	B	Photofinishing laboratories	5 	T	568  
+807500	75	A	Auto repair, services, and parking	3 	T	569  
+807510	751	A	Automotive rentals, without drivers	4 	T	570  
+807514	7514	A	Passenger car rental	5 	T	571  
+807520	752	A	Automobile parking	4 	T	572  
+807530	753	A	Automotive repair shops	4 	T	573  
+807534	7532, 4	A	Automotive and tire repair shops	5 	T	574  
+807538	7538	A	General automotive repair shops	5 	T	575  
+807540	754	A	Automotive services, except repair	4 	T	576  
+807542	7542	A	Carwashes	5 	T	577  
+807600	76	A	Miscellaneous repair services	3 	T	578  
+807620	762	B	Electrical repair shops	4 	T	579  
+807800	78	A	Motion pictures	3 	T	580  
+807810	781	A	Motion picture production and services	4 	T	581  
+807830	783	B	Motion picture theaters	4 	T	582  
+807840	784	A	Video tape rental	4 	T	583  
+807900	79	A	Amusement and recreation services	3 	T	584  
+807930	793	A	Bowling centers	4 	T	585  
+807990	799	A	Misc. amusement and recreation services	4 	T	586  
+807991	7991	A	Physical fitness facilities	5 	T	587  
+807997	7997	A	Membership sports and recreation clubs	5 	T	588  
+808000	80	A	Health services	3 	T	589  
+808010	801	A	Offices and clinics of medical doctors	4 	T	590  
+808020	802	A	Offices and clinics of dentists	4 	T	591  
+808040	804	A	Offices and clinics of other health practitioners	4 	T	592  
+808042	8041, 2	B	Offices of chiropractors and optometrists	5 	T	593  
+808050	805	A	Nursing and personal care facilities	4 	T	594  
+808051	8051	B	Skilled nursing care facilities	5 	T	595  
+808052	8052	A	Intermediate care facilities	5 	T	596  
+808059	8059	B	Nursing and personal care, nec	5 	T	597  
+808060	806	A	Hospitals	4 	T	598  
+808062	8062	B	General medical and surgical hospitals	5 	T	599  
+808063	8063	B	Psychiatric hospitals	5 	T	600  
+808069	8069	B	Specialty hospitals, excluding psychiatric	5 	T	601  
+808070	807	B	Medical and dental laboratories	4 	T	602  
+808080	808	A	Home health care services	4 	T	603  
+808100	81	A	Legal services	3 	T	604  
+808200	82	B	Educational services	3 	T	605  
+808210	821	B	Elementary and secondary schools	4 	T	606  
+808220	822	B	Colleges and universities	4 	T	607  
+808240	824	B	Vocational schools	4 	T	608  
+808300	83	A	Social services	3 	T	609  
+808320	832	A	Individual and family services	4 	T	610  
+808330	833	A	Job training and related services	4 	T	611  
+808350	835	A	Child day care services	4 	T	612  
+808360	836	A	Residential care	4 	T	613  
+808390	839	A	Social services, nec	4 	T	614  
+808400	84	B	Museums and botanical and zoological gardens	3 	T	615  
+808600	86	C	Membership organizations	3 	T	616  
+808610	861	B	Business associations	4 	T	617  
+808620	862	A	Professional organizations	4 	T	618  
+808630	863	B	Labor organizations	4 	T	619  
+808640	864	B	Civic and social associations	4 	T	620  
+808700	87	A	Engineering and management services	3 	T	621  
+808710	871	A	Engineering and architectural services	4 	T	622  
+808711	8711	A	Engineering services	5 	T	623  
+808712	8712	A	Architectural services	5 	T	624  
+808713	8713	A	Surveying services	5 	T	625  
+808720	872	A	Accounting, auditing, and bookkeeping	4 	T	626  
+808730	873	A	Research and testing services	4 	T	627  
+808731	8731	A	Commercial physical research	5 	T	628  
+808732	8732	A	Commercial nonphysical research	5 	T	629  
+808733	8733	A	Noncommercial research organizations	5 	T	630  
+808740	874	A	Management and public relations	4 	T	631  
+808741	8741	A	Management services	5 	T	632  
+808742	8742	A	Management consulting services	5 	T	633  
+808743	8743	A	Public relations services	5 	T	634  
+808900	89	A	Services, nec	3 	T	635  
+900000	N/A	B	Government	2 	T	636  
+910000	N/A	B	Federal	2 	T	637  
+911000	N/A	C	Federal, except Postal Service	3 	T	638  
+919100	N/A	C	Executive	3 	T	639  
+919110	N/A	C	Department of Defense	4 	T	640  
+919120	N/A	C	U S Postal Service	4 	T	641  
+919130	N/A	C	Other executive agencies	4 	T	642  
+919500	N/A	C	Legislative	3 	T	643  
+919600	N/A	C	Judicial	3 	T	644  
+923000	N/A	C	Manufacturing activities	4 	T	645  
+923730	N/A	C	Ship building and repairing	5 	T	646  
+924000	N/A	C	Transportation and public utilities, ex posta	4 	T	647  
+928000	N/A	C	Services division	4 	T	648  
+928060	N/A	C	Hospitals	5 	T	649  
+930000	N/A	B	State and local government	2 	T	650  
+940000	N/A	B	State government 10	2 	T	651  
+941000	N/A	C	State government, except education	3 	T	652  
+942000	N/A	C	State government construction	4 	T	653  
+944000	N/A	C	State gov. transportation and public util.	4 	T	654  
+948000	N/A	C	State government services	4 	T	655  
+948060	N/A	B	State government hospitals	5 	T	656  
+948200	N/A	B	State government education	5 	T	657  
+948300	N/A	C	State government social services	5 	T	658  
+948500	N/A	C	State gov. serv., ex. hosp., educ., soc. srv.	5 	T	659  
+949000	N/A	B	General admin, incl. exec., legis., judicial	3 	T	660  
+950000	N/A	B	Local government 11	2 	T	661  
+951000	N/A	C	Local government, except education	2 	T	662  
+954000	N/A	B	Transportation and public utilities	3 	T	663  
+958000	N/A	C	Local government services	4 	T	664  
+958060	N/A	B	Local government hospitals	4 	T	665  
+958200	N/A	B	Local government education	3 	T	666  
+958300	N/A	C	Local government social services	5 	T	667  
+958500	N/A	C	Local gov. serv., ex. hosp., educ., soc. srv.	5 	T	668  
+959000	N/A	B	General admin, incl. exec., legis., judicial	3 	T	669  

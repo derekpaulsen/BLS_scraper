@@ -1,0 +1,20 @@
+measure_code	measure_text	display_level	selectable	sort_sequence
+01	Employment	0	T	4	
+02	Average weekly hours worked	0	T	5	
+03	Hours worked	0	T	3	
+04	Output	0	T	2	
+05	Current dollar output	0	T	12	
+06	Compensation	0	T	13	
+08	Nonlabor payments	0	T	14	
+09	Labor productivity (output per hour)	0	T	1	
+10	Hourly compensation	0	T	7	
+11	Unit labor costs	0	T	6	
+12	Unit nonlabor costs	0	T	18	
+13	Unit nonlabor payments	0	T	10	
+14	Implicit price deflator	0	T	11	
+15	Real hourly compensation	0	T	8	
+16	Output per job	0	T	15	
+17	Labor share	0	T	9	
+18	Profits	0	T	16	
+19	Unit profits	0	T	19	
+20	Total unit costs	0	T	17	

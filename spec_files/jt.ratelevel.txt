@@ -1,0 +1,3 @@
+ratelevel_code	ratelevel_text	display_level	selectable	sort_sequence
+L	Level - In Thousands	0	T	2	
+R	Rate	0	T	1	

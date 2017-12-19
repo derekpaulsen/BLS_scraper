@@ -1,0 +1,2 @@
+seasonal	seasonal_text
+U	Non-seasonal                  

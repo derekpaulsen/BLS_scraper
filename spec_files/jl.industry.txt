@@ -1,0 +1,17 @@
+industry_code	industry_text	display_level	selectable	sort_sequence
+
+000000	Total Nonfarm	0 	T	1    
+010000	Total Private	1 	T	2    
+100000	Mining	2 	T	3    
+200000	Construction	2 	T	4    
+300000	Manufacturing	2 	T	5    
+310000	Durable goods manufacturing	3 	T	6    
+320000	Nondurable goods manufacturing	3 	T	7    
+400000	Transportation and public utilities	2 	T	8    
+500000	Wholesale trade	2 	T	9    
+600000	Retail trade	2 	T	10   
+700000	Finance, insurance, and real estate	2 	T	11   
+800000	Services	2 	T	12   
+900000	Government	1 	T	13   
+910000	Federal	2 	T	14   
+930000	State and local	2 	T	15   

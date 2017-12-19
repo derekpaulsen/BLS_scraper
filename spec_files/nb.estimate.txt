@@ -1,0 +1,43 @@
+estimate_code	estimate_text	display_level	selectable	sort_sequence
+00	Benefit combinations	0	T	75	
+05	Vacation	3	T	5	
+06	Holiday	3	T	6	
+07	Sick leave	3	T	7	
+12	Nonproduction bonuses	3	T	12	
+14	Life insurance	3	T	14	
+15	Health insurance	3	T	15	
+16	Short-term disability insurance	3	T	16	
+17	Long-term disability insurance	3	T	17	
+19	Defined benefit	3	T	19	
+20	Defined contribution	3	T	20	
+51	Payroll deduction IRA	2	T	72	
+52	Unmarried domestic partner: Health care benefits, same sex	2	T	68	
+53	Unmarried domestic partner: Health care benefits, opposite sex	2	T	69	
+54	Unmarried domestic partner: Defined benefit retirement survivor benefits, same sex	2	T	70	
+55	Unmarried domestic partner: Defined benefit retirement survivor benefits, opposite sex	2	T	71	
+56	Child care	2	T	64	
+57	Health-related benefits: Retiree health care benefits, Under age 65	2	T	65	
+58	Health-related benefits: Retiree health care benefits, Age 65 and over	2	T	66	
+59	Financial benefits: Financial planning	2	T	67	
+63	Wellness programs	3	T	34	
+64	Employee assistance program	3	T	35	
+66	Subsidized commuting	3	T	37	
+71	Long-term care insurance	3	T	41	
+73	Flexible work site	3	T	43	
+76	OOS salary reduction	3	T	45	
+77	Flexible benefits	3	T	46	
+78	Health care flexible spending account	3	T	47	
+79	Dependent care flexible spending account	3	T	48	
+80	Stock option - other	4	T	49	
+81	Stock option - performance	4	T	50	
+82	Stock option - signing	4	T	51	
+83	Funeral leave	3	T	52	
+84	Jury Duty	3	T	53	
+85	Military Leave	3	T	54	
+86	Personal Leave	3	T	55	
+87	Paid Family Leave	3	T	56	
+88	Unpaid Family Leave	3	T	57	
+89	Health Savings Account	3	T	58	
+90	All retirement benefits	2	T	73	
+94	All health care benefits	2	T	74	
+95	Stock Access	3	T	59	

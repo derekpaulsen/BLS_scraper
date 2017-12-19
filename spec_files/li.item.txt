@@ -1,0 +1,28 @@
+item_code	item_name
+SL00001	Piece goods	
+SL00002	Domestics and draperies	
+SL00003	Women's and children's shoes	
+SL00004	Men's shoes	
+SL00005	Infants' wear and furniture	
+SL00006	Women's underwear	
+SL00007	Women's and girls' hosiery	
+SL00008	Women's and girls' accessories	
+SL00009	Women's outerwear & girls' wear	
+SL00010	Men's clothing	
+SL00011	Men's furnishings	
+SL00012	Boys' wear	
+SL00013	Jewelry and silverware	
+SL00014	Notions	
+SL00015	Toilet articles & drugs	
+SL00016	Furniture and bedding	
+SL00017	Floor coverings	
+SL00018	Housewares	
+SL00019	Major appliances	
+SL00020	Radios and television sets	
+SL00021	Recreation & education	
+SL00022	Home improvements	
+SL00023	Automotive accessories	
+SLDUR	Durable goods	
+SLMISC	Miscellaneous	
+SLSOFT	Soft goods	
+SLTOTAL	Store total	

@@ -1,0 +1,4 @@
+areatype_code	areatype_name
+M	Metropolitan or nonmetropolitan area	
+N	National	
+S	State	

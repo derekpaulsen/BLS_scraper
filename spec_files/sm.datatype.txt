@@ -1,0 +1,10 @@
+data_type_code	data_type_text
+01	All Employees, In Thousands	
+02	Average Weekly Hours of All Employees	
+03	Average Hourly Earnings of All Employees, In Dollars	
+06	Production or Nonsupervisory Employees, In Thousands	
+07	Average Weekly Hours of Production Employees	
+08	Average Hourly Earnings of Production Employees, In Dollars	
+11	Average Weekly Earnings of All Employees, In Dollars	
+26	All Employees, 3-month average change, In Thousands, seasonally adjusted	
+30	Average Weekly Earnings of Production Employees, In Dollars	

@@ -1,0 +1,268 @@
+event_code	event_text	display_level	selectable	sort_sequence
+0000	All events and exposures	0 	T	00001
+00XX	Contact with objects and equipment, unspecified	2 	T	00003
+010X	Struck against object, unspecified	3 	T	00005
+011X	Stepped on object	3 	T	00006
+012X	Struck against stationary object	3 	T	00007
+013X	Struck against moving object	3 	T	00008
+019X	Struck against object, n.e.c.	3 	T	00009
+01XX	Struck against object	2 	T	00004
+020X	Struck by object, unspecified	3 	T	00011
+021X	Struck by falling object	3 	T	00012
+0220	Struck by flying object, unspecified	4 	T	00014
+0221	Struck by dislodged flying object, particle	4 	T	00015
+0222	Struck by discharged object or substance	4 	T	00016
+0229	Struck by flying object, n.e.c.	4 	T	00017
+022X	Struck by flying object	3 	T	00013
+0230	Struck by swinging or slipping object, unspecified	4 	T	00019
+0231	Struck by or slammed in swinging door or gate	4 	T	00020
+0232	Struck by slipping handheld object	4 	T	00021
+0239	Struck by swinging or slipping object, n.e.c.	4 	T	00022
+023X	Struck by swinging or slipping object	3 	T	00018
+024X	Struck by rolling, sliding objects on floor or ground level	3 	T	00023
+029X	Struck by object, n.e.c.	3 	T	00024
+02XX	Struck by object	2 	T	00010
+030X	Caught in or compressed by equipment or objects, unspecified	3 	T	00026
+031X	Caught in running equipment or machinery	3 	T	00027
+032X	Compressed or pinched by rolling, sliding, or shifting objects	3 	T	00028
+039X	Caught in or compressed by equipment or objects, n.e.c.	3 	T	00029
+03XX	Caught in or compressed by equipment or objects	2 	T	00025
+040X	Caught in or crushed in collapsing materials, unspecified	3 	T	00031
+041X	Excavation or trenching cave-in	3 	T	00032
+042X	Other cave-in	3 	T	00033
+043X	Landslide	3 	T	00034
+044X	Caught in or crushed in collapsing structure	3 	T	00035
+049X	Caught in or crushed in collapsing materials, n.e.c.	3 	T	00036
+04XX	Caught in or crushed in collapsing materials	2 	T	00030
+050X	Rubbed or abraded by friction or pressure, unspecified	3 	T	00038
+051X	Rubbed or abraded by kneeling on surface	3 	T	00039
+052X	Rubbed or abraded by objects being handled	3 	T	00040
+053X	Rubbed or abraded by foreign matter in eye	3 	T	00041
+059X	Rubbed or abraded by friction or pressure, n.e.c.	3 	T	00042
+05XX	Rubbed or abraded by friction or pressure	2 	T	00037
+060X	Rubbed, abraded, or jarred by vibration, unspecified	3 	T	00044
+061X	Rubbed, abraded, or jarred by vehicle or mobile equipment vibration	3 	T	00045
+062X	Rubbed, abraded, or jarred by other machine or equipment vibration	3 	T	00046
+069X	Rubbed, abraded, or jarred by vibration, n.e.c.	3 	T	00047
+06XX	Rubbed, abraded, or jarred by vibration	2 	T	00043
+09XX	Contact with objects and equipment, n.e.c.	2 	T	00048
+0XXX	Contact with objects and equipment	1 	T	00002
+10XX	Fall, unspecified	2 	T	00050
+110X	Fall to lower level, unspecified	3 	T	00052
+111X	Fall down stairs or steps	3 	T	00053
+1120	Fall from floor, dock, or ground level, unspecified	4 	T	00055
+1121	Fall through existing floor opening	4 	T	00056
+1122	Fall through floor surface	4 	T	00057
+1123	Fall from loading dock	4 	T	00058
+1124	Fall from ground level to lower level	4 	T	00059
+1129	Fall from floor, dock, or ground level, n.e.c.	4 	T	00060
+112X	Fall from floor, dock, or ground level	3 	T	00054
+113X	Fall from ladder	3 	T	00061
+114X	Fall from piled or stacked material	3 	T	00062
+1150	Fall from roof, unspecified	4 	T	00064
+1151	Fall through existing roof opening	4 	T	00065
+1152	Fall through roof surface	4 	T	00066
+1153	Fall through skylight	4 	T	00067
+1154	Fall from roof edge	4 	T	00068
+1159	Fall from roof, n.e.c.	4 	T	00069
+115X	Fall from roof	3 	T	00063
+116X	Fall from scaffold, staging	3 	T	00070
+117X	Fall from building girders or other structural steel	3 	T	00071
+118X	Fall from nonmoving vehicle	3 	T	00072
+119X	Fall to lower level, n.e.c.	3 	T	00073
+11XX	Fall to lower level	2 	T	00051
+120X	Jump to lower level, unspecified	3 	T	00075
+121X	Jump from scaffold, platform, loading dock	3 	T	00076
+122X	Jump from structure, structural element, n.e.c.	3 	T	00077
+123X	Jump from nonmoving vehicle	3 	T	00078
+129X	Jump to lower level, n.e.c.	3 	T	00079
+12XX	Jump to lower level	2 	T	00074
+130X	Fall on same level, unspecified	3 	T	00081
+131X	Fall to floor, walkway, or other surface	3 	T	00082
+132X	Fall onto or against objects	3 	T	00083
+139X	Fall on same level, n.e.c.	3 	T	00084
+13XX	Fall on same level	2 	T	00080
+19XX	Fall, n.e.c.	2 	T	00085
+1XXX	Falls	1 	T	00049
+20XX	Bodily reaction and exertion, unspecified	2 	T	00087
+210X	Bodily reaction, unspecified	3 	T	00089
+211X	Bending, climbing, crawling, reaching, twisting	3 	T	00090
+212X	Sudden reaction when surprised, frightened, startled	3 	T	00091
+213X	Running--without other incident	3 	T	00092
+214X	Sitting	3 	T	00093
+215X	Slip, trip, loss of balance--without fall	3 	T	00094
+216X	Standing	3 	T	00095
+217X	Walking--without other incident	3 	T	00096
+219X	Bodily reaction, n.e.c.	3 	T	00097
+21XX	Bodily reaction	2 	T	00088
+220X	Overexertion, unspecified	3 	T	00099
+221X	Overexertion in lifting	3 	T	00100
+222X	Overexertion in pulling or pushing objects	3 	T	00101
+223X	Overexertion in holding, carrying, turning, or wielding objects	3 	T	00102
+224X	Overexertion in throwing objects	3 	T	00103
+229X	Overexertion, n.e.c.	3 	T	00104
+22XX	Overexertion	2 	T	00098
+230X	Repetitive motion, unspecified	3 	T	00106
+231X	Typing or keyentry	3 	T	00107
+232X	Repetitive use of tools	3 	T	00108
+233X	Repetitive placing, grasping, or moving objects, except tools	3 	T	00109
+239X	Repetitive motion, n.e.c.	3 	T	00110
+23XX	Repetitive motion	2 	T	00105
+24XX	Sustained viewing	2 	T	00111
+25XX	Bodily conditions, n.e.c.	2 	T	00112
+29XX	Bodily reaction and exertion, n.e.c.	2 	T	00113
+2XXX	Bodily reaction and exertion	1 	T	00086
+30XX	Exposure to harmful substances or environments, unspecified	2 	T	00115
+310X	Contact with electric current, unspecified	3 	T	00117
+311X	Contact with electric current of machine, tool, appliance, or light fixture	3 	T	00118
+312X	Contact with wiring, transformers, or other electrical components	3 	T	00119
+313X	Contact with overhead power lines	3 	T	00120
+314X	Contact with underground, buried power lines	3 	T	00121
+315X	Struck by lightning	3 	T	00122
+319X	Contact with electric current, n.e.c.	3 	T	00123
+31XX	Contact with electric current	2 	T	00116
+320X	Contact with temperature extremes, unspecified	3 	T	00125
+321X	Exposure to environmental heat	3 	T	00126
+322X	Exposure to environmental cold	3 	T	00127
+323X	Contact with hot objects or substances	3 	T	00128
+324X	Contact with cold objects or substances	3 	T	00129
+32XX	Contact with temperature extremes	2 	T	00124
+330X	Exposure to air pressure change, unspecified	3 	T	00131
+331X	Pressure changes underwater	3 	T	00132
+332X	Pressure changes in airplane, other aircraft	3 	T	00133
+339X	Exposure to air pressure change, n.e.c.	3 	T	00134
+33XX	Exposure to air pressure changes	2 	T	00130
+340X	Exposure to caustic, noxious, or allergenic substances, unspecified	3 	T	00136
+3410	Inhalation of substance, unspecified	4 	T	00138
+3411	Inhalation in enclosed, restricted, or confined space	4 	T	00139
+3412	Inhalation in open or nonconfined space	4 	T	00140
+341X	Inhalation of substance	3 	T	00137
+342X	Contact with skin or other exposed tissue	3 	T	00141
+3430	Injections, stings, venomous bites, unspecified	4 	T	00143
+3431	Needle sticks	4 	T	00144
+3432	Bee, wasp, hornet sting	4 	T	00145
+3433	Other stings or venomous bites	4 	T	00146
+3439	Injections, stings, venomous bites, n.e.c.	4 	T	00147
+343X	Injections, stings, venomous bites	3 	T	00142
+344X	Ingestion of substance	3 	T	00148
+349X	Exposure to caustic, noxious, or allergenic substances, n.e.c.	3 	T	00149
+34XX	Exposure to caustic, noxious, or allergenic substances	2 	T	00135
+350X	Exposure to noise, unspecified	3 	T	00151
+351X	Exposure to noise over time	3 	T	00152
+352X	Exposure to noise in single incident	3 	T	00153
+35XX	Exposure to noise	2 	T	00150
+360X	Exposure to radiation, unspecified	3 	T	00155
+361X	Exposure to sun	3 	T	00156
+362X	Exposure to welding light	3 	T	00157
+363X	Exposure to radioactive material	3 	T	00158
+369X	Exposure to radiation, n.e.c.	3 	T	00159
+36XX	Exposure to radiation	2 	T	00154
+37XX	Exposure to traumatic or stressful event, n.e.c.	2 	T	00160
+381X	Drowning, submersion	3 	T	00162
+382X	Choking on object or substance	3 	T	00163
+383X	Depletion of oxygen from cave-in or collapsed materials	3 	T	00164
+384X	Depletion of oxygen in other enclosed, restricted, or confined space	3 	T	00165
+389X	Other oxygen deficiency, n.e.c.	3 	T	00166
+38XX	Oxygen deficiency, n.e.c.	2 	T	00161
+39XX	Exposure to harmful substances or environments, n.e.c.	2 	T	00167
+3XXX	Exposure to harmful substances or environments	1 	T	00114
+40XX	Transportation accident, unspecified	2 	T	00169
+410X	Highway accident, unspecified	3 	T	00171
+4110	Collision between vehicles, mobile equipment, unspecified	4 	T	00173
+4111	Re-entrant collision	4 	T	00174
+4112	Moving in same direction	4 	T	00175
+4113	Moving in opposite directions, oncoming	4 	T	00176
+4114	Moving in intersection	4 	T	00177
+4115	Moving and standing vehicle, mobile equipment--in roadway	4 	T	00178
+4116	Moving and standing vehicle, mobile equipment--side of road	4 	T	00179
+4119	Collision between vehicles, mobile equipment, n.e.c.	4 	T	00180
+411X	Collision between vehicles, mobile equipment	3 	T	00172
+412X	Vehicle struck stationary object or equipment in roadway	3 	T	00181
+413X	Vehicle struck stationary object, equipment on side of road	3 	T	00182
+4140	Noncollision accident, unspecified	4 	T	00184
+4141	Jack-knifed or overturned--no collision	4 	T	00185
+4142	Ran off highway--no collision	4 	T	00186
+4143	Struck by shifting load	4 	T	00187
+4144	Sudden start or stop, n.e.c.	4 	T	00188
+4149	Noncollision accident, n.e.c.	4 	T	00189
+414X	Noncollision accident	3 	T	00183
+419X	Highway accident, n.e.c.	3 	T	00190
+41XX	Highway accident	2 	T	00170
+420X	Nonhighway accident, unspecified	3 	T	00192
+421X	Collision between vehicles or mobile equipment	3 	T	00193
+422X	Vehicle, mobile equipment struck stationary object	3 	T	00194
+4230	Noncollision accident, unspecified	4 	T	00196
+4231	Fall from moving vehicle, mobile equipment	4 	T	00197
+4232	Fell from and struck by vehicle, mobile equipment	4 	T	00198
+4233	Overturned	4 	T	00199
+4234	Loss of control	4 	T	00200
+4235	Struck by shifting load	4 	T	00201
+4236	Sudden start or stop, n.e.c.	4 	T	00202
+4239	Noncollision accident, n.e.c.	4 	T	00203
+423X	Noncollision accident	3 	T	00195
+429X	Nonhighway accident, n.e.c.	3 	T	00204
+42XX	Nonhighway accident, except rail, air, water	2 	T	00191
+430X	Pedestrian struck by vehicle, mobile equipment, unspecified	3 	T	00206
+431X	Pedestrian struck by vehicle, mobile equipment in roadway	3 	T	00207
+432X	Pedestrian struck by vehicle, mobile equipment on side of road	3 	T	00208
+433X	Pedestrian struck by vehicle, mobile equipment in parking lot or non-roadway area	3 	T	00209
+43XX	Pedestrian, nonpassenger struck by vehicle, mobile equipment	2 	T	00205
+440X	Railway accident, unspecified	3 	T	00211
+441X	Collision between railway vehicles	3 	T	00212
+442X	Collision between railway vehicle and other vehicle	3 	T	00213
+443X	Collision between railway vehicle and other object	3 	T	00214
+444X	Fell from and struck by railway vehicle	3 	T	00215
+445X	Derailment	3 	T	00216
+446X	Explosion, fire, n.e.c.	3 	T	00217
+447X	Fall in, on, or from railway vehicle in motion, n.e.c.	3 	T	00218
+449X	Railway accident, n.e.c.	3 	T	00219
+44XX	Railway accident	2 	T	00210
+450X	Water vehicle accident, unspecified	3 	T	00221
+451X	Collision	3 	T	00222
+452X	Explosion, fire, n.e.c.	3 	T	00223
+453X	Fall from ship, boat, n.e.c.	3 	T	00224
+454X	Fall on ship, boat	3 	T	00225
+455X	Sinking, capsized water vehicle	3 	T	00226
+459X	Water vehicle accident, n.e.c.	3 	T	00227
+45XX	Water vehicle accident	2 	T	00220
+460X	Aircraft accident, unspecified	3 	T	00229
+461X	During takeoff or landing	3 	T	00230
+469X	Aircraft accident, n.e.c.	3 	T	00231
+46XX	Aircraft accident	2 	T	00228
+49XX	Transportation accident, n.e.c.	2 	T	00232
+4XXX	Transportation accident	1 	T	00168
+50XX	Fire or explosion, unspecified	2 	T	00234
+510X	Fire, unspecified	3 	T	00236
+511X	Fire in residence, building, or other structure	3 	T	00237
+512X	Forest, brush, or other outdoor fire	3 	T	00238
+513X	Ignition of clothing from controlled heat source	3 	T	00239
+519X	Fire, n.e.c.	3 	T	00240
+51XX	Fire--unintended or uncontrolled	2 	T	00235
+520X	Explosion, unspecified	3 	T	00242
+521X	Explosion of battery	3 	T	00243
+522X	Explosion of pressure vessel or piping	3 	T	00244
+529X	Explosion, n.e.c.	3 	T	00245
+52XX	Explosion	2 	T	00241
+5XXX	Fire or explosion	1 	T	00233
+60XX	Assaults and violent acts, unspecified	2 	T	00247
+610X	Homicides, unspecified	3 	T	00249
+611X	Biting	3 	T	00250
+612X	Hitting, kicking, beating	3 	T	00251
+613X	Shooting	3 	T	00252
+614X	Squeezing, pinching, scratching, twisting	3 	T	00253
+615X	Stabbing	3 	T	00254
+616X	Rape	3 	T	00255
+617X	Threats or verbal assaults	3 	T	00256
+619X	Assaults and violent acts by person(s), n.e.c.	3 	T	00257
+61XX	Homicides	2 	T	00248
+620X	Self-inflicted injury, unspecified	3 	T	00259
+621X	Suicide, attempted suicide	3 	T	00260
+622X	Self-inflicted injury or fatality--intent unknown	3 	T	00261
+62XX	Self-inflicted injury	2 	T	00258
+630X	Assaults by animals, unspecified	3 	T	00263
+631X	Nonvenomous bites	3 	T	00264
+639X	Assaults by animals, n.e.c.	3 	T	00265
+63XX	Assaults by animals	2 	T	00262
+6XXX	Assaults and violent acts	1 	T	00246
+9999	Nonclassifiable	1 	T	00267
+9XXX	Other events or exposures	1 	T	00266

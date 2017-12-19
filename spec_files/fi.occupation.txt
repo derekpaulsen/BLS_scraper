@@ -1,0 +1,765 @@
+occupation_code	occupation_text	display_level	selectable	sort_sequence
+000000	All occupations	0	T	1	
+111011	Chief Executives	4	T	5	
+11101X	Chief Executives	3	T	4	
+111021	General and Operations Managers	4	T	7	
+11102X	General and Operations Managers	3	T	6	
+111XXX	Top Executives	2	T	3	
+112011	Advertising and Promotions Managers	4	T	12	
+11201X	Advertising and Promotions Managers	3	T	11	
+112021	Marketing Managers	4	T	14	
+112022	Sales Managers	4	T	15	
+11202X	Marketing and Sales Managers	3	T	13	
+112XXX	Advertising, Marketing, Promotions, Public Relations, and Sales Managers	2	T	10	
+113011	Administrative Services Managers	4	T	20	
+11301X	Administrative Services Managers	3	T	19	
+113021	Computer and Information Systems Managers	4	T	22	
+11302X	Computer and Information Systems Managers	3	T	21	
+113031	Financial Managers	4	T	24	
+11303X	Financial Managers	3	T	23	
+11304X	Human Resources Managers	3	T	25	
+113051	Industrial Production Managers	4	T	30	
+11305X	Industrial Production Managers	3	T	29	
+113071	Transportation, Storage, and Distribution Managers	4	T	34	
+11307X	Transportation, Storage, and Distribution Managers	3	T	33	
+113XXX	Operations Specialties Managers	2	T	18	
+119011	Farm, Ranch, and Other Agricultural Managers	4	T	37	
+119012	Farmers and Ranchers	4	T	38	
+11901X	Agricultural Managers	3	T	36	
+119021	Construction Managers	4	T	40	
+11902X	Construction Managers	3	T	39	
+119032	Education Administrators, Elementary and Secondary School	4	T	43	
+119033	Education Administrators, Postsecondary	4	T	44	
+11903X	Education Administrators	3	T	41	
+119041	Engineering Managers	4	T	47	
+11904X	Engineering Managers	3	T	46	
+119051	Food Service Managers	4	T	49	
+11905X	Food Service Managers	3	T	48	
+119081	Lodging Managers	4	T	55	
+11908X	Lodging Managers	3	T	54	
+119111	Medical and Health Services Managers	4	T	57	
+11911X	Medical and Health Services Managers	3	T	56	
+119141	Property, Real Estate, and Community Association Managers	4	T	63	
+11914X	Property, Real Estate, and Community Association Managers	3	T	62	
+119151	Social and Community Service Managers	4	T	65	
+11915X	Social and Community Service Managers	3	T	64	
+119199	Managers, All Other	4	T	67	
+11919X	Miscellaneous Managers	3	T	66	
+119XXX	Other Management Occupations	2	T	35	
+11XXXX	Management occupations	1	T	2	
+131021	Purchasing Agents and Buyers, Farm Products	4	T	73	
+131022	Wholesale and Retail Buyers, Except Farm Products	4	T	74	
+13102X	Buyers and Purchasing Agents	3	T	72	
+131031	Claims Adjusters, Examiners, and Investigators	4	T	77	
+13103X	Claims Adjusters, Appraisers, Examiners, and Investigators	3	T	76	
+131041	Compliance Officers, Except Agriculture, Construction, Health and Safety, and Transportation	4	T	80	
+13104X	Compliance Officers, Except Agriculture, Construction, Health and Safety, and Transportation	3	T	79	
+13107X	Human Resources, Training, and Labor Relations Specialists	3	T	85	
+131111	Management Analysts	4	T	93	
+13111X	Management Analysts	3	T	92	
+131199	Business Operations Specialists, All Other	4	T	97	
+13119X	Miscellaneous Business Operations Specialists	3	T	96	
+131XXX	Business Operations Specialists	2	T	69	
+132011	Accountants and Auditors	4	T	100	
+13201X	Accountants and Auditors	3	T	99	
+132052	Personal Financial Advisors	4	T	109	
+13205X	Financial Analysts and Advisors	3	T	107	
+132072	Loan Officers	4	T	115	
+13207X	Loan Counselors and Officers	3	T	113	
+132XXX	Financial Specialists	2	T	98	
+13XXXX	Business and Financial Operations Occupations	1	T	68	
+151031	Computer Software Engineers, Applications	4	T	128	
+151032	Computer Software Engineers, Systems Software	4	T	129	
+15103X	Computer Software Engineers	3	T	127	
+151041	Computer Support Specialists	4	T	131	
+15104X	Computer Support Specialists	3	T	130	
+151051	Computer Systems Analysts	4	T	133	
+15105X	Computer Systems Analysts	3	T	132	
+151071	Network and Computer Systems Administrators	4	T	137	
+15107X	Network and Computer Systems Administrators	3	T	136	
+151081	Network Systems and Data Communications Analysts	4	T	139	
+15108X	Network Systems and Data Communications Analysts	3	T	138	
+151XXX	Computer Specialists	2	T	122	
+15XXXX	Computer and Mathematical Occupations	1	T	121	
+171011	Architects, Except Landscape and Naval	4	T	157	
+17101X	Architects, Except Naval	3	T	156	
+171022	Surveyors	4	T	161	
+17102X	Surveyors, Cartographers, and Photogrammetrists	3	T	159	
+171XXX	Architects, Surveyors, and Cartographers	2	T	155	
+172051	Civil Engineers	4	T	172	
+17205X	Civil Engineers	3	T	171	
+172071	Electrical Engineers	4	T	176	
+172072	Electronics Engineers, Except Computer	4	T	177	
+17207X	Electrical and Electronics Engineers	3	T	175	
+172111	Health and Safety Engineers, Except Mining Safety Engineers and Inspectors	4	T	181	
+172112	Industrial Engineers	4	T	182	
+17211X	Industrial Engineers, Including Health and Safety	3	T	180	
+172141	Mechanical Engineers	4	T	188	
+17214X	Mechanical Engineers	3	T	187	
+172171	Petroleum Engineers	4	T	194	
+17217X	Petroleum Engineers	3	T	193	
+172199	Engineers, All Other	4	T	196	
+17219X	Miscellaneous Engineers	3	T	195	
+172XXX	Engineers	2	T	162	
+173011	Architectural and Civil Drafters	4	T	199	
+17301X	Drafters	3	T	198	
+173023	Electrical and Electronic Engineering Technicians	4	T	206	
+173025	Environmental Engineering Technicians	4	T	208	
+173029	Engineering Technicians, Except Drafters, All Other	4	T	211	
+17302X	Engineering Technicians, Except Drafters	3	T	203	
+173031	Surveying and Mapping Technicians	4	T	213	
+17303X	Surveying and Mapping Technicians	3	T	212	
+173XXX	Drafters, Engineering, and Mapping Technicians	2	T	197	
+17XXXX	Architecture and Engineering Occupations	1	T	154	
+191013	Soil and Plant Scientists	4	T	219	
+19101X	Agricultural and Food Scientists	3	T	216	
+191023	Zoologists and Wildlife Biologists	4	T	223	
+19102X	Biological Scientists	3	T	220	
+191032	Foresters	4	T	227	
+19103X	Conservation Scientists and Foresters	3	T	225	
+191XXX	Life Scientists	2	T	215	
+19204X	Environmental Scientists and Geoscientists	3	T	242	
+192099	Physical Scientists, All Other	4	T	247	
+19209X	Miscellaneous Physical Scientists	3	T	246	
+192XXX	Physical Scientists	2	T	233	
+193XXX	Social Scientists and Related Workers	2	T	248	
+194011	Agricultural and Food Science Technicians	4	T	270	
+19401X	Agricultural and Food Science Technicians	3	T	269	
+194031	Chemical Technicians	4	T	274	
+19403X	Chemical Technicians	3	T	273	
+194041	Geological and Petroleum Technicians	4	T	276	
+19404X	Geological and Petroleum Technicians	3	T	275	
+19409X	Miscellaneous Life, Physical, and Social Science Technicians	3	T	281	
+194XXX	Life, Physical, and Social Science Technicians	2	T	268	
+19XXXX	Life, Physical, and Social Science Occupations	1	T	214	
+211012	Educational, Vocational, and School Counselors	4	T	290	
+211019	Counselors, All Other	4	T	294	
+21101X	Counselors	3	T	288	
+211021	Child, Family, and School Social Workers	4	T	296	
+211023	Mental Health and Substance Abuse Social Workers	4	T	298	
+211029	Social Workers, All Other	4	T	299	
+21102X	Social Workers	3	T	295	
+211092	Probation Officers and Correctional Treatment Specialists	4	T	302	
+211093	Social and Human Service Assistants	4	T	303	
+211099	Community and Social Service Specialists, All Other	4	T	304	
+21109X	Miscellaneous Community and Social Service Specialists	3	T	300	
+211XXX	Counselors, Social Workers, and Other Community and Social Service Specialists	2	T	287	
+212011	Clergy	4	T	307	
+21201X	Clergy	3	T	306	
+212021	Directors, Religious Activities and Education	4	T	309	
+21202X	Directors, Religious Activities and Education	3	T	308	
+212099	Religious Workers, All Other	4	T	311	
+21209X	Miscellaneous Religious Workers	3	T	310	
+212XXX	Religious Workers	2	T	305	
+21XXXX	Community and Social Services Occupations	1	T	286	
+231011	Lawyers	4	T	315	
+23101X	Lawyers	3	T	314	
+231XXX	Lawyers, Judges, and Related Workers	2	T	313	
+23209X	Miscellaneous Legal Support Workers	3	T	323	
+232XXX	Legal Support Workers	2	T	320	
+23XXXX	Legal Occupations	1	T	312	
+251191	Graduate Teaching Assistants	4	T	374	
+251194	Vocational Education Teachers, Postsecondary	4	T	377	
+251199	Postsecondary Teachers, All Other	4	T	378	
+25119X	Miscellaneous Postsecondary Teachers	3	T	373	
+251XXX	Postsecondary Teachers	2	T	329	
+252021	Elementary School Teachers, Except Special Education	4	T	384	
+25202X	Elementary and Middle School Teachers	3	T	383	
+252031	Secondary School Teachers, Except Special and Vocational Education	4	T	388	
+25203X	Secondary School Teachers	3	T	387	
+252XXX	Primary, Secondary, and Special Education School Teachers	2	T	379	
+253021	Self-Enrichment Education Teachers	4	T	398	
+25302X	Self-Enrichment Education Teachers	3	T	397	
+253099	Teachers and Instructors, All Other	4	T	400	
+25309X	Miscellaneous Teachers and Instructors	3	T	399	
+253XXX	Other Teachers and Instructors	2	T	394	
+254021	Librarians	4	T	407	
+25402X	Librarians	3	T	406	
+254XXX	Librarians, Curators, and Archivists	2	T	401	
+259041	Teacher Assistants	4	T	418	
+25904X	Teacher Assistants	3	T	417	
+259XXX	Other Education, Training, and Library Occupations	2	T	410	
+25XXXX	Education, Training, and Library Occupations	1	T	328	
+271013	Fine Artists, Including Painters, Sculptors, and Illustrators	4	T	426	
+27101X	Artists and Related Workers	3	T	423	
+271023	Floral Designers	4	T	432	
+27102X	Designers	3	T	429	
+271XXX	Art and Design Workers	2	T	422	
+27201X	Actors, Producers, and Directors	3	T	439	
+272021	Athletes and Sports Competitors	4	T	443	
+272022	Coaches and Scouts	4	T	444	
+272023	Umpires, Referees, and Other Sports Officials	4	T	445	
+27202X	Athletes, Coaches, Umpires, and Related Workers	3	T	442	
+272042	Musicians and Singers	4	T	451	
+27204X	Musicians, Singers, and Related Workers	3	T	449	
+272099	Entertainers and Performers, Sports and Related Workers, All Other	4	T	453	
+27209X	Miscellaneous Entertainers and Performers, Sports and Related Workers	3	T	452	
+272XXX	Entertainers and Performers, Sports and Related Workers	2	T	438	
+273012	Public Address System and Other Announcers	4	T	457	
+27301X	Announcers	3	T	455	
+273022	Reporters and Correspondents	4	T	460	
+27302X	News Analysts, Reporters and Correspondents	3	T	458	
+273031	Public Relations Specialists	4	T	462	
+27303X	Public Relations Specialists	3	T	461	
+273XXX	Media and Communication Workers	2	T	454	
+27401X	Broadcast and Sound Engineering Technicians and Radio Operators	3	T	471	
+274021	Photographers	4	T	477	
+27402X	Photographers	3	T	476	
+274031	Camera Operators, Television, Video, and Motion Picture	4	T	479	
+27403X	Television, Video, and Motion Picture Camera Operators and Editors	3	T	478	
+274XXX	Media and Communication Equipment Workers	2	T	470	
+27XXXX	Arts, Design, Entertainment, Sports, and Media Occupations	1	T	421	
+291021	Dentists, General	4	T	488	
+29102X	Dentists	3	T	487	
+291051	Pharmacists	4	T	498	
+29105X	Pharmacists	3	T	497	
+291062	Family and General Practitioners	4	T	501	
+291067	Surgeons	4	T	506	
+291069	Physicians and Surgeons, All Other	4	T	507	
+29106X	Physicians and Surgeons	3	T	499	
+291111	Registered Nurses	4	T	513	
+29111X	Registered Nurses	3	T	512	
+291129	Therapists, All Other	4	T	522	
+29112X	Therapists	3	T	514	
+291131	Veterinarians	4	T	524	
+29113X	Veterinarians	3	T	523	
+291XXX	Health Diagnosing and Treating Practitioners	2	T	484	
+292012	Medical and Clinical Laboratory Technicians	4	T	530	
+29201X	Clinical Laboratory Technologists and Technicians	3	T	528	
+292041	Emergency Medical Technicians and Paramedics	4	T	539	
+29204X	Emergency Medical Technicians and Paramedics	3	T	538	
+29205X	Health Diagnosing and Treating Practitioner Support Technicians	3	T	540	
+292061	Licensed Practical and Licensed Vocational Nurses	4	T	548	
+29206X	Licensed Practical and Licensed Vocational Nurses	3	T	547	
+292XXX	Health Technologists and Technicians	2	T	527	
+299XXX	Other Healthcare Practitioners and Technical Occupations	2	T	556	
+29XXXX	Healthcare Practitioners and Technical Occupations	1	T	483	
+311011	Home Health Aides	4	T	566	
+311012	Nursing Aides, Orderlies, and Attendants	4	T	567	
+31101X	Nursing, Psychiatric, and Home Health Aides	3	T	565	
+311XXX	Nursing, Psychiatric, and Home Health Aides	2	T	564	
+319099	Healthcare Support Workers, All Other	4	T	586	
+31909X	Miscellaneous Healthcare Support Occupations	3	T	579	
+319XXX	Other Healthcare Support Occupations	2	T	576	
+31XXXX	Healthcare Support Occupations	1	T	563	
+331012	First-Line Supervisors/Managers of Police and Detectives	4	T	591	
+33101X	First-Line Supervisors/Managers, Law Enforcement Workers	3	T	589	
+331021	First-Line Supervisors/Managers of Fire Fighting and Prevention Workers	4	T	593	
+33102X	First-Line Supervisors/Managers, Fire Fighting and Prevention Workers	3	T	592	
+331099	First-Line Supervisors/Managers, Protective Service Workers, All Other	4	T	595	
+33109X	Miscellaneous First-Line Supervisors/Managers, Protective Service Workers	3	T	594	
+331XXX	First-Line Supervisors/Managers, Protective Service Workers	2	T	588	
+332011	Fire Fighters	4	T	598	
+33201X	Fire Fighters	3	T	597	
+33202X	Fire Inspectors	3	T	599	
+332XXX	Fire Fighting and Prevention Workers	2	T	596	
+333012	Correctional Officers and Jailers	4	T	605	
+33301X	Bailiffs, Correctional Officers, and Jailers	3	T	603	
+333021	Detectives and Criminal Investigators	4	T	607	
+33302X	Detectives and Criminal Investigators	3	T	606	
+333031	Fish and Game Wardens	4	T	609	
+33303X	Fish and Game Wardens	3	T	608	
+333051	Police and Sheriff's Patrol Officers	4	T	613	
+33305X	Police Officers	3	T	612	
+333XXX	Law Enforcement Workers	2	T	602	
+339032	Security Guards	4	T	622	
+33903X	Security Guards and Gaming Surveillance Officers	3	T	620	
+339091	Crossing Guards	4	T	624	
+339092	Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers	4	T	625	
+339099	Protective Service Workers, All Other	4	T	626	
+33909X	Miscellaneous Protective Service Workers	3	T	623	
+339XXX	Other Protective Service Workers	2	T	615	
+33XXXX	Protective Service Occupations	1	T	587	
+351011	Chefs and Head Cooks	4	T	630	
+351012	First-Line Supervisors/Managers of Food Preparation and Serving Workers	4	T	631	
+35101X	First-Line Supervisors/Managers, Food Preparation and Serving Workers	3	T	629	
+351XXX	Supervisors, Food Preparation and Serving Workers	2	T	628	
+352011	Cooks, Fast Food	4	T	634	
+352012	Cooks, Institution and Cafeteria	4	T	635	
+352014	Cooks, Restaurant	4	T	637	
+35201X	Cooks	3	T	633	
+352021	Food Preparation Workers	4	T	641	
+35202X	Food Preparation Workers	3	T	640	
+352XXX	Cooks and Food Preparation Workers	2	T	632	
+353011	Bartenders	4	T	644	
+35301X	Bartenders	3	T	643	
+353021	Combined Food Preparation and Serving Workers, Including Fast Food	4	T	646	
+353022	Counter Attendants, Cafeteria, Food Concession, and Coffee Shop	4	T	647	
+35302X	Fast Food and Counter Workers	3	T	645	
+353031	Waiters and Waitresses	4	T	649	
+35303X	Waiters and Waitresses	3	T	648	
+353XXX	Food and Beverage Serving Workers	2	T	642	
+359011	Dining Room and Cafeteria Attendants and Bartender Helpers	4	T	654	
+35901X	Dining Room and Cafeteria Attendants and Bartender Helpers	3	T	653	
+359021	Dishwashers	4	T	656	
+35902X	Dishwashers	3	T	655	
+359099	Food Preparation and Serving Related Workers, All Other	4	T	660	
+35909X	Miscellaneous Food Preparation and Serving Related Workers	3	T	659	
+359XXX	Other Food Preparation and Serving Related Workers	2	T	652	
+35XXXX	Food Preparation and Serving Related Occupations	1	T	627	
+371011	First-Line Supervisors/Managers of Housekeeping and Janitorial Workers	4	T	664	
+371012	First-Line Supervisors/Managers of Landscaping, Lawn Service, and Groundskeeping Workers	4	T	665	
+37101X	First-Line Supervisors/Managers, Building and Grounds Cleaning and Maintenance Workers	3	T	663	
+371XXX	Supervisors, Building and Grounds Cleaning and Maintenance Workers	2	T	662	
+372011	Janitors and Cleaners, Except Maids and Housekeeping Cleaners	4	T	668	
+372012	Maids and Housekeeping Cleaners	4	T	669	
+372019	Building Cleaning Workers, All Other	4	T	670	
+37201X	Building Cleaning Workers	3	T	667	
+372021	Pest Control Workers	4	T	672	
+37202X	Pest Control Workers	3	T	671	
+372XXX	Building Cleaning and Pest Control Workers	2	T	666	
+373011	Landscaping and Groundskeeping Workers	4	T	675	
+373013	Tree Trimmers and Pruners	4	T	677	
+373019	Grounds Maintenance Workers, All Other	4	T	678	
+37301X	Grounds Maintenance Workers	3	T	674	
+373XXX	Grounds Maintenance Workers	2	T	673	
+37XXXX	Building and Grounds Cleaning and Maintenance Occupations	1	T	661	
+391021	First-Line Supervisors/Managers of Personal Service Workers	4	T	685	
+39102X	First-Line Supervisors/Managers of Personal Service Workers	3	T	684	
+391XXX	Supervisors, Personal Care and Service Workers	2	T	680	
+392011	Animal Trainers	4	T	688	
+39201X	Animal Trainers	3	T	687	
+392021	Nonfarm Animal Caretakers	4	T	690	
+39202X	Nonfarm Animal Caretakers	3	T	689	
+392XXX	Animal Care and Service Workers	2	T	686	
+393091	Amusement and Recreation Attendants	4	T	701	
+39309X	Miscellaneous Entertainment Attendants and Related Workers	3	T	700	
+393XXX	Entertainment Attendants and Related Workers	2	T	691	
+395011	Barbers	4	T	712	
+395012	Hairdressers, Hairstylists, and Cosmetologists	4	T	713	
+39501X	Barbers and Cosmetologists	3	T	711	
+395XXX	Personal Appearance Workers	2	T	710	
+396021	Tour Guides and Escorts	4	T	724	
+39602X	Tour and Travel Guides	3	T	723	
+396XXX	Transportation, Tourism, and Lodging Attendants	2	T	719	
+399011	Child Care Workers	4	T	731	
+39901X	Child Care Workers	3	T	730	
+399021	Personal and Home Care Aides	4	T	733	
+39902X	Personal and Home Care Aides	3	T	732	
+399032	Recreation Workers	4	T	736	
+39903X	Recreation and Fitness Workers	3	T	734	
+399099	Personal Care and Service Workers, All Other	4	T	740	
+39909X	Miscellaneous Personal Care and Service Workers	3	T	739	
+399XXX	Other Personal Care and Service Workers	2	T	729	
+39XXXX	Personal Care and Service Occupations	1	T	679	
+411011	First-Line Supervisors/Managers of Retail Sales Workers	4	T	744	
+411012	First-Line Supervisors/Managers of Non-Retail Sales Workers	4	T	745	
+41101X	First-Line Supervisors/Managers, Sales Workers	3	T	743	
+411XXX	Supervisors, Sales Workers	2	T	742	
+412011	Cashiers	4	T	748	
+41201X	Cashiers	3	T	747	
+412021	Counter and Rental Clerks	4	T	751	
+412022	Parts Salespersons	4	T	752	
+41202X	Counter and Rental Clerks and Parts Salespersons	3	T	750	
+412031	Retail Salespersons	4	T	754	
+41203X	Retail Salespersons	3	T	753	
+412XXX	Retail Sales Workers	2	T	746	
+413011	Advertising Sales Agents	4	T	757	
+41301X	Advertising Sales Agents	3	T	756	
+413021	Insurance Sales Agents	4	T	759	
+41302X	Insurance Sales Agents	3	T	758	
+413031	Securities, Commodities, and Financial Services Sales Agents	4	T	761	
+41303X	Securities, Commodities, and Financial Services Sales Agents	3	T	760	
+413099	Sales Representatives, Services, All Other	4	T	765	
+41309X	Miscellaneous Sales Representatives, Services	3	T	764	
+413XXX	Sales Representatives, Services	2	T	755	
+414011	Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products	4	T	768	
+414012	Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products	4	T	769	
+41401X	Sales Representatives, Wholesale and Manufacturing	3	T	767	
+414XXX	Sales Representatives, Wholesale and Manufacturing	2	T	766	
+419021	Real Estate Brokers	4	T	775	
+419022	Real Estate Sales Agents	4	T	776	
+41902X	Real Estate Brokers and Sales Agents	3	T	774	
+419091	Door-To-Door Sales Workers, News and Street Vendors, and Related Workers	4	T	782	
+419099	Sales and Related Workers, All Other	4	T	783	
+41909X	Miscellaneous Sales and Related Workers	3	T	781	
+419XXX	Other Sales and Related Workers	2	T	770	
+41XXXX	Sales and Related Occupations	1	T	741	
+431011	First-Line Supervisors/Managers of Office and Administrative Support Workers	4	T	787	
+43101X	First-Line Supervisors/Managers of Office and Administrative Support Workers	3	T	786	
+431XXX	Supervisors, Office and Administrative Support Workers	2	T	785	
+433011	Bill and Account Collectors	4	T	797	
+43301X	Bill and Account Collectors	3	T	796	
+433031	Bookkeeping, Accounting, and Auditing Clerks	4	T	801	
+43303X	Bookkeeping, Accounting, and Auditing Clerks	3	T	800	
+433071	Tellers	4	T	809	
+43307X	Tellers	3	T	808	
+433XXX	Financial Clerks	2	T	795	
+434051	Customer Service Representatives	4	T	820	
+43405X	Customer Service Representatives	3	T	819	
+434081	Hotel, Motel, and Resort Desk Clerks	4	T	826	
+43408X	Hotel, Motel, and Resort Desk Clerks	3	T	825	
+434111	Interviewers, Except Eligibility and Loan	4	T	828	
+43411X	Interviewers, Except Eligibility and Loan	3	T	827	
+434171	Receptionists and Information Clerks	4	T	840	
+43417X	Receptionists and Information Clerks	3	T	839	
+434XXX	Information and Record Clerks	2	T	810	
+435021	Couriers and Messengers	4	T	849	
+43502X	Couriers and Messengers	3	T	848	
+435032	Dispatchers, Except Police, Fire, and Ambulance	4	T	852	
+43503X	Dispatchers	3	T	850	
+435041	Meter Readers, Utilities	4	T	854	
+43504X	Meter Readers, Utilities	3	T	853	
+435051	Postal Service Clerks	4	T	856	
+435052	Postal Service Mail Carriers	4	T	857	
+435053	Postal Service Mail Sorters, Processors, and Processing Machine Operators	4	T	858	
+43505X	Postal Service Workers	3	T	855	
+435071	Shipping, Receiving, and Traffic Clerks	4	T	862	
+43507X	Shipping, Receiving, and Traffic Clerks	3	T	861	
+435081	Stock Clerks and Order Fillers	4	T	864	
+43508X	Stock Clerks and Order Fillers	3	T	863	
+435XXX	Material Recording, Scheduling, Dispatching, and Distributing Workers	2	T	845	
+436011	Executive Secretaries and Administrative Assistants	4	T	869	
+436014	Secretaries, Except Legal, Medical, and Executive	4	T	872	
+43601X	Secretaries and Administrative Assistants	3	T	868	
+436XXX	Secretaries and Administrative Assistants	2	T	867	
+439051	Mail Clerks and Mail Machine Operators, Except Postal Service	4	T	884	
+43905X	Mail Clerks and Mail Machine Operators, Except Postal Service	3	T	883	
+439061	Office Clerks, General	4	T	886	
+43906X	Office Clerks, General	3	T	885	
+439199	Office and Administrative Support Workers, All Other	4	T	894	
+43919X	Miscellaneous Office and Administrative Support Workers	3	T	893	
+439XXX	Other Office and Administrative Support Workers	2	T	873	
+43XXXX	Office and Administrative Support Occupations	1	T	784	
+451011	First-Line Supervisors/Managers of Farming, Fishing, and Forestry Workers	4	T	898	
+451012	Farm Labor Contractors	4	T	899	
+45101X	First-Line Supervisors/Managers of Farming, Fishing, and Forestry Workers	3	T	897	
+451XXX	Supervisors, Farming, Fishing, and Forestry Workers	2	T	896	
+452011	Agricultural Inspectors	4	T	902	
+45201X	Agricultural Inspectors	3	T	901	
+452091	Agricultural Equipment Operators	4	T	908	
+452092	Farmworkers and Laborers, Crop, Nursery, and Greenhouse	4	T	909	
+452093	Farmworkers, Farm and Ranch Animals	4	T	910	
+452099	Agricultural Workers, All Other	4	T	911	
+45209X	Miscellaneous Agricultural Workers	3	T	907	
+452XXX	Agricultural Workers	2	T	900	
+453011	Fishers and Related Fishing Workers	4	T	914	
+45301X	Fishers and Related Fishing Workers	3	T	913	
+453XXX	Fishing and Hunting Workers	2	T	912	
+454011	Forest and Conservation Workers	4	T	919	
+45401X	Forest and Conservation Workers	3	T	918	
+454021	Fallers	4	T	921	
+454022	Logging Equipment Operators	4	T	922	
+454029	Logging Workers, All Other	4	T	924	
+45402X	Logging Workers	3	T	920	
+454XXX	Forest, Conservation, and Logging Workers	2	T	917	
+45XXXX	Farming, Fishing, and Forestry Occupations	1	T	895	
+471011	First-Line Supervisors/Managers of Construction Trades and Extraction Workers	4	T	928	
+47101X	First-Line Supervisors/Managers of Construction Trades and Extraction Workers	3	T	927	
+471XXX	Supervisors, Construction and Extraction Workers	2	T	926	
+472011	Boilermakers	4	T	931	
+47201X	Boilermakers	3	T	930	
+472021	Brickmasons and Blockmasons	4	T	933	
+472022	Stonemasons	4	T	934	
+47202X	Brickmasons, Blockmasons, and Stonemasons	3	T	932	
+472031	Carpenters	4	T	936	
+47203X	Carpenters	3	T	935	
+472041	Carpet Installers	4	T	938	
+472044	Tile and Marble Setters	4	T	941	
+47204X	Carpet, Floor, and Tile Installers and Finishers	3	T	937	
+472051	Cement Masons and Concrete Finishers	4	T	943	
+47205X	Cement Masons, Concrete Finishers, and Terrazzo Workers	3	T	942	
+472061	Construction Laborers	4	T	946	
+47206X	Construction Laborers	3	T	945	
+472071	Paving, Surfacing, and Tamping Equipment Operators	4	T	948	
+472073	Operating Engineers and Other Construction Equipment Operators	4	T	950	
+47207X	Construction Equipment Operators	3	T	947	
+472081	Drywall and Ceiling Tile Installers	4	T	952	
+47208X	Drywall Installers, Ceiling Tile Installers, and Tapers	3	T	951	
+472111	Electricians	4	T	955	
+47211X	Electricians	3	T	954	
+472121	Glaziers	4	T	957	
+47212X	Glaziers	3	T	956	
+472131	Insulation Workers, Floor, Ceiling, and Wall	4	T	959	
+47213X	Insulation Workers	3	T	958	
+472141	Painters, Construction and Maintenance	4	T	962	
+47214X	Painters and Paperhangers	3	T	961	
+472151	Pipelayers	4	T	965	
+472152	Plumbers, Pipefitters, and Steamfitters	4	T	966	
+47215X	Pipelayers, Plumbers, Pipefitters, and Steamfitters	3	T	964	
+472161	Plasterers and Stucco Masons	4	T	968	
+47216X	Plasterers and Stucco Masons	3	T	967	
+472171	Reinforcing Iron and Rebar Workers	4	T	970	
+47217X	Reinforcing Iron and Rebar Workers	3	T	969	
+472181	Roofers	4	T	972	
+47218X	Roofers	3	T	971	
+472211	Sheet Metal Workers	4	T	974	
+47221X	Sheet Metal Workers	3	T	973	
+472221	Structural Iron and Steel Workers	4	T	976	
+47222X	Structural Iron and Steel Workers	3	T	975	
+472XXX	Construction Trades Workers	2	T	929	
+473011	Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters	4	T	979	
+473012	Helpers--Carpenters	4	T	980	
+473013	Helpers--Electricians	4	T	981	
+473015	Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters	4	T	983	
+473016	Helpers--Roofers	4	T	984	
+473019	Helpers, Construction Trades, All Other	4	T	985	
+47301X	Helpers, Construction Trades	3	T	978	
+473XXX	Helpers, Construction Trades	2	T	977	
+474011	Construction and Building Inspectors	4	T	988	
+47401X	Construction and Building Inspectors	3	T	987	
+474021	Elevator Installers and Repairers	4	T	990	
+47402X	Elevator Installers and Repairers	3	T	989	
+474031	Fence Erectors	4	T	992	
+47403X	Fence Erectors	3	T	991	
+474041	Hazardous Materials Removal Workers	4	T	994	
+47404X	Hazardous Materials Removal Workers	3	T	993	
+474051	Highway Maintenance Workers	4	T	996	
+47405X	Highway Maintenance Workers	3	T	995	
+474061	Rail-Track Laying and Maintenance Equipment Operators	4	T	998	
+47406X	Rail-Track Laying and Maintenance Equipment Operators	3	T	997	
+474071	Septic Tank Servicers and Sewer Pipe Cleaners	4	T	1000	
+47407X	Septic Tank Servicers and Sewer Pipe Cleaners	3	T	999	
+474099	Construction and Related Workers, All Other	4	T	1003	
+47409X	Miscellaneous Construction and Related Workers	3	T	1001	
+474XXX	Other Construction and Related Workers	2	T	986	
+475011	Derrick Operators, Oil and Gas	4	T	1006	
+475012	Rotary Drill Operators, Oil and Gas	4	T	1007	
+475013	Service Unit Operators, Oil, Gas, and Mining	4	T	1008	
+47501X	Derrick, Rotary Drill, and Service Unit Operators, Oil, Gas, and Mining	3	T	1005	
+475021	Earth Drillers, Except Oil and Gas	4	T	1010	
+47502X	Earth Drillers, Except Oil and Gas	3	T	1009	
+475041	Continuous Mining Machine Operators	4	T	1014	
+475049	Mining Machine Operators, All Other	4	T	1016	
+47504X	Mining Machine Operators	3	T	1013	
+475061	Roof Bolters, Mining	4	T	1020	
+47506X	Roof Bolters, Mining	3	T	1019	
+475071	Roustabouts, Oil and Gas	4	T	1022	
+47507X	Roustabouts, Oil and Gas	3	T	1021	
+475081	Helpers--Extraction Workers	4	T	1024	
+47508X	Helpers--Extraction Workers	3	T	1023	
+475099	Extraction Workers, All Other	4	T	1026	
+47509X	Miscellaneous Extraction Workers	3	T	1025	
+475XXX	Extraction Workers	2	T	1004	
+47XXXX	Construction and Extraction Occupations	1	T	925	
+491011	First-Line Supervisors/Managers of Mechanics, Installers, and Repairers	4	T	1030	
+49101X	First-Line Supervisors/Managers of Mechanics, Installers, and Repairers	3	T	1029	
+491XXX	Supervisors of Installation, Maintenance, and Repair Workers	2	T	1028	
+492011	Computer, Automated Teller, and Office Machine Repairers	4	T	1033	
+49201X	Computer, Automated Teller, and Office Machine Repairers	3	T	1032	
+492022	Telecommunications Equipment Installers and Repairers, Except Line Installers	4	T	1036	
+49202X	Radio and Telecommunications Equipment Installers and Repairers	3	T	1034	
+492092	Electric Motor, Power Tool, and Related Repairers	4	T	1039	
+492094	Electrical and Electronics Repairers, Commercial and Industrial Equipment	4	T	1041	
+492097	Electronic Home Entertainment Equipment Installers and Repairers	4	T	1044	
+492098	Security and Fire Alarm Systems Installers	4	T	1045	
+49209X	Miscellaneous Electrical and Electronic Equipment Mechanics, Installers, and Repairers	3	T	1037	
+492XXX	Electrical and Electronic Equipment Mechanics, Installers, and Repairers	2	T	1031	
+493011	Aircraft Mechanics and Service Technicians	4	T	1048	
+49301X	Aircraft Mechanics and Service Technicians	3	T	1047	
+493021	Automotive Body and Related Repairers	4	T	1050	
+493023	Automotive Service Technicians and Mechanics	4	T	1052	
+49302X	Automotive Technicians and Repairers	3	T	1049	
+493031	Bus and Truck Mechanics and Diesel Engine Specialists	4	T	1054	
+49303X	Bus and Truck Mechanics and Diesel Engine Specialists	3	T	1053	
+493041	Farm Equipment Mechanics	4	T	1056	
+493042	Mobile Heavy Equipment Mechanics, Except Engines	4	T	1057	
+493043	Rail Car Repairers	4	T	1058	
+49304X	Heavy Vehicle and Mobile Equipment Service Technicians and Mechanics	3	T	1055	
+493052	Motorcycle Mechanics	4	T	1061	
+493053	Outdoor Power Equipment and Other Small Engine Mechanics	4	T	1062	
+49305X	Small Engine Mechanics	3	T	1059	
+493093	Tire Repairers and Changers	4	T	1066	
+49309X	Miscellaneous Vehicle and Mobile Equipment Mechanics, Installers, and Repairers	3	T	1063	
+493XXX	Vehicle and Mobile Equipment Mechanics, Installers, and Repairers	2	T	1046	
+499012	Control and Valve Installers and Repairers, Except Mechanical Door	4	T	1070	
+49901X	Control and Valve Installers and Repairers	3	T	1068	
+499021	Heating, Air Conditioning, and Refrigeration Mechanics and Installers	4	T	1072	
+49902X	Heating, Air Conditioning, and Refrigeration Mechanics and Installers	3	T	1071	
+499031	Home Appliance Repairers	4	T	1074	
+49903X	Home Appliance Repairers	3	T	1073	
+499041	Industrial Machinery Mechanics	4	T	1076	
+499042	Maintenance and Repair Workers, General	4	T	1077	
+499043	Maintenance Workers, Machinery	4	T	1078	
+499044	Millwrights	4	T	1079	
+49904X	Industrial Machinery Installation, Repair, and Maintenance Workers	3	T	1075	
+499051	Electrical Power-Line Installers and Repairers	4	T	1082	
+499052	Telecommunications Line Installers and Repairers	4	T	1083	
+49905X	Line Installers and Repairers	3	T	1081	
+49906X	Precision Instrument and Equipment Repairers	3	T	1084	
+499091	Coin, Vending, and Amusement Machine Servicers and Repairers	4	T	1091	
+499092	Commercial Divers	4	T	1092	
+499094	Locksmiths and Safe Repairers	4	T	1094	
+499095	Manufactured Building and Mobile Home Installers	4	T	1095	
+499096	Riggers	4	T	1096	
+499097	Signal and Track Switch Repairers	4	T	1097	
+499098	Helpers--Installation, Maintenance, and Repair Workers	4	T	1098	
+499099	Installation, Maintenance, and Repair Workers, All Other	4	T	1099	
+49909X	Miscellaneous Installation, Maintenance, and Repair Workers	3	T	1090	
+499XXX	Other Installation, Maintenance, and Repair Occupations	2	T	1067	
+49XXXX	Installation, Maintenance, and Repair Occupations	1	T	1027	
+511011	First-Line Supervisors/Managers of Production and Operating Workers	4	T	1104	
+51101X	First-Line Supervisors/Managers of Production and Operating Workers	3	T	1103	
+511XXX	Supervisors, Production workers	2	T	1102	
+51202X	Electrical, Electronics, and Electromechanical Assemblers	3	T	1108	
+512041	Structural Metal Fabricators and Fitters	4	T	1115	
+51204X	Structural Metal Fabricators and Fitters	3	T	1114	
+512099	Assemblers and Fabricators, All Other	4	T	1120	
+51209X	Miscellaneous Assemblers and Fabricators	3	T	1116	
+512XXX	Assemblers and Fabricators	2	T	1105	
+513011	Bakers	4	T	1123	
+51301X	Bakers	3	T	1122	
+513021	Butchers and Meat Cutters	4	T	1125	
+513022	Meat, Poultry, and Fish Cutters and Trimmers	4	T	1126	
+513023	Slaughterers and Meat Packers	4	T	1127	
+51302X	Butchers and Other Meat, Poultry, and Fish Processing Workers	3	T	1124	
+513091	Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders	4	T	1129	
+513092	Food Batchmakers	4	T	1130	
+51309X	Miscellaneous Food Processing Workers	3	T	1128	
+513XXX	Food Processing Workers	2	T	1121	
+514022	Forging Machine Setters, Operators, and Tenders, Metal and Plastic	4	T	1138	
+51402X	Forming Machine Setters, Operators, and Tenders, Metal and Plastic	3	T	1136	
+514031	Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic	4	T	1141	
+514033	Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators and Tenders	4	T	1143	
+51403X	Machine Tool Cutting Setters, Operators, and Tenders, Metal and Plastic	3	T	1140	
+514041	Machinists	4	T	1147	
+51404X	Machinists	3	T	1146	
+514051	Metal-Refining Furnace Operators and Tenders	4	T	1149	
+51405X	Metal Furnace and Kiln Operators and Tenders	3	T	1148	
+514072	Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic	4	T	1156	
+51407X	Molders and Molding Machine Setters, Operators, and Tenders, Metal and Plastic	3	T	1154	
+514121	Welders, Cutters, Solderers, and Brazers	4	T	1162	
+514122	Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders	4	T	1163	
+51412X	Welding, Soldering, and Brazing Workers	3	T	1161	
+514193	Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic	4	T	1167	
+514199	Metal Workers and Plastic Workers, All Other	4	T	1169	
+51419X	Miscellaneous Metalworkers and Plastic Workers	3	T	1164	
+514XXX	Metal Workers and Plastic Workers	2	T	1132	
+515023	Printing Machine Operators	4	T	1177	
+51502X	Printers	3	T	1174	
+515XXX	Printing Workers	2	T	1170	
+516011	Laundry and Dry-Cleaning Workers	4	T	1180	
+51601X	Laundry and Dry-Cleaning Workers	3	T	1179	
+51609X	Miscellaneous Textile, Apparel, and Furnishings Workers	3	T	1196	
+516XXX	Textile, Apparel, and Furnishings Workers	2	T	1178	
+517011	Cabinetmakers and Bench Carpenters	4	T	1203	
+51701X	Cabinetmakers and Bench Carpenters	3	T	1202	
+517041	Sawing Machine Setters, Operators, and Tenders, Wood	4	T	1210	
+517042	Woodworking Machine Setters, Operators, and Tenders, Except Sawing	4	T	1211	
+51704X	Woodworking Machine Setters, Operators, and Tenders	3	T	1209	
+517099	Woodworkers, All Other	4	T	1213	
+51709X	Miscellaneous Woodworkers	3	T	1212	
+517XXX	Woodworkers	2	T	1201	
+518021	Stationary Engineers and Boiler Operators	4	T	1220	
+51802X	Stationary Engineers and Boiler Operators	3	T	1219	
+518031	Water and Liquid Waste Treatment Plant and System Operators	4	T	1222	
+51803X	Water and Liquid Waste Treatment Plant and System Operators	3	T	1221	
+518093	Petroleum Pump System Operators, Refinery Operators, and Gaugers	4	T	1226	
+51809X	Miscellaneous Plant and System Operators	3	T	1223	
+518XXX	Plant and System Operators	2	T	1214	
+519011	Chemical Equipment Operators and Tenders	4	T	1230	
+519012	Separating, Filtering, Clarifying, Precipitating	4	T	1231	
+51901X	Chemical Processing Machine Setters, Operators, and Tenders	3	T	1229	
+519021	Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders	4	T	1233	
+519023	Mixing and Blending Machine Setters, Operators, and Tenders	4	T	1235	
+51902X	Crushing, Grinding, Polishing, Mixing, and Blending Workers	3	T	1232	
+519032	Cutting and Slicing Machine Setters, Operators, and Tenders	4	T	1238	
+51903X	Cutting Workers	3	T	1236	
+519041	Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders	4	T	1240	
+51904X	Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders	3	T	1239	
+519051	Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders	4	T	1242	
+51905X	Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders	3	T	1241	
+519061	Inspectors, Testers, Sorters, Samplers, and Weighers	4	T	1244	
+51906X	Inspectors, Testers, Sorters, Samplers, and Weighers	3	T	1243	
+519111	Packaging and Filling Machine Operators and Tenders	4	T	1252	
+51911X	Packaging and Filling Machine Operators and Tenders	3	T	1251	
+519121	Coating, Painting, and Spraying Machine Setters, Operators, and Tenders	4	T	1254	
+519122	Painters, Transportation Equipment	4	T	1255	
+519123	Painting, Coating, and Decorating Workers	4	T	1256	
+51912X	Painting Workers	3	T	1253	
+519196	Paper Goods Machine Setters, Operators, and Tenders	4	T	1268	
+519198	Helpers--Production Workers	4	T	1270	
+519199	Production Workers, All Other	4	T	1271	
+51919X	Miscellaneous Production Workers	3	T	1262	
+519XXX	Other Production Occupations	2	T	1228	
+51XXXX	Production Occupations	1	T	1100	
+531021	First-Line Supervisors/Managers of Helpers, Laborers, and Material Movers, Hand	4	T	1276	
+53102X	First-Line Supervisors/Managers of Helpers, Laborers, and Material Movers, Hand	3	T	1275	
+531031	First-Line Supervisors/Managers of Transportation and Material-Moving Machine and Vehicle Operators	4	T	1278	
+53103X	First-Line Supervisors/Managers of Transportation and Material-Moving Machine and Vehicle Operators	3	T	1277	
+531XXX	Supervisors, Transportation and Material Moving Workers	2	T	1272	
+532011	Airline Pilots, Copilots, and Flight Engineers	4	T	1281	
+532012	Commercial Pilots	4	T	1282	
+53201X	Aircraft Pilots and Flight Engineers	3	T	1280	
+532022	Airfield Operations Specialists	4	T	1285	
+53202X	Air Traffic Controllers and Airfield Operations Specialists	3	T	1283	
+532XXX	Air Transportation Workers	2	T	1279	
+533011	Ambulance Drivers and Attendants, Except Emergency Medical Technicians	4	T	1288	
+53301X	Ambulance Drivers and Attendants, Except Emergency Medical Technicians	3	T	1287	
+533021	Bus Drivers, Transit and Intercity	4	T	1290	
+533022	Bus Drivers, School	4	T	1291	
+53302X	Bus Drivers	3	T	1289	
+533031	Driver/Sales Workers	4	T	1293	
+533032	Truck Drivers, Heavy and Tractor-Trailer	4	T	1294	
+533033	Truck Drivers, Light or Delivery Services	4	T	1295	
+53303X	Driver/Sales Workers and Truck Drivers	3	T	1292	
+533041	Taxi Drivers and Chauffeurs	4	T	1297	
+53304X	Taxi Drivers and Chauffeurs	3	T	1296	
+533099	Motor Vehicle Operators, All Other	4	T	1299	
+53309X	Miscellaneous Motor Vehicle Operators	3	T	1298	
+533XXX	Motor Vehicle Operators	2	T	1286	
+534011	Locomotive Engineers	4	T	1302	
+53401X	Locomotive Engineers and Operators	3	T	1301	
+534021	Railroad Brake, Signal, and Switch Operators	4	T	1306	
+53402X	Railroad Brake, Signal, and Switch Operators	3	T	1305	
+534031	Railroad Conductors and Yardmasters	4	T	1308	
+53403X	Railroad Conductors and Yardmasters	3	T	1307	
+534099	Rail Transportation Workers, All Other	4	T	1312	
+53409X	Miscellaneous Rail Transportation Workers	3	T	1311	
+534XXX	Rail Transportation Workers	2	T	1300	
+535011	Sailors and Marine Oilers	4	T	1315	
+53501X	Sailors and Marine Oilers	3	T	1314	
+535021	Captains, Mates, and Pilots of Water Vessels	4	T	1317	
+53502X	Ship and Boat Captains and Operators	3	T	1316	
+535031	Ship Engineers	4	T	1320	
+53503X	Ship Engineers	3	T	1319	
+535XXX	Water Transportation Workers	2	T	1313	
+536021	Parking Lot Attendants	4	T	1325	
+53602X	Parking Lot Attendants	3	T	1324	
+536031	Service Station Attendants	4	T	1327	
+53603X	Service Station Attendants	3	T	1326	
+536051	Transportation Inspectors	4	T	1331	
+53605X	Transportation Inspectors	3	T	1330	
+536099	Transportation Workers, All Other	4	T	1333	
+53609X	Miscellaneous Transportation Workers	3	T	1332	
+536XXX	Other Transportation Workers	2	T	1321	
+537011	Conveyor Operators and Tenders	4	T	1336	
+53701X	Conveyor Operators and Tenders	3	T	1335	
+537021	Crane and Tower Operators	4	T	1338	
+53702X	Crane and Tower Operators	3	T	1337	
+537031	Dredge Operators	4	T	1340	
+537032	Excavating and Loading Machine and Dragline Operators	4	T	1341	
+53703X	Dredge, Excavating, and Loading Machine Operators	3	T	1339	
+537041	Hoist and Winch Operators	4	T	1344	
+53704X	Hoist and Winch Operators	3	T	1343	
+537051	Industrial Truck and Tractor Operators	4	T	1346	
+53705X	Industrial Truck and Tractor Operators	3	T	1345	
+537061	Cleaners of Vehicles and Equipment	4	T	1348	
+537062	Laborers and Freight, Stock, and Material Movers, Hand	4	T	1349	
+537063	Machine Feeders and Offbearers	4	T	1350	
+537064	Packers and Packagers, Hand	4	T	1351	
+53706X	Laborers and Material Movers, Hand	3	T	1347	
+537073	Wellhead Pumpers	4	T	1355	
+53707X	Pumping Station Operators	3	T	1352	
+537081	Refuse and Recyclable Material Collectors	4	T	1357	
+53708X	Refuse and Recyclable Material Collectors	3	T	1356	
+537199	Material Moving Workers, All Other	4	T	1363	
+53719X	Miscellaneous Material Moving Workers	3	T	1362	
+537XXX	Material Moving Workers	2	T	1334	
+53XXXX	Transportation and Material Moving Occupations	1	T	1101	
+551017	Special Forces Officers	4	T	1373	
+551019	Military Officer Special and Tactical Operations Leaders/Managers, All Other	4	T	1374	
+55101X	Military Officer Special and Tactical Operations Leaders/Managers	3	T	1366	
+551XXX	Military Officer Special and Tactical Operations Leaders/Managers	2	T	1365	
+552011	First-Line Supervisors/Managers of Air Crew Members	4	T	1377	
+552013	First-Line Supervisors/Managers of All Other Tactical Operations Specialists	4	T	1379	
+55201X	First-Line Enlisted Military Supervisors/Managers	3	T	1376	
+552XXX	First-Line Enlisted Military Supervisor/Managers	2	T	1375	
+553011	Air Crew Members	4	T	1382	
+553013	Armored Assault Vehicle Crew Members	4	T	1384	
+553016	Infantry	4	T	1387	
+553018	Special Forces	4	T	1389	
+553019	Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other	4	T	1390	
+55301X	Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members	3	T	1381	
+553XXX	Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members	2	T	1380	
+55XXXX	Military specific occupations	1	T	1364	

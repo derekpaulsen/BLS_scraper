@@ -1,0 +1,2 @@
+ownership_code	ownership_text	display_level	selectable	sort_sequence
+1	Civilian workers	0	T	1	

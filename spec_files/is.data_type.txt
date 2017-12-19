@@ -1,0 +1,37 @@
+data_type_code	data_type_text	display_level	selectable	sort_sequence
+0	Rate of illness cases per 10,000 full-time workers (Size class 0)	0	T	1	
+1	Rate of injury cases per 100 full-time workers (Size class 0)	0	T	2	
+2	Rate of illness cases per 10,000 full-time workers (Size class 1)	0	T	7	
+3	Rate of injury and illness cases per 100 full-time workers (Size class 0)	0	T	3	
+4	Number of illness cases (thousands) (Size class 0)	0	T	4	
+5	Number of injury cases (thousands) (Size class 0)	0	T	5	
+6	Number of injury and illness cases (thousands) (Size class 0)	0	T	6	
+7	Rate of injury cases per 100 full-time workers (Size class 1)	0	T	8	
+8	Rate of injury and illness cases per 100 full-time workers (Size class 1)	0	T	9	
+9	Number of illness cases (thousands) (Size class 1)	0	T	10	
+A	Number of injury cases (thousands) (Size class 1)	0	T	11	
+B	Number of injury and illness cases (thousands) (Size class 1)	0	T	12	
+C	Rate of illness cases per 10,000 full-time workers (Size class 2)	0	T	13	
+D	Rate of injury cases per 100 full-time workers (Size class 2)	0	T	14	
+E	Rate of injury and illness cases per 100 full-time workers (Size class 2)	0	T	15	
+F	Number of illness cases (thousands) (Size class 2)	0	T	16	
+G	Number of injury cases (thousands) (Size class 2)	0	T	17	
+H	Number of injury and illness cases (thousands) (Size class 2)	0	T	18	
+I	Rate of illness cases per 10,000 full-time workers (Size class 3)	0	T	19	
+J	Rate of injury cases per 100 full-time workers (Size class 3)	0	T	20	
+K	Rate of injury and illness cases per 100 full-time workers (Size class 3)	0	T	21	
+L	Number of illness cases (thousands) (Size class 3)	0	T	22	
+M	Number of injury cases (thousands) (Size class 3)	0	T	23	
+N	Number of injury and illness cases (thousands) (Size class 3)	0	T	24	
+O	Rate of illness cases per 10,000 full-time workers (Size class 4)	0	T	25	
+P	Rate of injury cases per 100 full-time workers (Size class 4)	0	T	26	
+Q	Rate of injury and illness cases per 100 full-time workers (Size class 4)	0	T	27	
+R	Number of illness cases (thousands) (Size class 4)	0	T	28	
+S	Number of injury cases (thousands) (Size class 4)	0	T	29	
+T	Number of injury and illness cases (thousands) (Size class 4)	0	T	30	
+U	Rate of illness cases per 10,000 full-time workers (Size class 5)	0	T	31	
+V	Rate of injury cases per 100 full-time workers (Size class 5)	0	T	32	
+W	Rate of injury and illness cases per 100 full-time workers (Size class 5)	0	T	33	
+X	Number of illness cases (thousands) (Size class 5)	0	T	34	
+Y	Number of injury cases (thousands) (Size class 5)	0	T	35	
+Z	Number of injury and illness cases (thousands) (Size class 5)	0	T	36	

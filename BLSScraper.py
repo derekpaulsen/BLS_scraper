@@ -1,19 +1,140 @@
 import re
-from sys import argv
 from pathlib import Path
-from pprint import PrettyPrinter
-from collections import OrderedDict
-from typing import *
-import shelve
+from typing import Iterator, List, Any
 import requests
 import json
-################################## MODULE INIT ##################################################
-shelf_name = "series_shelf"
-page = None
-spec_dir = None
-files = []
-
+################################## SOURCE FILES ##################################################
+page = 'editted_BLS_page.txt' #page specifying formats for series
+id_code_dir = './spec_files' 
+code_files = list(Path(id_code_dir).iterdir())
 ###################################################################################################
+
+class SubCode:
+    def __init__(self, **kwargs):
+        #may not be used for literals
+        self.name =  kwargs.get('name', 'DEFAULT')
+
+        #literals should always have this set to something
+        self.value =  kwargs.get('value', None)
+        self.literal = kwargs.get('literal', False)
+
+        #may be a list if multi_src is True
+        self.src =  kwargs.get('src', None)
+        self.multi_src =  kwargs.get('multi_src', False)
+        self.tuples = None
+        
+        if self.literal != (self.value != None):
+            raise Exception("Literal subcode without value")
+
+        if self.multi_src:
+            self.src = []
+
+    def validate(self):
+        if self.multi_src:
+            for f in self.src:
+                with open(f , 'r') as ifs:
+                    head = ifs.readline()
+                    self.find_index(head, ifs.name)
+
+        elif not self.literal:
+            with open(self.src, 'r') as ifs:
+                head = ifs.readline()
+                self.find_index(head, self.src.name)
+    
+    def make_tuples(self):
+
+        if self.multi_src:
+            self.tuples = []
+            for f in self.src:
+                temp = self.read_sub_code_file(f)
+                self.tuples.extend(temp)
+    
+        elif not self.literal:
+            self.tuples = self.read_sub_code_file(self.src)                   
+
+
+    @classmethod
+    def find_index(cls, head, filename) -> tuple:
+        '''
+        returns a tuple containing the indicies of the code 
+        :param head: the first line of the text file being parsed
+        '''
+
+        #filename is xx.industry.txt -> industry xx is the prefix
+        category = re.search("\.(\w+)\.txt", filename, re.I).group(1)
+
+        #Default case only two columns
+        head = head.split('\t')
+        if len(head) == 2:
+            return (1,0)
+
+        #search for indices of columns
+        exact_match = cls.search_head(head, re.compile(category + ".*code", re.I))
+        code = cls.search_head(head, re.compile("code", re.I))
+        opt_text = cls.search_head(head, re.compile("text|name|title", re.I))
+        
+        #exact match for code header and option text found
+        if exact_match != None and opt_text != None:
+            return (opt_text, exact_match)
+        #code and option text found
+        elif code != None and opt_text != None:
+            return (opt_text, code)
+        else:
+            #debug methods, if the program cannot determine a column
+            if code == exact_match == None:
+                print("ERROR: failure to determine CODE in %s" % filename)
+            if opt_text == None:
+                print("ERROR: failure to determine TEXT in %s" % filename)
+            #Signal failure
+            return None
+    
+
+   
+    @staticmethod
+    def search_head(head : list, regex) -> int:
+        '''
+        Determines the index of the column which matches the regex
+        :return: index of the column
+        '''
+
+
+        matches = [i for i in range(len(head)) if regex.search(head[i]) != None]
+        return matches[0] if len(matches) == 1 else None
+        
+
+
+    def read_sub_code_file(self, fp) -> List[tuple]:
+        '''
+        Creates a dictionary for the sub_code file which has keys = options
+        and values = codes
+
+        :param f: file that will be converted to a dictionary
+        '''
+        with open(fp, 'r') as f:
+            file_list = []
+            head = f.readline()
+            indices = self.find_index(head, f.name)
+
+            if indices == None:
+                return []
+
+            key_idx, val_idx = indices
+            #iterate through the rows creating tuples of the text to code sub_code
+            for line in f.readlines():
+                line = line.split('\t')
+                try:
+                    file_list.append((line[key_idx], line[val_idx]))
+                except:
+                    if(len(line) > 1):
+                        print("ERROR in %s parsing line: %s" %(f.name, " ".join(line))) 
+                        
+            
+            #if there was no proper header
+            if len(file_list[0][1]) == len(head[val_idx]):
+                file_list.insert(0, (head[key_idx], head[val_idx]))
+            
+            return file_list
+
 
 class SeriesBuilder(object):
     '''
@@ -21,60 +142,48 @@ class SeriesBuilder(object):
     BLS page and turning it into a multi layer dictionary which is then
     used in the SeriesIdGenerator class.
     '''
-    #NOTE this class should never be instantiated unless running the main method of this module.
 
-    global files
+    global code_files
     #list of file objs
-    class_files = files
-    file_names = [f.name for f in files]
+    class_files = code_files
+    file_names = [f.name for f in code_files]
 
-    def __init__(self, name : str , specs : list) -> None:
+    def __init__(self, name : str , sub_codes : list) -> None:
 
         self.name: str = name
-        self.prefix: str = self.check_prefix(specs[0])
-        self.specs: List[Any] = specs[1:]
-        self.files: List[Any] = []
-        self.series_map: OrderedDict = OrderedDict()
+        self.prefix: str = self.check_prefix(sub_codes[0])
+        self.sub_codes: List[Any] = sub_codes[1:]
     
 
     @classmethod
     def from_string(cls, info : str):
             '''
             Constructor which parses a segment of the formatted BLS page
-            :param info: segment of the BLS page, containing series name and specs
+            :param info: segment of the BLS page, containing series name and sub_codes
             '''
             #regex for a line in the format table
-            find_code = re.compile('(\w+?)\s+(\w+?)\s+(.+)')
+            code_regex = re.compile('(\w+?)\s+(\w+?)\s+(.+)')
             #line iterator
             itr = (x for x in info.split('\n'))
             series_name = cls.get_series_name(itr)
             sub_codes = []
 
             for line in itr:
-                match = find_code.search(line)
+                match = code_regex.search(line)
 
-                #if match doesn't contain the spec
+                #if match doesn't contain the sub_code
                 if match == None:
                    continue
-                #else parse spec
-                else:
-                    sub_codes.append(cls.get_spec(match))
+
+                sub_codes.append(cls.get_sub_code(match))
             
             return cls(series_name, sub_codes)
 
 
     @staticmethod
-    def get_spec(match) -> str:
+    def get_sub_code(match) -> str:
         '''
         Given the regex match, this method determines how it should be interpreted
-        Literals:
-            if the third column specifies that the segment should be the same 
-            for all series generated, return '$' + second column
-        Lists:
-            if one id segment may contain a code from multiple different code categories
-            it returns a list of the categories
-        Else:
-            just the category
 
         :param match: the regex match be processed
         :return: the code category
@@ -82,18 +191,17 @@ class SeriesBuilder(object):
 
         #table value should be interpreted as a literal 
         if match.group(3).strip() == "DEFAULT" or match.group(3).strip() == "Prefix":
-            #literals have a '$' 
-            return "$" + match.group(2).strip()
+            sc = SubCode(value = match.group(2).strip(), name = match.group(3).strip(), literal = True) 
+            return sc
 
-        #list of specifiers
+        #list of sub_codeifiers
         elif '[' in match.group(3):
             line = match.group(3).strip()[1:-1]
             #split the line on ',' 
-            return[x.strip().lower() for x in line.split(',')]
-        
-        #return specifier
+            names = [x.strip().lower() for x in line.split(',')]
+            return  SubCode(name = names, multi_src = True)
         else:
-            return match.group(3).lower()
+            return SubCode(name = match.group(3).lower())
 
 
     @staticmethod
@@ -114,64 +222,51 @@ class SeriesBuilder(object):
         '''
         Process the data to allow to be passed into a Series object constuctor 
         '''
-        self.check_series()
-        self.check_file_format(self.files)
+        self.find_sub_code_files()
         
-        self.series_map['prefix'] = self.prefix
-        for i in range(len(self.files)):
-            key = self.specs[i] if type(self.specs[i]) == str else "/".join(self.specs[i])
-            f = self.files[i]
-            if type(f) == str:
-                self.series_map[f] = f[1:]
-            else:
-                self.series_map[key] = self.spec_file_to_dict(f)
-
+        for sub_code in self.sub_codes:
+            sub_code.validate()
+            sub_code.make_tuples()
+        
         return Series(self)
     
     @staticmethod
-    def check_prefix(pre :str) -> str:
+    def check_prefix(sc :SubCode) -> str:
         '''
         Helper method for __init__ which checks that the
-        prefix is valid. NOTE: if the prefix is not valid, to_map
-        will fail and hence the series data will not be converted to a map
+        prefix is valid. 
         '''
-        if '$' not in pre or len(pre) != 3:
-            raise RuntimeError("invalid prefix %s" % pre)
+        if sc.name != "Prefix" or len(sc.value) != 2:
+            raise Exception("invalid prefix")
         else:
-            return pre[1:]
+            return sc.value
         
 
-    def check_series(self) -> None:
+    def find_sub_code_files(self) -> None:
         '''
         Checks to see that all of the files for creating the 
         series dictionary are in fact present.
         '''
-        for spec in self.specs:
-            if type(spec) == list:
-                fl = []
-                for s in spec:
-                    temp = self.find_file(s)
+        for sub_code in self.sub_codes:
+            if sub_code.multi_src:
+                for name in sub_code.name:
+                    temp = self.find_file(name)
                     if temp != None:
-                        fl.append(temp)
+                        sub_code.src.append(temp)
 
-                self.files.append(fl)
-              
-            elif '$' in spec:
-                self.files.append(spec)
-
-            else:
-                temp = self.find_file(spec)
+            elif not sub_code.literal:
+                temp = self.find_file(sub_code.name)
                 if temp != None:
-                    self.files.append(temp)
+                    sub_code.src = temp
+                    
 
-
-    def find_file(self, spec):
+    def find_file(self, name: str):
          '''
          Search through all the files and return the file whose
-         name matches the spec
+         name matches the sub_code
          :return: the proper file object if found else None
          '''
-         fname = "%s.%s.txt" % (self.prefix.lower(),  spec.strip().lower())
+         fname = "%s.%s.txt" % (self.prefix.lower(),  name.strip().lower())
          for f in SeriesBuilder.class_files:
             if fname in f.name:
                 return f
@@ -180,127 +275,11 @@ class SeriesBuilder(object):
          return None
         
                         
-    @classmethod
-    def check_file_format(cls, files) -> None:
-        '''
-        Goes through all the files which are necessary for create the series ID
-        and ensures that they can be parsed. prints warning messages if errors or 
-        ambiguities occur.
-        This method was implemented as a classmethod to allow for recursive calls
-        when files contains a list.
-        '''
-        for f in files:
-            if type(f) == str:
-                pass
-            elif type(f) == list:
-                cls.check_file_format(f)
-            else:
-                with f.open('r', errors = 'replace') as t:
-                    cls.find_index(t.readlines()[0], f.name)
     
-    @staticmethod
-    def search_head(head : list, regex) -> int:
-        '''
-        Determines the index of the column which matches the regex
 
-        :return: index of the column
-        '''
-        #number of the matches
-        match_cnt= 0
-        #index of match
-        idx = None
-        for i in range(len(head)):
-            elem = head[i]
-            match = regex.search(elem)
-            if match != None:
-                idx = i
-                match_cnt += 1
-        
-        if match_cnt == 1:
-            return idx
-        #if nothing matches or more than one matches return none
-        else:
-            return None
+    
 
-    @classmethod
-    def find_index(cls, head : str, filename) -> tuple:
-        '''
-        returns a tuple containing the indicies of the code 
-        :param head: the first line of the text file being parsed
-        '''
-        #filename is xx.industry.txt -> industry xx is the prefix
-        category = re.search("\.(\w+)\.txt", filename, re.I).group(1)
-
-        #Default case only two columns
-        head = head.lower().split('\t')
-        if len(head) == 2:
-            return (1,0)
-
-        #search for indices of columns
-        exact_match = cls.search_head(head, re.compile(category + ".*code", re.I))
-        code = cls.search_head(head, re.compile("code", re.I))
-        opt_text = cls.search_head(head, re.compile("text|name|title", re.I))
-        
-        #exact match for code header and option text found
-        if exact_match != None and opt_text != None:
-            return (opt_text, exact_match)
-        #code and option text found
-        elif code != None and opt_text != None:
-            return (opt_text, code)
-        else:
-            #debug methods, if the program cannot determine a column
-            if code == None and exact_match == None:
-                print("ERROR: failure to determine CODE in %s" % filename)
-            if opt_text == None:
-                print("ERROR: failure to determine TEXT in %s" % filename)
-            #Signal failure
-            return None
-        
-
-    def spec_file_to_dict(self, fp) -> dict:
-        '''
-        Creates a dictionary for the spec file which has keys = options
-        and values = codes
-
-        :param f: file that will be converted to a dictionary
-        '''
-        #if a file is passed in combine all into one dictionary
-        if type(fp) == list:
-            dlist = [self.spec_file_to_dict(f) for f in fp]
-            d = {}
-            for i in dlist:
-                d.update(i)
-            return d
-        
-        #
-        with open(fp, 'r') as f:
-            file_list = []
-            lines = f.readlines()
-            head = lines[0]
-            lines = lines[1:]
-
-            indices = self.find_index(head, f.name)
-            if indices == None:
-                return []
-
-            key_idx, val_idx = indices
-            #iterate through the rows creating tuples of the text to code spec
-            for l in lines:
-                x = l.split('\t')
-                try:
-                    file_list.append((x[key_idx], x[val_idx]))
-                except:
-                    if(len(x) > 1):
-                        print("ERROR in %s parsing line: %s" %(f.name, " ".join(x))) 
-                        
-            
-            head = head.split('\t')
-            #if there was no proper header
-            if len(file_list[0][1]) == len(head[val_idx]):
-                file_list.insert(0, (head[key_idx], head[val_idx]))
-            
-            return dict(file_list)
-
+    
 
 
 class Series:
@@ -308,96 +287,106 @@ class Series:
     def __init__(self, builder):
         self.name = builder.name
         self.prefix = builder.prefix
-        self.series_map = builder.series_map
+        self.sub_codes = builder.sub_codes
 
 
 
 
-###############################################################################################
-############################## Build Series from raw data ####################################
+############################## MODULE INIT ####################################
 def parse_page(BLS_page: str):
     '''
     :param BLS_page: a str with the name of the formatted page to be parsed
     '''
     with open(BLS_page, 'r') as infile:
             series = re.findall('\{.*?\}', infile.read(), re.S)
-            #list contain series objects
+            #list contain series_builder objects
             series_builders = []
             for s in series:
                 series_builders.append(SeriesBuilder.from_string(s))
 
             return series_builders
 
+
+
 series_list = []
-try:
-    shelf = shelve.open(shelf_name)
-    series_list = shelf['series_list']
 
-except KeyError:
-    if __name__ == "__main__":
-        '''
-        Main method for the module, creates the master_map.txt
-        '''
-        if len(argv) != 3:
-            print("Useage: python3 code_table_scraper.py <BLS format file> <input directory>")
-            raise SystemExit
+series_builders = parse_page(page)
 
-        name, page, directory= argv
-        spec_dir = Path(directory)
-        files += list(spec_dir.iterdir())
-
-        series_builders = parse_page(page)
-
-        for s in series_builders:
-            series_list.append(s.build())
-
-        shelf['series_list'] = series_list
-        shelf.close()
-
-    else:
-        print("""
-        Unable to find %s. 
-        Run main method in SeriesIdGenerator.py with proper files to create %s
-        """ % (shelf_name, shelf_name))
-        raise SystemExit
-
+for s in series_builders:
+    series_list.append(s.build())
 
 
 ###############################################################################################
+
+
+class SeriesRequest:
+    header = {'Content-type': 'application/json'}
+    def __init__(self, start_year = None, end_year = None):
+        self.series_id = None
+        self.start_year = start_year
+        self.end_year = end_year
+        self.request_data = {}
+        self.response = None
+        
+
+    def send(self, site):
+        '''
+        send the request to the site
+        '''
+        
+        self.request_data['startyear'] = self.start_year
+        self.request_data['endyear'] = self.end_year
+        self.request_data['seriesid'] = [self.series_id]
+        self.request_data = json.dumps(self.request_data)
+
+        self.response = requests.post(site, data = self.request_data, headers= self.header)
+        self.response = json.loads(self.response.text)
+        
+
+    def write(self):
+        with open(f"{self.series_id}-{self.start_year}-{self.end_year}.txt", 'w') as out:
+            for datum in self.response['Results']['series'][0]['data']:
+                year = datum['year']
+                period = datum['period']
+                value = datum['value']
+                footnotes= ", ".join([s for s in datum['footnotes'] if len(s) > 1])
+                out.write(f"{year}; {period}; {value}; {footnotes}\n")
+
+
 
 
 class SeriesIdGenerator(object):
     '''
     This class does exactly what you would think. It generates a series ID
     '''
+    global series_list
+    #all of the series objects that were built during module init
     series_objs = series_list
 
     def __init__(self):
         self.ids_generated = []
     
     @staticmethod
-    def get_opt(category_name :str, opt_dict : dict) -> str:
-        if type(opt_dict) == str:
-            return opt_dict
-        keys = list(opt_dict.keys())
-        print(f"enter option for {category_name} or 'exit'")
-        for t in enumerate(keys):
-            print("%d : %s" % t)
+    def get_opt(sub_code) -> str:
+        #TODO allow the user to search options instead of just printing all of them out
 
-        key = None
+        print(f"enter option for {sub_code.name} or 'exit'")
+        for i in range(len(sub_code.tuples)):
+            print("%d : %s" % (i, sub_code.tuples[i][0]))
+
         while 1:
             opt = input(">>> ")
             #input is a valid index
-            if opt.isdigit() and 0 <= int(opt) < len(keys):
-                key = keys[int(opt)]
-                break
+            if opt.isdigit() and 0 <= int(opt) < len(sub_code.tuples):
+                return sub_code.tuples[int(opt)][1]
+
             elif opt == 'exit':
                 raise SystemExit
+
             else:
                 print(f"invalid option: {opt}")
                 continue
 
-        return opt_dict[key]
 
 
     def prompt_user(self):
@@ -418,15 +407,18 @@ class SeriesIdGenerator(object):
             else:
                 print(f"invalid option: {opt}")
                 continue
-
-        id_parts = []
+        #TODO might want to make the prefix just another subcode
+        id_parts = [series.prefix]
         #prompt user to select codes
-        for name, d in series.series_map.items():
-          id_parts.append(self.get_opt(name, d))  
+        for sub_code in series.sub_codes:
+            if sub_code.literal:
+                id_parts.append(sub_code.value)
+            else:
+                id_parts.append(self.get_opt(sub_code))  
 
         completed_id = "".join(id_parts)
         self.ids_generated.append(completed_id)
-        #return completed id
+
         return completed_id
 
 
@@ -437,11 +429,9 @@ class BLSScraper(object):
     '''
 
     def __init__(self):
+        #header is always the same
         self.SIDgen = SeriesIdGenerator()
-        self.json_requests = []
-        self.json_responses = None
-
-
+        self.series_requests = []
 
 
     @staticmethod
@@ -469,58 +459,38 @@ class BLSScraper(object):
                 print(f"invalid option '{year}'")
             elif minyear <= int(year) <= maxyear:
                 years.append(year)
-                
-        return tuple(years)
+            else:
+                print(f"invalid option '{year}'")
 
+        return years
 
-    def make_json_request(self):
+    def make_series_request(self):
         '''
         Prompt the user for the time period and then some number of SeriesIds
         '''
-        request_dict = {}
         years = self.get_time_period()
-        request_dict['startyear'] = years[0]
-        request_dict['endyear'] = years[1]
-        request_dict['seriesid'] = []
 
         while 1:
             series_id = self.SIDgen.prompt_user()
-            request_dict['seriesid'].append(series_id)
-            if len(request_dict['seriesid']) >= 25:
-                break
-            
-            print("Add another series id?(y/n)")
+            request = SeriesRequest(*years)
+            request.series_id = series_id
+
+            self.series_requests.append(request)
+            print(f"Add another series id for time period {years[0]} to {years[1]}?(y/n)")
             opt = input(">>> ")
             if 'y' not in opt:
                 break
 
 
-        request = json.dumps(request_dict)
-        self.json_requests.append((request, years))
-
-
     def send_requests(self):
         bls_site = 'https://api.bls.gov/publicAPI/v1/timeseries/data/'
-        header = {'Content-type': 'application/json'}
-        self.json_responses = []
-
-        for request, years in self.json_requests:
-            res = requests.post( bls_site, data=request, headers=header)
-            self.json_responses.append((json.loads(res.text), years))
+        for request in self.series_requests:
+            request.send(bls_site)
 
             
-        
     def write_responses(self):
-        for data, years in self.json_responses:
-            SID = data['Results']['series'][0]['seriesID']
-            with open(f"{SID}-{years[0]}-{years[1]}.txt", 'w') as out:
-                for datum in data['Results']['series'][0]['data']:
-                    year = datum['year']
-                    period = datum['period']
-                    value = datum['value']
-                    footnotes= ", ".join([s for s in datum['footnotes'] if len(s) > 1])
-                    out.write(f"{year}; {period}; value; {footnotes}\n")
-                
+        for series_request in self.series_requests:
+            series_request.write()
 
 
 

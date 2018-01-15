@@ -3,13 +3,26 @@ from pathlib import Path
 from typing import Iterator, List, Any
 import requests
 import json
+from sys import stdout
 ################################## SOURCE FILES ##################################################
 page = 'editted_BLS_page.txt' #page specifying formats for series
 id_code_dir = './spec_files' 
 code_files = list(Path(id_code_dir).iterdir())
 ###################################################################################################
 
+
+class Restart(Exception):
+    
+    def __init__(self, message = None):
+        super().__init__(message)
+
+
+
 class SubCode:
+    '''
+    This class is used to store the information for the sub part of a series
+    id. For example the industry code, etc.
+    '''
     def __init__(self, **kwargs):
         #may not be used for literals
         self.name =  kwargs.get('name', 'DEFAULT')
@@ -138,9 +151,8 @@ class SubCode:
 
 class SeriesBuilder(object):
     '''
-    SeriesBuilder class is used for taking data parsed from the formatted
-    BLS page and turning it into a multi layer dictionary which is then
-    used in the SeriesIdGenerator class.
+    Series builders are a class for creating parsing the text files which contain
+    the information generating series ids. 
     '''
 
     global code_files
@@ -283,12 +295,16 @@ class SeriesBuilder(object):
 
 
 class Series:
-
+    '''
+    Series are simply a handle for information for generating a particular 
+    series id
+    '''
     def __init__(self, builder):
         self.name = builder.name
         self.prefix = builder.prefix
         self.sub_codes = builder.sub_codes
 
+    #TODO add an __iter__ method
 
 
 
@@ -309,7 +325,6 @@ def parse_page(BLS_page: str):
 
 
 series_list = []
-
 series_builders = parse_page(page)
 
 for s in series_builders:
@@ -320,39 +335,85 @@ for s in series_builders:
 
 
 class SeriesRequest:
+    '''
+    This class contains all the information, which is collected from the user
+    for sending a request to the BLS. Note that for simplicity of writing, only 
+    one series id is contained in each SeriesRequest, despite the fact that
+    it is possible to send multiple series id requests at once via the BLS API
+    '''
+    
     header = {'Content-type': 'application/json'}
-    def __init__(self, start_year = None, end_year = None):
-        self.series_id = None
-        self.start_year = start_year
-        self.end_year = end_year
+    def __init__(self, series_id: str, years: tuple, comments: list):
+        self.series_id = series_id 
+        self.start_year = years[0]
+        self.end_year = years[1]
         self.request_data = {}
-        self.response = None
-        
+        self._response = None
+        self._comments = comments
+        self._valid = False
+        self._sent = False
+        self._written = False
 
-    def send(self, site):
+    def send(self, site: str) -> None:
         '''
         send the request to the site
         '''
-        
-        self.request_data['startyear'] = self.start_year
-        self.request_data['endyear'] = self.end_year
-        self.request_data['seriesid'] = [self.series_id]
-        self.request_data = json.dumps(self.request_data)
+        if not self._sent:
+            #create json request
+            self.request_data['startyear'] = self.start_year
+            self.request_data['endyear'] = self.end_year
+            self.request_data['seriesid'] = [self.series_id]
+            self.request_data = json.dumps(self.request_data)
+            
+            self._response = requests.post(site, data = self.request_data, headers= self.header)
+            self._response = json.loads(self._response.text)
+            #not currently implmented
+            self._sent = True
+            self.validate()
+            return self._valid
 
-        self.response = requests.post(site, data = self.request_data, headers= self.header)
-        self.response = json.loads(self.response.text)
-        
+    def write(self) -> None:
+        '''
+        write the data from the response to a text file in csv2 format
+        '''
+        if not self._written:
+            
+            with open(f"{self.series_id}-{self.start_year}-{self.end_year}.txt", 'w') as out:
+                #write comments
+                out.write("#%s\n" % self.series_id)
+                for comment in self._comments:
+                    out.write("#%s\n" % comment)
 
-    def write(self):
-        with open(f"{self.series_id}-{self.start_year}-{self.end_year}.txt", 'w') as out:
-            for datum in self.response['Results']['series'][0]['data']:
-                year = datum['year']
-                period = datum['period']
-                value = datum['value']
-                footnotes= ", ".join([s for s in datum['footnotes'] if len(s) > 1])
-                out.write(f"{year}; {period}; {value}; {footnotes}\n")
+                #write the data
+                for datum in self._response['Results']['series'][0]['data']:
+                    year = datum['year']
+                    period = datum['period']
+                    value = datum['value']
+                    footnotes= ", ".join([s for s in datum['footnotes'] if len(s) > 1])
+                    out.write(f"{year}; {period}; {value}; {footnotes}\n")
 
+                self._written = True
 
+    def validate(self):
+        self._valid = True
+        #TODO check that the response from the BLS is valid, that is actually contains data
+    def print_res(self, stream = stdout):
+        print(self._response, file = stream)
+
+    def __str__(self) -> str:
+        return f'{self._comments[0]}: {", ".join(self._comments[1:])}'
+    
+    @property
+    def sent(self):
+        return self._sent
+
+    @property
+    def written(self):
+        return self._written
+    
+    @property
+    def valid(self):
+        return self._valid
 
 
 class SeriesIdGenerator(object):
@@ -364,88 +425,179 @@ class SeriesIdGenerator(object):
     series_objs = series_list
 
     def __init__(self):
+        #list of id's generated, currently unused
         self.ids_generated = []
     
-    @staticmethod
-    def get_opt(sub_code) -> str:
-        #TODO allow the user to search options instead of just printing all of them out
-
-        print(f"enter option for {sub_code.name} or 'exit'")
-        for i in range(len(sub_code.tuples)):
-            print("%d : %s" % (i, sub_code.tuples[i][0]))
-
-        while 1:
-            opt = input(">>> ")
-            #input is a valid index
-            if opt.isdigit() and 0 <= int(opt) < len(sub_code.tuples):
-                return sub_code.tuples[int(opt)][1]
-
-            elif opt == 'exit':
-                raise SystemExit
-
-            else:
-                print(f"invalid option: {opt}")
-                continue
-
-
-
-    def prompt_user(self):
-        series = None
-
+    
+    def generate(self) -> tuple:
+        '''
+        prompt user to create a BLS information request return a series id
+        '''
         #print all the series names
-        print("Please select the series you wish to access, or 'exit'")
-        for t in enumerate([s.name for s in self.series_objs]):
-            print("%d : %s" % t)
-        while 1:
-            opt = input(">>> ")
-            #input is a valid index
-            if opt.isdigit() and 0 <= int(opt) < len(self.series_objs):
-                series = self.series_objs[int(opt)]
-                break
-            elif opt == 'exit':
-                raise SystemExit
-            else:
-                print(f"invalid option: {opt}")
-                continue
-        #TODO might want to make the prefix just another subcode
+        print("Please select the series you wish to access")
+        opt = self.prompt([s.name for s in self.series_objs])
+        series = self.series_objs[opt]
+
+        comments = [series.name]
         id_parts = [series.prefix]
         #prompt user to select codes
         for sub_code in series.sub_codes:
             if sub_code.literal:
                 id_parts.append(sub_code.value)
             else:
-                id_parts.append(self.get_opt(sub_code))  
-
+                opt_str, opt_id = self.get_opt(sub_code)
+                comments.append(opt_str)
+                id_parts.append(opt_id)  
+        
+        #join all the id parts into on str
         completed_id = "".join(id_parts)
         self.ids_generated.append(completed_id)
 
-        return completed_id
+        return (comments, completed_id)
 
+    def get_opt(self, sub_code) -> tuple:
+
+        option_names = [name for name, code in sub_code.tuples]
+        print(f"(s)earch for options or print (a)ll for {sub_code.name.upper()}")
+        opt = input('> ')
+        indexes = None
+        if 's' in opt:
+            indexes = self.search(option_names)
+        
+        choice = self.prompt(option_names, indexes)
+            
+        return sub_code.tuples[choice]
+
+
+    @classmethod
+    def prompt(cls, options, indexes = None) -> int:
+        #TODO add message about restart and search
+
+        choice = None
+        indexes = range(len(options)) if indexes == None else indexes
+
+        for i in indexes:
+            print('%d : %s' % (i, options[i]))
+
+        while 1:
+            choice = input('> ')
+            if choice.isdigit() and int(choice) in indexes:
+                return int(choice)
+
+            #change search term
+            elif 'search' in choice:
+                indexes = cls.search(cls, options)
+                return cls.prompt(options, indexes)
+            elif 'restart' in choice:
+                raise Restart
+            else:
+                print(f"invalid option: {choice}")
+
+    def search(self, options):
+        '''
+        prompt user for search term and search options for the matches
+        return a list in indexes which the pattern is contained
+        '''
+        r = range(len(options))
+        print('enter search option')
+        while 1:
+            pattern = input('? ')
+            matches =  [i for i in r if pattern in options[i]]
+            if len(matches) == 0:
+                print(f"No matches found for {pattern}")
+            else:
+                return matches
 
 class BLSScraper(object):
     '''
     This is for API v1, which is the unregistered version, the number of requests per day is
     restricted to 25 per day and a 10 year range
     '''
+    #TODO add parameters for API v2
 
     def __init__(self):
         #header is always the same
         self.SIDgen = SeriesIdGenerator()
         self.series_requests = []
+        #self._client_secret = 
+        #self._client_id
+        self._APIV2 = False
+    
+    def main(self):
+        print('Welcome to the BLS Scraper API v1!')
+        print("Commands are: 'send', 'write', 'new', 'exit', 'show', 'delete', 'help'")
+        print('please enter a command: ')
+        while 1:
+            try:
+                opt = input('> ')
+                if 'send' in opt:
+                    self.send_requests()    
 
+                elif 'write' in opt:
+                    self.write_responses()
+
+                elif 'new' in opt:
+                    self.make_series_request()
+                
+                elif 'help' in opt:
+                    self.help()
+                
+                elif 'show' in opt:
+                    self.show_requests()
+
+                elif 'delete' in opt:
+                    self.delete_request()
+
+                elif 'exit' in opt:
+                    print('Exiting...')
+                    raise SystemExit
+                
+                else:
+                    print(f'invalid command {opt}')
+
+                print('please enter a command: ')
+                opt = ''
+            #the restart the command
+            except Restart:
+                print('Restarting...')
+                print("Commands are: 'send', 'write', 'new request', 'exit'")
+                print('please enter a command: ')
+                continue
+
+        
+
+
+    def make_series_request(self):
+        '''
+        Prompt the user for the time period and then some number of SeriesIds
+        '''
+        years = self.get_time_period()
+        done = False
+        while not done:
+            comments, series_id = self.SIDgen.generate()
+            request = SeriesRequest(series_id = series_id, years = years, comments = comments)
+            request.series_id = series_id
+
+            self.series_requests.append(request)
+
+            print(f"Add another series id for time period {years[0]} to {years[1]}?(y/n)")
+            done = 'y' not in input('> ')
 
     @staticmethod
-    def get_time_period(start = 1900):
+    def get_time_period(start = 1900) -> tuple:
         '''
         Prompt user for time period
         '''
         #TODO check what the proper data range is
         minyear = 1900
         maxyear = 2017
-        print(f"Enter start year between {minyear} and {maxyear}")
+
+        #max_range = 10 if not self._APIV2 else 50
+        #TODO check that this is correct>-------^^
         years = []
+        print(f"Enter start year between {minyear} and {maxyear}")
         while len(years) < 1:
-            year = input(">>> ")
+            year = input('> ')
             if not year.isdigit():
                 print(f"invalid option '{year}'")
             elif minyear <= int(year) <= maxyear:
@@ -454,7 +606,7 @@ class BLSScraper(object):
                 
         print(f"Enter end year between {minyear} and {minyear + 10}")
         while len(years) < 2:
-            year = input(">>> ")
+            year = input('> ')
             if not year.isdigit():
                 print(f"invalid option '{year}'")
             elif minyear <= int(year) <= maxyear:
@@ -464,37 +616,74 @@ class BLSScraper(object):
 
         return years
 
-    def make_series_request(self):
-        '''
-        Prompt the user for the time period and then some number of SeriesIds
-        '''
-        years = self.get_time_period()
-
-        while 1:
-            series_id = self.SIDgen.prompt_user()
-            request = SeriesRequest(*years)
-            request.series_id = series_id
-
-            self.series_requests.append(request)
-            print(f"Add another series id for time period {years[0]} to {years[1]}?(y/n)")
-            opt = input(">>> ")
-            if 'y' not in opt:
-                break
-
 
     def send_requests(self):
+        #TODO filter sent and not sent requests
         bls_site = 'https://api.bls.gov/publicAPI/v1/timeseries/data/'
         for request in self.series_requests:
             request.send(bls_site)
-
+            #if request didn't return a valid response
+            if not request.valid:
+                print(f'Request failed to send: {", ".join(request.commments)}')
+                opt = input('print json response?(y/n): ')
+                if 'y' in opt:
+                    request.print_res()
             
+
     def write_responses(self):
+        #TODO filter send and not send requests
         for series_request in self.series_requests:
-            series_request.write()
+            if series_request.valid:
+                series_request.write()
+            else:
+                print('BLS returned error for series request:', end = '')
+                print('\n\t'.join(series_request.comments()))
 
+    @staticmethod
+    def help():
+        help_str = '''
+        'exit': exit the program immediately doesn't write or save any data
+        'new request': create a new request to send to the BLS
+        'restart': return to the main menu 
+        'search': search available options for sub codes, hitting return with no input will print all options
+        'send': send the requests to the BLS
+        'write': write all responses
+        '''
+        print(help_str)
+    
+    def show_requests(self):
+        '''
+        show the requests currently in the scraper
+        '''
+        if len(self.series_requests) == 0:
+            print('no requests')
+        else:
+            print('\nUnsent Requests:\n')
+            for request in filter(self.series_requests, lambda x: not x.sent):
+                
+                print(str(request))
 
-
+            print('\nSent Requests:\n')
+            for request in filter(self.series_requests, lambda x: x.sent):
+                print(str(request))
+            
+            
+        
+    def delete_request(self):
+        '''
+        prompt user to delete request from the options
+        '''
+        print("Select a request to delete or 'restart' to return the main menu")
+        strs = [str(r) for r in self.series_requests]
+        opt = SeriesIdGenerator.prompt(strs)
+        del self.series_requests[opt]
 
     
 
+
+
+
+if __name__ == '__main__':
+    bs = BLSScraper()
+    bs.main()
 

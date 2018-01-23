@@ -528,7 +528,7 @@ class BLSScraper(object):
         self._APIV2 = self.api_key != None
     
     def main(self):
-        print('Welcome to the BLS Scraper API v1!')
+        print('Welcome to the BLS Scraper!')
         print("Commands are: 'send', 'write', 'new', 'exit', 'show', 'delete', 'help'")
         print('please enter a command: ')
         while 1:

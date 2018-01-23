@@ -371,7 +371,7 @@ class SeriesRequest:
             
             self._response = requests.post(site, data = self.request_data, headers= self.header)
             self._response = json.loads(self._response.text)
-            #not currently implmented
+
             self._sent = True
             self.validate()
             return self._valid
@@ -400,7 +400,7 @@ class SeriesRequest:
                     self._written = True
 
         except Exception as e:
-            print(f'problem writing request {", ".join(self._comments)}')
+            print(f'ERROR writing request {", ".join(self._comments)}')
             print(str(e))
             self._written = True
 
@@ -410,15 +410,15 @@ class SeriesRequest:
         try:
             res = self._response['Results']['series'][0]['data']
             if len(res) < 1:
-                self._vaild = False
+                self._valid = False
             pt = res[0]
             for key in ['year', 'period', 'value', 'footnotes']:
                 if key not in pt:
-                   self._vaild = False
-        except:
+                   self._valid = False
+        except Exception as e:
             #any exceptions during this checking will cause an exception during a 
             #write attempt, hence the response isn't valid for writing
-            self._vaild = False
+            self._valid = False
         
 
     def print_res(self, stream = stdout):

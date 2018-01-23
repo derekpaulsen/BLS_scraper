@@ -8,6 +8,8 @@ from sys import stdout
 page = 'editted_BLS_page.txt' #page specifying formats for series
 id_code_dir = './spec_files' 
 code_files = list(Path(id_code_dir).iterdir())
+#enter APIv2 key here if you want to use the APIv2
+v2_key = None
 ###################################################################################################
 
 
@@ -341,7 +343,7 @@ class SeriesRequest:
     one series id is contained in each SeriesRequest, despite the fact that
     it is possible to send multiple series id requests at once via the BLS API
     '''
-    
+
     header = {'Content-type': 'application/json'}
     def __init__(self, series_id: str, years: tuple, comments: list):
         self.series_id = series_id 
@@ -354,7 +356,7 @@ class SeriesRequest:
         self._sent = False
         self._written = False
 
-    def send(self, site: str) -> None:
+    def send(self, site: str, key = None) -> None:
         '''
         send the request to the site
         '''
@@ -363,6 +365,9 @@ class SeriesRequest:
             self.request_data['startyear'] = self.start_year
             self.request_data['endyear'] = self.end_year
             self.request_data['seriesid'] = [self.series_id]
+            if key != None:
+                self.request_data['registrationkey'] = key
+                
             self.request_data = json.dumps(self.request_data)
             
             self._response = requests.post(site, data = self.request_data, headers= self.header)
@@ -514,14 +519,13 @@ class BLSScraper(object):
     restricted to 25 per day and a 10 year range
     '''
     #TODO add parameters for API v2
-
+    global v2_key
+    api_key = v2_key
     def __init__(self):
         #header is always the same
         self.SIDgen = SeriesIdGenerator()
         self.series_requests = []
-        #self._client_secret = 
-        #self._client_id
-        self._APIV2 = False
+        self._APIV2 = self.api_key != None
     
     def main(self):
         print('Welcome to the BLS Scraper API v1!')
@@ -583,8 +587,7 @@ class BLSScraper(object):
             print(f"Add another series id for time period {years[0]} to {years[1]}?(y/n)")
             done = 'y' not in input('> ')
 
-    @staticmethod
-    def get_time_period(start = 1900) -> tuple:
+    def get_time_period(self) -> tuple:
         '''
         Prompt user for time period
         '''
@@ -592,7 +595,7 @@ class BLSScraper(object):
         minyear = 1900
         maxyear = 2017
 
-        #max_range = 10 if not self._APIV2 else 50
+        max_range = 10 if not self._APIV2 else 20
         #TODO check that this is correct>-------^^
         years = []
         print(f"Enter start year between {minyear} and {maxyear}")
@@ -604,7 +607,7 @@ class BLSScraper(object):
                 years.append(year)
                 minyear = int(year)
                 
-        print(f"Enter end year between {minyear} and {minyear + 10}")
+        print(f"Enter end year between {minyear} and {minyear + max_range}")
         while len(years) < 2:
             year = input('> ')
             if not year.isdigit():
@@ -619,9 +622,12 @@ class BLSScraper(object):
 
     def send_requests(self):
         #TODO filter sent and not sent requests
-        bls_site = 'https://api.bls.gov/publicAPI/v1/timeseries/data/'
+        bls_site = 'https://api.bls.gov/publicAPI/v1/timeseries/data/' 
+        if self._APIV2:
+            bls_site = 'https://api.bls.gov/publicAPI/v2/timeseries/data/' 
+            
         for request in self.series_requests:
-            request.send(bls_site)
+            request.send(bls_site, self.api_key)
             #if request didn't return a valid response
             if not request.valid:
                 print(f'Request failed to send: {", ".join(request.commments)}')

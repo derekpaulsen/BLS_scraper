@@ -19,7 +19,6 @@ class Restart(Exception):
         super().__init__(message)
 
 
-
 class SubCode:
     '''
     This class is used to store the information for the sub part of a series
@@ -381,27 +380,47 @@ class SeriesRequest:
         '''
         write the data from the response to a text file in csv2 format
         '''
-        if not self._written:
-            
-            with open(f"{self.series_id}-{self.start_year}-{self.end_year}.txt", 'w') as out:
-                #write comments
-                out.write("#%s\n" % self.series_id)
-                for comment in self._comments:
-                    out.write("#%s\n" % comment)
+        try:
+            if not self._written:
+                
+                with open(f"{self.series_id}-{self.start_year}-{self.end_year}.txt", 'w') as out:
+                    #write comments
+                    out.write("#%s\n" % self.series_id)
+                    for comment in self._comments:
+                        out.write("#%s\n" % comment)
 
-                #write the data
-                for datum in self._response['Results']['series'][0]['data']:
-                    year = datum['year']
-                    period = datum['period']
-                    value = datum['value']
-                    footnotes= ", ".join([s for s in datum['footnotes'] if len(s) > 1])
-                    out.write(f"{year}; {period}; {value}; {footnotes}\n")
+                    #write the data
+                    for datum in self._response['Results']['series'][0]['data']:
+                        year = datum['year']
+                        period = datum['period']
+                        value = datum['value']
+                        footnotes = ", ".join([s for s in datum['footnotes'] if len(s) > 1])
+                        out.write(f"{year}; {period}; {value}; {footnotes}\n")
 
-                self._written = True
+                    self._written = True
 
-    def validate(self):
+        except Exception as e:
+            print(f'problem writing request {", ".join(self._comments)}')
+            print(str(e))
+            self._written = True
+
+
+    def validate(self) -> None:
         self._valid = True
-        #TODO check that the response from the BLS is valid, that is actually contains data
+        try:
+            res = self._response['Results']['series'][0]['data']
+            if len(res) < 1:
+                self._vaild = False
+            pt = res[0]
+            for key in ['year', 'period', 'value', 'footnotes']:
+                if key not in pt:
+                   self._vaild = False
+        except:
+            #any exceptions during this checking will cause an exception during a 
+            #write attempt, hence the response isn't valid for writing
+            self._vaild = False
+        
+
     def print_res(self, stream = stdout):
         print(self._response, file = stream)
 
@@ -518,7 +537,6 @@ class BLSScraper(object):
     This is for API v1, which is the unregistered version, the number of requests per day is
     restricted to 25 per day and a 10 year range
     '''
-    #TODO add parameters for API v2
     global v2_key
     api_key = v2_key
     def __init__(self):
@@ -637,8 +655,8 @@ class BLSScraper(object):
             
 
     def write_responses(self):
-        #TODO filter send and not send requests
-        for series_request in self.series_requests:
+
+        for series_request in filter(lambda x: x.sent, self.series_requests):
             if series_request.valid:
                 series_request.write()
             else:
@@ -665,12 +683,12 @@ class BLSScraper(object):
             print('no requests')
         else:
             print('\nUnsent Requests:\n')
-            for request in filter(self.series_requests, lambda x: not x.sent):
+            for request in filter(lambda x: not x.sent, self.series_requests):
                 
                 print(str(request))
 
             print('\nSent Requests:\n')
-            for request in filter(self.series_requests, lambda x: x.sent):
+            for request in filter(lambda x: x.sent, self.series_requests):
                 print(str(request))
             
             

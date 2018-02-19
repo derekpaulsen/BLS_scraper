@@ -9,7 +9,8 @@ page = 'editted_BLS_page.txt' #page specifying formats for series
 id_code_dir = './spec_files' 
 code_files = list(Path(id_code_dir).iterdir())
 #enter APIv2 key here if you want to use the APIv2
-v2_key = None
+#else leave it as None
+v2_key =None
 ###################################################################################################
 
 
@@ -406,19 +407,14 @@ class SeriesRequest:
 
 
     def validate(self) -> None:
-        self._valid = True
         try:
-            res = self._response['Results']['series'][0]['data']
-            if len(res) < 1:
-                self._valid = False
-            pt = res[0]
-            for key in ['year', 'period', 'value', 'footnotes']:
-                if key not in pt:
-                   self._valid = False
+            self._valid = self._response['status'] == 'REQUEST_SUCCEEDED'
+            self._comments.extend(self._response['message'])
         except Exception as e:
             #any exceptions during this checking will cause an exception during a 
             #write attempt, hence the response isn't valid for writing
             self._valid = False
+
         
 
     def print_res(self, stream = stdout):
@@ -439,6 +435,9 @@ class SeriesRequest:
     def valid(self):
         return self._valid
 
+    @property
+    def comments(self):
+        return self._comments
 
 class SeriesIdGenerator(object):
     '''
@@ -613,33 +612,29 @@ class BLSScraper(object):
         minyear = 1900
         maxyear = 2017
 
-        max_range = 10 if not self._APIV2 else 20
+        max_range = 9 if not self._APIV2 else 19
         #TODO check that this is correct>-------^^
         years = []
-        print(f"Enter start year between {minyear} and {maxyear}")
-        while len(years) < 1:
-            year = input('> ')
-            if not year.isdigit():
-                print(f"invalid option '{year}'")
-            elif minyear <= int(year) <= maxyear:
-                years.append(year)
-                minyear = int(year)
-                
-        print(f"Enter end year between {minyear} and {minyear + max_range}")
         while len(years) < 2:
-            year = input('> ')
-            if not year.isdigit():
-                print(f"invalid option '{year}'")
-            elif minyear <= int(year) <= maxyear:
-                years.append(year)
-            else:
-                print(f"invalid option '{year}'")
+            print(f"Enter start year between {minyear} and {maxyear}")
+
+            while True:
+                year = input('> ')
+                if not year.isdigit():
+                    print(f"invalid option '{year}'")
+
+                elif minyear <= int(year) <= maxyear:
+                    years.append(year)
+                    minyear = int(year)
+                    maxyear = int(year) + max_range
+                    break
+                else:
+                    print(f"invalid option '{year}'")
 
         return years
 
 
     def send_requests(self):
-        #TODO filter sent and not sent requests
         bls_site = 'https://api.bls.gov/publicAPI/v1/timeseries/data/' 
         if self._APIV2:
             bls_site = 'https://api.bls.gov/publicAPI/v2/timeseries/data/' 
@@ -648,7 +643,7 @@ class BLSScraper(object):
             request.send(bls_site, self.api_key)
             #if request didn't return a valid response
             if not request.valid:
-                print(f'Request failed to send: {", ".join(request.commments)}')
+                print(f'Request failed to send: {", ".join(request.comments)}')
                 opt = input('print json response?(y/n): ')
                 if 'y' in opt:
                     request.print_res()
